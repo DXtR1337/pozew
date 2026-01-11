@@ -1,0 +1,149 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-19
+# Liczba: 144
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 14:43:52 | UÅ¼ytkownik Facebooka | Ja dzisiaj wÅaÅnie dostaÅam xd | message_1.json |
+| 14:57:50 | Anna PÅatek | O ktÃ³rej mamy ten egzamin? O 18? | message_1.json |
+| 14:43:34 | MaÅgorzata Gajewska | Fajnie byÅo by otrzymaÄ esej XD | message_1.json |
+| 14:43:36 | Anna PÅatek | Ja to mam nadzieje, Å»r dostanÄ chociaÅ¼ do 15.06 | message_1.json |
+| 14:58:07 | Nadia Materek | moi kochani, czy ktoÅ z was miaÅ nieobecnoÅci na Äwiczeniach ze statystyki i umiaÅ zrobiÄ zada... | message_1.json |
+| 15:00:32 | Anna PÅatek | Ja nie | message_1.json |
+| 15:00:51 | Nadia Materek | jak wgl bÄdzie wyglÄdaÅo zaliczenie ze statystyki z ÄwiczeÅ? | message_1.json |
+| 14:58:29 | Sylwia HoÅda | Ciekawe jakie to bÄdÄ pytania praktyczne | message_1.json |
+| 14:58:42 | Martyna Gancarczyk | obstawiam ze tak samo jak na metodologii to bedzie | message_1.json |
+| 14:10:44 | Anna PÅatek | DziÄki ;) myli mi siÄ to ;) | message_1.json |
+| 14:10:55 | Ewelina Sala | [Photo: 1] | message_1.json |
+| 14:10:30 | Wiktoria MiÅaszewska | Jak nie sÄ chyba | message_1.json |
+| 14:10:41 | Wiktoria MiÅaszewska | Bo jak sÄ moÅ¼emy t studenta robiÄ | message_1.json |
+| 14:22:57 | Wiktoria MiÅaszewska | Pojebany ten przykÅad jest | message_1.json |
+| 14:43:07 | UÅ¼ytkownik Facebooka | Do kiedy moÅ¼na wysÅaÄ to streszczenie na mÃ³zgowe? | message_1.json |
+| 14:43:16 | Martyna Gancarczyk | 30 czerwiec | message_1.json |
+| 14:34:21 | Anna PÅatek | Tylko mnie ten gÅos usypia? I rozumiem mniej niÅ¼ po Äwiczeniach rozumiaÅam xD | message_1.json |
+| 14:34:47 | MaÅgorzata Gajewska | MyÅlaÅam Å¼e jestem jedyna | message_1.json |
+| 15:20:31 | MaÅgorzata Gajewska | 20 min temu | message_1.json |
+| 15:20:37 | Joanna Joanna | Dzieki | message_1.json |
+| 15:16:03 | Katarzyna Huk | L2 8-11:15 | message_1.json |
+| 15:20:21 | Joanna Joanna | Juz sie skoÅczyÅ wykÅad ze statystyki na dzis? | message_1.json |
+| 15:30:16 | Kamil Kusibab | Przepraszam, jeÅli siÄ pojawiÅo takie pytanie, ale czy wystarczajÄcy materiaÅ na egzamin ze sta... | message_1.json |
+| 10:54:36 | Magda Waga | bÄdzie sprzedaÅ¼ na bramkach | message_1.json |
+| 10:54:40 | Magda Waga | [Photo: 1] | message_1.json |
+| 15:47:55 | Katarzyna Huk | Prawdopobnie tak   Tzn sama coÅ wspomniaÅa, Å¼e umieÅciÅa na slajdach wystarczajÄco duÅ¼o infor... | message_1.json |
+| 10:54:04 | Katarzyna Morawska | Ma ktoÅ do sprzedania bilet na dziÅ na dÅ¼em ?? ð | message_1.json |
+| 15:02:09 | Anna PÅatek | O 18 czy o 18:30 mamy ten egzamin? | message_1.json |
+| 15:03:01 | Martyna Gancarczyk | jest na grupie post | message_1.json |
+| 15:01:02 | Sylwia HoÅda | Zadania do zrobienia w programie | message_1.json |
+| 15:01:30 | MaÅgorzata Gajewska | I warunkiem jest oddanie analizy wÅasnych badaÅ | message_1.json |
+| 15:03:36 | Anna PÅatek | Okej mam dziÄki | message_1.json |
+| 15:15:48 | Edyta Lemiech | GL03 ma w sobotÄ od 15-18;15, ale chodzi mi o pozostaÅe grupy | message_1.json |
+| 15:15:55 | Magdalena Kubowicz | podbijam pytanie | message_1.json |
+| 15:06:21 | Ewelina Sala | A jak ze zmianÄ godzin lektoratu za miesiÄc, Å¼eby zdÄÅ¼yÄ na egzamin z emocji? Mamy to sami z l... | message_1.json |
+| 15:15:24 | Edyta Lemiech | kiedy w przyszÅym tygodniu macie Äwiczenia ze statystyki? | message_1.json |
+| 13:27:04 | Anna PÅatek | Nie jest ;) | message_1.json |
+| 13:28:03 | Natasza Rodziewicz | WiedziaÅam, Å¼e mogÄ na Was liczyÄ | message_1.json |
+| 13:27:02 | Martyna Gancarczyk | nie jest | message_1.json |
+| 13:27:04 | Kamil Kusibab | NieobowiÄzkowe | message_1.json |
+| 13:28:15 | Kamil Kusibab | Czernecka wczoraj wrzuciÅa prezentacje z wykÅadÃ³w | message_1.json |
+| 13:35:35 | Sylwia HoÅda | OczywiÅcie, Å¼e nie | message_1.json |
+| 13:39:16 | Martyna Gancarczyk | zastanÃ³wcie siÄ czy nie macie jakiÅ pytaÅ zwiÄzanych z egzaminem | message_1.json |
+| 13:35:28 | Martyna Gancarczyk | nie chcemy prawda XD | message_1.json |
+| 13:35:30 | Katarzyna Huk | Macie ochotÄ ja dodatkowy materiaÅ? Xd | message_1.json |
+| 06:09:15 | Sylwia HoÅda | [Photo: 1] | message_1.json |
+| 06:09:32 | Sylwia HoÅda | On chyba ma byÄ taki, Å¼e wÅÄczy go ona i moÅ¼emy go zrobiÄ kiedy chcemy | message_1.json |
+| 06:07:23 | Joanna Joanna | hejka, ktos zna odpowiedz na to pytanie? co wchodzi w zakres drugiego kolosa z Emocji? | message_1.json |
+| 06:08:02 | Joanna Joanna | i czy wiecie moze o ktorej ma sie on odbyc? | message_1.json |
+| 06:09:59 | Sylwia HoÅda | W sensie ten punkt 3 i 4 tylko, motywacja | message_1.json |
+| 11:39:55 | Marika Korpikiewicz | Hejka, czy pojawiÅo siÄ juÅ¼ pismo w sprawie zdalnych zajÄÄ w czerwcu? | message_1.json |
+| 13:26:40 | Natasza Rodziewicz | Tutaj na pewno jest ktoÅ mÄdrzejszy niÅ¼ ja i na pewno zna odpowiedÅº na pytanie: czy wykÅad ze s... | message_1.json |
+| 06:11:47 | Joanna Joanna | dzieki Sylwia! | message_1.json |
+| 06:12:25 | Sylwia HoÅda | ProszÄ ð | message_1.json |
+| 13:49:52 | Sylwia HoÅda | Nie no chyba nie, bo mÃ³wiÅa Å¼e wzory sÄ nam niepotrzebne, bo system policzy za nas | message_1.json |
+| 13:49:54 | Anna PÅatek | Ja pamietam, ze mÃ³wiÅa, ze to wszystko liczy program i ze nie musimy tego liczyÄ sami | message_1.json |
+| 13:45:34 | Magda Motal | A to by byÅo mocno na rÄkÄ | message_1.json |
+| 13:49:20 | Magda Motal | A ona mÃ³wiÅa kiedyÅ czy bÄdÄ pytania z liczeniem czegoÅ? | message_1.json |
+| 13:49:55 | Katarzyna Huk | Z tego co kojarzÄ to mÃ³wiÅa ze nie bÄdzie chyba lub ze nie muislmy znaÄ wzorÃ³w | message_1.json |
+| 13:57:43 | PaweÅ Rodak | [No text content] | message_1.json |
+| 14:10:06 | Anna PÅatek | Test whitbeya robimy jak sÄ czy nie sÄ rÃ³wnoliczne? | message_1.json |
+| 13:50:10 | MaÅgorzata Gajewska | [No text content] | message_1.json |
+| 13:55:53 | Anna PÅatek | KtoÅ chÄtny? | message_1.json |
+| 13:40:23 | Katarzyna Huk | Ja mam pytanie, czy wspÃ³Åpracujemy jak ja metdologii | message_1.json |
+| 13:40:26 | Katarzyna Huk | Na * | message_1.json |
+| 13:39:36 | Martyna Gancarczyk | za tydzien mamy 1 termin, wiec to ostatni moment na pytanka | message_1.json |
+| 13:39:51 | Ewelina Haraf | A gdzie ten wyklad? Nie moge znaleÅºÄ ðð | message_1.json |
+| 13:42:33 | Sylwia HoÅda | Zapytajmy jakie to bÄdÄ pytania czy zamkniÄte, czy jakieÅ praktyczne czy teoria | message_1.json |
+| 13:44:38 | Martyna Gancarczyk | ja tam wolaÅabym szybciej skoÅczyÄ po prostu | message_1.json |
+| 13:45:27 | Magda Motal | Przy podsumowaniu mogÅaby podaÄ jakieÅ najwaÅ¼niejsze zagadnienia w sumie | message_1.json |
+| 13:43:38 | MaÅgorzata Gajewska | I czy jest w stanie podaÄ jakieÅ przykÅadowe zadanie | message_1.json |
+| 13:43:57 | Sylwia HoÅda | Zamiast tej regresji to zrÃ³bmy jakieÅ podsumowanie | message_1.json |
+| 21:18:51 | Julita Bouffette | Xs | message_1.json |
+| 21:18:56 | Julita Bouffette | Powiedz Å¼e zapomniaÅeÅ | message_1.json |
+| 21:18:07 | Stasiu Przygoda | Ej jak zapytaÄ siÄ goÅcia jak ma na imiÄ | message_1.json |
+| 21:18:13 | Stasiu Przygoda | Jak z nim siedzÄ od 4h | message_1.json |
+| 21:19:04 | Julita Bouffette | A gdzie ty jesteÅ wgl stasienku | message_1.json |
+| 21:20:25 | Julita Bouffette | Pije wÃ³de i sÅucham ich troje | message_1.json |
+| 21:21:12 | Stasiu Przygoda | SÅucham jakiegoÅ metalu i chyba zaraz usnÄ przy tym | message_1.json |
+| 21:19:23 | Stasiu Przygoda | SiedzÄ z ziomkami | message_1.json |
+| 21:19:30 | Stasiu Przygoda | I se pije | message_1.json |
+| 19:47:54 | Stasiu Przygoda | JechaÅ na up o 21.30 | message_1.json |
+| 20:00:47 | MichaÅ Wiencek | Heflik zadzwoniÅ | message_1.json |
+| 19:43:12 | Stasiu Przygoda | No on to czego nie pisaÅ i byÅo dobrze | message_1.json |
+| 19:43:21 | Stasiu Przygoda | O achtelik w trajce | message_1.json |
+| 20:00:54 | MichaÅ Wiencek | PomagaÅ testy rozkladac | message_1.json |
+| 20:08:07 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 20:08:20 | Stasiu Przygoda | GoÅciu will share ale ja nie bÄdÄ siÄ dzieliÅ | message_1.json |
+| 20:05:56 | Stasiu Przygoda | Moja reakcja na heflika | message_1.json |
+| 20:05:58 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 22:26:54 | Madzia Szczypka | O to daleko troche | message_1.json |
+| 22:27:08 | Madzia Szczypka | But sounds cool | message_1.json |
+| 22:19:17 | Stasiu Przygoda | KoÅo Bonarki? | message_1.json |
+| 22:19:21 | Stasiu Przygoda | Chyba coÅ takiego | message_1.json |
+| 22:28:40 | Madzia Szczypka | Im happy for you Stasiulek | message_1.json |
+| 22:50:58 | Stasiu Przygoda | Wracam sam teraz do domu i modlÄ siÄ Å¼eby mnie jakiÅ goÅciu nie zapytaÄ komu kibicuje | message_1.json |
+| 22:51:11 | Stasiu Przygoda | I mam 4% | message_1.json |
+| 22:28:43 | Madzia Szczypka | Hajs worth | message_1.json |
+| 22:50:38 | Stasiu Przygoda | Najpierw to muszÄ doÅ¼yÄ do tego momentu bo | message_1.json |
+| 21:23:35 | Julita Bouffette | Stabilnie | message_1.json |
+| 21:24:30 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 21:21:16 | Stasiu Przygoda | Ale jest git | message_1.json |
+| 21:21:35 | Stasiu Przygoda | MogÅem se w lola graÄ ale no trudno | message_1.json |
+| 21:25:33 | Stasiu Przygoda | Wgl to jest szansa | message_1.json |
+| 22:15:20 | Madzia Szczypka | Damn Where | message_1.json |
+| 22:19:11 | Stasiu Przygoda | W Castoramie | message_1.json |
+| 21:25:41 | Stasiu Przygoda | Ze bÄdÄ mieÄ prace na wakacje w Krakowie | message_1.json |
+| 21:26:32 | Stasiu Przygoda | Nie wiem jak wielka ale jest wiec trzeba siÄ cieszyÄ | message_1.json |
+| 17:06:51 | MichaÅ Wiencek | Ci lekarze nie maja pojecia co robia tutaj XDDDDDD | message_1.json |
+| 17:08:00 | Julita Bouffette | Od kiedy ty masz teÅ¼ tak jasna brew | message_1.json |
+| 17:06:32 | MichaÅ Wiencek | Czaicie wgl gadali moi starzy z lekarzem dzisiaj i powiedziaÅ im lekarz ze dadza mi jesc jutro to z... | message_1.json |
+| 17:06:38 | MichaÅ Wiencek | A jem juÅ¼ normalnie o 8 dni | message_1.json |
+| 17:08:09 | MichaÅ Wiencek | Od kilku lat | message_1.json |
+| 17:16:03 | Julita Bouffette | Loli | message_1.json |
+| 17:16:05 | Julita Bouffette | Nie wiedziaÅam | message_1.json |
+| 17:08:20 | MichaÅ Wiencek | Tylko ja henne robiÄ co tydzien | message_1.json |
+| 17:08:36 | MichaÅ Wiencek | RzÄsy tez mam siwe na lewym oku | message_1.json |
+| 13:22:08 | MaÅgorzata Drozdek | W ÅrodÄ byÅa taka moÅ¼liwoÅÄ | message_1.json |
+| 13:22:27 | Karina Szczepara | Ooo no to superð | message_1.json |
+| 10:55:22 | Magda Waga | oj w Å¼aczku po prostu* | message_1.json |
+| 13:21:43 | Karina Szczepara | A wiecie czy na strefie plaÅ¼a teÅ¼ bÄdzie moÅ¼liwoÅÄ dokupienia biletÃ³w na bramkach? | message_1.json |
+| 17:03:48 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
+| 17:05:55 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
+| 17:06:02 | MichaÅ Wiencek | Ten was mi do mordy juz wchodzi | message_1.json |
+| 06:50:31 | Maria Zguda | [Photo: 2] | message_1.json |
+| 06:50:43 | Maria Zguda | Tutaj w ogÃ³le ta ulotka z wczoraj | message_1.json |
+| 19:17:02 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 19:17:14 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 17:52:54 | Stasiu Przygoda | KoÅ zniknÄÅ. | message_1.json |
+| 19:16:58 | Stasiu Przygoda | ZnalazÅem moje ulubione konto na fb | message_1.json |
+| 19:19:47 | Stasiu Przygoda | GoÅciu wysyÅa posty typu tam jest tÄÅ¼nia | message_1.json |
+| 19:38:02 | MichaÅ Wiencek | Pewnie w urzÄdzie pracowaÅ | message_1.json |
+| 19:38:15 | MichaÅ Wiencek | To nie musi | message_1.json |
+| 19:20:40 | MichaÅ Wiencek | Multikonto jelito | message_1.json |
+| 19:21:15 | Stasiu Przygoda | Najlepszy chyba jest i tak brak jakiejkolwiek interpunkcji | message_1.json |
+| 17:41:11 | Stasiu Przygoda | Ja sobie chodzÄ po krakowskiej i widzÄ caÅy kolegÃ³w z pracy RadosÅawa | message_1.json |
+| 17:41:35 | Stasiu Przygoda | Ale jak pytaÅem czy znajÄ to siÄ nie przyznawali | message_1.json |
+| 17:23:23 | Radek Salwach | o kurwa WiÄcuÅ postarzaÅeÅ siÄ, | message_1.json |
+| 17:29:16 | MichaÅ Wiencek | To znaczy ze dobrze ja robie XDDDD | message_1.json |
+| 17:41:56 | Radek Salwach | kto by siÄ przyznawaÅ | message_1.json |
+| 17:43:36 | Radek Salwach | ;/ | message_1.json |
+| 17:43:38 | Radek Salwach | unlucky day | message_1.json |
+| 17:42:46 | Stasiu Przygoda | Jeden nawet groziÅ mnie ochrona za jakieÅ zaczepianie itd | message_1.json |
+| 17:43:08 | Stasiu Przygoda | Nie wiem co mu zrobiÅeÅ ale chyba pasowaÅoby przeprosiÄ | message_1.json |

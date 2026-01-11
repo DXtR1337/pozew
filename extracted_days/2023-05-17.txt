@@ -1,0 +1,57 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-17
+# Liczba: 52
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 17:23:38 | Gabriela WÃ³jcikiewicz | Super | message_1.json |
+| 17:23:42 | Gabriela WÃ³jcikiewicz | O 20 jestem wolna | message_1.json |
+| 17:31:38 | Magda Staszel | Jak dla mnie spoko | message_1.json |
+| 11:15:56 | Wera Mir | dziÄkuje | message_1.json |
+| 17:20:07 | Magda Staszel | MoÅ¼e zrobimy jutro tÄ statystykÄ? | message_1.json |
+| 17:20:20 | Magda Staszel | JeÅ¼eli macie czas | message_1.json |
+| 19:38:27 | Dorota Szczerba | Ja chyba teÅ¼ mogÄ | message_1.json |
+| 09:38:06 | Radek Salwach | Na Å¼ywo jak jest to nie sprawdza, wiÄc z kamerkami to tym bardziej | message_1.json |
+| 09:38:08 | Madzia Szczypka | Jakby co jej to da | message_1.json |
+| 09:38:11 | Madzia Szczypka | XDD | message_1.json |
+| 09:36:45 | Stasiu Przygoda | Jbc to ruter mÃ³wi ze egzamin bÄdzie zdalnie pisemnie ale wacha siÄ czy z kamerkami czy nie | message_1.json |
+| 09:37:47 | Radek Salwach | Xddd | message_1.json |
+| 09:37:51 | Radek Salwach | Przesada | message_1.json |
+| 09:37:15 | Edyta Bobak | Jak coÅ bÄdÄ do 40 minut | message_1.json |
+| 09:37:37 | Emilka Matera | Ta Mam klucz jak cos | message_1.json |
+| 09:37:41 | Emilka Matera | BÄdÄ tam | message_1.json |
+| 06:22:36 | Wioletta KsiÄÅ¼ek | BÄdzie ktoÅ w biurze za godzinÄ?? | message_1.json |
+| 07:47:58 | Katarzyna Morawska | Ja jestem | message_1.json |
+| 09:34:24 | Emilka Matera | Jest ktoÅ teraz w biurze ? | message_1.json |
+| 09:28:03 | Iza Opalska | W jakiej sali | message_1.json |
+| 11:13:14 | Emilka Kowalczyk | 121 | message_1.json |
+| 11:13:16 | Anja Bulanda | 122 | message_1.json |
+| 11:13:17 | Anja Bulanda | *1 | message_1.json |
+| 09:28:43 | Kasia Masiarz | 214 | message_1.json |
+| 11:10:56 | Wera Mir | jol jol ktÃ³ra sala teraz bÄdzie? | message_1.json |
+| 11:12:29 | Wera Mir | tez 214? | message_1.json |
+| 10:18:52 | Radek Salwach | True | message_1.json |
+| 20:03:36 | MichaÅ Wiencek | https://www.rmf24.pl/regiony/krakow/news-krakow-wprowadza-zakaz-nocnej-sprzedazy-alkoholu,nId,678370... | message_1.json |
+| 20:03:43 | MichaÅ Wiencek | [*] | message_1.json |
+| 10:12:38 | Julita Bouffette | Zdalnie | message_1.json |
+| 10:12:43 | Julita Bouffette | To bÄdzie ctrl c | message_1.json |
+| 10:12:45 | Julita Bouffette | I chuj | message_1.json |
+| 20:24:04 | Radek Salwach | Taaa | message_1.json |
+| 20:30:09 | Julita Bouffette | Ty wiencus narazie daj sobie spokÃ³j z alkoholem | message_1.json |
+| 20:30:57 | MichaÅ Wiencek | Mysle przyszlosciowo | message_1.json |
+| 08:57:24 | Maria Zguda | Jaki mamy dzisiaj tekst na Reuter? | message_1.json |
+| 20:24:06 | Radek Salwach | Ale od 24 | message_1.json |
+| 20:24:11 | Radek Salwach | TakÅ¼e nie ma takiej tragedii | message_1.json |
+| 20:29:35 | MichaÅ Wiencek | Koniec nocnych wypadÃ³w na domowkach | message_1.json |
+| 09:41:08 | Stasiu Przygoda | @Madzia Szczypka | message_1.json |
+| 09:41:09 | Stasiu Przygoda | H | message_1.json |
+| 09:41:16 | Madzia Szczypka | Thank you | message_1.json |
+| 09:38:22 | Radek Salwach | Nic nie da jej ale no co | message_1.json |
+| 09:39:26 | Stasiu Przygoda | raczej bÄdzie bez ale ona to sama nie wie co bÄdzie robiÄ za 3 minuty | message_1.json |
+| 09:40:04 | Radek Salwach | No dobra to jedno zaliczenie zdalnie wiÄcej | message_1.json |
+| 09:41:34 | Madzia Szczypka | Nie Å¼eby mi to przeszkadzaÅo ale na przyszlosc | message_1.json |
+| 09:42:15 | Madzia Szczypka | Bo bedziesz jak jelitas | message_1.json |
+| 09:43:25 | Stasiu Przygoda | Czy jelitas mam czytaÄ jak siÄ pisze czy przez h | message_1.json |
+| 09:44:47 | Madzia Szczypka | MoÅ¼esz jelithass | message_1.json |
+| 09:41:41 | Madzia Szczypka | Jakbys gadaÅ z kims waÅ¼nym | message_1.json |
+| 09:42:01 | Stasiu Przygoda | Mam pamiÄtaÄ o h | message_1.json |
+| 09:42:09 | Madzia Szczypka | Yep | message_1.json |

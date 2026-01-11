@@ -1,0 +1,34 @@
+# System files
+Thumbs.db
+.DS_Store
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Internal Agent files
+.agent/
+.gemini/
+
+# Temporary files
+*.tmp
+*.log
+temp_extraction.txt
+LARGE_FILES.txt
+
+# Large Files (>100MB) excluded from git
+2023-04-28 19.19.pdf
+2023-04-28 19.19_part1.pdf
+2023-04-28 19.19_part2.pdf
+2023-04-28 19.19_part3.pdf
+
+# Bulk Data Directories (Excluded to fit GitHub limits)
+skany_dokumentacji_2023_04_28/
+your_facebook_activity/
+whsats up/
+dokumentacja wewnetrzna/

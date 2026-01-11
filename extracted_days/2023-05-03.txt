@@ -1,0 +1,62 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-03
+# Liczba: 57
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 11:09:28 | Marcelina CiuruÅ | Ja napisaÅam na Teams i odrazu napisaÅa | message_1.json |
+| 11:09:37 | Nadia Materek | O proszÄ | message_1.json |
+| 11:09:41 | Nadia Materek | MoÅ¼e to jest sposÃ³b | message_1.json |
+| 11:08:28 | Nadia Materek | maila | message_1.json |
+| 11:07:58 | Nadia Materek | niesamowite | message_1.json |
+| 11:08:12 | Nadia Materek | czy na tej uczelni kiedyÅ cokolwiek bÄdzie zrobione tak jak trzeba | message_1.json |
+| 11:08:23 | Edyta Lemiech | a pisaÅaÅ maila czy na teamsach? | message_1.json |
+| 11:44:19 | Kamil Kusibab | Upomnijmy siÄ o to, bo czasu coraz mniej, a zaraz egzamin ze statystyki i reszta siÄ zacznie | message_1.json |
+| 11:45:13 | Kamil Kusibab | A jej teÅ¼ moÅ¼e zajÄÄ szukanie kilkudziesiÄciu artykuÅÃ³w po angielsku i rozsyÅanie ich | message_1.json |
+| 11:45:37 | Martyna Gancarczyk | ona mÃ³wiÅa Å¼e je ciÄgle szuka dla nas | message_1.json |
+| 11:42:48 | Magda Motal | A ktoÅ dostaÅ artykuÅ od Czerneckiej? | message_1.json |
+| 11:09:49 | Edyta Lemiech | okej, czyli teamsy | message_1.json |
+| 11:09:51 | Edyta Lemiech | dziÄki! | message_1.json |
+| 11:09:56 | Marcelina CiuruÅ | Praktycznie w minucie siÄ zmieÅciÅa hah | message_1.json |
+| 11:17:45 | Natalia Stachura | To dopytam i dam znaÄ âºï¸ | message_1.json |
+| 12:26:30 | Ania Michno | Ania Michno dodaÅa KarinÄ SzczeparÄ i EwÄ PrzyÅudzkÄ do grupy. | message_1.json |
+| 12:26:57 | Ania Michno | Do Was dziewczyny to samo infoð¥° | message_1.json |
+| 11:17:38 | Ania Michno | Nope | message_1.json |
+| 11:14:36 | Ania Michno | Ania Michno dodaÅa NataliÄ StachurÄ do grupy. | message_1.json |
+| 11:16:39 | Ania Michno | Natka daj znaÄ czy chcesz jeszcze kogoÅ wziÄÄ i tu jest numer do bliczka | message_1.json |
+| 11:17:32 | Natalia Stachura | A czy trzeba byÄ studentem? | message_1.json |
+| 11:06:46 | Edyta Lemiech | hej, czy ktoÅ z Was kontaktowaÅ siÄ z dr KaleÅskÄ-Rodzaj i otrzymaÅ odpowiedÅº? | message_1.json |
+| 11:07:22 | Nadia Materek | nadal czekam | message_1.json |
+| 11:07:41 | Edyta Lemiech | no wÅaÅnie ja tak czekam juÅ¼ tydzieÅ XD | message_1.json |
+| 14:43:10 | Ewa PrzyÅudzka | Ja juÅ¼ teÅ¼ zrobiÅam â¤ï¸ | message_1.json |
+| 12:28:50 | Natalia Stachura | To ja chce dwa bilety âºï¸ zaraz zrobiÄ bliczka na 60zl | message_1.json |
+| 12:49:10 | Karina Szczepara | Jasne juÅ¼ ci zrobiÅam blikað | message_1.json |
+| 12:49:42 | Luiza Socha | Luiza Socha opuÅciÅ(a) grupÄ. | message_1.json |
+| 17:41:44 | Jowita Rozum | Czy ktÃ³raÅ grupa ma poznawczÄ w niedziele o 11:30? | message_1.json |
+| 15:35:59 | MichaÅ Wiencek | Zadania na swieta | message_1.json |
+| 15:36:01 | MichaÅ Wiencek | Przesada | message_1.json |
+| 15:36:09 | MichaÅ Wiencek | U nas to swieta to czas swieta | message_1.json |
+| 15:35:56 | MichaÅ Wiencek | XDDD | message_1.json |
+| 15:35:22 | MichaÅ Wiencek | Idk wiekszosc dziennych raczej i tak w krakowie na codzieÅ woli siedziec | message_1.json |
+| 15:35:30 | MichaÅ Wiencek | Dalej siedzi XDDDD | message_1.json |
+| 15:35:48 | MichaÅ Wiencek | Spoko ja w szpitalu leze od tego czasu co pisaÅem ostatnio XD | message_1.json |
+| 15:37:04 | MichaÅ Wiencek | Mialem jechsc ze znajomymi nad jeziora | message_1.json |
+| 15:37:23 | MichaÅ Wiencek | A leze sobie w szpitalu i nawet z lozka wstac nie moge ððð | message_1.json |
+| 15:37:33 | MichaÅ Wiencek | Tobie jak tam majowka minela | message_1.json |
+| 15:36:56 | MichaÅ Wiencek | No to nie wyszÅo cos XDDDD | message_1.json |
+| 15:36:29 | MichaÅ Wiencek | W sumie nie byÅo mnie dosc sporo na uczelni przez ta chorobe i szpital a nswet za bardzo zaleglosci... | message_1.json |
+| 15:36:37 | MichaÅ Wiencek | XDDDDDD | message_1.json |
+| 15:36:48 | MichaÅ Wiencek | Yyy | message_1.json |
+| 07:19:17 | Madzia Szczypka | Ja moge wyslac nawet jak uÅoÅ¼ycie wiadomosc | message_1.json |
+| 07:21:45 | Damian Piotr Cokot | Szanowny Panie Profesorze, z racji ze jutrzejsze zajÄcia sÄ jedynymi zajÄciami w tym tygodniu, w ... | message_1.json |
+| 07:22:13 | Madzia Szczypka | Pozdro z fartem | message_1.json |
+| 07:19:07 | Madzia Szczypka | Napisz byle kto | message_1.json |
+| 05:35:49 | Sebastian Kutaj | I jak nam idzie???? | message_1.json |
+| 07:18:41 | Krzysztof Siwek | Chyba nijak xd | message_1.json |
+| 07:18:47 | Krzysztof Siwek | @Radek Salwach | message_1.json |
+| 14:19:45 | Madzia Szczypka | is9c03o | message_1.json |
+| 15:34:17 | MichaÅ Wiencek | No ta zimno i ciemno | message_1.json |
+| 15:34:38 | MichaÅ Wiencek | Dziwny kierunek masz XDDD | message_1.json |
+| 14:19:28 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 07:22:18 | Madzia Szczypka | Skowron | message_1.json |
+| 07:27:32 | Madzia Szczypka | PoszÅo | message_1.json |
+| 09:55:32 | Maria Zguda | https://www.instagram.com/p/CrwI7WmuSVj/?igshid=YmMyMTA2M2Y= | message_1.json |

@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Uprawnienia",
+      "vec": [
+        {
+          "value": "Podstawowe"
+        }
+      ]
+    },
+    {
+      "label": "Data utworzenia",
+      "timestamp_value": 1445889825
+    }
+  ],
+  "fbid": "2954803671274880"
+}
