@@ -1,0 +1,476 @@
+{
+  "participants": [
+    {
+      "name": "Radek Salwach"
+    },
+    {
+      "name": "Madzia Szczypka"
+    },
+    {
+      "name": "Stasiu Przygoda"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1682402381864,
+      "content": "Bede z wami chodzic",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1682402376031,
+      "content": "Essa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162688088,
+      "content": "To spoczko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682162636655,
+      "content": "nie pamietam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682162634188,
+      "content": "albo 7",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682162631464,
+      "content": "6?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162577420,
+      "content": "Graliscie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162575513,
+      "content": "A po ilu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162570038,
+      "content": "Kondycja bedzie jak u dziadka CD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682162566849,
+      "content": "nasz team",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162563326,
+      "content": "Kurwa jak ja wrocr to ciekawa bedzie pierwsza noga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682162561841,
+      "content": "madzai wycarrowala",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682162556937,
+      "content": "druzyna w ktorej gralem wygrala bo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162547703,
+      "content": "Du\u00c5\u00bco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162546429,
+      "content": "I tak lepiej niz ta hala",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Radek Salwach",
+      "timestamp_ms": 1682162537019,
+      "content": "na zalew by\u00c5\u0082o to boisko \u00c5\u009bmieszne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162528973,
+      "content": "Czy gdxies indziej?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Radek Salwach",
+      "timestamp_ms": 1682162527890,
+      "content": "ta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162522715,
+      "content": "Chodzicie na ten zalew",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162517625,
+      "content": "Ale sztos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682162516224,
+      "content": "O kurde wy macie juz na zewnatrz ta noge?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682162397868,
+      "content": "no to zapraszamy",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1682162385824,
+      "content": "I pyta\u00c5\u0082am babki z jogi i przyjmuje karteczki odrabiane do przodu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1682162367642,
+      "content": "Dobre cardio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1682162349213,
+      "content": "No na polu zajebiscie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682162340827,
+      "content": "spodobalo ci sie co",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1682162307961,
+      "content": "Ide w czwartek z wami znowu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1681985620629,
+      "content": "Dobrze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985576242,
+      "content": "Bo tylko taka by\u00c5\u0082a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985572905,
+      "content": "Kupi\u00c5\u0082am ci duza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985510709,
+      "content": "Wiec woda to ci roznicy nie zrobi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985504036,
+      "content": "I tak sie dzisiaj napijemy piwska",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985490953,
+      "content": "Kupie ci truskawkowa",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Stasiu Przygoda"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1681985480757,
+      "content": "No dobra to zwyk\u00c5\u0082a mi kup",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985480337,
+      "content": "No dobra No",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Stasiu Przygoda"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985466714,
+      "content": "I bedzie ci sie bardziej chcialo pic po s\u00c5\u0082odkiej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1681985456606,
+      "content": "Ale to dla mnie ma by\u00c4\u0087 :(((",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1681985451368,
+      "content": "No we no",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985445539,
+      "content": "Wiesz ile to ma syfu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985438855,
+      "content": "To nie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1681985434684,
+      "content": "Truskawkowa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Radek Salwach",
+      "timestamp_ms": 1681985431905,
+      "content": "Xddd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Radek Salwach",
+      "timestamp_ms": 1681985430490,
+      "content": "To widzieli\u00c5\u009bmy Tw\u00c3\u00b3j tramwaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1681985427808,
+      "content": "Smakow\u00c4\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985422978,
+      "content": "Jaka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985421854,
+      "content": "O Oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985419600,
+      "content": "Ide wode jeszcze kupic",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1681985417009,
+      "content": "Mo\u00c5\u00bcesz mi wod\u00c4\u0099 kupi\u00c4\u0087 jak ju\u00c5\u00bc tak szybko jeste\u00c5\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985416466,
+      "content": "I jakos juz jestem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985413009,
+      "content": "11:40 pojecha\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1681985399368,
+      "content": "Co ty tak szybko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Radek Salwach",
+      "timestamp_ms": 1681985397283,
+      "content": "Just sayin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Radek Salwach",
+      "timestamp_ms": 1681985393461,
+      "content": "Wf o 12:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Radek Salwach",
+      "timestamp_ms": 1681985388574,
+      "content": "XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985378058,
+      "content": "To ja ide tam bo juz jestem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985334082,
+      "content": "Oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Radek Salwach",
+      "timestamp_ms": 1681985325789,
+      "content": "12:35 na strudze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681985306745,
+      "content": "Kiedy bedziecie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Leg's ball",
+  "is_still_participant": true,
+  "thread_path": "inbox/legsball_5940114119406086",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

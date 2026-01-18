@@ -1,0 +1,22 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-01
+# Liczba: 17
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 17:32:42 | Katarzyna Morawska | No tak, nie widaÄ umiejÄtnoÅci hah | message_1.json |
+| 17:32:32 | Marek Rapta | Najlepsze warunki do gry w plazowke | message_1.json |
+| 15:42:47 | Anna PÅatek | JeÅli ktoÅ jeszcze nie widziaÅ, to jest ankieta o zdalne z mÃ³zgowych w niedziele na naszym fb ;) | message_1.json |
+| 17:32:51 | Marek Rapta | Troche lepiej niz we wrzeÅniu wiec jest dobrze | message_1.json |
+| 17:06:31 | Marek Rapta | Do godzin nocnych na piasku | message_1.json |
+| 17:06:23 | Marek Rapta | ByÅby ktos zainteresowany siatkoweczka w MyÅlenicach w tym tygodniu jakos wieczorem? | message_1.json |
+| 17:32:25 | Marek Rapta | Zimno i ciemno | message_1.json |
+| 17:32:06 | Katarzyna Morawska | Zimno wievzorem ð¥² | message_1.json |
+| 13:50:10 | Julia Adamczyk | Hejo, przesyÅam wam link do dysku z fotkami z gali mentoringowej ðð©·  https://drive.google.com... | message_1.json |
+| 10:44:20 | Anja Bulanda | Taaak | message_1.json |
+| 10:44:16 | Krzysztof Siwek | Czy nah? | message_1.json |
+| 10:44:34 | Oliwia Sobalska | ð | message_1.json |
+| 10:44:27 | Oliwia Sobalska | Taaaak | message_1.json |
+| 15:18:15 | Ania Michno | Wow!!! DziÄki wielkie @Juliað¥°  PiÄkna pamiÄtka ð¥º | message_1.json |
+| 14:04:41 | Magda CieÅ¼ | PIÄKNE! â¤ï¸ oglÄdam te fotki i mi siÄ buÅºka cieszy od razu, tyle szczÄÅcia w jednym miejscu... | message_1.json |
+| 10:44:08 | Krzysztof Siwek | PrÃ³bujemy? | message_1.json |
+| 10:44:00 | Krzysztof Siwek | Ej bo w planie w tym tygodniu pokazuje tylko Skowronka jak coÅ xd | message_1.json |

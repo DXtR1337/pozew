@@ -1,0 +1,286 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-10
+# Liczba: 281
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 07:32:35 | Paulina Kasprzak | Biuro otwarte i idÄ operowaÄ Gustawa | message_1.json |
+| 15:23:54 | Magda Staszel | A ja mam takie maÅe pytanie. Dale nie wiadomo w jakiej formie jest sesja? | message_1.json |
+| 08:57:16 | Paulina Kasprzak | @PaweÅ Piotrowski | message_1.json |
+| 07:32:52 | Paulina Kasprzak | [Photo: 1] | message_1.json |
+| 14:49:54 | Martyna Gancarczyk | pokrywa siÄ, ale niektÃ³re sÄ dodatkowe | message_1.json |
+| 14:49:31 | Magda Motal | Czy siÄ pokrywa | message_1.json |
+| 14:50:40 | Katarzyna Huk | Imo siÄ pokrywa bardzo ewentualnie nie duÅ¼o nowych   Informacji (przynajmniej wzrok) | message_1.json |
+| 14:50:15 | Martyna Gancarczyk | ale kalata pod wykÅad jeszcze nie czytalam | message_1.json |
+| 08:57:32 | Paulina Kasprzak | Gustaw caÅy i zdrowy zeszytyâ¤ï¸ | message_1.json |
+| 11:28:56 | PaweÅ BiaÅy | BÄdzie ktoÅ dzisiaj w biurze? | message_1.json |
+| 10:43:09 | Katarzyna Morawska | Ale Ålicznotki !!! â¤ï¸ð | message_1.json |
+| 11:30:02 | PaweÅ BiaÅy | Cudownie | message_1.json |
+| 11:29:26 | Edyta Bobak | Tak | message_1.json |
+| 10:15:03 | Eliza Kurczyna | [Photo: 2] | message_1.json |
+| 09:10:05 | Julia Adamczyk | [No text content] | message_1.json |
+| 10:33:59 | Magda CieÅ¼ | [Photo: 1] | message_1.json |
+| 10:15:04 | Eliza Kurczyna | [Video: 1] | message_1.json |
+| 14:49:28 | Magda Motal | A jak tak czytacie, to bardzo duÅ¼o informacji jest takich spoza wykÅadu? | message_1.json |
+| 14:33:25 | Martyna Gancarczyk | czy jest ktoÅ w stanie mi podaÄ dokÅadnie te strony? przy tym co zaznaczylam | message_1.json |
+| 14:33:09 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
+| 14:34:04 | Anna PÅatek | Bo to jest tylko w tej wersji na ibuk | message_1.json |
+| 14:33:40 | Martyna Gancarczyk | bo za nic nie moge tego znalezc w ksiazce ale moze jestem slepa po prostu xd | message_1.json |
+| 07:38:13 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
+| 15:28:40 | Marek Rapta | Na razie ze zgÅoszonych ja ty @Edyta i moich 2 znajomych wiec pasowaÅo by jeszcze ogarnac parÄ os... | message_1.json |
+| 08:04:05 | Gabriela WÃ³jcikiewicz | Mam proÅbÄ - czy osoby ktÃ³rym odpowiada zarÃ³wno sobota, jak i niedziela mogÅyby zagÅosowaÄ na... | message_1.json |
+| 07:38:16 | Martyna Gancarczyk | Przypominam o ankiecie | message_1.json |
+| 14:34:14 | Martyna Gancarczyk | aaaaahaaaaaaaaaaaaaa | message_1.json |
+| 14:35:06 | Martyna Gancarczyk | i juz sie poddaÅamXD | message_1.json |
+| 14:34:59 | Martyna Gancarczyk | i znowu wrocilam do tego | message_1.json |
+| 14:36:10 | Martyna Gancarczyk | udaÅo mi siÄ znaleÅºÄ na IBUK, dziÄkujÄ piÄknie | message_1.json |
+| 14:35:29 | Anna PÅatek | No to chyba, ze komuÅ siÄ udaÅo pobraÄ, to sama chÄtnie skorzystam, ale ja siÄ mecze z ibukiem... | message_1.json |
+| 14:34:37 | Anna PÅatek | W tych, ktÃ³re moÅ¼esz pobraÄ za darmo, w wersji z 1997 tego nie ma xD przeszukaÅam juÅ¼ caÅe int... | message_1.json |
+| 14:34:22 | Martyna Gancarczyk | dziÄkujÄ bardzo!!! | message_1.json |
+| 14:34:55 | Martyna Gancarczyk | i mialam przerwe dwa tygodnie | message_1.json |
+| 14:34:50 | Martyna Gancarczyk | ja tez wlasnie szukalam | message_1.json |
+| 14:40:23 | Emilka Kowalczyk | A no to mamy tak jak w planie | message_1.json |
+| 14:40:16 | Radek Salwach | jest, dlatego Skowronka nie ma | message_1.json |
+| 15:23:51 | Kasia Bulzacka | A te rektorskie jutro nie sÄ dopiero od 13? | message_1.json |
+| 14:40:25 | Emilka Kowalczyk | bez zmian | message_1.json |
+| 14:40:07 | Damian Piotr Cokot | DokÅadnie tak | message_1.json |
+| 14:40:07 | Piotrek Nowak | slyszalem ze ktos ma wolne... | message_1.json |
+| 14:40:16 | Krzysztof Siwek | jutro rektorskie | message_1.json |
+| 14:40:10 | Krzysztof Siwek | yup | message_1.json |
+| 15:26:39 | Emilka Kowalczyk | Jutro to jest ÅwiÄto uczelni a nie rektorskie | message_1.json |
+| 15:28:55 | Kasia Bulzacka | Bo tu jest napisane Å¼e jutro od 13 | message_1.json |
+| 15:28:44 | Kasia Bulzacka | [Photo: 1] | message_1.json |
+| 15:30:07 | Kasia Bulzacka | Aha to jak w wu nie ma, to rzeczywiÅcie | message_1.json |
+| 15:29:36 | Krzysztof Siwek | WU pokazuje jutro caÅkiem wolne wiÄc sÅucham siÄ WU XD | message_1.json |
+| 15:27:11 | Emilka Kowalczyk | wiec caÅy dzieÅ jutrzejszy jest wolny | message_1.json |
+| 15:27:02 | Emilka Kowalczyk | i piÄtek jest dodatkowo wolny z racji rektorskich | message_1.json |
+| 15:27:59 | Anja Bulanda | Dla mnie ma to znaczenie bo mam latino o 8 w pt XDD | message_1.json |
+| 15:27:42 | Anja Bulanda | Czyli to w piÄtek jest od tej 13 godziny? | message_1.json |
+| 14:39:56 | Piotrek Nowak | a jutro nie ma jakiegos dnia uczelni przypadkiem? | message_1.json |
+| 18:05:20 | Piotrek Walczak | Kazimierz Wielki siÄ w grobie przewraca XD | message_1.json |
+| 17:39:01 | Karolina ZarÄbska | [Photo: 1] | message_1.json |
+| 20:10:51 | Katarzyna Morawska | Burzliwe obrady | message_1.json |
+| 20:10:49 | Katarzyna Morawska | [Photo: 1] | message_1.json |
+| 16:03:40 | PaweÅ BiaÅy | O ktÃ³rej i jaki adres? | message_1.json |
+| 14:44:28 | Ania Michno | SÅuchajcie dziÅ po teatrze mamy rezerwacje do beer housa, wiÄc kto nie idzie na spektakl ale chce... | message_1.json |
+| 16:04:59 | PaweÅ BiaÅy | Okii | message_1.json |
+| 16:04:40 | Ania Michno | BÄdziemy jakoÅ po 21 po spektaklu, beer house na FloriaÅskiej | message_1.json |
+| 20:10:58 | Katarzyna Morawska | Wzc nadciagaaaj! ð | message_1.json |
+| 14:36:15 | Emilka Kowalczyk | Jutro nie mamy skowronka | message_1.json |
+| 14:36:02 | Damian Piotr Cokot | Przypomnicie mi czy Skowronka mamy normalnie tak jak w planie czy byÅy jakieÅ zmiany? | message_1.json |
+| 14:39:44 | Damian Piotr Cokot | Ale za tydzieÅ mi chodzi | message_1.json |
+| 14:39:29 | Damian Piotr Cokot | Tak wiem | message_1.json |
+| 21:27:34 | Ania Michno | Bardzo bardzoooo dziÄkujÄ za to wyjÅcie do teatru i pÃ³ÅºniejszÄ integracjÄ â¤ï¸ wiele dla mn... | message_1.json |
+| 20:38:09 | Maciej Szaszkiewicz | Åadne pazurki | message_1.json |
+| 21:49:38 | Magda CieÅ¼ | DziÄki, byÅo super! â¤ï¸ | message_1.json |
+| 21:49:15 | Magda CieÅ¼ | [Photo: 1] | message_1.json |
+| 13:22:52 | Aleksandra Kretek | ð©¸ | message_1.json |
+| 13:22:49 | Aleksandra Kretek | Kochani, dziÄkujemy za pomoc! Dzisiaj udaÅo siÄ zebraÄ krew aÅ¼ od 36 osÃ³b! W sumie 76 osÃ³b od... | message_1.json |
+| 13:27:43 | Aleksandra Kretek | ByÅy trzy osoby jeszcze niedawno | message_1.json |
+| 13:27:20 | MaÅgorzata Drozdek | A jesteÅcie w biurze jeszcze? | message_1.json |
+| 13:00:45 | Aleksandra Kretek | KtÃ³ry pozwala na wejÅcie za 5ziko | message_1.json |
+| 13:00:34 | Aleksandra Kretek | Oki, to zostaÅ juÅ¼ tylko bon do Muzeum Etnograficznego | message_1.json |
+| 13:07:48 | Aleksandra Kretek | Czeka w biurze | message_1.json |
+| 13:07:42 | Aleksandra Kretek | [Photo: 1] | message_1.json |
+| 13:27:44 | Magda CieÅ¼ | Jestem ja PaweÅ i Ewelinka | message_1.json |
+| 12:40:34 | Weronika Maciuszek | Jest jeszcze miejsce jedno ? | message_1.json |
+| 08:55:00 | Ania Michno | Ania Michno dodaÅa WiktoriÄ Lorenc do grupy. | message_1.json |
+| 12:41:34 | Ania Michno | no jadÄ dziÅ jeszcze po 2 bilety przed, bo siÄ pojawiÅy osoby | message_1.json |
+| 12:40:49 | Weronika Maciuszek | @Ania Maszczak | message_1.json |
+| 13:59:22 | Julita Bouffette | Chyba juÅ¼ nie ma nikogo | message_1.json |
+| 13:58:16 | Ola CioÅek | JesteÅcie nadal? | message_1.json |
+| 14:44:11 | Aleksandra Kretek | oj teraz juÅ¼ nie wiem | message_1.json |
+| 14:20:41 | Ola CioÅek | Do kiedy jest ta salsa ogÃ³Åem? | message_1.json |
+| 12:51:36 | MaÅgorzata Drozdek | Ja chcÄ teÅ¼ salsÄ | message_1.json |
+| 11:18:11 | Aleksandra Kretek | Przed wejÅciem do UP | message_1.json |
+| 11:17:59 | Aleksandra Kretek | Nie odchodzimy, robimy za chwilÄ zdjÄcie grupowe! | message_1.json |
+| 11:37:11 | Marek Rapta | To kto ma klucz niech podejdzie do biura | message_1.json |
+| 11:28:29 | Magda CieÅ¼ | Zapraszamy kogo nie ma!! | message_1.json |
+| 08:25:18 | Marek Rapta | Taak | message_1.json |
+| 08:25:09 | Julia Tabaka | Czy sÄ jakieÅ zwolnienia z zajÄÄ dla osÃ³b ktÃ³re oddaÅy krew? | message_1.json |
+| 11:17:09 | Aleksandra Kretek | Aleksandra Kretek dodaÅa MagdÄ CieÅ¼ do grupy. | message_1.json |
+| 08:25:28 | Marek Rapta | Jak oddasz to mozesz odebrac zwolnienie lekarskie | message_1.json |
+| 12:40:42 | Aleksandra Kretek | [Photo: 1] | message_1.json |
+| 12:46:01 | Ola CioÅek | Ja chÄtnie wezmÄ sambe! | message_1.json |
+| 12:43:24 | Aleksandra Kretek | ZaÅatwione | message_1.json |
+| 12:46:35 | Kasia Bulzacka | Ja rÃ³wnieÅ¼ salsÄ chÄtnie | message_1.json |
+| 12:46:29 | Ola CioÅek | Czy tam salse | message_1.json |
+| 12:40:55 | Aleksandra Kretek | MoÅ¼na odebraÄ sobie pakiet | message_1.json |
+| 12:40:45 | Aleksandra Kretek | KtoÅ chce? | message_1.json |
+| 12:42:11 | Marek Rapta | No siekiery byly by spoko haha poczuÅ bym sie jak w domu | message_1.json |
+| 12:41:01 | Aleksandra Kretek | [Photo: 1] | message_1.json |
+| 16:48:23 | Angelika Chomicka | No | message_1.json |
+| 16:39:10 | Wiktoria Trela | Ja na 19 bÄdÄ :( | message_1.json |
+| 16:48:34 | Angelika Chomicka | XD | message_1.json |
+| 16:48:30 | Angelika Chomicka | My juÅ¼ prawie jesteÅmy | message_1.json |
+| 16:32:24 | Kinga Pregler | I ja ð | message_1.json |
+| 16:32:21 | Julia Rozalia MaÅek | Ja i @Zuza MaÅek rÃ³wnieÅ¼ ð¬ | message_1.json |
+| 16:36:49 | Weronika Maciuszek | Ja moÅ¼e z minutkÄ | message_1.json |
+| 16:36:20 | Wiktoria Trela | Ja teÅ¼ | message_1.json |
+| 16:59:10 | Marek Rapta | Czekam na spÃ³Åºnionych przed wejÅciem z biletami | message_1.json |
+| 15:26:07 | Marek Rapta | To tam xd | message_1.json |
+| 15:25:58 | Kamila JÄdryjas | No mniej wiÄcej | message_1.json |
+| 15:28:02 | Marek Rapta | Jak dla mnie moga byc nawet 4 mi to lotto | message_1.json |
+| 15:26:41 | Kamila JÄdryjas | A ile.musi byÄ osÃ³b Å¼eby siÄ odbyÅa xD | message_1.json |
+| 15:06:42 | Kamila JÄdryjas | W ktÃ³rym to bÄdzie miejscu? I czy jakoÅ pÅatne? | message_1.json |
+| 14:28:00 | Marek Rapta | W miare moÅ¼liwoÅci prosiÅbym osoby ktore ida na siatke w czwartek o wpisanie sie w komentarzu pod... | message_1.json |
+| 15:25:03 | Marek Rapta | Wiesz gdzie sa boiska w parku Jordana? | message_1.json |
+| 15:24:51 | Marek Rapta | Nie bedzie platne | message_1.json |
+| 16:31:27 | Natalia Stachura | My | message_1.json |
+| 14:30:08 | Ania Michno | SÅuchajcie zrobiÅam Nam rezerwacje po spektaklu do beer housa, wiÄc mam nadziejÄ, Å¼e bÄdziecie... | message_1.json |
+| 14:20:10 | Marek Rapta | Marek Rapta dodaÅ ZuzÄ MaÅek i JuliÄ RozaliÄ MaÅek do grupy. | message_1.json |
+| 14:33:51 | Ania Michno | A to bez problemu, soczkiem siÄ teÅ¼ stukniemyð | message_1.json |
+| 14:31:19 | MaÅgorzata Drozdek | Ja na jedzonka, bo dzisiaj alkoholu piÄ nie mogÄ ð | message_1.json |
+| 12:42:13 | Weronika Maciuszek | Nooo to ja chetnie ten 2 bilet! JuÅ¼ ci przelewam | message_1.json |
+| 12:41:51 | Ania Michno | wiÄc mogÄ dokupiÄ | message_1.json |
+| 12:42:24 | Ania Michno | ktos jeszcze? | message_1.json |
+| 12:42:22 | Ania Michno | okejos | message_1.json |
+| 14:38:41 | Ania Michno | Ostatnia integracja za czasÃ³w obecnego zarzÄdu wiÄc bardzo sentymentalnie ð¥º mam nadziejÄ Å¼e ... | message_1.json |
+| 14:40:42 | Marek Rapta | Zapytamy w teatrze moze ci pozycza jakis porzadny sceniczny | message_1.json |
+| 14:40:19 | Ania Michno | Ej bo makijaÅ¼ mi siÄ rozmaÅ¼e | message_1.json |
+| 16:28:18 | Ania Michno | Czy ktoÅ juÅ¼ wie Å¼e siÄ spÃ³Åºni na 18:40? | message_1.json |
+| 14:41:01 | Ania Michno | Bo bÄdziesz tÄskniÅ od razu za starym | message_1.json |
+| 14:39:28 | Ania Michno | Ja Ci dam siÄ ÅmiaÄ..... | message_1.json |
+| 14:39:13 | Marek Rapta | Aaaaniiaaaa beeedzie pÅaaaakaaÄ | message_1.json |
+| 14:40:18 | Marek Rapta | Nie martw sie ja bÄdÄ pÅakaÅ jak przyjdzie nowy haha | message_1.json |
+| 14:39:49 | Magda Waga | Pani Aniuuu | message_1.json |
+| 15:30:25 | Kasia Bulzacka | Nie no piÄtek caÅy wolny | message_1.json |
+| 10:58:03 | Madzia Szczypka | UratowaÅa mnie zhontowska XDD | message_1.json |
+| 10:57:54 | Madzia Szczypka | Drzwi w tramwaju mnie przytrzasnely | message_1.json |
+| 11:05:01 | Stasiu Przygoda | OgÃ³lnie to znalazÅem jak ja wyglÄdaÅem na my ÅoÅ¼u | message_1.json |
+| 10:58:12 | Madzia Szczypka | kurwa ale mnie ÅcisnÄÅo | message_1.json |
+| 10:56:14 | MichaÅ Wiencek | Czy to ostatnia jest? | message_1.json |
+| 10:56:11 | MichaÅ Wiencek | A ile mamy routerej jeszcze | message_1.json |
+| 10:57:02 | MichaÅ Wiencek | Okii | message_1.json |
+| 10:56:26 | Madzia Szczypka | Na pewno Niee | message_1.json |
+| 11:05:08 | Stasiu Przygoda | Po omdleniu | message_1.json |
+| 11:19:49 | Radek Salwach | Czemu | message_1.json |
+| 11:19:11 | Stasiu Przygoda | Ej nie wiem czy wiecie ale up ma beef z uj | message_1.json |
+| 11:20:41 | Stasiu Przygoda | A rektor uj siÄ zesral bo jest tylko jeden uniwersytet krakowski | message_1.json |
+| 11:20:27 | Stasiu Przygoda | Bo up zmienia nazwÄ na uniwersytet krakowski | message_1.json |
+| 11:05:47 | Stasiu Przygoda | [Video: 1] | message_1.json |
+| 11:05:19 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 11:12:54 | Stasiu Przygoda | ZnalazÅem legitke!!21!1 | message_1.json |
+| 11:05:53 | Madzia Szczypka | Zdrowy jak ryba | message_1.json |
+| 10:54:20 | Madzia Szczypka | W gÅowie sie popierdoli | message_1.json |
+| 10:50:59 | Madzia Szczypka | Ej mam 2 nieobecnosci u router ale czad | message_1.json |
+| 10:49:07 | Stasiu Przygoda | NajwyÅ¼ej jest w jakiejÅ kurtce | message_1.json |
+| 10:51:20 | Madzia Szczypka | A myslalam ze dwie albo trzy | message_1.json |
+| 10:51:13 | Madzia Szczypka | Znaczy sie jedna | message_1.json |
+| 10:48:20 | MichaÅ Wiencek | Teraz beda kredyty brac na twoja legitke | message_1.json |
+| 10:48:00 | MichaÅ Wiencek | Jak zaslables to ci ukradli | message_1.json |
+| 10:48:57 | Stasiu Przygoda | Nie wiem kiedy wÅaÅnie | message_1.json |
+| 10:48:33 | MichaÅ Wiencek | I krew na czarnym rynku kupowac | message_1.json |
+| 10:51:23 | Madzia Szczypka | A tu losoweczka jedna | message_1.json |
+| 10:53:10 | Madzia Szczypka | Zapytasz sie jej na zajeciach | message_1.json |
+| 10:53:03 | Madzia Szczypka | PytaÅam ba poczatku | message_1.json |
+| 10:54:16 | Madzia Szczypka | Tyle wolnego | message_1.json |
+| 10:53:41 | Stasiu Przygoda | Okej | message_1.json |
+| 10:52:11 | Stasiu Przygoda | Ej mogÅabyÅ siÄ zapytaÄ ile ja mam | message_1.json |
+| 10:51:41 | Madzia Szczypka | Mega sztos | message_1.json |
+| 10:52:59 | Madzia Szczypka | 7 minut temu skonczyÅa | message_1.json |
+| 10:52:51 | Madzia Szczypka | Juz koniec zajec | message_1.json |
+| 15:31:17 | Madzia Szczypka | [Video: 1] | message_1.json |
+| 15:31:01 | Madzia Szczypka | Besos | message_1.json |
+| 09:49:33 | Piotrek Nowak | na jakÄ platforme? | message_1.json |
+| 09:49:29 | Piotrek Nowak | gdzie ona wrzuca te teksty na zajÄcia? | message_1.json |
+| 14:00:33 | Madzia Szczypka | Ale sie wystraszyÅam co to za random na grupie | message_1.json |
+| 13:45:36 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 14:34:02 | Radek Salwach | to samo miaÅem | message_1.json |
+| 14:00:42 | Madzia Szczypka | A to @Stanley Adventure | message_1.json |
+| 09:51:08 | Maria Zguda | Na dysk | message_1.json |
+| 09:59:18 | Maria Zguda | Tu masz teksty | message_1.json |
+| 09:59:06 | Maria Zguda | https://drive.google.com/drive/folders/13FcF0iR74N4PCYd1Izf2WJ_eERC5hcw8 | message_1.json |
+| 09:59:58 | Piotrek Nowak | jest tez druga opcja ze jestem Ålepy | message_1.json |
+| 09:59:50 | Piotrek Nowak | ale tam wlasnie nie ma tych z 1/22/29 | message_1.json |
+| 09:58:13 | Piotrek Nowak | a ma ktoÅ moÅ¼e notatki z 1/22/29 Marca....? | message_1.json |
+| 09:51:11 | Maria Zguda | https://drive.google.com/file/d/1nq3X-8c41NUKpH58rM0-olk3Z5R06KCs/view?usp=drivesdk | message_1.json |
+| 09:58:25 | Piotrek Nowak | a na dysku nie widze tych tekstow | message_1.json |
+| 09:58:21 | Piotrek Nowak | bo nie wiem jak inaczej mam jej udowodnic ze bylem xd | message_1.json |
+| 12:26:20 | Radek Salwach | XDD | message_1.json |
+| 11:22:15 | Madzia Szczypka | I sie nie dziwie | message_1.json |
+| 11:22:02 | Madzia Szczypka | Tak myslalam | message_1.json |
+| 11:32:37 | MichaÅ Wiencek | Na up tez duzo szmat chodzi | message_1.json |
+| 11:22:27 | Madzia Szczypka | Ale jebac uj bo tam chodzi taka szmata jedna | message_1.json |
+| 11:20:47 | Stasiu Przygoda | Z tym ze | message_1.json |
+| 11:20:46 | Stasiu Przygoda | I jest to uj | message_1.json |
+| 11:21:01 | Stasiu Przygoda | A teraz nie | message_1.json |
+| 11:20:58 | Stasiu Przygoda | Oni siÄ tak kiedyÅ nazywali w historii | message_1.json |
+| 11:36:41 | Stasiu Przygoda | Dobrze ze na naszym kierunku nie ma | message_1.json |
+| 12:25:03 | Stasiu Przygoda | A se zmieniÅem | message_1.json |
+| 12:24:58 | Stasiu Przygoda | Gdzie | message_1.json |
+| 12:25:27 | Stasiu Przygoda | I Å¼eby nie byÅo to zacytowaÅem twoje | message_1.json |
+| 12:25:07 | Stasiu Przygoda | Mam fajny mood | message_1.json |
+| 11:41:10 | MichaÅ Wiencek | ðð | message_1.json |
+| 11:36:46 | Stasiu Przygoda | Wink wink | message_1.json |
+| 12:24:50 | Radek Salwach | czemu masz profilowe inne | message_1.json |
+| 12:24:46 | Radek Salwach | co Ty zrobiÅeÅ @Stasiu Przygoda | message_1.json |
+| 09:45:10 | Madzia Szczypka | A wiesz ze ty masz zwolnienie Stasiu | message_1.json |
+| 09:45:04 | Stasiu Przygoda | Albo na druga grupÄ pÃ³jdÄ | message_1.json |
+| 09:46:55 | Stasiu Przygoda | No ale nawet nie oddaÅem | message_1.json |
+| 09:45:24 | Madzia Szczypka | Jak byles oddawac to nie musisz | message_1.json |
+| 09:44:23 | MichaÅ Wiencek | A mowila cos o mnie? | message_1.json |
+| 09:44:23 | MichaÅ Wiencek | XD | message_1.json |
+| 09:44:59 | Stasiu Przygoda | Zaraz do was dojdÄ tam na ruter | message_1.json |
+| 09:44:34 | Madzia Szczypka | Nie | message_1.json |
+| 09:47:04 | Madzia Szczypka | Ahaaaaaaa | message_1.json |
+| 09:52:42 | Stasiu Przygoda | Ale mam bardzo Åadna hemoglobine | message_1.json |
+| 09:47:25 | Madzia Szczypka | Ona Ci wpisze | message_1.json |
+| 10:00:28 | Julita Bouffette | I tak ma zwolnienie na dziÅ wiÄc chillek | message_1.json |
+| 09:53:01 | Stasiu Przygoda | TakÅ¼e ten | message_1.json |
+| 09:47:13 | Madzia Szczypka | Myslalam ze po zaslables | message_1.json |
+| 09:47:08 | Stasiu Przygoda | Bo zasÅabÅem jak mi sprawdzaÅa XDDDDD | message_1.json |
+| 09:47:18 | Madzia Szczypka | Chodz teraz | message_1.json |
+| 09:47:15 | Madzia Szczypka | XDD | message_1.json |
+| 09:43:02 | Julita Bouffette | I bym sobie wyszÅa jak coÅ przed uczelniÄ | message_1.json |
+| 15:32:22 | Krzysztof Siwek | absolutely based | message_1.json |
+| 15:31:24 | Kasia Bulzacka | To sorki za zamieszanie | message_1.json |
+| 09:34:12 | Madzia Szczypka | I router sie tak smiac zaczela | message_1.json |
+| 09:34:05 | Madzia Szczypka | -Panie Piotrze ma Pan 3 nieobecnosci -co? Nie przypominam sobie | message_1.json |
+| 15:30:59 | Sebastian Kutaj | no a skowronka nie ma bo sam mÃ³wiÅ | message_1.json |
+| 15:30:40 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
+| 15:31:16 | Kasia Bulzacka | Aaaa to wypadÅo mi z pamiÄci | message_1.json |
+| 15:31:16 | Sebastian Kutaj | Å¼e woli ÅwiÄtowaÄ niÅ¼ z konwistami gadaÄ | message_1.json |
+| 09:34:14 | Madzia Szczypka | XDDD | message_1.json |
+| 09:40:50 | Stasiu Przygoda | Na oddawanie XDDDD | message_1.json |
+| 09:40:44 | Stasiu Przygoda | Nie nadaje siÄ chyba | message_1.json |
+| 09:42:55 | Julita Bouffette | Bo jestem na wampie | message_1.json |
+| 09:42:08 | Stasiu Przygoda | Jak zasÅabÅem to chyba coÅ zobaczÄ | message_1.json |
+| 09:37:17 | Julita Bouffette | OgÃ³lnie jak coÅ to dajcie jak bd przed uczelnia | message_1.json |
+| 09:34:25 | Radek Salwach | XDD | message_1.json |
+| 09:40:39 | Stasiu Przygoda | OgÃ³lnie to | message_1.json |
+| 09:37:58 | Madzia Szczypka | Co | message_1.json |
+| 10:31:46 | Madzia Szczypka | Just odpocznij | message_1.json |
+| 10:31:27 | MichaÅ Wiencek | Maja | message_1.json |
+| 10:31:59 | Radek Salwach | Will do | message_1.json |
+| 10:31:58 | Madzia Szczypka | I nie pij czesto | message_1.json |
+| 10:31:11 | Radek Salwach | Ale i tak odwyk jakiÅ musi iÅÄ | message_1.json |
+| 10:31:03 | Radek Salwach | Ja podziÄkujÄ za szpital | message_1.json |
+| 10:31:26 | MichaÅ Wiencek | Fajne szaliki kaja | message_1.json |
+| 10:31:19 | MichaÅ Wiencek | To monar | message_1.json |
+| 10:32:03 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
+| 10:34:27 | Radek Salwach | XDDD | message_1.json |
+| 10:34:25 | Madzia Szczypka | XDDDDDD | message_1.json |
+| 10:47:04 | Radek Salwach | U nas? | message_1.json |
+| 10:46:45 | Stasiu Przygoda | Ej bo chyba legitke zgubiÅem | message_1.json |
+| 10:34:07 | Stasiu Przygoda | Po tym omdleniu | message_1.json |
+| 10:34:01 | Stasiu Przygoda | Wiecie co wam powiem | message_1.json |
+| 10:34:16 | Stasiu Przygoda | Oby jutro byÅo lepiej ðð | message_1.json |
+| 10:34:09 | Madzia Szczypka | Say it | message_1.json |
+| 10:30:50 | MichaÅ Wiencek | Life hack jak rzucic palenie | message_1.json |
+| 10:27:59 | Madzia Szczypka | jak mocno | message_1.json |
+| 10:27:44 | Radek Salwach | TakÅ¼e jednak za maÅo zjadÅem hehe | message_1.json |
+| 10:28:07 | Madzia Szczypka | Juz myslalam ze jak poszlismy to pies przyszedÅ | message_1.json |
+| 10:28:04 | Radek Salwach | Nie no ale tak odkleiÅo jak nigdy, takÅ¼e git Å¼e poszliÅcie juÅ¼ | message_1.json |
+| 10:27:21 | Radek Salwach | Nie uwierzycie ale wczoraj jak poszliÅcie | message_1.json |
+| 10:26:23 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 10:27:42 | Madzia Szczypka | Hard to believe | message_1.json |
+| 10:27:28 | Radek Salwach | To mnie odkleiÅo mocno | message_1.json |
+| 10:28:17 | Madzia Szczypka | Z wlascicielem | message_1.json |
+| 10:30:36 | MichaÅ Wiencek | Polecam odwyk w szpitalu | message_1.json |
+| 10:29:19 | Radek Salwach | No alcohol no smoking | message_1.json |
+| 10:30:42 | MichaÅ Wiencek | Juz ponad miesiac nie pale i nie pije | message_1.json |
+| 10:30:39 | Stasiu Przygoda | No to zes powiedziaÅ | message_1.json |
+| 10:28:26 | Radek Salwach | Nigdy w Å¼yciu, tak mnie nie odkleiÅo | message_1.json |
+| 10:28:23 | Madzia Szczypka | Albo jakas sasiadka | message_1.json |
+| 10:29:08 | Radek Salwach | TakÅ¼e teraz clear the mind free the mind | message_1.json |
+| 10:28:37 | Radek Salwach | Nawet jak mnie brat z Cpnu odbieraÅ | message_1.json |

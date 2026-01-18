@@ -1,0 +1,342 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-09
+# Liczba: 337
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 13:35:44 | Seweryn Harvey Howell | Coung cough sniff sorry jestem chory na autyzm....... | message_1.json |
+| 13:35:28 | Seweryn Harvey Howell | XDD | message_1.json |
+| 13:35:48 | Seweryn Harvey Howell | ZaraÅ¼am obecnie | message_1.json |
+| 14:00:55 | Piotrek Nowak | napiszecie kiedy macie wf? | message_1.json |
+| 14:00:50 | Piotrek Nowak | siemasz | message_1.json |
+| 13:29:10 | Anja Bulanda | DoÅÄczyÅam teraz wÅaÅnie zdalnie xdd dopiero | message_1.json |
+| 13:29:09 | Seweryn Harvey Howell | No idea | message_1.json |
+| 13:34:03 | Anja Bulanda | "Chorych na autyzm" XD | message_1.json |
+| 13:35:27 | Seweryn Harvey Howell | MusiaÅem powiedziec bo mnie trafialo juz | message_1.json |
+| 13:35:19 | Seweryn Harvey Howell | Yeah | message_1.json |
+| 14:01:16 | Piotrek Nowak | bo bede musial troche odrobic... | message_1.json |
+| 14:05:15 | Seweryn Harvey Howell | Chociaz w sumie chyba wait | message_1.json |
+| 14:04:52 | Seweryn Harvey Howell | Mowil ostatnio | message_1.json |
+| 14:05:34 | Seweryn Harvey Howell | Mowil na pewno ze zajecia po poludniu ma zawalone | message_1.json |
+| 14:05:42 | Anja Bulanda | W sumie ja dzisiaj siÄ wybieram do Pacholca na 17 wiÄc moÅ¼ecie teÅ¼ prÃ³bowaÄ do niego pisaÄ, w... | message_1.json |
+| 14:05:40 | Seweryn Harvey Howell | Wiec przed poludniem moze sie uda | message_1.json |
+| 14:01:45 | Anja Bulanda | Podbijam | message_1.json |
+| 14:01:29 | Szymek Kot | Ja teÅ¼ð | message_1.json |
+| 14:02:38 | Daria Berkowicz | Åroda 9;30 na Ingardena... Ale wczeÅniej raczej musicie do niego napisaÄ, bo ostatnio byÅ proble... | message_1.json |
+| 14:04:49 | Seweryn Harvey Howell | Jak cos to mantorski ma juz wszystkie wfy zawalone i nie przyjmuje | message_1.json |
+| 14:03:29 | Anja Bulanda | Z kim to jest? PrzyszÅabym do was za tydzieÅ | message_1.json |
+| 10:01:48 | Anja Bulanda | Czy mi siÄ wu popsulp | message_1.json |
+| 10:01:41 | Anja Bulanda | My 11 majÄ i tak nie mamy Å¼adnych zajÄÄ co nie? | message_1.json |
+| 11:01:23 | Krzysztof Siwek | Nie powinniÅmy juÅ¼ koÅczyÄ? XD | message_1.json |
+| 11:26:09 | Paulina Pietras | Info od Sarosiek: jeÅli ktoÅ bÄdzie aktywny na etyce to jest zwolniony z pisania pracy zaliczenio... | message_1.json |
+| 11:11:59 | Sebastian Kutaj | trzeba krzyknÄÄ | message_1.json |
+| 09:19:24 | Magdalena MiÅkowiec | Gdzie mamy ? | message_1.json |
+| 09:01:03 | Paulina Pietras | Bo sÄ trzy grupy tak? xd | message_1.json |
+| 09:19:45 | Emilka Kowalczyk | 445 wg planu | message_1.json |
+| 10:01:28 | Anja Bulanda | [Photo: 1] | message_1.json |
+| 09:21:35 | Paulina Pietras | Czy ma ktoÅ moÅ¼e ÅadowarkÄ micro usb do poÅ¼yczenia? | message_1.json |
+| 11:32:05 | Damian Piotr Cokot | Ej idziecie na Hanuszkiewicza dziÅ stacjonarnie z pierwszej grupy? | message_1.json |
+| 13:26:40 | Seweryn Harvey Howell | 9 | message_1.json |
+| 13:26:27 | Daria Berkowicz | DuÅ¼o osÃ³b jest stacjonarnie na warsztatach teraz? | message_1.json |
+| 13:28:35 | Anja Bulanda | A sprawdzaÅ obecnoÅc? | message_1.json |
+| 13:29:03 | Anja Bulanda | A jak ktoÅ jest zdalnie to wystarczy byÄ i on se to spisze? | message_1.json |
+| 13:28:46 | Seweryn Harvey Howell | Yeah, lista byla | message_1.json |
+| 11:33:43 | Krzysztof Siwek | Kto jest "aktywny"? | message_1.json |
+| 11:33:12 | Krzysztof Siwek | A skÄd mamy o tym wiedzieÄ? XD | message_1.json |
+| 11:34:36 | Paulina Pietras | Odzywasz siÄ na zajÄciach? To jesteÅ aktywny | message_1.json |
+| 11:35:44 | Piotrek Nowak | no pewnie bedzie wstawiac jakies oceny za aktywnosc | message_1.json |
+| 11:35:41 | Krzysztof Siwek | Fair enough | message_1.json |
+| 12:10:04 | Ania Michno | Hahaha | message_1.json |
+| 12:03:00 | MichaÅ Wiencek | XD | message_1.json |
+| 12:10:12 | Ania Michno | Dobra to go zostawiam | message_1.json |
+| 13:03:09 | Madzia Szczypka | Nooo nw | message_1.json |
+| 12:58:35 | Stasiu Przygoda | Ej jakbyÅcie mieli chwile to czy moglibyÅcie zrobiÄ ankietÄ ktÃ³ra udostÄpniÅem na fb? | message_1.json |
+| 11:50:29 | MichaÅ Wiencek | Bo ta osoba jednak nie ma nikogo | message_1.json |
+| 11:50:23 | MichaÅ Wiencek | Dobra to kup jeden mniej w takim razie | message_1.json |
+| 11:50:52 | MichaÅ Wiencek | DziÄki tak w ogole | message_1.json |
+| 12:02:56 | MichaÅ Wiencek | Jednak kogos mam | message_1.json |
+| 12:02:54 | MichaÅ Wiencek | Dobra nvm | message_1.json |
+| 13:25:25 | Stasiu Przygoda | No to jak nie wiesz to nie rÃ³b i tak nie jest moja | message_1.json |
+| 13:26:37 | Stasiu Przygoda | Nie wiem czy mogÄ tak siÄ napiÄ | message_1.json |
+| 13:26:29 | Stasiu Przygoda | Ja jutro idÄ krew oddaÄ | message_1.json |
+| 13:26:55 | Madzia Szczypka | Pewnie z 15 godzin przed nie | message_1.json |
+| 13:27:19 | Madzia Szczypka | Zawsze sie chyba mowi ze 10h przed nie wolno jesc pic itd | message_1.json |
+| 13:27:08 | Madzia Szczypka | Jedno czy 2 Ci zejdzie | message_1.json |
+| 13:26:11 | Madzia Szczypka | Ej dzisiaj | message_1.json |
+| 13:26:05 | Madzia Szczypka | Stasiulku ofc ze zrobimyy | message_1.json |
+| 13:26:16 | Madzia Szczypka | Jest dobry dzien na wyjscie na piwo | message_1.json |
+| 13:26:21 | Madzia Szczypka | ð£ | message_1.json |
+| 13:26:21 | Madzia Szczypka | Na jakis ogrÃ³dek | message_1.json |
+| 16:22:15 | Daria Berkowicz | Monograficzne sÄ jak coÅ | message_1.json |
+| 14:19:49 | Sebastian Kutaj | mm zbychu | message_1.json |
+| 16:22:15 | Julia Chrzan | Ej jak cos to sÄ monograficzne 1 grupy | message_1.json |
+| 16:22:56 | Seweryn Harvey Howell | Sprawdzala obecnosc? | message_1.json |
+| 16:22:20 | Julia Chrzan | Bo maÅo osÃ³b jest | message_1.json |
+| 14:06:11 | Daria Berkowicz | Birnbaum | message_1.json |
+| 14:05:46 | Seweryn Harvey Howell | O ile ma | message_1.json |
+| 14:08:04 | Piotrek Nowak | ja u niego mam generalnie zajecia o 17:00 | message_1.json |
+| 14:08:26 | Anja Bulanda | To siÄ spotkamy zaraz | message_1.json |
+| 14:08:15 | Piotrek Nowak | i tam nie ma jakos duzo ludzi wiec jak ktos chce odrobic to moze tam podbic | message_1.json |
+| 16:23:21 | Julia Chrzan | Teraz sprawdza | message_1.json |
+| 09:23:38 | Ania Michno | OkoÅo 14:30 | message_1.json |
+| 09:22:41 | MichaÅ Wiencek | To bym daÅ znac do tego czasu jak bedziesz kupowaÅa | message_1.json |
+| 09:23:50 | MichaÅ Wiencek | Okej | message_1.json |
+| 09:23:58 | Ania Michno | Oki super | message_1.json |
+| 09:23:53 | MichaÅ Wiencek | To dam znac do 14 | message_1.json |
+| 21:21:22 | Stasiu Przygoda | DzieÅ dobry, moja siostra stworzyÅa ankietÄ nt. ÅwiadomoÅci praw pacjenta i potrzebuje odpowied... | message_1.json |
+| 16:23:27 | Julia Chrzan | JuÅ¼ byÅeÅ | message_1.json |
+| 09:13:39 | Ania Michno | MichaÅ ja dziÅ bÄdÄ dokupywac jeszcze bilety to kupie jeden mniej i Ci oddam po prostu pieniÄdz... | message_1.json |
+| 09:22:13 | MichaÅ Wiencek | A o ktorej bedziesz dokupywac? Bo jedna osoba mi napisala ze moÅ¼liwe ze bedzie kogoÅ miaÅa kto od... | message_1.json |
+| 09:13:42 | Ania Michno | MoÅ¼e tak byÄ? | message_1.json |
+| 12:40:30 | Ania Michno | [Photo: 1] | message_1.json |
+| 09:39:37 | Julita Bouffette | O 19 | message_1.json |
+| 12:40:37 | Ania Michno | PamiÄtajcie, Å¼e jest to scena mos na ul. Rajskiej 12 i moÅ¼e spotkamy siÄ wczeÅniej Å¼eby na spo... | message_1.json |
+| 12:40:51 | Gabriela WÃ³jcikiewicz | Gabriela WÃ³jcikiewicz dodaÅa KingÄ DedÄ do grupy. | message_1.json |
+| 12:40:42 | Ania Michno | O niechcÄcy | message_1.json |
+| 13:42:06 | Aleksandra Kretek | O to to | message_1.json |
+| 13:41:58 | Marek Rapta | [Photo: 1] | message_1.json |
+| 13:42:34 | Paulina WÃ³jcik | O super dziÄki piÄkne | message_1.json |
+| 09:39:15 | Zuza Tola | A o ktÃ³rej to jest ? Bo mi siÄ chyba zwolniÅ wieczor | message_1.json |
+| 08:59:40 | MichaÅ Wiencek | Jakby ktos miaÅ kogoÅ kto by chciaÅ iÅÄ jeszcze to chetnie oddam swoj bilet bo nie bede w stani... | message_1.json |
+| 12:42:32 | Marek Rapta | Marek ustawiÅ szybkÄ reakcjÄ jako ð§. | message_1.json |
+| 14:12:38 | Marek Rapta | PoszÅo zobaczymy ile osÃ³b sie zglosi na grupietez bo od nas na razie 3 chetnych byla | message_1.json |
+| 14:08:39 | Marek Rapta | W niedziele mozna drugi raz jak ktoÅ chce ewentualnie tez w piatek jako ze jest wolny | message_1.json |
+| 14:14:47 | Marek Rapta | Niestety nie widze zeby mozna bylo dokonac jakiejs rezerwacji wiec pojdziemy trochÄ na przypal ale ... | message_1.json |
+| 09:57:34 | MaÅgorzata Gajewska | Ja mam pytanie, ktÃ³re jest powiÄzane z tematem mianowicie czy wszyscy otrzymali juÅ¼ artykuÅy od ... | message_1.json |
+| 09:56:11 | Ewa Kempny | Hejka, chciaÅam przypomniec p dr Czerneckiej na Teams o umieszczeniu slajdÃ³w z ostatnich wykÅadÃ³... | message_1.json |
+| 06:02:38 | Kamila JÄdryjas | W czwartek od 17 jakoÅ | message_1.json |
+| 05:27:43 | Marek Rapta | Jakie godziny by wam odpowiadaÅy? | message_1.json |
+| 14:07:02 | Marek Rapta | To rzucam na grupke ze poszukujemy osÃ³b na siatkoweczke w czwartek ok 17 | message_1.json |
+| 14:08:10 | Katarzyna Morawska | To ja odpadam ;( | message_1.json |
+| 14:07:30 | Kamila JÄdryjas | Ale fajnie jakby wiÄcej osÃ³b teÅ¼ daÅo znac | message_1.json |
+| 05:03:47 | Ola CioÅek | Ja teÅ¼ powinnam siÄ wykluÄ do 8 | message_1.json |
+| 05:03:38 | Aleksandra Kretek | Chyba tak | message_1.json |
+| 05:11:16 | MaÅgorzata Drozdek | O 8 bÄdÄ | message_1.json |
+| 06:13:03 | Julita Bouffette | Kochani, ja dziÅ niestety mam lekarza, wiÄc prawdopodobnie wyrobie siÄ na sam koniec, trzymam za ... | message_1.json |
+| 05:20:42 | Wioletta KsiÄÅ¼ek | TeÅ¼ 8 | message_1.json |
+| 04:44:32 | Aleksandra Kretek | Niestety nie udaÅo siÄ tego zaÅatwiÄ, a teraz jeszcze jesteÅmy na ÅÄczniku wiÄc nie ma za ba... | message_1.json |
+| 00:51:43 | Mateusz WiÄcek | Wiadomo cokolwiek co z zespolem? | message_1.json |
+| 05:02:15 | Aleksandra Kretek | To o ktÃ³rej bÄdziecie? Potrzebujemy pomocy w ukÅadaniu stoÅÃ³w i krzeseÅek ð¥¹ | message_1.json |
+| 05:03:23 | Marek Rapta | Wystarczy? | message_1.json |
+| 05:03:20 | Marek Rapta | Kolo 8 mysle ze bym sie wyrobil | message_1.json |
+| 07:04:12 | Aleksandra Kretek | Czy ktoÅ mÃ³gÅby siÄ przejsc do biedronka i wziÄÄ soczki dla rckik? | message_1.json |
+| 13:40:08 | Paulina WÃ³jcik | Ja jutro oddaje krew | message_1.json |
+| 13:38:40 | Aleksandra Kretek | DziÄkujÄ Wam bardzo moje Wampirki!! Dzisiaj zebraliÅmy krew od prawie 40 osÃ³b ð¤©ð¤© Gdyby nie... | message_1.json |
+| 13:40:19 | Paulina WÃ³jcik | MuszÄ pamiÄtaÄ o czymÅ specjalnym ? | message_1.json |
+| 13:41:47 | Aleksandra Kretek | Dzisiaj przynajmniej 2 litry wody wypiÄ a rano lekkie Åniadanko | message_1.json |
+| 13:40:33 | Paulina WÃ³jcik | W sensie w kwestii jedzenia/picia? Po prostu chyba trzeba dziÅ duÅ¼o wypiÄ co nie? | message_1.json |
+| 07:04:30 | Marek Rapta | Moge obejsc jeszcze | message_1.json |
+| 07:04:19 | Aleksandra Kretek | Ja powiem co i jak | message_1.json |
+| 07:04:40 | Marek Rapta | Moze zdaze do 40 pi | message_1.json |
+| 07:12:39 | Aleksandra Kretek | Czy ktoÅ moÅ¼e zejÅÄ do drzwi na dÃ³Å i mÃ³wiÄ gdzie ludzie majÄ na Wampa iÅÄ? | message_1.json |
+| 07:06:37 | Karolina ZarÄbska | Ja teÅ¼ mogÄ ale chyba marek bedzie szybciej bo ma auto | message_1.json |
+| 16:51:03 | Paulina WÃ³jcik | Ja ogÃ³lnie ogarniam rozliczenia i delegacje to mogÄ coÅ pomoc | message_1.json |
+| 16:50:48 | Katarzyna Morawska | JuÅ¼ ich tam nie ma hahh | message_1.json |
+| 16:51:08 | Paulina WÃ³jcik | JuÅ¼ siÄ pare takich robiÅo rzeczy ð | message_1.json |
+| 16:51:48 | Paulina WÃ³jcik | Oks ð | message_1.json |
+| 16:51:34 | Katarzyna Morawska | O to lecimy na priv, bo rozliczenia kÃ³Å a nzsu to woda i ogieÅ! Cieszcie siÄ ze dziaÅacie w nzs... | message_1.json |
+| 16:50:21 | Katarzyna Morawska | A to wiem hah do wiÄzienia ale czy do tej pory ktoÅ jechaÅ, mam pytanie w kwestii rozliczeÅ | message_1.json |
+| 16:50:07 | Paulina WÃ³jcik | ProszÄ mnie wziÄÄ | message_1.json |
+| 16:50:32 | Paulina WÃ³jcik | To do sekretariatu wszystko | message_1.json |
+| 16:50:45 | Paulina WÃ³jcik | A co ci powiedzieli ? | message_1.json |
+| 16:50:35 | Katarzyna Morawska | Bo zgÅupiaÅam obecnie i szukam potwierdzenia ð | message_1.json |
+| 16:52:38 | Ewelina KapÅon | Rozliczenia nzs to Åatwizna potwierdzam ð | message_1.json |
+| 14:19:00 | Krzysztof Antoni AmbroÅ¼y Czekaj | 29.05, 20:00 Nowe modele intymnoÅci: zadowolenie i strata w poliamorii i konsensualnych zwiÄzkach ... | message_1.json |
+| 10:42:59 | Natalia Starzyk | Natalia Starzyk dodaÅa MaÅgosiÄ PiÄtkÄ do grupy. | message_1.json |
+| 08:32:59 | Wiktoria Tyska | Czyli grupa od 16.45 nie ma dzis w ogole warsztatu? | message_1.json |
+| 09:01:02 | Sebastian Kutaj | no tak jak w wu jest | message_1.json |
+| 09:00:48 | Paulina Pietras | WÅaÅnie chyba teÅ¼ ma | message_1.json |
+| 10:41:38 | Maciek Radecki | https://facebook.com/events/s/herbata-z-lipa-temat-wyobrazni/3670729499882817/ | message_1.json |
+| 09:17:12 | Krzysztof Antoni AmbroÅ¼y Czekaj | DziÅ o Polifonii Psychicznej na podstawie ksiÄÅ¼ki "UzdrawiajÄce Fikcje" Jamesa Hillmana  18:00, ... | message_1.json |
+| 10:41:42 | Maciek Radecki | [Photo: 1] | message_1.json |
+| 10:42:35 | Maciek Radecki | I tak na boku: polecam KrÃ³lestwo Bez Kresu - niezwykÅe miejsce | message_1.json |
+| 10:42:13 | Maciek Radecki | [Photo: 1] | message_1.json |
+| 10:00:14 | Magda Motal | A pisaÅ ktoÅ z upomnieniem? | message_1.json |
+| 09:58:49 | MaÅgorzata Gajewska | Ja tez nie otrzymaÅam i z tego co wiem sporo grupa osÃ³b wciÄÅ¼ nie dostaÅa odzewu chociaÅ¼ twier... | message_1.json |
+| 10:00:33 | MaÅgorzata Gajewska | Ja napisaÅam na Teams | message_1.json |
+| 10:08:12 | Martyna Gancarczyk | MoÅ¼esz napisaÄ | message_1.json |
+| 10:08:05 | Martyna Gancarczyk | Na teams wysyÅa | message_1.json |
+| 09:57:58 | Wiktoria Krzyszkowska | Ja tak | message_1.json |
+| 09:57:46 | Ewa Kempny | ja nie.... | message_1.json |
+| 09:58:03 | Magda Motal | TeÅ¼ nie | message_1.json |
+| 09:58:30 | Magda Motal | Ona to wysyÅa prywatnie na teams czy gdzie | message_1.json |
+| 09:58:22 | Natalia Dudzic | TeÅ¼ nie | message_1.json |
+| 08:48:32 | Katarzyna Morawska | [Photo: 1] | message_1.json |
+| 11:45:52 | Katarzyna Morawska | miÅego wtorku ;* | message_1.json |
+| 11:45:46 | Katarzyna Morawska | kto jeszcze nie wypeÅniÅ ankiety, proszÄ aby to zrobiÅ ! <3 | message_1.json |
+| 16:48:50 | Katarzyna Morawska | czy jechaÅ ktoÅ z was kiedyÅ na wyjazd z koÅa naukowego? ð | message_1.json |
+| 16:50:03 | Paulina WÃ³jcik | JuÅ¼ gadaÅam z panem Darkiem ð | message_1.json |
+| 16:49:55 | Paulina WÃ³jcik | Ja jadÄ z wami | message_1.json |
+| 08:51:39 | PaweÅ Piotrowski | Alelluja i do przodu! | message_1.json |
+| 08:48:35 | Katarzyna Morawska | 12 wolny | message_1.json |
+| 08:51:50 | Katarzyna Morawska | O tak | message_1.json |
+| 08:52:07 | Piotrek Walczak | Cudowna wiadomoÅÄ â¤ï¸ | message_1.json |
+| 08:51:56 | Katarzyna Morawska | Ale wypoczniemy przed wzc | message_1.json |
+| 13:27:31 | Madzia Szczypka | Wiec moze 12h to be sure | message_1.json |
+| 14:43:34 | Krzysztof Siwek | +1 | message_1.json |
+| 14:43:27 | Paulina Pietras | PoproÅcie go Å¼eby siÄ zdalnie poÅÄczyÅ prosze | message_1.json |
+| 14:43:44 | Krzysztof Siwek | (Wgl ktokolwiek tam przybyÅ? XDDD) | message_1.json |
+| 14:53:06 | Krzysztof Siwek | jest spotkanie jak cos | message_1.json |
+| 14:45:14 | Justyna Sarota | Jakby siÄ o mnie pytaÅ (bo mam wstÄp na dziÅ) to dajcie mu znaÄ, Å¼e siÄ trochÄ spÃ³ÅºniÄ i ... | message_1.json |
+| 18:11:38 | MichaÅ Wiencek | prezentacja lelitko | message_1.json |
+| 18:11:24 | Stasiu Przygoda | Co to kurwa jest | message_1.json |
+| 18:11:41 | MichaÅ Wiencek | na rzeszutek teraz | message_1.json |
+| 18:11:48 | MichaÅ Wiencek | XD | message_1.json |
+| 18:11:48 | MichaÅ Wiencek | teraz czyta slajd z tekstem z chatgpt | message_1.json |
+| 14:56:14 | Piotrek Nowak | sprawdzal obecnosc czy cos | message_1.json |
+| 15:00:31 | Krzysztof Siwek | XDDD | message_1.json |
+| 15:00:30 | Krzysztof Siwek | o "nie ma do konca jasnoÅci" nevermind | message_1.json |
+| 15:00:40 | Madzia Szczypka | Ej girl a chcesz byc przedostatnia | message_1.json |
+| 15:00:57 | Madzia Szczypka | Bo ja chyba bede przed 18 ð | message_1.json |
+| 15:00:43 | Paulina Pietras | No nie rozpÄdzaj siÄ xd | message_1.json |
+| 14:56:25 | Krzysztof Siwek | przekazane, bedziesz jako ostatnia w takim razie | message_1.json |
+| 14:56:15 | Piotrek Nowak | ? | message_1.json |
+| 15:00:11 | Krzysztof Siwek | uszczypnij mnie ktos, czy on wlasnie pochwaliÅ wstÄp Å¼e dobrze rozpisaÅ temat? XDD | message_1.json |
+| 15:00:27 | Madzia Szczypka | Kto | message_1.json |
+| 15:00:27 | Justyna Sarota | O to zajebiÅcie | message_1.json |
+| 14:24:56 | Radek Salwach | Jakby co to 19 zapraszamy na gry + mecz | message_1.json |
+| 14:18:39 | Stasiu Przygoda | ð£ | message_1.json |
+| 14:25:37 | Radek Salwach | Ewentualnie EurowizjÄ ale raczej zostaniemy przy meczu | message_1.json |
+| 14:26:10 | Julita Bouffette | Na Stachiewicza? | message_1.json |
+| 14:26:06 | Julita Bouffette | Gdzie | message_1.json |
+| 14:17:10 | Radek Salwach | ZresztÄ nie ma co tÅumaczyÄ, wiesz co zrobiÅeÅ, zastanÃ³w siÄ nad tym | message_1.json |
+| 14:16:05 | Radek Salwach | Istnieje, tylko nie w tym samym kontekÅcie co do pÅci przeciwnej | message_1.json |
+| 14:17:19 | Stasiu Przygoda | I vice versa | message_1.json |
+| 14:17:51 | Radek Salwach | Thats all | message_1.json |
+| 14:17:48 | Radek Salwach | Ja wiem Å¼e do bycia simpem mi mega daleko | message_1.json |
+| 14:26:13 | Radek Salwach | No tak | message_1.json |
+| 18:04:02 | MichaÅ Wiencek | XDDDD | message_1.json |
+| 18:04:00 | MichaÅ Wiencek | mikolaj lelitko | message_1.json |
+| 18:04:08 | Madzia Szczypka | Otworz mi | message_1.json |
+| 18:10:01 | MichaÅ Wiencek | XDDDDDDDDDDDDD | message_1.json |
+| 18:09:58 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
+| 14:45:04 | MichaÅ Wiencek | Hanuszkiewicz tylko liste pobiera nie? | message_1.json |
+| 14:27:06 | Radek Salwach | Oczekuje was wszystkich, thanks | message_1.json |
+| 14:50:27 | Stasiu Przygoda | tak | message_1.json |
+| 17:47:30 | Radek Salwach | Rak | message_1.json |
+| 17:47:10 | Madzia Szczypka | 2 pady i rekawiczki tak? | message_1.json |
+| 15:33:28 | Bartek Rybicki | [Photo: 1] | message_1.json |
+| 15:26:57 | Madzia Szczypka | Bombastic side eye | message_1.json |
+| 15:52:20 | Krzysztof Siwek | [Photo: 1] | message_1.json |
+| 15:58:51 | Krzysztof Siwek | he's becoming self aware | message_1.json |
+| 15:58:44 | Krzysztof Siwek | "doczepiÄ siÄ jak zwykle do celu" | message_1.json |
+| 15:12:30 | Krzysztof Siwek | jego 2 komÃ³rki mÃ³zgowe teraz: | message_1.json |
+| 15:12:07 | Krzysztof Siwek | "no dowiedzieÄ siÄ co ma wiÄkszy wpÅyw tak jak napisaÅem wczesniej" bym mu powiedziaÅ XDD | message_1.json |
+| 15:12:31 | Krzysztof Siwek | https://www.youtube.com/watch?v=QDS4B0mM-ew | message_1.json |
+| 15:26:54 | Justyna Sarota | Aha bo Martyna nie moÅ¼e byÄ krÃ³lem Polski?? Å»aÅosne | message_1.json |
+| 15:26:09 | Krzysztof Siwek | [Photo: 1] | message_1.json |
+| 15:58:52 | Krzysztof Siwek | XDDDD | message_1.json |
+| 16:22:56 | Justyna Sarota | NajwyraÅºniej nie | message_1.json |
+| 16:22:41 | Madzia Szczypka | A za tydzien nie ma? | message_1.json |
+| 16:23:19 | Justyna Sarota | UmawiaÅ siÄ na 23 wiÄc tak zakÅadam przynajmniej | message_1.json |
+| 16:34:44 | Krzysztof Siwek | ? | message_1.json |
+| 16:25:36 | Radek Salwach | [No text content] | message_1.json |
+| 16:02:42 | Krzysztof Siwek | wszyscy wiedzÄ ze ChatGPT znaczy Chat God Prayer Trinity nie? | message_1.json |
+| 16:01:32 | Justyna Sarota | Dobra a co jeÅ¼eli piszÄ z Jezus AI | message_1.json |
+| 16:03:00 | Krzysztof Siwek | 100% | message_1.json |
+| 16:22:01 | Justyna Sarota | Na 23.05.2023 prace piszÄ @Stefan TrzaskuÅ @Piotrek Nowak i @Nina Wachniew !! | message_1.json |
+| 16:18:58 | Krzysztof Siwek | wywalicie mnie jak sie skonczy plz? XD | message_1.json |
+| 15:06:20 | Krzysztof Siwek | - "nie ma celu badawczego" | message_1.json |
+| 15:01:41 | Krzysztof Siwek | XDDDDDDDD | message_1.json |
+| 15:06:28 | Krzysztof Siwek | - *podaje cel badawczy* | message_1.json |
+| 15:06:46 | Paulina Pietras | WÅaÅnie nie wiem o chuj mu chodzi | message_1.json |
+| 15:06:40 | Krzysztof Siwek | - "ale ja tu nie widze celu badawczego" | message_1.json |
+| 15:01:12 | Madzia Szczypka | A jak nie to luz nie spieszy sie | message_1.json |
+| 15:01:11 | Justyna Sarota | A to to mu powiedz, ja zaraz wbijÄ | message_1.json |
+| 15:01:22 | Madzia Szczypka | No ja wbije przed 18 XDDD | message_1.json |
+| 15:01:40 | Krzysztof Siwek | "po co pani ten artykuÅ pisze" counter +1 | message_1.json |
+| 15:01:33 | Madzia Szczypka | Dobra nie byÅo wyjebane | message_1.json |
+| 15:06:46 | Krzysztof Siwek | bruh momento numero dos | message_1.json |
+| 15:10:08 | Krzysztof Siwek | "nie wiem jakie jest pani stanowisko" | message_1.json |
+| 15:09:21 | Krzysztof Siwek | bo przyda sie | message_1.json |
+| 15:10:10 | Krzysztof Siwek | jprdl XDD | message_1.json |
+| 15:11:17 | Paulina Pietras | Aaaaa help | message_1.json |
+| 15:10:24 | Krzysztof Siwek | ð | message_1.json |
+| 15:08:54 | Paulina Pietras | Jak mu powiedzieÄ Å¼e jest gÅupi? | message_1.json |
+| 15:07:14 | Krzysztof Siwek | [Photo: 1] | message_1.json |
+| 15:09:03 | Paulina Pietras | Bez mÃ³wienia mu Å¼e jest gÅupi | message_1.json |
+| 15:09:18 | Krzysztof Siwek | jak wymyslisz to mi powiedz XD | message_1.json |
+| 15:09:06 | Madzia Szczypka | Sprobuj delikatnie | message_1.json |
+| 13:43:39 | MichaÅ Wiencek | No ta ale po co ryzykowaÄ | message_1.json |
+| 13:43:32 | Madzia Szczypka | Kogo | message_1.json |
+| 13:43:42 | MichaÅ Wiencek | Piwo tez odwadnia | message_1.json |
+| 13:43:53 | Stasiu Przygoda | RadosÅawa i emilie | message_1.json |
+| 13:43:48 | MichaÅ Wiencek | To pozniej gorzej moze leciec | message_1.json |
+| 13:43:17 | Stasiu Przygoda | MusiaÅem odprowadziÄ parszywa dwÃ³jkÄ | message_1.json |
+| 13:43:03 | Radek Salwach | Ale to jest taka gÃ³rna wytyczna bÄdÅº co bÄdÅº, normalna rzecz co nie | message_1.json |
+| 13:43:18 | Stasiu Przygoda | Do domu | message_1.json |
+| 13:43:25 | Stasiu Przygoda | I mnie boli wszystko | message_1.json |
+| 13:43:21 | Radek Salwach | Ale jak wypijesz 3piwa o 22 i idziesz na oddane o 15 to wciÄÅ¼ moÅ¼e byÄ git | message_1.json |
+| 13:44:08 | Madzia Szczypka | A planszowy dzisiaj | message_1.json |
+| 13:44:56 | Stasiu Przygoda | Niby | message_1.json |
+| 13:44:55 | Stasiu Przygoda | To moÅ¼na coÅ zrobiÄ | message_1.json |
+| 13:45:16 | Stasiu Przygoda | MoÅ¼e do tego momentu moje ciaÅo uzna ze jednak mogÄ chodzi. | message_1.json |
+| 13:45:39 | Madzia Szczypka | Moze mecz bedzie gdzies | message_1.json |
+| 13:45:39 | Radek Salwach | Spytam i zobaczÄ jak u mnie dzisiaj bÄdzie, pÃ³ki co ogarniamy rury z Matczakiem, ale jak bÄdzie ... | message_1.json |
+| 13:44:31 | Madzia Szczypka | Ja bym cos porobila | message_1.json |
+| 13:44:11 | Stasiu Przygoda | Nigdy tak mnie Åydka nie bolaÅa jak dzisiaj | message_1.json |
+| 13:44:32 | MichaÅ Wiencek | O ktÃ³rej jest hanuszkiewicz? | message_1.json |
+| 13:44:46 | Radek Salwach | Tak koÅo 19:30, 21 mecz | message_1.json |
+| 13:44:34 | Radek Salwach | Wieczorkiem bym byÅ nawet za | message_1.json |
+| 13:39:31 | Radek Salwach | Ja mam zwolnienie wiÄc ni3 id3 | message_1.json |
+| 13:35:03 | Stasiu Przygoda | Nie chce mi siÄ | message_1.json |
+| 13:39:38 | Radek Salwach | Ale Staszku moÅ¼esz oddaÄ tylko nie pij duÅ¼o | message_1.json |
+| 13:40:03 | Radek Salwach | Oni i tak sprawdzajÄ Ci krew przed pobraniem, jaka grupa i czy siÄ nadaje | message_1.json |
+| 13:39:40 | Radek Salwach | I bÄdzie git | message_1.json |
+| 13:30:34 | Stasiu Przygoda | Czy przezyje do tego momentu | message_1.json |
+| 13:30:30 | Stasiu Przygoda | To jeszcze zobaczymy co i jak | message_1.json |
+| 13:30:51 | Madzia Szczypka | Ok | message_1.json |
+| 13:34:59 | Stasiu Przygoda | Idk | message_1.json |
+| 13:31:00 | Madzia Szczypka | Idziecie na hanuszka? | message_1.json |
+| 13:41:32 | Madzia Szczypka | To piwko? | message_1.json |
+| 13:42:32 | MichaÅ Wiencek | Niby 24h powinny byÄ @Stasiu Przygoda | message_1.json |
+| 13:42:25 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
+| 13:42:51 | Madzia Szczypka | Pan maruda | message_1.json |
+| 13:43:02 | Stasiu Przygoda | Jeszcze zobacze i tak | message_1.json |
+| 13:42:58 | MichaÅ Wiencek | ð£ | message_1.json |
+| 13:41:43 | Madzia Szczypka | Ja nie pije | message_1.json |
+| 13:41:39 | Madzia Szczypka | A nie | message_1.json |
+| 13:41:58 | Radek Salwach | Ja nie palÄ | message_1.json |
+| 13:42:21 | Madzia Szczypka | XDDD | message_1.json |
+| 13:42:14 | Madzia Szczypka | To piwo? | message_1.json |
+| 14:01:19 | Radek Salwach | Take notes | message_1.json |
+| 14:01:06 | Radek Salwach | @Stasiu Przygoda | message_1.json |
+| 14:01:29 | Madzia Szczypka | Czyim jest przydupasem | message_1.json |
+| 14:02:07 | Radek Salwach | I bycia simpem chyba prawdziwego nie widziaÅeÅ | message_1.json |
+| 14:01:45 | Radek Salwach | I mnie od simpÃ³w proszÄ nie wyzywaÄ, daleko mi do czegoÅ takiego | message_1.json |
+| 13:59:28 | Radek Salwach | Nie bo jest jakiÅ spisek, Å¼e simpuje do Ciebie Madzia, jakiÅ kompletny paradoks rzeczywistoÅci | message_1.json |
+| 13:59:00 | Madzia Szczypka | Uspokojcie sie | message_1.json |
+| 13:59:32 | Madzia Szczypka | ChÅopaki moga sie ziomkowac z babami i to bez podtekstÃ³w simpowych | message_1.json |
+| 14:00:29 | Madzia Szczypka | Chyba ze sie jest przydupasem a nie ziomkiem | message_1.json |
+| 13:59:40 | Madzia Szczypka | Baby to ziomy Ok | message_1.json |
+| 14:02:34 | Stasiu Przygoda | Ohohohoho cÃ³Å¼ za hipokryzja | message_1.json |
+| 14:08:39 | Stasiu Przygoda | Wiec robiÅeÅ to, simpowales tak jak niby ja | message_1.json |
+| 14:08:22 | Stasiu Przygoda | Nawet chce ci przypomnieÄ ze nie zaprzeczyÅeÅ ze to robiÅeÅ | message_1.json |
+| 14:08:43 | Stasiu Przygoda | I siÄ z tym pogÃ³dÅº | message_1.json |
+| 14:15:18 | Stasiu Przygoda | Problem jest taki ze nic nie daje do myslenia bo z jakiegos powodu simpowanie do tej samej plci nie ... | message_1.json |
+| 14:09:23 | Radek Salwach | I stwierdziÅem Å¼e rÃ³wnie dobrze simpowaÅem do Matczaka i Kacpra, co teÅ¼ powinno dawaÄ w tej sy... | message_1.json |
+| 14:03:02 | Julita Bouffette | Jak idziesz w ÅrodÄ to na ÅrodÄ i czwartek | message_1.json |
+| 14:03:01 | Stasiu Przygoda | Ja nie mogÄ ale jak ty to zrobisz to bÄdziesz negowaÄ to ze to robisz | message_1.json |
+| 14:03:18 | Madzia Szczypka | Dziekuje za odpowiedz misti | message_1.json |
+| 14:08:05 | Stasiu Przygoda | RozmawialiÅmy o tym niedawno co do kogo simpowales | message_1.json |
+| 14:04:14 | Radek Salwach | Git Å¼e siÄ przyznajesz Å¼e to robiÅeÅ, ale daj spokÃ³j, do kogo ja simpuje i w jaki sposÃ³b ð¤¢ | message_1.json |
+| 13:47:29 | Radek Salwach | ð | message_1.json |
+| 13:47:23 | Radek Salwach | ObiecujÄ Å¼e pÃ³jdÄ gdzie chcesz jak mnie wyniesiesz | message_1.json |
+| 13:47:35 | Madzia Szczypka | Tylko zaloz cos pod szlafrok | message_1.json |
+| 13:47:57 | Julita Bouffette | Tylko pod sam wieczÃ³r | message_1.json |
+| 13:47:36 | Madzia Szczypka | Pls | message_1.json |
+| 13:46:56 | Julita Bouffette | No ja jutro nie mogÄ | message_1.json |
+| 13:46:45 | Radek Salwach | Ja tam dzisiaj siÄ Årednio czuje do wychodzenia, jutro pÃ³jdÅºmy thanks | message_1.json |
+| 13:46:58 | Julita Bouffette | DziÅ tak | message_1.json |
+| 13:47:09 | Madzia Szczypka | Wyniesc Cie? | message_1.json |
+| 13:47:01 | Julita Bouffette | ð£ | message_1.json |
+| 13:48:17 | Madzia Szczypka | 19? | message_1.json |
+| 13:57:59 | Radek Salwach | Co Ty pierdolisz w ogÃ³le | message_1.json |
+| 13:57:50 | Madzia Szczypka | A jak sie idzie na pobieranie krwi to w czwartek zwolnienia? | message_1.json |
+| 13:58:03 | Radek Salwach | CzÅowieku | message_1.json |
+| 13:58:45 | Radek Salwach | A Ty tylko o simpowaniu | message_1.json |
+| 13:58:35 | Radek Salwach | ChodziÅo o to Å¼e mnie Madzia nie wyniesie bo nie ma tyle siÅy Å¼eby mnie udÅºwignÄÄ | message_1.json |
+| 13:48:42 | Stasiu Przygoda | Simp | message_1.json |
+| 13:48:33 | Madzia Szczypka | @Misti | message_1.json |
+| 13:49:43 | Stasiu Przygoda | PrzEStaaNÅ sIÄ taK ZacHowYwaÄ | message_1.json |
+| 13:57:02 | Madzia Szczypka | Cool | message_1.json |
+| 13:50:16 | Julita Bouffette | Imo git | message_1.json |

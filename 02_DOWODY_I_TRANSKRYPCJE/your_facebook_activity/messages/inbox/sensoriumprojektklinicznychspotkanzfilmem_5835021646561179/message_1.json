@@ -1,0 +1,241 @@
+{
+  "participants": [
+    {
+      "name": "Dominika Kwintal"
+    },
+    {
+      "name": "Szymon Witkowski"
+    },
+    {
+      "name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+    },
+    {
+      "name": "Iza Opalska"
+    },
+    {
+      "name": "Aneta Wi\u00c4\u0099cek"
+    },
+    {
+      "name": "Karolina Master"
+    },
+    {
+      "name": "Kinga Oleszkowicz"
+    },
+    {
+      "name": "Kamil Cis\u00c5\u0082o"
+    },
+    {
+      "name": "Julita Bouffette"
+    },
+    {
+      "name": "Alicja Kmak"
+    },
+    {
+      "name": "Julita Capik"
+    },
+    {
+      "name": "Zuzia J\u00c3\u00b3zefowicz"
+    },
+    {
+      "name": "Natalia \u00c5\u009awirk"
+    },
+    {
+      "name": "Iza Spisak"
+    },
+    {
+      "name": "Jagoda Szrek"
+    },
+    {
+      "name": "Alicja Ewa Dubiel"
+    },
+    {
+      "name": "Patrycja Szczepanska"
+    },
+    {
+      "name": "Julita Rekli\u00c5\u0084ska"
+    },
+    {
+      "name": "Weronika Baster"
+    },
+    {
+      "name": "Zuza Kamionka"
+    },
+    {
+      "name": "Magda Ku\u00c5\u009bka"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Vanessa Kubowicz-Lupa"
+    },
+    {
+      "name": "Aleksandra Bia\u00c5\u0082ek"
+    },
+    {
+      "name": "Wiola Sajdak"
+    },
+    {
+      "name": "Ola Borkowska"
+    },
+    {
+      "name": "Wiktoria Pinas"
+    },
+    {
+      "name": "Ma\u00c5\u0082gosia Pieczonka"
+    },
+    {
+      "name": "Maja G\u00c3\u00b3recka"
+    },
+    {
+      "name": "Oliwia Kupczyk"
+    },
+    {
+      "name": "Mi\u00c5\u0082osz Strza\u00c5\u0082a"
+    },
+    {
+      "name": "Hania So\u00c5\u0082tys"
+    },
+    {
+      "name": "Kinga Kapturkiewicz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1682887850562,
+      "content": "Je\u00c5\u009bli co\u00c5\u009b nam si\u00c4\u0099 uda faktycznie zorganizowa\u00c4\u0087. B\u00c4\u0099d\u00c4\u0099 podpytywa\u00c4\u0087 dr Sznajder o potencjalne wyst\u00c4\u0085pienie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1682887804878,
+      "content": "Prawdopodobnie najwcze\u00c5\u009bniejsze projekty niestety rusz\u00c4\u0085 dopiero w pa\u00c5\u00badzierniku moi mili ze wzgl\u00c4\u0099du na zdalne i remont. Je\u00c5\u009bli co\u00c5\u009b by si\u00c4\u0099 uda\u00c5\u0082o wcze\u00c5\u009bniej dam wam zna\u00c4\u0087, ale prawdopodobnie odbywa\u00c4\u0087 si\u00c4\u0099 to b\u00c4\u0099dzie w formie zdalnej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aga Stec",
+      "timestamp_ms": 1682871950417,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1682870171078,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vanessa Kubowicz-Lupa",
+      "timestamp_ms": 1682870014157,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1680692572228,
+      "content": "Alicja Ewa Dubiel doda\u00c5\u0082a Karolin\u00c4\u0099 Master do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1680692545064,
+      "content": "Alicja Ewa Dubiel doda\u00c5\u0082a Ag\u00c4\u0099 Stec do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1680692530176,
+      "content": "Alicja Ewa Dubiel doda\u00c5\u0082a Zuz\u00c4\u0099 Kamionk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1680676968631,
+      "content": "Alicja Ewa Dubiel doda\u00c5\u0082a Vaness\u00c4\u0099 Kubowicz-Lup\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1680675828023,
+      "content": "Alicja Ewa Dubiel doda\u00c5\u0082a Kub\u00c4\u0099 Habryna do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1680674614485,
+      "content": "My\u00c5\u009bl\u00c4\u0099, \u00c5\u00bce mogliby\u00c5\u009bmy zrobi\u00c4\u0087 sobie jakie\u00c5\u009b spotkanie na Teamsach zdalnie jakby kto\u00c5\u009b chcia\u00c5\u0082, albo stacjonarnie, ale z tym stacjonarnie mo\u00c5\u00bce by\u00c4\u0087 r\u00c3\u00b3\u00c5\u00bcnie i wszystko om\u00c3\u00b3wi\u00c4\u0087 (ju\u00c5\u00bc po \u00c5\u009bwi\u00c4\u0099tach)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1680674547605,
+      "content": "Bo nawet je\u00c5\u009bli nie, chcia\u00c5\u0082abym zapropnowa\u00c4\u0087, aby nadal wszcz\u00c4\u0085\u00c4\u0087 jak\u00c4\u0085\u00c5\u009b dzia\u00c5\u0082alno\u00c5\u009bci mimo tej wsp\u00c3\u00b3\u00c5\u0082pracy, bo i tak wydaje mi si\u00c4\u0099, \u00c5\u00bce fajnie by\u00c5\u0082oby spr\u00c3\u00b3bowa\u00c4\u0087 to zorganizowa\u00c4\u0087 to na UP. Proponowa\u00c5\u0082abym zatem, aby ka\u00c5\u00bcdy kto ma jak\u00c4\u0085\u00c5\u009b ch\u00c4\u0099\u00c4\u0087 dzia\u00c5\u0082ania w tym temacie poserduszkowa\u00c5\u0082 t\u00c4\u0085 wiadomo\u00c5\u009b\u00c4\u0087, czy po prostu zareagowa\u00c5\u0082. Dodatkowo pisz\u00c4\u0099 o tym teraz, bo od 29 maja wchodzi zdalne na UP. W zwi\u00c4\u0085zku z czym wiele student\u00c3\u00b3w wydaje si\u00c4\u0099, \u00c5\u00bce b\u00c4\u0099dzie chcia\u00c5\u0082o wr\u00c3\u00b3ci\u00c4\u0087 w rodzinne strony, albo wr\u00c4\u0099cz b\u00c4\u0099dzie musia\u00c5\u0082o, wi\u00c4\u0099c chcia\u00c5\u0082abym zorganizowa\u00c4\u0087 jakie\u00c5\u009b spotkanie w maju/albo dopiero ju\u00c5\u00bc w pa\u00c5\u00badzierniku. W zwi\u00c4\u0085zku z czym je\u00c5\u009bli chcemy co\u00c5\u009b zorganizowa\u00c4\u0087 to wydaje mi si\u00c4\u0099, \u00c5\u00bce jest to ostatni \"gwizdek\". Tak\u00c5\u00bce dajcie zna\u00c4\u0087, czy jeste\u00c5\u009bcie gotowi podzieli\u00c4\u0087 si\u00c4\u0099 zadaniami i si\u00c4\u0099 ich podj\u00c4\u0085\u00c4\u0087.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alicja Kmak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1680674342123,
+      "content": "@Ewa Burlikowska czy \"Kino pod Baranami\" co\u00c5\u009b odpisa\u00c5\u0082o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SENSORIUM, projekt klinicznych spotka\u00c5\u0084 z filmem",
+  "is_still_participant": true,
+  "thread_path": "inbox/sensoriumprojektklinicznychspotkanzfilmem_5835021646561179",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/700333008103274.jpg",
+    "creation_timestamp": 1670512780
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

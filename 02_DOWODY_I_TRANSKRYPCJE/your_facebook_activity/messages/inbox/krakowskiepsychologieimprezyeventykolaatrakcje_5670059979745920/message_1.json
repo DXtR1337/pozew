@@ -1,0 +1,3208 @@
+{
+  "participants": [
+    {
+      "name": "Micha\u00c5\u0082 G\u00c3\u00b3rka"
+    },
+    {
+      "name": "Salwator Wi\u00c5\u009bniowski"
+    },
+    {
+      "name": "Dorota Ruta"
+    },
+    {
+      "name": "Katarzyna Sterecka"
+    },
+    {
+      "name": "Bartek Burkot"
+    },
+    {
+      "name": "Gabriela Baster"
+    },
+    {
+      "name": "Klaudia Grygo"
+    },
+    {
+      "name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+    },
+    {
+      "name": "Pawe\u00c5\u0082 Chlebicki"
+    },
+    {
+      "name": "Ewa LC"
+    },
+    {
+      "name": "Pamela Pabis"
+    },
+    {
+      "name": "Gabriela Sta\u00c5\u009bko"
+    },
+    {
+      "name": "Magdalena Sz"
+    },
+    {
+      "name": "Patryk R\u00c3\u00b3\u00c5\u00bca\u00c5\u0084ski"
+    },
+    {
+      "name": "Zuza K\u00c4\u0099dzierska"
+    },
+    {
+      "name": "Ewa Chmielarz"
+    },
+    {
+      "name": "Karolina Bentkowska"
+    },
+    {
+      "name": "Natalia Wn\u00c4\u0099k"
+    },
+    {
+      "name": "Mariusz Niewyspany"
+    },
+    {
+      "name": "Paulina Wa\u00c5\u0082\u00c4\u0099ga"
+    },
+    {
+      "name": "Katarzyna W\u00c4\u0099c"
+    },
+    {
+      "name": "Paulina St\u00c4\u0099pniowska"
+    },
+    {
+      "name": "Jagoda Nowak"
+    },
+    {
+      "name": "Klaudia Budzyk"
+    },
+    {
+      "name": "Matylda Zubowicz"
+    },
+    {
+      "name": "Sylwia Gurgul"
+    },
+    {
+      "name": "Wiktor Michalski"
+    },
+    {
+      "name": "Daria R\u00c3\u00b3\u00c5\u00bca\u00c5\u0084ska"
+    },
+    {
+      "name": "Kacper Hejnar"
+    },
+    {
+      "name": "Natalia \u00c5\u0081ukaszczyk"
+    },
+    {
+      "name": "Dominik W\u00c5\u0082odarczyk"
+    },
+    {
+      "name": "Julia Marianowska"
+    },
+    {
+      "name": "Weronika Szaro"
+    },
+    {
+      "name": "Dominika Moskal"
+    },
+    {
+      "name": "Aneta Liman\u00c3\u00b3wka"
+    },
+    {
+      "name": "Anna Kostrzewska"
+    },
+    {
+      "name": "Wojtek Biela"
+    },
+    {
+      "name": "Wiktor Soko\u00c5\u0082owski"
+    },
+    {
+      "name": "Anton Kardy\u00c5\u009b"
+    },
+    {
+      "name": "Kuba Habryn"
+    },
+    {
+      "name": "Martyna Wodzi\u00c5\u0084ska"
+    },
+    {
+      "name": "Alicja Paczkowska"
+    },
+    {
+      "name": "Natalia Hetman"
+    },
+    {
+      "name": "Matylda Sudo\u00c5\u0082"
+    },
+    {
+      "name": "Dagmara Jamr\u00c3\u00b3g"
+    },
+    {
+      "name": "Basia Wojciechowska"
+    },
+    {
+      "name": "Mateusz Stasiak"
+    },
+    {
+      "name": "Aleksandra Goleniec"
+    },
+    {
+      "name": "Szymek Urz\u00c4\u0099dowski"
+    },
+    {
+      "name": "Antoni \u00c5\u00bbminkowski"
+    },
+    {
+      "name": "Paulina Smuczek"
+    },
+    {
+      "name": "Jakub Dera"
+    },
+    {
+      "name": "Karolina Master"
+    },
+    {
+      "name": "Artur Szybalski"
+    },
+    {
+      "name": "Norbert Byrgiel"
+    },
+    {
+      "name": "Anna Rzeszutko"
+    },
+    {
+      "name": "Joanna Pac\u00c5\u0082awska"
+    },
+    {
+      "name": "Kasia Nowak"
+    },
+    {
+      "name": "Laura Matwiejczyk"
+    },
+    {
+      "name": "Izabella Pod\u00c5\u0082\u00c4\u0099cka"
+    },
+    {
+      "name": "Karolina Bro\u00c5\u00bcek"
+    },
+    {
+      "name": "Magda Kwiatkowska"
+    },
+    {
+      "name": "Mo Nia"
+    },
+    {
+      "name": "Marietta Nowaczyk"
+    },
+    {
+      "name": "Wiktoria Kwiatek"
+    },
+    {
+      "name": "Jolanta Wielgosz"
+    },
+    {
+      "name": "Laura Kardasz"
+    },
+    {
+      "name": "Kasia Gwi\u00c5\u00bcd\u00c5\u00bc"
+    },
+    {
+      "name": "Zuzanna Gatner"
+    },
+    {
+      "name": "Alicja Kmak"
+    },
+    {
+      "name": "Adrianna Wojnicka"
+    },
+    {
+      "name": "Ania Mochalska"
+    },
+    {
+      "name": "Weronika R\u00c4\u0099kas"
+    },
+    {
+      "name": "Aga Stec"
+    },
+    {
+      "name": "Zuzia Gozdur"
+    },
+    {
+      "name": "Magda Madlen"
+    },
+    {
+      "name": "Amelia Niezgoda"
+    },
+    {
+      "name": "Kacper Matera"
+    },
+    {
+      "name": "Weronika Janus"
+    },
+    {
+      "name": "Kasia Fus"
+    },
+    {
+      "name": "Daniel Branny"
+    },
+    {
+      "name": "Iga Zawicka"
+    },
+    {
+      "name": "Gabriel Wy\u00c5\u00bcga"
+    },
+    {
+      "name": "Milena Borecka"
+    },
+    {
+      "name": "Zuza Stachowska"
+    },
+    {
+      "name": "Isabel Pietras"
+    },
+    {
+      "name": "Amelia Jankowska"
+    },
+    {
+      "name": "Inga Micek"
+    },
+    {
+      "name": "Jola Niemiec"
+    },
+    {
+      "name": "Joanna Szmy\u00c5\u0082a"
+    },
+    {
+      "name": "Florentyna Zakrzewska"
+    },
+    {
+      "name": "Julia Konopka"
+    },
+    {
+      "name": "Agnieszka Olszewska"
+    },
+    {
+      "name": "Klaudia Jurkowska"
+    },
+    {
+      "name": "Wiktoria Kordu\u00c5\u0082a"
+    },
+    {
+      "name": "Gosia Ga\u00c5\u0082ka"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Rozmys\u00c5\u0082owski"
+    },
+    {
+      "name": "Ola S\u00c5\u0082abo\u00c5\u0084"
+    },
+    {
+      "name": "Zosia Go\u00c5\u00badzik"
+    },
+    {
+      "name": "Nadia Niesporek"
+    },
+    {
+      "name": "Faustyna Nowak"
+    },
+    {
+      "name": "Pawe\u00c5\u0082 Starzomski"
+    },
+    {
+      "name": "Jacek Musia\u00c5\u0082"
+    },
+    {
+      "name": "Jagoda Szrek"
+    },
+    {
+      "name": "Alicja Ewa Dubiel"
+    },
+    {
+      "name": "Izabela Burska"
+    },
+    {
+      "name": "Daria Jura"
+    },
+    {
+      "name": "Ania Szkliniarz"
+    },
+    {
+      "name": "Wiktoria Jaworska"
+    },
+    {
+      "name": "Daria Duda"
+    },
+    {
+      "name": "Aleksandra Smus"
+    },
+    {
+      "name": "Danusia Morzywo\u00c5\u0082ek"
+    },
+    {
+      "name": "Tomek Augustynowicz"
+    },
+    {
+      "name": "Natalia Gilewska"
+    },
+    {
+      "name": "Agata Ho\u00c5\u0082dak"
+    },
+    {
+      "name": "Liwia Kosak"
+    },
+    {
+      "name": "U\u00c5\u00bcytkownik Facebooka"
+    },
+    {
+      "name": "Agnieszka Ruchwa"
+    },
+    {
+      "name": "Alicja Chabko"
+    },
+    {
+      "name": "Agata Wilusz"
+    },
+    {
+      "name": "Olivia S\u00c4\u0085dej"
+    },
+    {
+      "name": "Natalia Starzyk"
+    },
+    {
+      "name": "Kasia Ksepko"
+    },
+    {
+      "name": "Katarzyna Kuriata"
+    },
+    {
+      "name": "Zuzanna Malada"
+    },
+    {
+      "name": "Kinga Porzycka"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Alina Tymi\u00c5\u0084ska"
+    },
+    {
+      "name": "Maria Janoci\u00c5\u0084ska"
+    },
+    {
+      "name": "Zuzanna Machota"
+    },
+    {
+      "name": "Natalia Kaczmarek"
+    },
+    {
+      "name": "Gabriela Pietras"
+    },
+    {
+      "name": "Marcelina Francuz"
+    },
+    {
+      "name": "Gabriela Jarosz"
+    },
+    {
+      "name": "Marianna Ernst"
+    },
+    {
+      "name": "Aleksandra Franiek"
+    },
+    {
+      "name": "Wiktoria Piras"
+    },
+    {
+      "name": "Alicja Bogdan"
+    },
+    {
+      "name": "Marlena Ogos"
+    },
+    {
+      "name": "Otylia Kobielarz"
+    },
+    {
+      "name": "Kacper Grzywna"
+    },
+    {
+      "name": "Martyna Pra\u00c5\u009bniewska"
+    },
+    {
+      "name": "Karolina F\u00c4\u0085frowicz"
+    },
+    {
+      "name": "Marta Kostrzewska"
+    },
+    {
+      "name": "Agata Mysona"
+    },
+    {
+      "name": "Diana Cie\u00c5\u009bla"
+    },
+    {
+      "name": "Miko\u00c5\u0082aj Iwaniuk"
+    },
+    {
+      "name": "Nina Osi\u00c5\u0084ska"
+    },
+    {
+      "name": "Ma\u00c5\u0082gosia Pieczonka"
+    },
+    {
+      "name": "Alicja Bazan"
+    },
+    {
+      "name": "Ewa Sroka"
+    },
+    {
+      "name": "Anna Kope\u00c4\u0087"
+    },
+    {
+      "name": "Bart\u00c5\u0082omiej Matyszkowicz"
+    },
+    {
+      "name": "Amelia Dzia\u00c5\u0082o"
+    },
+    {
+      "name": "Emilia Malada"
+    },
+    {
+      "name": "Oliwia Kaczor"
+    },
+    {
+      "name": "Julia Kot"
+    },
+    {
+      "name": "Aleksandra Miera"
+    },
+    {
+      "name": "Julia Paciorek"
+    },
+    {
+      "name": "Julia Dardzi\u00c5\u0084ska"
+    },
+    {
+      "name": "Natalia Pindel"
+    },
+    {
+      "name": "Monia Kwiecie\u00c5\u0084"
+    },
+    {
+      "name": "Karolina Kulpa"
+    },
+    {
+      "name": "Wiktoria G\u00c3\u00b3rska"
+    },
+    {
+      "name": "Dominik Lech"
+    },
+    {
+      "name": "Roma Paulina Foremny"
+    },
+    {
+      "name": "Anna Rachowicz"
+    },
+    {
+      "name": "Alina Shelemekh"
+    },
+    {
+      "name": "Gabriela L\u00c4\u0085d"
+    },
+    {
+      "name": "Ania Gurba"
+    },
+    {
+      "name": "Amelia Oramus"
+    },
+    {
+      "name": "Alicja Kurowska"
+    },
+    {
+      "name": "Aleksandra Nita"
+    },
+    {
+      "name": "Alicja Mirocha"
+    },
+    {
+      "name": "Agnieszka Sural"
+    },
+    {
+      "name": "Weronika Boruch"
+    },
+    {
+      "name": "Wiktoria Chrz\u00c4\u0085stek"
+    },
+    {
+      "name": "Kinga Urz\u00c4\u0099dowska"
+    },
+    {
+      "name": "Kasia Zawada"
+    },
+    {
+      "name": "Hanna Jo\u00c5\u0084czyk"
+    },
+    {
+      "name": "Mariia Reptak"
+    },
+    {
+      "name": "Zuzia Piechniczek"
+    },
+    {
+      "name": "Aleksandra Pasieka"
+    },
+    {
+      "name": "Maks Florek"
+    },
+    {
+      "name": "Aleksandra Piwowarczyk"
+    },
+    {
+      "name": "Magdalena B\u00c4\u0099benek"
+    },
+    {
+      "name": "Julia Kloczkowska"
+    },
+    {
+      "name": "Nina Schubert"
+    },
+    {
+      "name": "Magdalena Ko\u00c5\u0082odziej"
+    },
+    {
+      "name": "Karolina Mikulska"
+    },
+    {
+      "name": "Sylwia Bogacz"
+    },
+    {
+      "name": "Patrycja S\u00c5\u0082owikowska"
+    },
+    {
+      "name": "Aleksandra Lechowicz"
+    },
+    {
+      "name": "Franciszek Rojecki"
+    },
+    {
+      "name": "Dawid Horoszkiewicz"
+    },
+    {
+      "name": "Benedykt D\u00c5\u0082ugosz"
+    },
+    {
+      "name": "Julia Pierz"
+    },
+    {
+      "name": "Adrian Or\u00c5\u0082owski"
+    },
+    {
+      "name": "Gotard G\u00c3\u00b3rz"
+    },
+    {
+      "name": "Julia Sok\u00c3\u00b3\u00c5\u0082"
+    },
+    {
+      "name": "Anna Rachwa\u00c5\u0082"
+    },
+    {
+      "name": "Rafa\u00c5\u0082 Czokaj\u00c5\u0082o"
+    },
+    {
+      "name": "Noemi Zieli\u00c5\u0084ska"
+    },
+    {
+      "name": "Aleksander Brzeg"
+    },
+    {
+      "name": "Jan Kocio\u00c5\u0082ek"
+    },
+    {
+      "name": "Tomek Fr\u00c4\u0085czek"
+    },
+    {
+      "name": "Marianna Nowakowska"
+    },
+    {
+      "name": "Daria Diemidova"
+    },
+    {
+      "name": "Ulyana Mysak"
+    },
+    {
+      "name": "Zuzanna Parcianko"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685638302895,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685625378112,
+      "content": "No i przypominam, \u00c5\u00bce jutro imprezka od zmierzchu do \u00c5\u009bwitu!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kacper Matera"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685625352801,
+      "content": "Wtorek, 6.06, 18:00\n\nSeminarium jungowskie. Temat: Wewn\u00c4\u0099trzne dziecko i zewn\u00c4\u0099trzne dziecko\n\nhttps://www.facebook.com/events/575962101393068",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Dominik W\u00c5\u0082odarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dorota Ruta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685625348851,
+      "content": "Jutro, pi\u00c4\u0085tek, 02.06.2023\n\nPsia agresja. Wyk\u00c5\u0082ad Zoopsychologa, Dogoterapeuty Krzysztofa Boro\u00c5\u0084skiego\n\nhttps://www.facebook.com/events/630083132487091/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciej Kolasa",
+      "timestamp_ms": 1685606167275,
+      "content": "w tym rzecz, w tym rzecz",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Julia Petrovics"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685606127910,
+      "content": "Jaki\u00c5\u009b krakowskich psychologiach czy co\u00c5\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685606107446,
+      "content": "Ale nie piszmy o tym na czatach psycholog\u00c3\u00b3w",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Zosia \u00c5\u00bb\u00c3\u00b3\u00c5\u0082tko-Horyza"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685606090292,
+      "content": "Dok\u00c5\u0082adnieeeeee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685606080056,
+      "content": "No, no",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685605967202,
+      "content": "Wiadomo, \u00c5\u00bce psychologia nie istnieje, tylko nie m\u00c3\u00b3wcie o tym psychologom...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Julia Marianowska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kuba Habryn"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Julia Petrovics"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Amelia Dzia\u00c5\u0082o"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Sara Stefaniszyn"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Dorota Ruta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciej Kolasa",
+      "timestamp_ms": 1685605500235,
+      "content": "bo Girard te\u00c5\u00bc daje nam tropy, \u00c5\u00bce mo\u00c5\u00bce jednak czego\u00c5\u009b takiego nie ma...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciej Kolasa",
+      "timestamp_ms": 1685605445464,
+      "content": "Czym w takim razie jest psychologia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685574624943,
+      "content": "Temat nie stricte psychologiczny, ale\na) Girard mo\u00c5\u00bce mie\u00c4\u0087 m.in. super analizy mechanizm\u00c3\u00b3w koz\u00c5\u0082a ofiarnego\nb) B\u00c4\u0099dzie o nim m\u00c3\u00b3wi\u00c5\u0082 Stawiszy\u00c5\u0084ski, kt\u00c3\u00b3ry zajmuje si\u00c4\u0099 psychologi\u00c4\u0085 (a w ka\u00c5\u00bcdym razie psychoterapi\u00c4\u0085)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Maciej Kolasa"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Dorota Ruta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685574550519,
+      "content": "https://fb.me/e/1bvcbt9V2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685574538652,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/206481392261912.jpg",
+          "creation_timestamp": 1685574537
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685366914675,
+      "content": "31.05, \u00c5\u009broda, 18:00\n\nLACAN: Funkcja i pole m\u00c3\u00b3wienia i mowy w psychoanalizie\n\nhttps://www.facebook.com/events/6205257069591938",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685366885369,
+      "content": "1.06, czwartek (wy\u00c5\u00bcej powinno by\u00c4\u0087 31.05), 12-17\n\n#NEUROMAJ After - dzie\u00c5\u0084 seminari\u00c3\u00b3w studenckich\n\nhttps://www.facebook.com/events/259420866595653",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685366847359,
+      "content": "1.06, \u00c5\u009broda, 17:00\n\n#Skynet czy #Matrix? Od utraty pracy po zag\u00c5\u0082ad\u00c4\u0099 ludzko\u00c5\u009bci - jaki scenariusz napisze dla nas AI?\n\nhttps://www.facebook.com/events/954998289173644",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685366808929,
+      "content": "Jutro, 17:00\n\nNeuronalne korelaty uczenia si\u00c4\u0099 - wyk\u00c5\u0082ad dr Magdy Gaw\u00c5\u0082owskiej\n\nhttps://www.facebook.com/events/926375185134728",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685366788020,
+      "content": "Dzi\u00c5\u009b, 20:00\n\nNowe modele intymno\u00c5\u009bci: zadowolenie i strata w poliamorii i konsensualnych zwi\u00c4\u0085zkach niemonogamiczny\n\nhttps://www.facebook.com/events/556469173304205",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685366771977,
+      "content": "Dzi\u00c5\u009b, 18:00\n\nProf. Wolski: Dwie dusze w jednym m\u00c3\u00b3zgu \n(interakcje mi\u00c4\u0099dzyp\u00c3\u00b3\u00c5\u0082kulowe)\n\nhttps://www.facebook.com/events/207940658251871",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Joanna Szmy\u00c5\u0082a"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685139291203,
+      "content": "Hu hu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685139290805,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/785037089755134.jpg",
+          "creation_timestamp": 1685139289
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Agnieszka Olszewska",
+      "timestamp_ms": 1685126368341,
+      "content": "Agnieszka Olszewska doda\u00c5\u0082a Karolin\u00c4\u0099 Bentkowsk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika Wcis\u00c5\u0082o",
+      "timestamp_ms": 1685114802760,
+      "content": "Weronika Wcis\u00c5\u0082o opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amelia Niezgoda",
+      "timestamp_ms": 1685113465689,
+      "content": "Amelia Niezgoda doda\u00c5\u0082a Weronik\u00c4\u0099 Szaro do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685109952776,
+      "content": "2 czerwca, pi\u00c4\u0085tek  od 17 do rana\n\n-> Dzie\u00c5\u0084 Wewn\u00c4\u0099trznego Dziecka\n-> Impreza z serii Psychosynteza, integracje dla (nie tylko) student\u00c3\u00b3w psychologii\n-> Dom\u00c3\u00b3wka na 100 os\u00c3\u00b3b\n-> w planach m. in. bitwa na poduszki\n\nhttps://fb.me/e/2UvV5NLJq",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kacper Matera"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mateusz Wojnarowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0095",
+          "actor": "Aleksandra Smus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bogdan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dorota Ruta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685037015147,
+      "content": "cudowni jeste\u00c5\u009bcie \u00f0\u009f\u00a5\u00ba\u00f0\u009f\u00a5\u00ba ale jak co\u00c5\u009b to bez spiny, \u00c5\u00bceby Wam to nie ingerowa\u00c5\u0082o w przebieg spotkania i to co chcecie zrobi\u00c4\u0087 na nim - dla nich sam fakt, \u00c5\u00bce b\u00c4\u0099d\u00c4\u0085 mogli wpa\u00c5\u009b\u00c4\u0087 pos\u00c5\u0082ucha\u00c4\u0087, b\u00c4\u0099dzie super opcja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685037008467,
+      "content": "A szkoda, gdyby nabrali niech\u00c4\u0099ci do m\u00c4\u0085dro\u00c5\u009bci psychoanalizy ;)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ewa Chmielarz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julia Petrovics"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685036984642,
+      "content": "I po\u00c5\u0082\u00c4\u0085czenie tego te\u00c5\u00bc z wyk\u00c5\u0082adami mo\u00c5\u00bce by\u00c4\u0087 fajne, bo dostan\u00c4\u0085 r\u00c3\u00b3\u00c5\u00bcne spojrzenia psychologiczne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685036951761,
+      "content": "I za\u00c5\u0082o\u00c5\u00bcenie, \u00c5\u00bce dla nich to b\u00c4\u0099dzie bardzo obce",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685036942134,
+      "content": "Ja bym tylko zadba\u00c5\u0082 o u\u00c5\u00bcywanie prostego j\u00c4\u0099zyka",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685036661502,
+      "content": "sama mo\u00c5\u00bce nawet wpadn\u00c4\u0099 xd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Maciej Kolasa"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685036581799,
+      "content": "ooo super, przeka\u00c5\u00bce!!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciej Kolasa"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciej Kolasa",
+      "timestamp_ms": 1685036511464,
+      "content": "B\u00c4\u0099dziemy czyta\u00c4\u0087 Lacana, b\u00c4\u0099dzie to przyst\u00c4\u0099pne dla m\u00c5\u0082odzie\u00c5\u00bcy licealnej. W sensie serio, bardzo przy ziemi, konkretne rzeczy dotycz\u00c4\u0085ce tego co dzieje si\u00c4\u0099 na analizie",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0095",
+          "actor": "Aleksandra Smus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Agata Mysona"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685035283887,
+      "content": "oba wyk\u00c5\u0082ady ostatnio maj\u00c4\u0085 ma\u00c5\u0082\u00c4\u0085 frekwencj\u00c4\u0099 afaik",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Miko\u00c5\u0082aj Kleczaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685035271942,
+      "content": "no w sumie, o ile nie b\u00c4\u0099dzie problemu \u00c5\u00bce pewnie z 20-30 os\u00c3\u00b3b z zewn\u00c4\u0085trz wpadnie, napisz\u00c4\u0099 do prowadz\u00c4\u0085cych ewentualnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685034996195,
+      "content": "Wiadomo, \u00c5\u00bce najlepiej jakby Dobro mia\u00c5\u0082 wtedy wyk\u00c5\u0082ad, ale Ste\u00c4\u0087 - my\u00c5\u009bl\u00c4\u0099 - te\u00c5\u00bc nie\u00c5\u00bale t\u00c4\u0099 latoro\u00c5\u009bl do psychologii zach\u00c4\u0099ci. ; D",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joanna Szmy\u00c5\u0082a"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Jurkowska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0095",
+          "actor": "Aleksandra Smus"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685034945216,
+      "content": "jak si\u00c4\u0099 nie znajdzie nic innego to przekazeee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685034935195,
+      "content": "rozwojowka to ze mn\u00c4\u0085 hihi, ale nie no w\u00c4\u0085tpi\u00c4\u0099 \u00c5\u00bce to dobry pomyslXD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Lechowicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1685034895184,
+      "content": "Mo\u00c5\u00bce ich wzi\u00c4\u0085\u00c4\u0087 na spo\u00c5\u0082eczn\u00c4\u0085, rozwoj\u00c3\u00b3wk\u00c4\u0099 lub oblicza grozy w badaniach naukowych. ; D\n\nhttps://www.usosweb.uj.edu.pl/kontroler.php?_action=katalog2/jednostki/pokazSale&sala_id=48",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685034776336,
+      "content": "o dobra to Maciek b\u00c4\u0099dzie wiedzia\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685034769261,
+      "content": "a kojarzysz, co planuj\u00c4\u0085/planujecie? i czy b\u00c4\u0099dzie to przyst\u00c4\u0099pne wiedzowo dla os\u00c3\u00b3b, kt\u00c3\u00b3re de facto dopiero sko\u00c5\u0084czy\u00c5\u0082y liceum?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685034762204,
+      "content": "Summon @Maciej Kolasa",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0094\u00ae",
+          "actor": "Norbert Byrgiel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685034739818,
+      "content": "UJ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1685034715622,
+      "content": "Chyba widzi si\u00c4\u0099 Sekcja Psychoanalitycza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Smus",
+      "timestamp_ms": 1685034657446,
+      "content": "hej, czy dzieje si\u00c4\u0099 co\u00c5\u009b w \u00c5\u009brod\u00c4\u0099 7.06?\n\nMoja dobra kole\u00c5\u00bcanka z neurobiologii m\u00c3\u00b3wi\u00c5\u0082a mi, \u00c5\u00bce wtedy przyje\u00c5\u00bcd\u00c5\u00bca do Krakowa psycholog z jej liceum z Warszawy wraz z maturzystami. S\u00c4\u0085 oni zainteresowani psychologi\u00c4\u0085 i chcieliby wpa\u00c5\u009b\u00c4\u0087 na jakie\u00c5\u009b wydarzenie. Mo\u00c5\u00bce by\u00c4\u0087 wyk\u00c5\u0082ad otwarty, mo\u00c5\u00bce jaka\u00c5\u009b sekcja Ko\u00c5\u0082a te\u00c5\u00bc chcia\u00c5\u0082aby co\u00c5\u009b zrobi\u00c4\u0087, lub w\u00c5\u0082a\u00c5\u009bnie robi co\u00c5\u009b, na co zapragn\u00c4\u0099\u00c5\u0082aby przyj\u00c4\u0085\u00c4\u0087 widowni\u00c4\u0099?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dominik W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684953611014,
+      "content": "Dominik W\u00c5\u0082odarczyk doda\u00c5\u0082 Artura Szybalskiego do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dominik W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684949598481,
+      "content": "Dominik W\u00c5\u0082odarczyk doda\u00c5\u0082 Sar\u00c4\u0099 Owsianowsk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dominik W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684949435870,
+      "content": "Dominik W\u00c5\u0082odarczyk doda\u00c5\u0082 Ew\u00c4\u0099 Chmielarz i 2 innych u\u00c5\u00bcytkownik\u00c3\u00b3w do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684949099049,
+      "content": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj doda\u00c5\u0082 Dominika W\u00c5\u0082odarczyka do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Efir",
+      "timestamp_ms": 1684938069685,
+      "content": "Aleksandra Efir opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Ku\u00c5\u009b",
+      "timestamp_ms": 1684937367429,
+      "content": "Aleksandra Ku\u00c5\u009b doda\u00c5\u0082a Juli\u00c4\u0099 Lasek do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684933181606,
+      "content": "Klasycznie psychologicznie - kole\u00c5\u00bcanka poszukuje badanych do badania magisterskiego. Powinno zaj\u00c4\u0085\u00c4\u0087 max 15 minut. Pom\u00c3\u00b3\u00c5\u00bccie, prosz\u00c4\u0099! Odpowiedzcie/po\u00c5\u009blijcie dalej.\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSdknm6DdvvFF5MkxkTwQNhQAETu2GtKuq6zkdpDQ8ndgRyBAw/viewform",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684913304868,
+      "content": "Dzisiaj, 26.05, \u00c5\u009broda, 18:00\n\nSekcja Psychoanalityczna KNSP UJ zaprasza na HISTERIE\n\nhttps://facebook.com/events/s/w-kwestii-etiologii-histerii-c/264179809430117/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684852593538,
+      "content": "Dzisiaj, 23.05, wtorek, 18:00\n\nWsp\u00c3\u00b3\u00c5\u0082cze\u00c5\u009bci jungi\u00c5\u009bci o aktywnej imaginacji i pracy ze sztuk\u00c4\u0085 w terapii\n\nhttps://www.facebook.com/events/616320793507275",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joanna Kaczor",
+      "timestamp_ms": 1684835544730,
+      "content": "Portret*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joanna Kaczor",
+      "timestamp_ms": 1684835524300,
+      "content": "na wydarzenie obowi\u00c4\u0085zuj\u00c4\u0085 zapisy przez formularz podany w opisie, poniewa\u00c5\u00bc liczba miejsc jest ograniczona!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joanna Kaczor",
+      "timestamp_ms": 1684835503873,
+      "content": "Cze\u00c5\u009b\u00c4\u0087! Zapraszam na ostatnie w tym roku akademickim wydarzenie organizowane przez Psychotek\u00c4\u0099 Cz\u00c5\u0082owieka. B\u00c4\u0099dziemy ogl\u00c4\u0085da\u00c4\u0087 film \u00e2\u0080\u009ePortrwt kobiety w ogniu\u00e2\u0080\u009d, a nast\u00c4\u0099pnie prowadzi\u00c4\u0087 na jego temat dyskusj\u00c4\u0099 z mgr Kaj\u00c4\u0085 G\u00c5\u0082omb\n\nhttps://facebook.com/events/s/portret-kobiety-w-ogniu-z-psyc/793336595663631/",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matylda Zubowicz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Klaudia Jurkowska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wojciech Krakowiak"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Kurowska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kasia Zawada"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684791984786,
+      "content": "23.05, wtorek, 17:00\n\nDlaczego neuroobrazowanie jest przereklamowane? \n\nhttps://www.facebook.com/events/630491058925365/",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0096\u00a4",
+          "actor": "Dominika Moskal"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gotard G\u00c3\u00b3rz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dorota Ruta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelina Francuz",
+      "timestamp_ms": 1684679428773,
+      "content": "Hejka! W Instytucie Psychologii UJ prowadzone s\u00c4\u0085 badanie EEG i poszukiwane s\u00c4\u0085 osoby ch\u00c4\u0099tne do wzi\u00c4\u0099cia udzia\u00c5\u0082u w badaniu. Badanie trwa ok. 2 godzin w Instytucie Psychologii UJ (ul. Romana Ingardena 6). Wynagrodzenie za wzi\u00c4\u0099cie udzia\u00c5\u0082u to 70 z\u00c5\u0082. \nJe\u00c5\u009bli kto\u00c5\u009b chce si\u00c4\u0099 zapisa\u00c4\u0087 a tak\u00c5\u00bce uzyska\u00c4\u0087 wi\u00c4\u0099cej szczeg\u00c3\u00b3\u00c5\u0082\u00c3\u00b3w to niech pisze na mail: lipe.ipsuj@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustaw Kopras"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mateusz Wojnarowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wiktoria Kordu\u00c5\u0082a"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Hejduk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joanna Kaczor"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kasia Zawada"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dominik Lech",
+      "timestamp_ms": 1684672024683,
+      "content": "19.05 poniedzia\u00c5\u0082ek 11:20\n\nZapraszam serdecznie na spotkanie z cyklu 10 spotka\u00c5\u0084 10 psycholog\u00c3\u00b3w. Na tym spotkaniu pojawi si\u00c4\u0099 psychoterapeutka i opowie o swoim zawodzie oraz jak go zdoby\u00c4\u0087.\n\nhttps://fb.me/e/3DDqbLLJa",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684669606492,
+      "content": "27.05, sobota, 9:30\n\nKonferencja Seksuologiczna PTSF UJ CM (darmowa)\n\nhttps://www.facebook.com/events/948781129493594/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684563913509,
+      "content": "27.05, sobota, 17:00\n\nWarsztaty asertywnej komunikacji \"Powiedz to asertywnie\"\n\nhttps://www.facebook.com/events/179739108371229",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684562366193,
+      "content": "26.05, pi\u00c4\u0085tek, 18:00\n\nJak by\u00c4\u0087 samotnym? - dyskusja z prof. Tarnowskim\n\nhttps://www.facebook.com/events/619880303389673",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684562361405,
+      "content": "25.05, czwartek, 18:30 \n\nOpioidy: konieczne leki, zab\u00c3\u00b3jcze narkotyki - debata\n\nhttps://www.facebook.com/events/779591973705755",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684562346557,
+      "content": "23.05, wtorek, 18:00\n\nSekcja Psychoterapii Sensorium zaprasza na kolejne z cyklu spotkanie wok\u00c3\u00b3\u00c5\u0082 wsp\u00c3\u00b3\u00c5\u0082czesnej psychologii analitycznej: tym razem o podejmowaniu dialogu ze \u00c5\u009bwiatem wewn\u00c4\u0099trznym poprzez sztuk\u00c4\u0099\n\nhttps://www.facebook.com/events/616320793507275",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684562325651,
+      "content": "22.05, poniedzia\u00c5\u0082ek, 14:00\n\nSekcja Psychoterapii Sensorium zaprasza na spotkanie z psychoterapeutk\u00c4\u0085 CBT\n\nhttps://www.facebook.com/events/746453293627890",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1684173895173,
+      "content": "Wprawdzie w Warszawie, ale jest te\u00c5\u00bc online (a ja si\u00c4\u0099 wybieram na stacjonarne)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1684173879817,
+      "content": "Jak czytali\u00c5\u009bcie I tekst o kulturze terapeutycznej na KJ, to b\u00c4\u0099dzie dyskusja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1684173851448,
+      "content": "https://www.facebook.com/events/254112770445203/?active_tab=discussion",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gosia Pi\u00c4\u0099tka",
+      "timestamp_ms": 1684170105697,
+      "content": "Ma\u00c5\u0082gosia Pi\u00c4\u0099tka doda\u00c5\u0082a Paul\u00c4\u0099 Ryzlak do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684158278684,
+      "content": "\u00c5\u009aroda, 17.05, 20:00\nCia\u00c5\u0082o z obrazu a cia\u00c5\u0082o m\u00c3\u00b3wi\u00c4\u0085ce\n\nSpotkanie z psychoanalitykiem lacanowskim, superwizork\u00c4\u0085, Prezesk\u00c4\u0085 Ko\u00c5\u0082a Krakowskiego Psychoanalizy NLS, Alin\u00c4\u0085 Henzel-Korzeniowsk\u00c4\u0085 o cielesno\u00c5\u009bci w psychoanalizie\n\nhttps://www.facebook.com/events/924821715438343",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1684158265199,
+      "content": "Dzi\u00c5\u009b, 18:30\nJak TO robi\u00c4\u0087 na smutno \u00e2\u0080\u0093 seks, depresja, farmakoterapia\n\nhttps://www.facebook.com/events/3311088972514950",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustaw Kopras"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Janek \u00c5\u0081acny",
+      "timestamp_ms": 1684012044319,
+      "content": "Cze\u00c5\u009b\u00c4\u0087 Janek! Jutro jest dla mnie dzie\u00c5\u0084 - jak wiesz od 4 lat pracuj\u00c4\u0099 nad Empatify i nad tym, \u00c5\u00bceby stworzy\u00c4\u0087 bezp\u00c5\u0082atna aplikacj\u00c4\u0099 do nauki emocji i empatii dla ka\u00c5\u00bcdego. Takie duolingo do j\u00c4\u0099zyka serca ;)  \n\nJutro robi\u00c4\u0099 live na kt\u00c3\u00b3rym o niej opowiem i jednocze\u00c5\u009bnie jest to start akcji crowdfundingow\u00c4\u0085 na jej doko\u00c5\u0084czenie. Aplikacja jest bezp\u00c5\u0082atna ale nie bezkosztowa - do tej pory finansowa\u00c5\u0082em j\u00c4\u0085 z prywatnych \u00c5\u009brodk\u00c3\u00b3w, kt\u00c3\u00b3re si\u00c4\u0099 sko\u00c5\u0084czy\u00c5\u0082y. \n\nJe\u00c5\u00bceli podoba Ci si\u00c4\u0099 pomys\u00c5\u0082 bezp\u00c5\u0082atnej aplikacji do nauki rozumienia siebie i i innych, do nauki j\u00c4\u0099zyka emocji i empatii, lub po prostu masz ochot\u00c4\u0099 pom\u00c3\u00b3c ziomkowi w realizacji wa\u00c5\u00bcnego projektu - zapro\u00c5\u009b znajomych na jutrzejszego live \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\n\nJe\u00c5\u00bceli chcemy \u00c5\u00bcy\u00c4\u0087 w bardziej empatycznym i \u00c5\u00bcyczliwym \u00c5\u009bwiecie, to trzeba temu pom\u00c3\u00b3c. Potrzebujemy t\u00c5\u0082umu, \u00c5\u00bceby to si\u00c4\u0099 uda\u00c5\u0082o a bez wsparcia to si\u00c4\u0099 po prostu nie uda \u00f0\u009f\u0098\u0087\n\nZajrzyj i sam oce\u00c5\u0084: \nhttps://www.facebook.com/events/781254793287361",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kuba Habryn"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Anna Rzeszutko"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Jurkowska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Petrovics"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joanna Kaczor",
+      "timestamp_ms": 1683995923917,
+      "content": "Dok\u00c5\u0082adnie tak, a jako organizatorka chcia\u00c5\u0082am jeszcze doda\u00c4\u0087, \u00c5\u00bce ka\u00c5\u00bcdy kto chce przyj\u00c5\u009b\u00c4\u0087 musi wype\u00c5\u0082ni\u00c4\u0087 formularz Google, kt\u00c3\u00b3ry znajduje si\u00c4\u0099 w opisie wydarzenia!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683985784256,
+      "content": "26 maja, pi\u00c4\u0085tek, 17:00\nPsychoteka, spotkanie z filmem\n\nGo\u00c5\u009b\u00c4\u0087 specjalny: dr Piotr Passowicz\n\nhttps://facebook.com/events/s/kobieta-na-dachu-z-psychoteka/923106269092407/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wojciech Krakowiak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina F\u00c4\u0085frowicz",
+      "timestamp_ms": 1683965294461,
+      "content": "Karolina F\u00c4\u0085frowicz doda\u00c5\u0082a Jana Kocio\u00c5\u0082ka do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dominik Lech",
+      "timestamp_ms": 1683920498572,
+      "content": "W ostatnim czasie pojawi\u00c5\u0082 si\u00c4\u0099 problem z funkcjonowaniem Centrum Seniora na ul. Olsza\u00c5\u0084skiej 5 w Krakowie. Inicjatywa jest bardzo wa\u00c5\u00bcna ze wzgl\u00c4\u0099du na niewielk\u00c4\u0085 dost\u00c4\u0099pno\u00c5\u009b\u00c4\u0087 tego typu miejsc dla os\u00c3\u00b3b starszych choruj\u00c4\u0085cych psychicznie. Niestety czynsz, kt\u00c3\u00b3ry obecnie Stowarzyszenie na Rzecz Rozwoju Psychiatrii i Opieki \u00c5\u009arodowiskowej ponosi za wynajem lokalu jest bardzo wysoki gdy\u00c5\u00bc jest to czynsz komercyjny. Petycja, kt\u00c3\u00b3r\u00c4\u0085 wysy\u00c5\u0082am poni\u00c5\u00bcej jest skierowana do Marsza\u00c5\u0082ka Wojew\u00c3\u00b3dztwa Ma\u00c5\u0082opolskiego z pro\u00c5\u009bb\u00c4\u0085 o obni\u00c5\u00bcenie czynszu z ceny komercyjnej do ceny przeznaczonej dla organizacji non-profit.\n\nSzczeg\u00c3\u00b3\u00c5\u0082owy kosztorys znajduje si\u00c4\u0099 w opisie petycji (trzeba klikn\u00c4\u0085\u00c4\u0087 \"poka\u00c5\u00bc wi\u00c4\u0099cej\")\n\nBardzo prosz\u00c4\u0099 o przekazanie informacji osobom zwi\u00c4\u0085zanym z psychologi\u00c4\u0085 (Ko\u00c5\u0082a Naukowe, studenci psychologii, osoby zaanga\u00c5\u00bcowane w dzia\u00c5\u0082alno\u00c5\u009b\u00c4\u0087 zwi\u00c4\u0085zan\u00c4\u0085 z pomoc\u00c4\u0085 psychologiczn\u00c4\u0085). Je\u00c5\u009bli uda si\u00c4\u0099 zainteresowa\u00c4\u0087 ludzi ze \u00c5\u009brodowiska psychologicznego to jest mo\u00c5\u00bcliwe uratowanie Centrum Seniora.\n\nhttps://www.petycjeonline.com/petycja_marszaka_wojewodztwa_maopolskiego_o_ratowanie_centrum_seniora_dla_osob_chorujcych_psychicznie_w_krakowie",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matylda Zubowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kacper Matera"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gabrysia Polowczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Petrovics"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0095",
+          "actor": "Aleksandra Smus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Zuzia Kraczka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Zuzanna Malada"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Emilia \u00c5\u00bbelazko"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Anna Kope\u00c4\u0087"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0097",
+          "actor": "Amelia Dzia\u00c5\u0082o"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ania Gurba"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kasia Zawada"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dorota Ruta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wiktoria Kordu\u00c5\u0082a",
+      "timestamp_ms": 1683797091001,
+      "content": "Dzi\u00c5\u009b, tj 11 maja o 17:30 zapraszam w imieniu All In UJ do Artefakt Cafe na Psychology Talks: Jak cierpi\u00c4\u0085 bliscy uzale\u00c5\u00bcnionych? Porozmawiajmy o wsp\u00c3\u00b3\u00c5\u0082uzale\u00c5\u00bcnieniu\n\nhttps://facebook.com/events/s/psychology-talks-jak-cierpia-b/972287823792909/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matylda Zubowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustaw Kopras"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Zuzanna Gatner"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Daniel Branny"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0095",
+          "actor": "Aleksandra Smus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Lechowicz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683641940466,
+      "content": "29.05, 20:00\nNowe modele intymno\u00c5\u009bci: zadowolenie i strata w poliamorii i konsensualnych zwi\u00c4\u0085zkach niemonogamicznych\nhttps://www.facebook.com/events/556469173304205",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Daria R\u00c3\u00b3\u00c5\u00bca\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Starzyk",
+      "timestamp_ms": 1683628979133,
+      "content": "Natalia Starzyk doda\u00c5\u0082a Ma\u00c5\u0082gosi\u00c4\u0099 Pi\u00c4\u0099tk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683628955236,
+      "content": "I tak na boku: polecam Kr\u00c3\u00b3lestwo Bez Kresu - niezwyk\u00c5\u0082e miejsce",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683628933908,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/751736563107347.jpg",
+          "creation_timestamp": 1683628931
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683628902936,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/254405603645821.jpg",
+          "creation_timestamp": 1683628900
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683628898249,
+      "content": "https://facebook.com/events/s/herbata-z-lipa-temat-wyobrazni/3670729499882817/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683623832663,
+      "content": "Dzi\u00c5\u009b o Polifonii Psychicznej na podstawie ksi\u00c4\u0085\u00c5\u00bcki \"Uzdrawiaj\u00c4\u0085ce Fikcje\" Jamesa Hillmana\n\n18:00, Ingardena 4, sala 306\n\nSekcja Psychoterapii Sensorium zaprasza!\n\nhttps://www.facebook.com/events/747930593490130",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Starzyk",
+      "timestamp_ms": 1683548738474,
+      "content": "Gdyby kto\u00c5\u009b z Was chcia\u00c5\u0082 sprzeda\u00c4\u0087 to jestem zainteresowana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Starzyk",
+      "timestamp_ms": 1683548719840,
+      "content": "Dzie\u00c5\u0084 dobry, kupi\u00c4\u0099 ksi\u00c4\u0085\u00c5\u00bcki:\nGa\u00c5\u0082ecki P. (2022). badanie stanu psychicznego. rozpoznanie wg ICD 11\nAugustynek A. 2015 Psychopatologia cz\u00c5\u0082owieka doros\u00c5\u0082ego. DSM V",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683504909367,
+      "content": "Wyk\u00c5\u0082ad w ramach Copernicus Festival",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kasia Zawada"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683504879644,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/227716416536050.png",
+          "creation_timestamp": 1683504877
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kasia Zawada"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683396290323,
+      "content": "Maciek Radecki doda\u00c5\u0082 Dari\u00c4\u0099 R\u00c3\u00b3\u00c5\u00bca\u00c5\u0084sk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683395338352,
+      "content": "10.05, \u00c5\u009broda, 18:30\n Seksualno\u00c5\u009b\u00c4\u0087 a j\u00c4\u0099zyk. Jak j\u00c4\u0099zyk kszta\u00c5\u0082tuje nasz\u00c4\u0085 seksualno\u00c5\u009b\u00c4\u0087 i odwrotnie\nhttps://www.facebook.com/events/743760837446576",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustaw Kopras"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683395336858,
+      "content": "12.05, pi\u00c4\u0085tek, 20:00\nKsi\u00c4\u0099\u00c5\u00bcniczka i ziarnko grochu. Psychoanalityczne refleksje nad szale\u00c5\u0084stwem\nhttps://www.facebook.com/events/142582705288944",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683395328761,
+      "content": "12.05, pi\u00c4\u0085tek, 10:00\nKonferencja Psychor\u00c3\u00b3\u00c5\u00bcno\u00c5\u009bci\nhttps://www.facebook.com/events/1102007237176472",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683395324021,
+      "content": "9.05, wtorek, 18:00\nLogoterapia: Jak Media i Big Pharma oddzia\u00c5\u0082uj\u00c4\u0085 na zjawisko depresji i my\u00c5\u009bli samob\u00c3\u00b3jczych?\nhttps://www.facebook.com/events/1882671048777932",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683395319089,
+      "content": "8.05, poniedzia\u00c5\u0082ek, 18:30\nCzytaj\u00c4\u0085 Deleza, tw\u00c3\u00b3rc\u00c4\u0099 schizoanalizy, kliniki La Borde\nhttps://www.facebook.com/events/897012118070502",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683395311583,
+      "content": "13.05, sobota-niedziela, 18:00\nWarsztaty Od czucia do ta\u00c5\u0084ca, de facto: wprowadzenie do choreoterapii, arteterapii ruchem\nhttps://www.facebook.com/events/752253416563803",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683395300897,
+      "content": "9.05, wtorek, 18:00\nDyskusje Jungowskie - tym razem: Wielog\u00c5\u0082os w psychice\nhttps://www.facebook.com/events/747930593490130",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683395295436,
+      "content": "Dziej\u00c4\u0085 si\u00c4\u0099 rzeczy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683395268792,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Agnieszka Olszewska",
+      "timestamp_ms": 1683394306620,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1683356896774,
+      "content": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj doda\u00c5\u0082 Anet\u00c4\u0099 Liman\u00c3\u00b3wk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683325173471,
+      "content": "Zapraszam do czynnego i biernego udzia\u00c5\u0082u ;) - tematy mog\u00c4\u0085 by\u00c4\u0087 z pograniczna teologii i innych nauk (w tym psychologii!)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kacper Matera"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Antoni Miko\u00c5\u0082ajczak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683325101169,
+      "content": "https://fb.me/e/QiOM6x5n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683325088071,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/6047234668721033.jpg",
+          "creation_timestamp": 1683325087
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Wrona",
+      "timestamp_ms": 1683237216966,
+      "content": "Wydarzenie z cyklu \u00e2\u0080\u009ePorozmawiajmy o ADHD\u00e2\u0080\u009d realizowane przez Sekcj\u00c4\u0099 Psychoterapii Ko\u00c5\u0082a Naukowego Student\u00c3\u00b3w Psychologii UJ: https://facebook.com/events/s/porozmawiajmy-o-adhd/967934221030501/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia \u00c5\u0081ukaszczyk"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0098",
+          "actor": "Weronika Dudzik"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Jurkowska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0095",
+          "actor": "Aleksandra Smus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683236747884,
+      "content": "12 maja na Ignatianum",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683236736383,
+      "content": "Konferencja psychologiczno-prawna o obliczach przemocy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1683236714416,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/631823838392737.jpg",
+          "creation_timestamp": 1683236712
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u00aa",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Kaniewska",
+      "timestamp_ms": 1682589478183,
+      "content": "\u00c5\u009alunsk zaprasza \u00f0\u009f\u0099\u0083",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u00a9\u00e2\u0080\u008d\u00f0\u009f\u008f\u00ad",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1682588160078,
+      "content": "Niby Katowice, ale tylko godzina od Krakowa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1682588137618,
+      "content": "https://evenea.pl/pl/wydarzenie/slaskizaglebieprzeciwdepresji",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Branny",
+      "timestamp_ms": 1682534934884,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1682532223258,
+      "content": "26-28 maja, pi\u00c4\u0085tek-sobota\nLAWINA\nWyjazd integracyjny psychologii/mini-konferencja/wypad w g\u00c3\u00b3ry \nOrganizowany przez ko\u00c5\u0082o z UJ, ale otwarty dla wszystkich psychologii ; )\nBardzo polecam!\nhttps://www.facebook.com/events/3367369643483839",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia \u00c5\u0081ukaszczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Laura Kardasz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1682425339462,
+      "content": "27.04, czwartek, 19:30\nPsychologia sportu dzieci\n\nhttps://facebook.com/events/s/psychologia-sportu-dzieci-spot/1336844813527808/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kuba Celij"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Laura Kardasz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Joanna Szmy\u00c5\u0082a"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marynia Aposto\u00c5\u0082",
+      "timestamp_ms": 1682346903237,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1682321155363,
+      "content": "A w czwartek, 27.04, 20:15\nLogoterapia!\nKo\u00c5\u0082o Naukowe Arche dalej czyta Frankla \"Cz\u00c5\u0082owiek w poszukiwaniu sensu\"\nhttps://www.facebook.com/events/3049945628631590/3049945641964922",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matylda Zubowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1682310943408,
+      "content": "25.04, wtorek, 18:00\nSpotkania z psychologi\u00c4\u0085 jungowsk\u00c4\u0085: Psychika jako fabu\u00c5\u0082a (psychologia narracyjna w kontekstach jungowskich)\nhttps://www.facebook.com/events/183576997449191",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0097",
+          "actor": "Amelia Dzia\u00c5\u0082o"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1682310938043,
+      "content": "25.04, wtorek, 17:30\nPsycholog w social mediach\nhttps://www.facebook.com/events/745904677026185",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1682310927051,
+      "content": "24.04 (wtorek), 10:30(!)\nPodstawy psychoanalizy lacanowskiej - wyk\u00c5\u0082ad otwarty\nhttps://facebook.com/events/s/podstawy-psychoanalizy-lacanow/1197354820945979/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1682310901131,
+      "content": "Ten tydzie\u00c5\u0084\n\n24.04, poniedzia\u00c5\u0082ek, 18:30\nSpotkania z logoterapi\u00c4\u0085: G\u00c5\u0082os jako ikona akustyczna cz\u00c5\u0082owieka. Psychoterapia za pomoc\u00c4\u0085 pracy z g\u00c5\u0082osem.\nhttps://www.facebook.com/events/726091659214516",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wiktoria Kordu\u00c5\u0082a",
+      "timestamp_ms": 1682184095515,
+      "content": "W imieniu Stowarzyszenia All in UJ zapraszam w poniedzia\u00c5\u0082ek 24 kwietnia o 18.00 do HEVRE na spotkanie autorskie, dotycz\u00c4\u0085ce ksi\u00c4\u0085\u00c5\u00bcki \u00e2\u0080\u009eM\u00c4\u0099ska depresja. Jak rozbi\u00c4\u0087 pancerz.\u00e2\u0080\u009d\nMo\u00c5\u00bcna wygra\u00c4\u0087 ksi\u00c4\u0085\u00c5\u00bcki!\nhttps://facebook.com/events/s/meska-depresja-spotkanie-autor/805699767848395/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustaw Kopras"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aga Stec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0096",
+          "actor": "\u00c5\u0081ucja Szopa"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Marcelina Francuz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1682180888993,
+      "content": "Przypominam, \u00c5\u00bce dzi\u00c5\u009b PsychoIntegracja ; >",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Justyna B\u00c5\u00badziuch"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00c5\u0081ucja Szopa",
+      "timestamp_ms": 1682180840106,
+      "content": "\u00c5\u0081ucja Szopa doda\u00c5\u0082a Pol\u00c4\u0099 Okrajek do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Ewa Dubiel",
+      "timestamp_ms": 1681978871644,
+      "content": "Hej!!! Ju\u00c5\u00bc jutro odb\u00c4\u0099d\u00c4\u0085 si\u00c4\u0099 warsztaty z Panem Andrzejem Golonka. Specjalist\u00c4\u0085, kt\u00c3\u00b3ry pracuje z osobami z ASD i niepe\u00c5\u0082nosprawno\u00c5\u009bciami intelektualnymi od 20 lat. Spotkanie odb\u00c4\u0099dzie si\u00c4\u0099 w godz. 13-17 na UP (Podchor\u00c4\u0085\u00c5\u00bcych 2) w sali 544. Jednak proponuj\u00c4\u0099 przyj\u00c5\u009b\u00c4\u0087 najp\u00c3\u00b3\u00c5\u00baniej o 12:55, \u00c5\u00bceby od 13 m\u00c3\u00b3c zacz\u00c4\u0085\u00c4\u0087.  Temat spotkania: \"3 tr\u00c3\u00b3jk\u00c4\u0085ty - strategia pracy z osobami, kt\u00c3\u00b3re przejawiaj\u00c4\u0085 trudne zachowania\". Jednak s\u00c4\u0085 warunki tj. maksymalna liczba os\u00c3\u00b3b to 20. Ju\u00c5\u00bc 11 miejsc jest zaj\u00c4\u0099tych (przez osoby z ko\u00c5\u0082a SKNWOZA i Sensorium). Co daje 9 wolnych miejsc. Jednak s\u00c4\u0085 wymogi:\n- pewna dyspozycja czasowa w podanym wy\u00c5\u00bcej terminie\n- mile widziane do\u00c5\u009bwiadczenie z towarzyszenia lub pracy z osob\u00c4\u0085 w spektrum\n- przygotowanie teoretyczne = czym jest ASD, jakie s\u00c4\u0085 relacje mi\u00c4\u0099dzy ASD i niepe\u00c5\u0082nosprawno\u00c5\u009bci\u00c4\u0085 intelektualn\u00c4\u0085\n- wiedza z psychologii rozwojowej w zakresie rozwoju dziecka od urodzenia do 7 r.\u00c5\u00bc.\nLiczy si\u00c4\u0099 kolejno\u00c5\u009b\u00c4\u0087 zg\u00c5\u0082osze\u00c5\u0084. Prosi\u00c5\u0082abym o komentarze z odno\u00c5\u009bnikiem, \u00c5\u00bceby \u00c5\u00bcadnego z Was nie pomin\u00c4\u0085\u00c4\u0087 i cieplutko zapraszam!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Norbert Byrgiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Kurowska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1681921915851,
+      "content": "Najmniej z 880 z\u00c5\u0082 (sic!)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1681921907364,
+      "content": "Niestety pot\u00c4\u0099\u00c5\u00bcne op\u00c5\u0082aty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1681921804084,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/gifs/3431606000460228.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1681921787245,
+      "content": "https://facebook.com/events/s/vi-edycja-letniej-szko%C5%82y-psych/764927271841760/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1681913570071,
+      "content": "22.04, TA sobota, 18:00 \nPsychoSynteza\nImpreza Integracyjna (psychologie z co najmniej 5 uczelni i 3 miast b\u00c4\u0099d\u00c4\u0085)\nOtwarta Dom\u00c3\u00b3wka\nTaniec, \u00c5\u009apiew, Bitwa na Poduszki\nZapraszam!\n\nhttps://www.facebook.com/events/540112531438132",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia \u00c5\u0081ukaszczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustaw Kopras"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kacper Matera"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wiktoria Jaworska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0096",
+          "actor": "\u00c5\u0081ucja Szopa"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1681663307012,
+      "content": "17.04, 18:30, poniedzialek\nJak rozpozna\u00c4\u0087 \u00c5\u00bce dziecko mo\u00c5\u00bce prze\u00c5\u00bcywa\u00c4\u0087 traum\u00c4\u0099? Jak s\u00c5\u0082ucha\u00c4\u0087 dziecka? - wyk\u00c5\u0082ad otwarty\n\nhttps://m.facebook.com/story.php?story_fbid=pfbid0ubbKYkGCjMSV7E4Ao9mwUNrWyX9ww5m3MNnjCLoCDhMeGGPf4JyAUnZa1DVt5VmTl&id=100064819625402",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustaw Kopras"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0096",
+          "actor": "\u00c5\u0081ucja Szopa"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Malesa",
+      "timestamp_ms": 1681660851318,
+      "content": "Krzysztof Malesa doda\u00c5\u0082 Agat\u00c4\u0099 Wo\u00c5\u00baniczk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ula Kojzar",
+      "timestamp_ms": 1681658285450,
+      "content": "Ja si\u00c4\u0099 zapisywalam w sobot\u00c4\u0099, podejrzewam \u00c5\u00bce w tygodniu odpisz\u00c4\u0085, je\u00c5\u00bceli b\u00c4\u0099d\u00c4\u0085 wysy\u00c5\u0082a\u00c4\u0087 inf zwrotn\u00c4\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00c5\u0081ucja Szopa"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00c5\u0081ucja Szopa",
+      "timestamp_ms": 1681658029574,
+      "content": "czy kto\u00c5\u009b z was si\u00c4\u0099 zarejestrowa\u00c5\u0082 i dosta\u00c5\u0082 jak\u00c4\u0085\u00c5\u009b informacj\u00c4\u0099 zwrotn\u00c4\u0085?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1681648333156,
+      "content": "24.04, poniedzia\u00c5\u0082ek, 18:30\nLogeterapeutyczne spotkania Logo-Cafe\ntemat: G\u00c5\u0082os jako ikona akustyczna cz\u00c5\u0082owieka. Psychoterapia za pomoc\u00c4\u0085 pracy z g\u00c5\u0082osem.\nhttps://www.facebook.com/events/726091659214516",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Jurkowska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nina Osi\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0097",
+          "actor": "Amelia Dzia\u00c5\u0082o"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dorota Ruta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ula Kojzar",
+      "timestamp_ms": 1681534690134,
+      "content": "Bezp\u00c5\u0082atne seminarium w temacie diagnozowania autyzmu \u00f0\u009f\u0099\u0082 https://www.facebook.com/310513049069600/posts/pfbid0dfEictuZLJisMkhvmAPfky4wHaoFEwVip9shqjsWvwpJZJ6iD1386YmfddhTpp6cl/",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0096",
+          "actor": "\u00c5\u0081ucja Szopa"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antoni Miko\u00c5\u0082ajczak",
+      "timestamp_ms": 1681468825278,
+      "content": "niech \u00c5\u00bcyje szale\u00c5\u0084stwo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kuba Habryn"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Kurowska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1681467986936,
+      "content": "18.04 (wtorek), 10:30(!)*\nPodstawy psychoanalizy lacanowskiej - wyk\u00c5\u0082ad otwarty\nhttps://facebook.com/events/s/podstawy-psychoanalizy-lacanow/1197354820945979/\n\n* - Pragma, co wy z takimi szalonymi godzinami o.0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dorota Ruta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marzena Nowak",
+      "timestamp_ms": 1681415582646,
+      "content": "Marzena Nowak doda\u00c5\u0082a Nadi\u00c4\u0099 Niesporek do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1681325496372,
+      "content": "Studenci Psychologii poszukiwani... w kosmosie\n\n\n\n\"Drogie Kole\u00c5\u00bcanki i Koledzy,\n\nw zwi\u00c4\u0085zku z planowanym naborem do Rady Student\u00c3\u00b3w przy Prezesie Polskiej Agencji Kosmicznej, chcieliby\u00c5\u009bmy ju\u00c5\u00bc teraz oficjalnie zaprosi\u00c4\u0087 Was na kr\u00c3\u00b3tkie spotkanie organizacyjne dotycz\u00c4\u0085ce przebiegu i wymaga\u00c5\u0084 takiej rekrutacji oraz mo\u00c5\u00bcliwo\u00c5\u009bci rozwoju w tych strukturach. \n\nChcemy Wam opowiedzie\u00c4\u0087 co robimy w Radzie i jak rozpocz\u00c4\u0099\u00c5\u0082a si\u00c4\u0099 w niej nasza przygoda, jednocze\u00c5\u009bnie daj\u00c4\u0085c Wam mo\u00c5\u00bcliwo\u00c5\u009b\u00c4\u0087 zadawania pyta\u00c5\u0084 i dyskusji. \n\nNasza Rada nie sk\u00c5\u0082ada si\u00c4\u0099 jedynie ze \u00e2\u0080\u0098\u00c5\u009bcis\u00c5\u0082ych umys\u00c5\u0082\u00c3\u00b3w\u00e2\u0080\u0099 - s\u00c4\u0085 w\u00c5\u009br\u00c3\u00b3d niej studenci geologii, prawa czy architektury. Zale\u00c5\u00bcy nam, \u00c5\u00bceby zdywersyfikowa\u00c4\u0087 si\u00c4\u0099 jeszcze bardziej, bo w ko\u00c5\u0084cu \u00c5\u0082\u00c4\u0085czy nas pasja do kosmosu, a nie dziedzina naukowa. Chcieliby\u00c5\u009bmy zach\u00c4\u0099ci\u00c4\u0087 student\u00c3\u00b3w kierunk\u00c3\u00b3w spo\u00c5\u0082ecznych, artystycznych, j\u00c4\u0099zykowych, przyrodniczych czy medycznych, \u00c5\u00bceby wzi\u00c4\u0099li udzia\u00c5\u0082 w kolejnym naborze do Rady i tym samym wzbogacili nasze \u00c5\u009brodowisko swoim do\u00c5\u009bwiadczeniem jak i spojrzeniem na \u00c5\u009bwiat (wszech\u00c5\u009bwiat). \n\nNie ma dla nas znaczenia, na kt\u00c3\u00b3rym jeste\u00c5\u009b roku - szukamy pozytywnej energii i ch\u00c4\u0099ci rozwoju na wsp\u00c3\u00b3lnej p\u00c5\u0082aszczy\u00c5\u00banie jak\u00c4\u0085 jest kosmos. Dzi\u00c4\u0099ki uczestnictwu w Radzie Student\u00c3\u00b3w b\u00c4\u0099dziecie mieli mo\u00c5\u00bcliwo\u00c5\u009b\u00c4\u0087 poszerzy\u00c4\u0087 swoj\u00c4\u0085 sie\u00c4\u0087 kontakt\u00c3\u00b3w w sektorze kosmicznym, wzi\u00c4\u0099cia udzia\u00c5\u0082u oraz organizacji konferencji czy wydarze\u00c5\u0084 o tematyce kosmicznej, poznania tego sektora od podszewki. \n\nSpotkanie informacyjne odb\u00c4\u0099dzie si\u00c4\u0099 14.04.23 (ten pi\u00c4\u0085tek) o godzinie 19:30 w Hevre na Kazimierzu (drugie pi\u00c4\u0099tro). Po spotkaniu zapraszamy na integracj\u00c4\u0099 studenck\u00c4\u0085 w ramach kt\u00c3\u00b3rej kilku Radnych zrobi kr\u00c3\u00b3tkie prezentacje. Spotkanie odb\u00c4\u0099dzie si\u00c4\u0099 w ramach pi\u00c4\u0085tkowego Kosmicznego Meetupu, kt\u00c3\u00b3ry odb\u00c4\u0099dzie si\u00c4\u0099 we wsp\u00c3\u00b3\u00c5\u0082pracy z Ko\u00c5\u0082em Naukowym Fizyk\u00c3\u00b3w, Polish Space Professionals Association oraz POLSA. \n\nPozdrawiamy\nRada Student\u00c3\u00b3w \nprzy Prezesie Polskiej Agencji Kosmicznej\"",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Klaudia Grygo"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matylda Zubowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Izabella Pod\u00c5\u0082\u00c4\u0099cka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Weronika Dudzik"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Aga Stec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1681293456099,
+      "content": "Polskie Stowarzyszenie Student\u00c3\u00b3w i Absolwent\u00c3\u00b3w Psychologii rekrutuje!\nJest to takie ko\u00c5\u0082o ponad ko\u00c5\u0082ami, umo\u00c5\u00bcliwiaj\u00c4\u0085ce dzia\u00c5\u0082alno\u00c5\u009b\u00c4\u0087 naukow\u00c4\u0085, integracyjn\u00c4\u0085 i organizacyjn\u00c4\u0085 oraz mo\u00c5\u00bcliwo\u00c5\u009b\u00c4\u0087 poznania si\u00c4\u0099 i nawi\u00c4\u0085zania wsp\u00c3\u00b3\u00c5\u0082pracy student\u00c3\u00b3w (i absolwent\u00c3\u00b3w) z r\u00c3\u00b3\u00c5\u00bcnych krakowskich psychologii - ale tak\u00c5\u00bce wszystkich psychologii z ca\u00c5\u0082ej Polski (biura PSSIAPu s\u00c4\u0085 w wi\u00c4\u0099kszo\u00c5\u009bci du\u00c5\u00bcych miast) oraz wielu psychologii ze \u00c5\u009bwiata i odwiedzin u nich (PSSIAP jest spowinowacony z EFPS\u00c4\u0084, organizacj\u00c4\u0085 zrzeszaj\u00c4\u0085c\u00c4\u0085 student\u00c3\u00b3w psychologii globalnie.\n\nPierwsze spotkanie rekrutacyjne, 13.04. 19:00, \u00c5\u009broda\nhttps://www.facebook.com/events/1831519320553837/?sfnsn=mo\n \nDrugie spotkanie rekrutacyjne, 17.04. 19:00, poniedzia\u00c5\u0082ek\nhttps://www.facebook.com/events/1395726011180818/?sfnsn=mo\n\nTrzecie spotkanie rekrutacyjne - po\u00c5\u0082\u00c4\u0085czone z integracj\u00c4\u0085!, 21.04. 19:00, pi\u00c4\u0085tek \nhttps://www.facebook.com/events/970663460629087/?sfnsn=mo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Grygo"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustaw Kopras"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kacper Matera"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mariia Reptak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ula Kojzar"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gosia Binek",
+      "timestamp_ms": 1681236319551,
+      "content": "Gosia Binek opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandra Duplak",
+      "timestamp_ms": 1681223486549,
+      "content": "Sandra Duplak doda\u00c5\u0082a Oliwi\u00c4\u0099 Nowick\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wiktoria Kordu\u00c5\u0082a",
+      "timestamp_ms": 1681223466642,
+      "content": "W imieniu Stowarzyszenia All In UJ zapraszam jutro, 12 kwietnia o 18:30 do HEVRE na \u00e2\u0080\u009eScience First: Cel u\u00c5\u009bwi\u00c4\u0099ca \u00c5\u009brodki? Czy i jak anga\u00c5\u00bcujemy si\u00c4\u0099 w aktywizm?\u00e2\u0080\u009d\nPorozmawiamy z dr Katarzyn\u00c4\u0085 Ja\u00c5\u009bko z Instytutu Psychologii UJ i Krzysztofem J\u00c4\u0099drzejkiem z Extinction Rebellion\nhttps://facebook.com/events/s/science-first-cel-uswieca-srod/4121551241403412/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustaw Kopras"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Norbert Byrgiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Zuzanna Gatner"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Marcelina Francuz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Lechowicz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1681206162805,
+      "content": "17 kwietnia, 18:00\nJego Ekscelencja Dyrektor IPsUJ prof. B\u00c4\u0085bel o leczeniu autyzmu... muzyk\u00c4\u0085\nhttps://www.facebook.com/events/241705978338266/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wiktoria Jaworska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Kacper Grzywna"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0097",
+          "actor": "Amelia Dzia\u00c5\u0082o"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Kurowska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Matera",
+      "timestamp_ms": 1681131690522,
+      "content": "je\u00c5\u009bli kto\u00c5\u009b mia\u00c5\u0082by pytania, uwagi, feedback albo chcia\u00c5\u0082 potem dosta\u00c4\u0087 wyniki to zapraszam do kontaktu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Matera",
+      "timestamp_ms": 1681130362563,
+      "content": "Cze\u00c5\u009b\u00c4\u0087, jestem studentem 2 roku i na zaliczenie z psychometrii musze zebra\u00c4\u0087 200 os\u00c3\u00b3b kt\u00c3\u00b3re wype\u00c5\u0082ni m\u00c3\u00b3j kwestionariusz badaj\u00c4\u0085cy neurotyczno\u00c5\u009b\u00c4\u0087. Czas wype\u00c5\u0082nienia to ok 10-12 minut. Je\u00c5\u009bli kto\u00c5\u009b akurat ma woln\u00c4\u0085 chwil\u00c4\u0099 to bardzo prosi\u00c5\u0082bym o pomoc. Badanie jest w pe\u00c5\u0082ni anonimowe a je\u00c5\u009bli kiedy\u00c5\u009b b\u00c4\u0099dzie potrzeba odwdzi\u00c4\u0099cz\u00c4\u0099 si\u00c4\u0099 tym samym :)) \nhttps://forms.gle/u4EkYiJdqmCbkLTN7",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia \u00c5\u0081ukaszczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wiktor Soko\u00c5\u0082owski"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Kwiatkowska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Patrycja Tomkowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kamil Brania"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0096",
+          "actor": "\u00c5\u0081ucja Szopa"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Starzyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Oliwia Rzeszutek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wojciech Krakowiak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0097",
+          "actor": "Amelia Dzia\u00c5\u0082o"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Anna Rachowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Kurowska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Nita"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a7\u00a1",
+          "actor": "Sara Stefaniszyn"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kuba Celij",
+      "timestamp_ms": 1681120420785,
+      "content": "12 kwietnia 18:45 (\u00c5\u009broda)\nOd parkiet\u00c3\u00b3w tanecznych do pracy psychologa sportu - spotkanie z Karolin\u00c4\u0085 Buczek - psycholo\u00c5\u00bck\u00c4\u0085 pracuj\u00c4\u0085c\u00c4\u0085 z tancerzami\nhttps://facebook.com/events/s/od-parkietow-tanecznych-do-pra/937820127634564/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wiktoria Jaworska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Kurowska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1680967157152,
+      "content": "3 czerwca\nGdzie jest terapia rodzin dzisiaj? \u00e2\u0080\u0093 FORUM TERAPEUT\u00c3\u0093W RODZINNYCH I M\u00c5\u0081ODZIE\u00c5\u00bbOWYCH\n(zapowiedziane wszystkie najwi\u00c4\u0099ksze krajowe nazwiska w temacie)\nhttps://www.facebook.com/events/2013224662214478",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1680967118788,
+      "content": "13 kwietnia, 19:00\nPies najlepszym lekiem? - Wyk\u00c5\u0082ad Dogoterapeuty Krzysztofa Boro\u00c5\u0084skiego\nhttps://www.facebook.com/events/164698923180746",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0096",
+          "actor": "\u00c5\u0081ucja Szopa"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1680733877704,
+      "content": "Chyba 80 euro za uczestnictwo bierne (sic!), ale wci\u00c4\u0085\u00c5\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1680733859068,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/1864457980599477.png",
+          "creation_timestamp": 1680733857
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1680733822782,
+      "content": "https://fb.me/e/2TmOXgIOJ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina F\u00c4\u0085frowicz",
+      "timestamp_ms": 1680625830584,
+      "content": "Karolina F\u00c4\u0085frowicz doda\u00c5\u0082a Klaudi\u00c4\u0099 Jurkowsk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monia Kwiecie\u00c5\u0084",
+      "timestamp_ms": 1680614920972,
+      "content": "Monia Kwiecie\u00c5\u0084 doda\u00c5\u0082a Katarzyn\u00c4\u0099 Kuriat\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Wrona",
+      "timestamp_ms": 1680614642251,
+      "content": "Wydarzenie z cyklu \u00e2\u0080\u009ePorozmawiajmy o\u00e2\u0080\u00a6\u00e2\u0080\u009d (terapii par) organizowane przez Sekcj\u00c4\u0099 Psychoterapii KNSP UJ: https://fb.me/e/PinP45UD",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia \u00c5\u0081ukaszczyk"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Zuzia Gozdur"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Lechowicz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj",
+      "timestamp_ms": 1680600755233,
+      "content": "Dzi\u00c5\u009b:\n\nNowe spotkanie seminarium jungowskiego - tym razem o specyficznej dla analizy formie pracy z symptomami.\nDodatkowo tematem b\u00c4\u0099dzie debata o Jungu I Hillmanie, w kt\u00c3\u00b3rej brali udzia\u00c5\u0082 m. in. Tomasz Stawiszy\u00c5\u0084ski i Olga Tokarczuk. ; >\n\nhttps://www.facebook.com/events/211750494795965",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Kurowska",
+      "timestamp_ms": 1680460894742,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/752234113016699.jpg",
+          "creation_timestamp": 1680460893
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matylda Zubowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joanna Kaczor"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Bazan"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Kinga Urz\u00c4\u0099dowska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Antoni Miko\u00c5\u0082ajczak"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Lechowicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja Kurowska",
+      "timestamp_ms": 1680460883700,
+      "content": "Hejo, jutro o 18:00 si\u00c4\u0099 szykuje wernisa\u00c5\u00bc prac neuror\u00c3\u00b3\u00c5\u00bcnorodnych artyst\u00c3\u00b3w na Pedagogicznym, b\u00c4\u0099d\u00c4\u0085 prelekcje i rozmowy z tw\u00c3\u00b3rcami\n\nLink do wydarzenia:\nhttps://fb.me/e/3koxfHj4A",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maciek Radecki"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Marcelina Francuz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Zuza Kapka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1680309195345,
+      "content": "Miejsca nie znam, ale brzmi jak bardzo wa\u00c5\u00bcny i potrzebny temat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1680309179394,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/938106060711041.jpg",
+          "creation_timestamp": 1680309177
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina F\u00c4\u0085frowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kasia Zawada"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1680262551857,
+      "content": "I mean - de Barbaro",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Maciej Kolasa"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008b",
+          "actor": "Wiktor Soko\u00c5\u0082owski"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1680262538452,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920/photos/1666343857130849.png",
+          "creation_timestamp": 1680262536
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Maciej Kolasa"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Antoni Ambro\u00c5\u00bcy Czekaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008b",
+          "actor": "Wiktor Soko\u00c5\u0082owski"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maciek Radecki",
+      "timestamp_ms": 1680262477743,
+      "content": "https://www.facebook.com/poradniapsychomedic/posts/pfbid0z9DUdaUqWLbmcVe6aTz4GgfLehr4bYWGLhu1CdSoUra6q7BsCKxBPrQG7vHmmPbyl",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Konopka",
+      "timestamp_ms": 1680243082051,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamil Brania",
+      "timestamp_ms": 1680242305653,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Lechowicz",
+      "timestamp_ms": 1680240478684,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Goleniec",
+      "timestamp_ms": 1680215119105,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Krakowskie Psychologie - imprezy, eventy, ko\u00c5\u0082a, atrakcje",
+  "is_still_participant": true,
+  "thread_path": "inbox/krakowskiepsychologieimprezyeventykolaatrakcje_5670059979745920",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

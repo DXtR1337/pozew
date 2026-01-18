@@ -1,0 +1,2307 @@
+{
+  "participants": [
+    {
+      "name": "Adrian Sm\u00c3\u00b3\u00c5\u0082ka"
+    },
+    {
+      "name": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o"
+    },
+    {
+      "name": "Monika Wi\u00c5\u009bniewska"
+    },
+    {
+      "name": "Weronika S\u00c5\u0082ota"
+    },
+    {
+      "name": "Oliwia Julia Serafin"
+    },
+    {
+      "name": "Klaudia Szyma\u00c5\u0084ska"
+    },
+    {
+      "name": "Dorota Szczerba"
+    },
+    {
+      "name": "Patrycja Szyd\u00c5\u0082owska"
+    },
+    {
+      "name": "Jasiek Wikar"
+    },
+    {
+      "name": "Kamila Fr\u00c4\u0085cek"
+    },
+    {
+      "name": "Natalia Steczkiewicz"
+    },
+    {
+      "name": "Martyna Szyrsze\u00c5\u0084"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Pawe\u00c5\u0082 Rodak"
+    },
+    {
+      "name": "Oliwia W\u00c5\u0082odarczyk"
+    },
+    {
+      "name": "Gabriela W\u00c3\u00b3jcikiewicz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1685474848887,
+      "content": "Mo\u00c5\u00bce to jaki\u00c5\u009b syndrom wyk\u00c5\u0082adania na UP",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1685474829884,
+      "content": "kolejny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1685474816813,
+      "content": "nam powiedzia\u00c5\u0082 \u00c5\u00bce je\u00c5\u00bceli teraz uznamy jakie\u00c5\u009b inne za lepsze to mo\u00c5\u00bcemy je zamieni\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1685474814560,
+      "content": "A XD to chor\u00c4\u0085giewa z niego",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1685474812523,
+      "content": "bo on m\u00c3\u00b3wi\u00c5\u0082 ze nie ma do tego dost\u00c4\u0099pu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1685474779940,
+      "content": "ze mo\u00c5\u00bcemy sobie wybra\u00c4\u0087 ile chcemy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1685474773329,
+      "content": "nam ostatnio powiedzia\u00c5\u0082 ze nie trzeba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1685474245764,
+      "content": "On powiedzia\u00c5\u0082, \u00c5\u00bce trzeba odpowiedzie\u00c4\u0087 na wszystkie, kt\u00c3\u00b3re stworzyli\u00c5\u009bcie robi\u00c4\u0085c projekt na metodologi\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1685472378855,
+      "content": "bardziej pytanie, ile stron wam to zaj\u00c4\u0099\u00c5\u0082o? XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1685472367789,
+      "content": "Mam pytanko, na ile pyta\u00c5\u0084 badawczych odpowiadali\u00c5\u009bcie do tego projektu dla Prajznera?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1685292950399,
+      "content": "Oj dzieje si\u00c4\u0099. Co za emocje",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1685262459904,
+      "content": "dzi\u00c4\u0099kiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sylwia \u00c5\u00bbuchowicz",
+      "timestamp_ms": 1685262453475,
+      "content": "zdalnie mowila",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1685262441707,
+      "content": "zdalnie chyba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1685262441033,
+      "content": "Zdalnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1685262423438,
+      "content": "mamy stacjonarnie dzisiaj czy zdalnie poznawcz\u00c4\u0085?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia Julia Serafin",
+      "timestamp_ms": 1684701194841,
+      "content": "Przedostatnie zaj\u00c4\u0099cia s\u00c4\u0085 04.06, a ostatnie 18.06",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1684700571355,
+      "content": "Kolos na 100% jest 04.06 ale nie wiem czy to s\u00c4\u0085 przed ostatnie zaj\u00c4\u0099cia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1684689102171,
+      "content": "Aa to w sumie te\u00c5\u00bc mo\u00c5\u00bcliwe XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sylwia \u00c5\u00bbuchowicz",
+      "timestamp_ms": 1684688889083,
+      "content": "A kolos nie jest na przedostatnich 04.06?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1684688469418,
+      "content": "Na ostatnich jest kolos wi\u00c4\u0099c konspekty chyba na przedostatnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o",
+      "timestamp_ms": 1684688185768,
+      "content": "Bo w sumie za tydzie\u00c5\u0084 to nie s\u00c4\u0085 nasze ostatnie \u00c4\u0087wiczenia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o",
+      "timestamp_ms": 1684688176102,
+      "content": "S\u00c5\u0082uchajcie, a te konspekty to nie b\u00c4\u0099d\u00c4\u0085 czasem na p\u00c3\u00b3\u00c5\u00baniejszych zaj\u00c4\u0099ciach?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasiek Wikar",
+      "timestamp_ms": 1684686114503,
+      "content": "Ale wola\u00c5\u0082bym si\u00c4\u0099 przes\u00c5\u0082ysze\u00c4\u0087 \u00f0\u009f\u0098\u00ac",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o",
+      "timestamp_ms": 1684686107453,
+      "content": "No to grubo, sporo mamy tego na przysz\u00c5\u0082y tydzie\u00c5\u0084...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasiek Wikar",
+      "timestamp_ms": 1684686084526,
+      "content": "Ja te\u00c5\u00bc s\u00c5\u0082ysza\u00c5\u0082em co\u00c5\u009b takiego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684686075225,
+      "content": "bo mo\u00c5\u00bce zle us\u00c5\u0082ysza\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684686068959,
+      "content": "a ona teraz nie m\u00c3\u00b3wi\u00c5\u0082a ze co\u00c5\u009b na nastepne zaj\u00c4\u0099cia?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jasiek Wikar"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o",
+      "timestamp_ms": 1684686034223,
+      "content": "Nie, nawet nie pami\u00c4\u0099tamy jaki temat wybrali\u00c5\u009bmy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Jasiek Wikar"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1684686011618,
+      "content": "Kojarzycie do kiedy mamy jej wys\u00c5\u0082a\u00c4\u0087 te konspekty?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Szyrsze\u00c5\u0084",
+      "timestamp_ms": 1684582087386,
+      "content": "chyba tak",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684582059647,
+      "content": "puszcza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684582054787,
+      "content": "ej pamietacie mkze czy ona piszcz\u00c4\u0085 dwa razy list\u00c4\u0099 obecno\u00c5\u009bci?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1684421771502,
+      "content": "A nie wiecie czy 26 wyk\u00c5\u0082ady z historii mamy zdalnie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1684421748690,
+      "content": "Tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1684421737364,
+      "content": "My 27 mamy zdalnie peim?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela W\u00c3\u00b3jcikiewicz",
+      "timestamp_ms": 1684100201212,
+      "content": "Te\u00c5\u00bc mi sie tak wydaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1684095263721,
+      "content": "Przecie\u00c5\u00bc ona ich nie zmienia\u00c5\u0082a dla \u00c5\u00bcadnej z grup i udawa\u00c5\u0082a, \u00c5\u00bce nie widzi, \u00c5\u00bce ostatniej grupie zawsze wychodzi\u00c5\u0082o prawie, \u00c5\u00bce bezb\u00c5\u0082\u00c4\u0099dnie. A ostatnio to ju\u00c5\u00bc nawet nie robi tych wej\u00c5\u009bci\u00c3\u00b3wek. Wi\u00c4\u0099c raczej nie przek\u00c5\u0082ada do tego jakiej\u00c5\u009b ogromnej wagi",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1684095201805,
+      "content": "Ja my\u00c5\u009bl\u00c4\u0099, \u00c5\u00bce zapyta na jakich zaj\u00c4\u0099ciach Ci\u00c4\u0099 nie by\u00c5\u0082o i wy\u00c5\u009ble Ci linka do formularza google z tymi pytaniami co nam da\u00c5\u0082a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela W\u00c3\u00b3jcikiewicz",
+      "timestamp_ms": 1684087028949,
+      "content": "my\u00c5\u009bla\u00c5\u0082am \u00c5\u00bce b\u00c4\u0099d\u00c4\u0099 si\u00c4\u0099 martwi\u00c4\u0087 si\u00c4\u0099 jak dopomni - ewentualnie mo\u00c5\u00bcna si\u00c4\u0099 dopyta\u00c4\u0087 w niedziel\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684086948006,
+      "content": "w\u00c5\u0082a\u00c5\u009bnie wiemm, ale sie troche cykam, ze nagle jej odwali i bedzie zmieniac pytania albo nwm jakies ustnie do odpowiedzi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela W\u00c3\u00b3jcikiewicz",
+      "timestamp_ms": 1684086867295,
+      "content": "szczerze to w\u00c4\u0085tpi\u00c4\u0099 \u00c5\u00bce b\u00c4\u0099dzie taka potrzeba patrz\u00c4\u0085c na poziom tych zaj\u00c4\u0099\u00c4\u0087 XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684086838772,
+      "content": "i myslisz o jej odrabianiu moze?XDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela W\u00c3\u00b3jcikiewicz",
+      "timestamp_ms": 1684086815650,
+      "content": "ja nie pisa\u00c5\u0082am jednej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684086705764,
+      "content": "ej dobra to jeszcze jedno szybkie pytanie, czy ktos nie pisa\u00c5\u0082 jakiej\u00c5\u009b wej\u00c5\u009bciowki na poznawczej?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684086673093,
+      "content": "boze przesadaa, ja czaje, \u00c5\u00bce da\u00c5\u0082a wi\u00c4\u0099cej czasu, ale w czerwcu ju\u00c5\u00bc jest zapierdol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1684086517561,
+      "content": "Ja np wci\u00c4\u0085\u00c5\u00bc nie dosta\u00c5\u0082am od niej artyku\u00c5\u0082u \u00f0\u009f\u0099\u0088",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684086362877,
+      "content": "bo ja nwm jak z 12 stron artyku\u00c5\u0082u naukowego ma mi wyj\u00c5\u009b\u00c4\u0087 oko\u00c5\u0082o 1 strona streszczeniaXDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684086331143,
+      "content": "bo mam pytanie ile macie stron tego artyku\u00c5\u0082u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684086298730,
+      "content": "i czy moze ktos tez si\u00c4\u0099 orientuje czy poznawcza w niedziele jest zdalnie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1684086254104,
+      "content": "czy ktos z was moze zg\u00c5\u0082osi\u00c5\u0082 sie do zrobienia tego streszczenia na m\u00c3\u00b3zgowe?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela W\u00c3\u00b3jcikiewicz",
+      "timestamp_ms": 1683474770722,
+      "content": "chyba nie ale ci\u00c4\u0099\u00c5\u00bcko stwierdzi\u00c4\u0087 XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683474760286,
+      "content": "Nie wiem, odbiera\u00c5\u0082am jedzonko, musz\u00c4\u0099 tam do\u00c5\u0082\u00c4\u0085czy\u00c4\u0087 do tego linku wgl?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1683474635224,
+      "content": "to jest cos takiego jak wej\u00c5\u009bci\u00c3\u00b3wka?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1683472817493,
+      "content": "Xdd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683472802500,
+      "content": "Ja jej nie s\u00c5\u0082ucham jedynie to WALKING memory mnie co jaki\u00c5\u009b czas wybija z zamy\u00c5\u009blenia",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia Julia Serafin"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1683472711251,
+      "content": "Czy tylko ja si\u00c4\u0099 czuj\u00c4\u0099 jakbym smerfy ogl\u00c4\u0085da\u00c5\u0082a?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1683471812188,
+      "content": "Ciekawa jestem czy znowu zapomni \u00c5\u00bce nam co\u00c5\u009b zada\u00c5\u0082a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683471810663,
+      "content": "Bo mo\u00c5\u00bce mo\u00c5\u00bcemy jej dopyta\u00c4\u0087 czy to ma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683471801074,
+      "content": "A wy pami\u00c4\u0099tacie jakie tematu wybrali\u00c5\u009bcie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika S\u00c5\u0082ota",
+      "timestamp_ms": 1683471524125,
+      "content": "Na pierwszych zaj\u00c4\u0099ciach",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika S\u00c5\u0082ota",
+      "timestamp_ms": 1683471516440,
+      "content": "Chyba tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683471421642,
+      "content": "Ej, a ona zbiera\u00c5\u0082a od nas list\u00c4\u0099 na kt\u00c3\u00b3rej wybierali\u00c5\u009bmy tematy do tych bada\u00c5\u0084?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela W\u00c3\u00b3jcikiewicz",
+      "timestamp_ms": 1683452118469,
+      "content": "tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1683452113276,
+      "content": "too cnie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1683452109748,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/gk04_5496847023729596/photos/1516374898895930.jpg",
+          "creation_timestamp": 1683452108
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683452085942,
+      "content": "Wi\u00c4\u0099c raczej to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683452079104,
+      "content": "Ona stworzy\u00c5\u0082a nowe spotkanie zatytu\u00c5\u0082owane \u00c4\u0087wiczenia grupa 4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1683452075334,
+      "content": "ja mam tylko jedno aktywne spotkanie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1683452046918,
+      "content": "czy mi si\u00c4\u0099 nie wy\u00c5\u009bwietla po prostu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683452038951,
+      "content": "Nie wiem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1683452038559,
+      "content": "ona chyba sko\u00c5\u0084czy\u00c5\u0082a to spotkani z wyk\u00c5\u0082adu",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1683452023032,
+      "content": "To kt\u00c3\u00b3re spotkanie w ko\u00c5\u0084cu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1683451460614,
+      "content": "O ju\u00c5\u00bc zczai\u00c5\u0082a to si\u00c4\u0099 powstrzymam XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Szyrsze\u00c5\u0084",
+      "timestamp_ms": 1683451349674,
+      "content": "shahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1683451344220,
+      "content": "Odpisze jej mo\u00c5\u00bce \u00c5\u00bce mamy o 16.45",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sylwia \u00c5\u00bbuchowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Staszel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1683451326768,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/gk04_5496847023729596/photos/252259587372993.jpg",
+          "creation_timestamp": 1683451325
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Dorota Szczerba"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Martyna Szyrsze\u00c5\u0084"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683449870232,
+      "content": "A teraz sama wy\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a kamerk\u00c4\u0099, \u00c5\u00bceby nas nie rozprasza\u00c4\u0087 jak wy\u00c5\u009bwietla prezentacje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683449841753,
+      "content": "Ale w sumie ona wy\u00c5\u009bwietla zawsze rzeczy, jakie\u00c5\u009b obrazki i filmiki",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683449820969,
+      "content": "Bo nie wiem czy si\u00c4\u0099 ogarnia\u00c4\u0087 jako\u00c5\u009b do \u00c5\u00bcycia Xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1683449802224,
+      "content": "Oby niee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683449786155,
+      "content": "Ej, a my\u00c5\u009blicie, \u00c5\u00bce b\u00c4\u0099dzie wymaga\u00c5\u0082a kamerek na zaj\u00c4\u0099ciach z mechanizm\u00c3\u00b3w?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1683447494259,
+      "content": "suuuper",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683447397649,
+      "content": "A nawet je\u00c5\u009bli to ona te\u00c5\u00bc pewnie nie wie albo nie pami\u00c4\u0099ta XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683447386783,
+      "content": "Chyba nie",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1683447351138,
+      "content": "mamy cos do zrobienia na poznawcz\u00c4\u0085?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia Julia Serafin",
+      "timestamp_ms": 1683287917158,
+      "content": "Ech szkoda \u00c5\u00bce nie zal :/ no nic, dzi\u00c4\u0099kuj\u00c4\u0099 bardzo :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela W\u00c3\u00b3jcikiewicz",
+      "timestamp_ms": 1683287696843,
+      "content": "na ocen\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika S\u00c5\u0082ota",
+      "timestamp_ms": 1683287682315,
+      "content": "Zaliczenie z ocen\u00c4\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683287679880,
+      "content": "Ale ostatnio na filozofii by\u00c5\u0082o tylko zal u niego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683287644629,
+      "content": "Trudne pytanie ja ostatnio, zapyta\u00c5\u0082am ile b\u00c4\u0099dzie b\u00c4\u0099dzie pyta\u00c5\u0084 na kolokwium to mi opowiada\u00c5\u0082 z 5 min jakie pytania b\u00c4\u0099d\u00c4\u0085 XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Weronika S\u00c5\u0082ota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia Julia Serafin",
+      "timestamp_ms": 1683287606136,
+      "content": "Wie kto\u00c5\u009b mo\u00c5\u00bce czy kolokwium z logiki jest na ocen\u00c4\u0099 czy na zal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela W\u00c3\u00b3jcikiewicz",
+      "timestamp_ms": 1683284207319,
+      "content": "Chyba nie odpisa\u00c5\u0082a jeszcze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1683284150583,
+      "content": "A tego to ju\u00c5\u00bc nie wiem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683284114496,
+      "content": "W\u00c5\u0082a\u00c5\u009bnie chyba tylko wyk\u00c5\u0082ad,  wi\u00c4\u0099c bez sensu sobie to wymy\u00c5\u009blili,  ale czy prowadz\u00c4\u0085ca odpisa\u00c5\u0082a? I zgodzi\u00c5\u0082a si\u00c4\u0099 na ten wyk\u00c5\u0082ad zdalnie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1683284052630,
+      "content": "A ja mam takie pytanie czy w niedziel\u00c4\u0099 tylko wyk\u00c5\u0082ady z MMFU mamy zdalnie czy \u00c4\u0087wiczenia te\u00c5\u00bc ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1683278867744,
+      "content": "kamie\u00c5\u0084 z serca..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683278856066,
+      "content": "Wi\u00c4\u0099c b\u00c4\u0099dzie to bardziej quiz online",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683278848721,
+      "content": "Ostatnio m\u00c3\u00b3wi\u00c5\u0082a, \u00c5\u00bce to drugie mia\u00c5\u0082o by\u00c4\u0087 27.05 jak jej nie ma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1683278838257,
+      "content": "okeeej dzi\u00c4\u0099kii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1683278825998,
+      "content": "A nie mia\u00c5\u0082o by\u00c4\u0087 na drugich i chyba czwartych? Czy co\u00c5\u009b",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika S\u00c5\u0082ota",
+      "timestamp_ms": 1683278823289,
+      "content": "Chyba dopiero na kolejnych",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1683278787713,
+      "content": "czy na jutrzejszych zaj\u00c4\u0099ciach z psychologii motywacji tez b\u00c4\u0099dzie takie kr\u00c3\u00b3tkie kolokwium? wydaje mi si\u00c4\u0099 \u00c5\u00bce ona m\u00c3\u00b3wi\u00c5\u0082a \u00c5\u00bce na ka\u00c5\u00bcdych \u00c4\u0087wiczeniach b\u00c4\u0099dzie kolokwium z tego co mieli\u00c5\u009bmy przeczyta\u00c4\u0087 ale nie wiem czy dobrze zapami\u00c4\u0099ta\u00c5\u0082am, pami\u00c4\u0099tacier co\u00c5\u009b na ten temat?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682877379263,
+      "content": "My nie zrobimy nic wi\u00c4\u0099cej XD na tej poznawczej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682877364960,
+      "content": "Czy intuicja mnie myli czy to dalej jest uwaga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682877352749,
+      "content": "Jeju, zapowiedzia\u00c5\u0082a kontrol\u00c4\u0099 poznawcza na za tydzie\u00c5\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682876436691,
+      "content": "No powiedzia\u00c5\u0082a, \u00c5\u00bce my\u00c5\u009blimy jednym m\u00c3\u00b3zgiem, ale \u00c5\u00bce zrobili\u00c5\u009bmy wszyscy ten sam b\u00c5\u0082\u00c4\u0085d, bo to powinno by\u00c4\u0087 na bazie konspektu. Po czym posz\u00c5\u0082a szuka\u00c4\u0087 konspektu w plikach innych grup",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Sylwia \u00c5\u00bbuchowicz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1682876435236,
+      "content": "aaa kontekstuXDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1682876392724,
+      "content": "bo tam co\u00c5\u009b by\u00c5\u0082o napisane ze na zaliczenie z zaj\u00c4\u0099\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1682876379089,
+      "content": "a to ten konspekt nie ma by\u00c4\u0087 po prostu do tego eksperymentu co mamy przedstawia\u00c4\u0087?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682876309271,
+      "content": "Z\u00c5\u0082ota kobieta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682876301414,
+      "content": "Czy ona nam w\u00c5\u0082a\u00c5\u009bnie t\u00c5\u0082umaczy, \u00c5\u00bce w sumie mieli\u00c5\u009bmy to zrobi\u00c4\u0087 na bazie kontekstu, kt\u00c3\u00b3rego nam nie wrzuci\u00c5\u0082a XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1682872730317,
+      "content": "Mi co drugie s\u00c5\u0082owo ucieka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1682872707148,
+      "content": "U mnie w miar\u00c4\u0099 git jako\u00c5\u009b\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1682872686151,
+      "content": "J\u00c4\u0085*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1682872653609,
+      "content": "Tylko mi ja tak zacina?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682684574675,
+      "content": "Dzi\u00c4\u0099kuj\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1682683430368,
+      "content": "nie s\u00c4\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dorota Szczerba"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682683418526,
+      "content": "Hej mo\u00c5\u00bce kto\u00c5\u009b si\u00c4\u0099 orientuj\u00c4\u0099, czy wyk\u00c5\u0082ady ze statystyki s\u00c4\u0085 obowi\u00c4\u0085zkowe?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1682434866983,
+      "content": "ona najpierw powiedzia\u00c5\u0082a, \u00c5\u00bceby da\u00c4\u0087 jej zna\u00c4\u0087, a p\u00c3\u00b3\u00c5\u00baniej co\u00c5\u009b o zdalnych",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1682434860420,
+      "content": "Ja zrozumia\u00c5\u0082am \u00c5\u00bce zdalnie ma by\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jasiek Wikar"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Natalia Steczkiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1682434841184,
+      "content": "Bo ju\u00c5\u00bc nie pami\u00c4\u0099tam jak ona tam m\u00c3\u00b3wi\u00c5\u0082a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1682434815634,
+      "content": "Dobre pytanie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1682434758846,
+      "content": "My mamy w ten weekend zdalna poznawcza czy stacjo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasiek Wikar",
+      "timestamp_ms": 1682252704380,
+      "content": "@Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o @Oliwia W\u00c5\u0082odarczyk @Klaudia Szyma\u00c5\u0084ska  chod\u00c5\u00bacie ju\u00c5\u00bc na zaj\u00c4\u0099cia bo chcemy zacz\u00c4\u0085\u00c4\u0087 \u00f0\u009f\u0098\u00a1",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Dorota Szczerba"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682237772688,
+      "content": "I tej \"los\u00c3\u00b3wki\" z tego co mi wiadomo nie trzeba odrabia\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Weronika S\u00c5\u0082ota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1682237752201,
+      "content": "Mo\u00c5\u00bcna nie by\u00c4\u0087 1 raz chyba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika S\u00c5\u0082ota",
+      "timestamp_ms": 1682237746094,
+      "content": "Ja mam zapisane \u00c5\u00bce mo\u00c5\u00bcna mie\u00c4\u0087 1 nieobecno\u00c5\u009b\u00c4\u0087 3h",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jasiek Wikar"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1682237626811,
+      "content": "mamy jakies nieobecno\u00c5\u009bci z logiki?? i czy trzeba je odrabia\u00c4\u0087..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1682163550198,
+      "content": "chat gpt nie cz\u00c5\u0082owiek",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Magda Staszel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1682163537518,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/gk04_5496847023729596/gifs/712544647541193.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1682163536883,
+      "content": "Anio\u00c5\u0082 nie cz\u00c5\u0082owiek",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1682163426595,
+      "content": "tylko nie jest pogrubione to co tam by\u00c5\u0082o XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1682163408159,
+      "files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/gk04_5496847023729596/files/535722928639675.docx",
+          "creation_timestamp": 1682163406
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Szyrsze\u00c5\u0084"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Staszel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasiek Wikar",
+      "timestamp_ms": 1681667408162,
+      "content": "U niej mo\u00c5\u00bcna mie\u00c4\u0087 jedn\u00c4\u0085 nieobecno\u00c5\u009b\u00c4\u0087?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Martyna Szyrsze\u00c5\u0084"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681667388963,
+      "content": "Czyli o tej 18.30 zdalnie, dobrze zrozumia\u00c5\u0082am?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681667358951,
+      "content": "Ona ju\u00c5\u00bc sobie zdecydowa\u00c5\u0082a XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Weronika S\u00c5\u0082ota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681666934839,
+      "content": "znaczy nwm mi oboj\u00c4\u0099tne tak szczerze bo i tak je\u00c5\u009bli zostaniemy przy zdalnych to w\u00c4\u0085tpi\u00c4\u0099, ze kto\u00c5\u009b zostanie na uczelni, jednie co to wydaje mi si\u00c4\u0099, ze wygodniej byloby po prostu najwy\u00c5\u00bcej przesun\u00c4\u0085\u00c4\u0087 statystyk\u00c4\u0099 je\u00c5\u009bli by\u00c5\u0082aby mo\u00c5\u00bcliwo\u00c5\u009b\u00c4\u0087, \u00c5\u00bceby naeet sobie do domu wcze\u00c5\u009bniej wr\u00c3\u00b3ci\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681666875776,
+      "content": "I zapyta\u00c4\u0087 czy widzi tak\u00c4\u0085 opcje, wtedy nikt nie musia\u00c5\u0082by jako\u00c5\u009b kombinowa\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681666846445,
+      "content": "jest to zawsze opcja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681666789664,
+      "content": "\u00c5\u00bbe cze\u00c5\u009b\u00c4\u0087 os\u00c3\u00b3b musia\u00c5\u0082aby by\u00c4\u0087 w drodze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681666779960,
+      "content": "Zawsze mo\u00c5\u00bcna j\u00c4\u0085 o tym poinformowa\u00c4\u0087 \u00c5\u00bce wyj\u00c4\u0085tkowo tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681666763030,
+      "content": "i wszyscy w tramwaju",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Martyna Szyrsze\u00c5\u0084"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681666759685,
+      "content": "tylko tez s\u00c5\u0082abo jakby co\u00c5\u009b nagle trzeba by\u00c5\u0082o m\u00c3\u00b3wi\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Szyrsze\u00c5\u0084",
+      "timestamp_ms": 1681666685706,
+      "content": "my gadalysmy ze podczas tych cwiczen w sumie mo\u00c5\u00bcna wracac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681666632974,
+      "content": "ej to kto jest za dajcie like albo cokolwiek",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681666600794,
+      "content": "Ups",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681666595723,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/gk04_5496847023729596/photos/555129383474728.jpg",
+          "creation_timestamp": 1681666594
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681666577988,
+      "content": "tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681666572316,
+      "content": "Macie obraz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasiek Wikar",
+      "timestamp_ms": 1681663791813,
+      "content": "Lepiej ju\u00c5\u00bc du\u00c5\u00bco by\u00c5\u0082o z Piotrkiem xdd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1681663698197,
+      "content": "Ja ju\u00c5\u00bc si\u00c4\u0099 pogubi\u00c5\u0082am w tym co ona m\u00c3\u00b3wi xd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Weronika S\u00c5\u0082ota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663540021,
+      "content": "to tam od 11",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663536971,
+      "content": "bo jak wy macie so 14:45",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663531751,
+      "content": "w sensie wchodzi w gre chyba tylko 8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663523895,
+      "content": "to mo\u00c5\u00bce napisa\u00c4\u0087 maila do tego od statystki go\u00c5\u009bcia czy by\u00c5\u0082aby opcja nwm przyj\u00c5\u009b\u00c4\u0087 na rano czy co\u00c5\u009b",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681663476079,
+      "content": "Wi\u00c4\u0099c w sumie Wy decydujcie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681663469080,
+      "content": "Ja bym by\u00c5\u0082a za zdalnymi ale mi pasuje bo mamy statystyk\u00c4\u0099 do 14.45 z Wer\u00c4\u0085, Magd\u00c4\u0085 i Oliwi\u00c4\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Weronika S\u00c5\u0082ota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663396168,
+      "content": "nwm co uwa\u00c5\u00bcacie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1681663396012,
+      "content": "Chocia\u00c5\u00bc to nie jest takie z\u00c5\u0082e XD, je\u00c5\u009bli ona nic nie robi na zaj\u00c4\u0099ciach to by\u00c4\u0087 na statystyce, a j\u00c4\u0085 odpali\u00c4\u0087 w tle na s\u00c5\u0082uchawkach",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Patrycja Szyd\u00c5\u0082owska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Natalia Steczkiewicz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663392472,
+      "content": "bo inaczej to tak \u00c5\u009brednio troch\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663381462,
+      "content": "to wtedy git te zdalnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663376572,
+      "content": "chyba ze ewentualnie da\u00c5\u0082oby si\u00c4\u0099 statystyk\u00c4\u0099 na rano przenie\u00c5\u009b\u00c4\u0087 czy co\u00c5\u009b",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Dorota Szczerba"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Natalia Steczkiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1681663356602,
+      "content": "Albo w trakcie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1681663341450,
+      "content": "Bo b\u00c4\u0099dziemy mie\u00c4\u0087 w drug\u00c4\u0085 stron\u00c4\u0099, sko\u00c5\u0084czymy poznawcz\u00c4\u0085 15 min przed statystyk\u00c4\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1681663318525,
+      "content": "Wcze\u00c5\u009bniej to nam nic nie daje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1681663132700,
+      "content": "Pewnie o tym m\u00c3\u00b3wi,  bo ju\u00c5\u00bc ostatnio wspomina\u00c5\u0082a, \u00c5\u00bce j\u00c4\u0085 o to prosili",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663058198,
+      "content": "do 18",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663055705,
+      "content": "to \u00c5\u009brednio troch\u00c4\u0099 bo jest statystyka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika S\u00c5\u0082ota",
+      "timestamp_ms": 1681663055243,
+      "content": "To mo\u00c5\u00bce jej chodzi\u00c5\u0082o o kolejne zaj\u00c4\u0099cia po prostu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681663049364,
+      "content": "a znowu je\u00c5\u009bli ona m\u00c3\u00b3wi o tych za dwa tygodnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1681663010971,
+      "content": "No w\u00c5\u0082a\u00c5\u009bnie te\u00c5\u00bc to sprawdza\u00c5\u0082am XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681662947550,
+      "content": "ej ale my za tydzie\u00c5\u0084 nie mamy \u00c4\u0087wicze\u00c5\u0084 z poznawczej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1681662884458,
+      "content": "tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika S\u00c5\u0082ota",
+      "timestamp_ms": 1681662882020,
+      "content": "Tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1681662867709,
+      "content": "Wy te\u00c5\u00bc macie ta wej\u00c5\u009bci\u00c3\u00b3wk\u00c4\u0099 z GK3?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681662820981,
+      "content": "Fajnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681662762689,
+      "content": "O",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681662758197,
+      "content": "tak",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika S\u00c5\u0082ota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681662749142,
+      "content": "Czyli za tydzie\u00c5\u0084 online te\u00c5\u00bc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Szyrsze\u00c5\u0084",
+      "timestamp_ms": 1681662494092,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681657363162,
+      "content": "jestem za",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1681657343392,
+      "content": "to si\u00c4\u0099 um\u00c3\u00b3wmy ze nie bedziemy o tym m\u00c3\u00b3wi\u00c4\u0087 hahah",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Szyrsze\u00c5\u0084"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681657334133,
+      "content": "bozee to dobrze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681657324807,
+      "content": "Wi\u00c4\u0099c ona tego nie s\u00c5\u0082ucha\u00c5\u0082a XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681657306698,
+      "content": "Ale dziel\u00c4\u0085c na grupy w pokojach",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681657296925,
+      "content": "Kole\u00c5\u00bcanka z innej grupy m\u00c3\u00b3wi \u00c5\u00bce kaza\u00c5\u0082a to niby przedstawia\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681656788464,
+      "content": "i jestem ciekawa czy b\u00c4\u0099d\u00c4\u0085 jakies konsekwencje jaks je nie zrobi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681656773576,
+      "content": "no w\u00c5\u0082a\u00c5\u009bnie same\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1681656764425,
+      "content": "nie XDD i w\u00c5\u0082a\u00c5\u009bnie si\u00c4\u0099 mia\u00c5\u0082y\u00c5\u009bmy za to zabra\u00c4\u0087 ale nam si\u00c4\u0099 nie chce",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Martyna Szyrsze\u00c5\u0084"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681656693829,
+      "content": "na poznawcza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681656683475,
+      "content": "eej macie te tabelki dokonczoneXDDD?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Martyna Szyrsze\u00c5\u0084"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Staszel",
+      "timestamp_ms": 1681489967580,
+      "content": "Je\u00c5\u00bceli si\u00c4\u0099 zgodzi to czemu nie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Szyrsze\u00c5\u0084",
+      "timestamp_ms": 1681489745255,
+      "content": "sory nie widzia\u00c5\u0082am wczesniej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Szyrsze\u00c5\u0084",
+      "timestamp_ms": 1681489740446,
+      "content": "jestem za",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasiek Wikar",
+      "timestamp_ms": 1681478598446,
+      "content": "Ja chc\u00c4\u0099 i\u00c5\u009b\u00c4\u0087 do szk\u00c3\u00b3\u00c5\u0082ki, wi\u00c4\u0099c si\u00c4\u0099 nie wypowiadam \u00f0\u009f\u0099\u0088",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika S\u00c5\u0082ota",
+      "timestamp_ms": 1681478519020,
+      "content": "Ja nie id\u00c4\u0099, wi\u00c4\u0099c te\u00c5\u00bc si\u00c4\u0099 nie wypowiadam\u00f0\u009f\u0098\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Dorota Szczerba"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681478020524,
+      "content": "Ja siedz\u00c4\u0099 cicho bo nie mam angielskiego \u00f0\u009f\u0099\u0088",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681477881310,
+      "content": "\u00c5\u009bwietna komunikacjaxdd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Steczkiewicz",
+      "timestamp_ms": 1681418750138,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681416161169,
+      "content": "w sensie w ta niedziele",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1681416151770,
+      "content": "a angielski mamy stacjonarnie? bo je\u00c5\u009bli tak to mo\u00c5\u00bce zagada\u00c4\u0087 tez do tej babeczki czy nie chce zrobi\u00c4\u0087 zdalnie zaj\u00c4\u0099\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Natalia Steczkiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o",
+      "timestamp_ms": 1681407826173,
+      "content": "Super, dzi\u00c4\u0099ki Monika :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681405505831,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/gk04_5496847023729596/photos/927975648517335.jpg",
+          "creation_timestamp": 1681405504
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dorota Szczerba"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Staszel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1681382368478,
+      "content": "Jeny tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1681382302920,
+      "content": "To napisa\u00c4\u0087 do Fudali-Czy\u00c5\u00bc o te zdalne w niedziel\u00c4\u0099?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika S\u00c5\u0082ota"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Oliwia Julia Serafin"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dorota Szczerba"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Szyrsze\u00c5\u0084"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1680681511461,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/gk04_5496847023729596/photos/2220657224785866.jpg",
+          "creation_timestamp": 1680681510
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1680681504172,
+      "content": "ej bo nie wiem czy dobrze rozumiem, ale ten test z angielskiego, on ma by\u00c4\u0087 z tych jakby trzech cz\u00c4\u0099\u00c5\u009bci?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1680455553960,
+      "content": "Polecam si\u00c4\u0099 na przysz\u00c5\u0082o\u00c5\u009b\u00c4\u0087 XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1680455515632,
+      "content": "Oliwia ustawi\u00c5\u0082a nick u\u00c5\u00bcytkownika Dorota Szczerba jako dorota diler.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Szyrsze\u00c5\u0084",
+      "timestamp_ms": 1680455476551,
+      "content": "b\u00c5\u0082agam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1680455467263,
+      "content": "Ja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Szyrsze\u00c5\u0084",
+      "timestamp_ms": 1680455351853,
+      "content": "ma kto\u00c5\u009b mo\u00c5\u00bce co\u00c5\u009b na gard\u00c5\u0082o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1680454283978,
+      "content": "Biedna ona, zgubi si\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1680454276017,
+      "content": "Jeju, \u00c5\u00bce nikt nie byl tak m\u00c4\u0085dry i nie wymy\u00c5\u009bli\u00c5\u0082 funkcji notesu/notatki czy czego\u00c5\u009b",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1680454249209,
+      "content": "Faktycznie problem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1680454237204,
+      "content": "No tak, bo nie da si\u00c4\u0099 zapisa\u00c4\u0087 w kalendarzu z kim ma w jakiej formie XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Monika Wi\u00c5\u009bniewska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1680453579072,
+      "content": "O ten 16",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Wi\u00c5\u009bniewska",
+      "timestamp_ms": 1680453574914,
+      "content": "To jeste\u00c5\u009bcie za tym \u00c5\u00bceby zapyta\u00c4\u0087?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Dorota Szczerba"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1680452324949,
+      "content": "oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1680452293526,
+      "content": "Na grupie pisali, \u00c5\u00bce 316",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1680452199098,
+      "content": "mamy w 443a?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1680269132210,
+      "content": "oki, dziekii\u00f0\u009f\u00ab\u00b6",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Szyma\u00c5\u0084ska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klaudia Szyma\u00c5\u0084ska",
+      "timestamp_ms": 1680268878531,
+      "content": "ja mam zapisane, \u00c5\u00bce jedna nieobecno\u00c5\u009b\u00c4\u0087 obejmuje ca\u00c5\u0082y blok",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jasiek Wikar"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila Fr\u00c4\u0085cek",
+      "timestamp_ms": 1680268528940,
+      "content": "kojarzy kto\u00c5\u009b czy z logiki ta jedna nieobecno\u00c5\u009b\u00c4\u0087 to jest na ca\u00c5\u0082e 3h czy polowe bloku?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GK04",
+  "is_still_participant": true,
+  "thread_path": "inbox/gk04_5496847023729596",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/5390341671085386.jpg",
+    "creation_timestamp": 1664807952
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

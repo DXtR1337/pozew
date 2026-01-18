@@ -1,0 +1,208 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-20
+# Liczba: 203
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 13:07:55 | Edyta Bobak | ðð» | message_1.json |
+| 13:08:54 | MaÅgorzata Drozdek | Ja bÄdÄ od 18 | message_1.json |
+| 13:09:01 | MaÅgorzata Drozdek | Do koÅca koncertÃ³w | message_1.json |
+| 21:33:04 | Natasza Rodziewicz | MoÅ¼e ktoÅ bÄdzie chÄtny | message_1.json |
+| 21:33:16 | Natasza Rodziewicz | Z waszych znajomych czy coÅ | message_1.json |
+| 13:01:11 | Weronika Maciuszek | Wybiera siÄ ktoÅ wieczorem dzisiaj na miasteczko? ð | message_1.json |
+| 13:34:16 | Magda Waga | [Photo: 1] | message_1.json |
+| 13:38:24 | MaÅgorzata Drozdek | Za trudna ta mapa xdd | message_1.json |
+| 13:39:39 | Magda Waga | no nieexD | message_1.json |
+| 13:10:25 | MaÅgorzata Drozdek | MoÅ¼emy zrobiÄ jakÄÅ zbiÃ³rkÄ ð | message_1.json |
+| 13:10:31 | MaÅgorzata Drozdek | Na miasteczku | message_1.json |
+| 13:34:13 | Magda Waga | wysyÅam na wszelki | message_1.json |
+| 21:32:50 | Natasza Rodziewicz | Natasza wysÅaÅa zaÅÄcznik. | message_1.json |
+| 15:24:13 | Natasza Rodziewicz | nie da mi to spokoju, znalazÅ go ktoÅ na tym obrazku? XD | message_1.json |
+| 15:34:20 | Magda Motal | Chyba w namiocie siedziaÅ na gÃ³rze tak bardziej po lewej | message_1.json |
+| 15:37:24 | Magda Motal | Jezu 10 osÃ³b zostaÅo tylko XD | message_1.json |
+| 13:51:03 | Edyta Lemiech | tak jak na wszystkich Äwiczeniach do tej pory XD | message_1.json |
+| 15:22:17 | Wiktoria MiÅaszewska | Na tÄ czeÅÄ wykÅadu nie ma listy? | message_1.json |
+| 15:23:45 | Jasiek Wikar | Na tÄ ostatniÄ czÄÅÄ nie daje | message_1.json |
+| 19:27:47 | Anna PÅatek | 28.05 moÅ¼ecie powiedzieÄ o ktÃ³rej macie poznawcza? | message_1.json |
+| 19:28:30 | Anna PÅatek | Gk1,24? Bo chyba bÄdÄ musiaÅa iÅÄ na inna grupÄ ;) | message_1.json |
+| 19:28:58 | Julka Åypaczewska | Gk02 ma o 18:30 | message_1.json |
+| 15:37:26 | Magda Motal | Å»al mi go | message_1.json |
+| 15:38:13 | Anna PÅatek | 11 ja tylko siÄ dotkeniam ð | message_1.json |
+| 15:38:18 | Anna PÅatek | Dotleniam | message_1.json |
+| 15:04:50 | Marek Rapta | [No text content] | message_1.json |
+| 15:05:25 | Magda Waga | no przynajmniej na koniec krakowa.. | message_1.json |
+| 15:05:56 | Marek Rapta | komus bardzo sie komunikacja jeÅºdziÄ nie chce xd | message_1.json |
+| 14:59:58 | Magda CieÅ¼ | Ja tez siÄ chÄtnie zabiorÄ z tobÄ Mareczku!! | message_1.json |
+| 15:01:57 | Ewelina DÄbosz | @Angelika Åuczyk | message_1.json |
+| 15:03:45 | Magda Waga | z nim to moÅ¼na na koniec Åwiata i jeszcze dalej | message_1.json |
+| 19:05:04 | Katarzyna Morawska | KreatywnoÅci  nie byÅo koÅca | message_1.json |
+| 19:21:58 | MaÅgorzata Drozdek | Zapraszam podczas scenÄ | message_1.json |
+| 19:22:13 | MaÅgorzata Drozdek | Jest gorÄco ð¤ | message_1.json |
+| 19:04:49 | Katarzyna Morawska | [Photo: 1] | message_1.json |
+| 19:04:52 | Katarzyna Morawska | Polecam siÄ | message_1.json |
+| 19:04:56 | Katarzyna Morawska | Nigdy nie ma nudy | message_1.json |
+| 14:58:49 | Edyta Bobak | TeÅ¼ | message_1.json |
+| 14:30:59 | Ewelina DÄbosz | Ulgowy? | message_1.json |
+| 14:33:12 | Natalia Stachura | Do ktÃ³rej sÄ koncerty? | message_1.json |
+| 14:34:59 | Angelika Åuczyk | Tak | message_1.json |
+| 13:40:17 | Ewelina KapÅon | Maga jak zrobiÄ takÄ mapÄ? | message_1.json |
+| 13:46:53 | Magda Waga | znalazÅam kiedyÅ | message_1.json |
+| 14:15:50 | Angelika Åuczyk | Chce kupiÄ ktoÅ na dziÅ bilet na plaÅ¼Ä? Jeden na zbyciu mam xd | message_1.json |
+| 14:50:42 | Marek Rapta | moge wtedy zabrac od razu pare osob z pod miasteczka i potem odwiezc na miasteczko na impreze | message_1.json |
+| 14:57:16 | Magda Waga | to ja siÄ od razu zgÅaszamð | message_1.json |
+| 14:58:17 | Marek Rapta | jako Å¼e mamy ostatni tydzien nauki stacjonarnej to ten tydzien zapowiada sie ciekawie | message_1.json |
+| 14:37:53 | Ewelina DÄbosz | NapisaÅam do ciebie âºï¸ | message_1.json |
+| 14:38:54 | Magda Waga | do jakoÅ miÄdzy 23 a 24 | message_1.json |
+| 14:49:58 | Marek Rapta | pytanie, czy jest koÅo tego gdzies jakis fajny parking darmowy? haha orientuje sie ktoÅ? bo mam ko... | message_1.json |
+| 13:50:27 | PaweÅ Rodak | BÄdzie jutro | message_1.json |
+| 10:45:28 | Wiktoria Krzyszkowska | DziÄki | message_1.json |
+| 10:46:00 | Magda Motal | MyÅlicie Å¼e wielkoÅÄ czcionki 13 i interlinia 1,5 przejdzie...? | message_1.json |
+| 10:46:05 | Nadia Materek | tak | message_1.json |
+| 10:44:12 | Katarzyna Huk | Lub osobÄ np Freud czy ktoÅ | message_1.json |
+| 10:45:02 | Wiktoria Krzyszkowska | Okej a jaki on miaÅ byÄ dlugi? | message_1.json |
+| 10:45:15 | Martyna Gancarczyk | 3 strony | message_1.json |
+| 11:48:40 | Dorota Szczerba | Ej moÅ¼e warto byÅo by jÄ uÅwiadomiÄ jak wyglÄdajÄ Äwiczenia z poznawczej? Nie wiem jak wy my... | message_1.json |
+| 11:49:23 | Martyna Gancarczyk | trzeba byÅoby tak bardziej prywatnie podejÅÄ ale obawiam siÄ, ze ona to moÅ¼e przekazaÄ Fudali | message_1.json |
+| 11:49:29 | Martyna Gancarczyk | I ciÄÅ¼szy bÄdzie kolos | message_1.json |
+| 10:46:18 | Magda Motal | Bo jak bardzo bym nie prÃ³bowaÅa to juÅ¼ wiÄcej nie mogÄ wymyÅliÄ na ten temat, bo informacje s... | message_1.json |
+| 10:46:34 | Nadia Materek | daj sb siana Madziu, zrobiÅaÅ wystarczajÄco | message_1.json |
+| 11:07:57 | PaweÅ Rodak | MoÅ¼e byÄ Wikipedia? | message_1.json |
+| 10:43:20 | Magda Motal | NapisaÄ dlaczego wÅaÅnie ten nurt wybraliÅmy i go opisaÄ | message_1.json |
+| 10:52:39 | MichaÅ Wiencek | MoÅ¼ecie teraz dzwoniÄ do siebie i wysyÅaÄ wiadomoÅci oraz wyÅwietlaÄ dane, takie jak status a... | message_1.json |
+| 01:23:24 | Krzysztof Antoni AmbroÅ¼y Czekaj | Tak na przyszÅoÅÄ, mamy teÅ¼ fb-stronÄ sekcji, wiÄc moÅ¼ecie podsyÅaÄ mi tekst wydarzeÅ, Å¼e... | message_1.json |
+| 05:29:27 | Ewa Burlikowska-Moskalska | ProszÄ usunÄÄ stamtÄd pssiap KRK;)))) | message_1.json |
+| 18:03:22 | Aleksandra Kretek | Hejo! Mam dla Was ostatnie zadanie ðð bo brakuje mi zdjÄcia  z bilecikami od sabrossa i salsa... | message_1.json |
+| 09:04:50 | Tomek Tlaga | siema, bilet na strefÄ polibudy dalej aktualny? | message_1.json |
+| 10:52:39 | MichaÅ Wiencek | Siema, tak aktualny | message_1.json |
+| 10:35:26 | Wiktoria Krzyszkowska | Hej co my mamy zrobiÄ na zaliczenie z historii? | message_1.json |
+| 10:35:57 | Wiktoria Krzyszkowska | Bo wiem Å¼e esej tylko nie wiem jaki i o czym | message_1.json |
+| 10:41:21 | Nadia Materek | O wybranym nurcie psychologicznym | message_1.json |
+| 05:44:11 | Krzysztof Antoni AmbroÅ¼y Czekaj | Ach, no tak, bo teraz pssiap bÄdzie robiÅ na swoim :)))) | message_1.json |
+| 05:44:42 | Krzysztof Antoni AmbroÅ¼y Czekaj | Tak czy siak, eventy Sensorium zachÄcam do robienia pod naszym fanpagem. ; > | message_1.json |
+| 06:02:31 | Ewa Burlikowska-Moskalska | Wiesz o co chodzi | message_1.json |
+| 13:48:49 | Anna PÅatek | A co mamy na jutro na Äwiczeniach? | message_1.json |
+| 13:48:53 | Anna PÅatek | Nie kontrole? | message_1.json |
+| 13:49:03 | PaweÅ Rodak | Ostatnio chyba byÅa | message_1.json |
+| 12:09:29 | Katarzyna Huk | Jak coÅ | message_1.json |
+| 13:48:17 | PaweÅ Rodak | Za duÅ¼o powiedzane ze temat z fudali byÅ zrealizowany | message_1.json |
+| 13:48:46 | Wiktoria MiÅaszewska | Ja nie kojarze nawet takich ÄwiczeÅ | message_1.json |
+| 13:50:18 | Wiktoria MiÅaszewska | RozwiÄzywanie problemÃ³w i myslenie | message_1.json |
+| 13:50:24 | PaweÅ Rodak | Zajawka | message_1.json |
+| 13:50:26 | Natasza Rodziewicz | pewnie znowu pamiÄÄ albo znowu oczy bÄdziemy rysowaÄ | message_1.json |
+| 13:49:11 | PaweÅ Rodak | Bo stroop to kontrola poznawcza | message_1.json |
+| 13:49:42 | Anna PÅatek | Racja. A co ja jutro? | message_1.json |
+| 13:50:07 | PaweÅ Rodak | Dobre pytanieð | message_1.json |
+| 12:09:27 | Katarzyna Huk | A to odp do lektoratu naszego xd | message_1.json |
+| 11:52:52 | Natasza Rodziewicz | Plus Fudali ma syna w szpitalu wiÄc raczej teraz nie wypada narzekaÄ na niÄ do Ganczarek | message_1.json |
+| 12:00:44 | Katarzyna Huk | Nie ma po co, egzamin  i tak jest z wykÅadÃ³w, resztÄ siÄ doczyta  JuÅ¼ jest i tak za pÃ³Åºno | message_1.json |
+| 12:01:21 | Katarzyna Huk | z reszta nawet wczeÅniej jakby byÅo to chyba bez sensu sobie samemu utrudniaÄ  Å¼ycie | message_1.json |
+| 11:50:09 | Anna PÅatek | Trzeba odpuÅciÄ | message_1.json |
+| 11:51:20 | MaÅgorzata Gajewska | WiÄcej bÄdzie z tego problemÃ³w niÅ¼ poÅ¼ytku a na pewno nie wpÅynie to pozytywnie na poziom trud... | message_1.json |
+| 11:52:24 | Martyna Gancarczyk | wydaje mi siÄ Å¼e Ganczarek jest osobÄ z zasadami wiÄc i tak bÄdzie nas cisnÄÄ Å¼e musimy wszy... | message_1.json |
+| 12:05:31 | Jowita Rozum | Ale w ten sam dzieÅ mamy to kolokwium na Äwiczeniach ze statystyki | message_1.json |
+| 12:07:53 | Magda Motal | WolaÅabym juÅ¼ pisaÄ poznawczÄ na korytarzu niÅ¼ w sali z niÄ... | message_1.json |
+| 12:08:35 | Kamil Kusibab | [Photo: 1] | message_1.json |
+| 12:02:40 | Martyna Gancarczyk | cieszmy siÄ ze Fudala duzo od nas nie wymaga, moÅ¼e zrobi tez kolosa zdalnie xd | message_1.json |
+| 12:05:01 | Magda Motal | Ona chyba i tak musi go zrobiÄ zdalnie bo jest podczas zajÄÄ | message_1.json |
+| 12:05:14 | Jowita Rozum | Oby | message_1.json |
+| 19:22:21 | Angelika Åuczyk | Pod kiblem teÅ¼ xd | message_1.json |
+| 12:41:13 | Klaudia ObtuÅowicz | mail to bÄdzie klaudiaobtt@gmail.com a dane to bÄdzie Zuzanna Pietrzyk | message_1.json |
+| 12:41:22 | MichaÅ Wiencek | to 50 w takim razie | message_1.json |
+| 12:41:26 | MichaÅ Wiencek | blik 660463449 | message_1.json |
+| 12:40:38 | MichaÅ Wiencek | mozna przekazac | message_1.json |
+| 12:40:44 | MichaÅ Wiencek | ale trzeba wtedy 20 zl doplacic | message_1.json |
+| 12:40:57 | Klaudia ObtuÅowicz | jasne moÅ¼e byÄ | message_1.json |
+| 12:44:03 | MichaÅ Wiencek | Ej bo problem jest XD | message_1.json |
+| 12:44:12 | MichaÅ Wiencek | T zwroce ci 20 | message_1.json |
+| 12:44:22 | MichaÅ Wiencek | I przesle normalnie na maila co | message_1.json |
+| 12:42:57 | Klaudia ObtuÅowicz | poszÅo | message_1.json |
+| 12:43:06 | MichaÅ Wiencek | juz przekazuje | message_1.json |
+| 12:44:00 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
+| 12:40:29 | Klaudia ObtuÅowicz | jak znajdziesz to daj znaÄ to podam ci dane | message_1.json |
+| 12:37:07 | MichaÅ Wiencek | hmm | message_1.json |
+| 12:37:10 | MichaÅ Wiencek | mozna ogarnac | message_1.json |
+| 12:37:16 | MichaÅ Wiencek | musze apke do tego pobrac? | message_1.json |
+| 12:36:27 | MichaÅ Wiencek | tak | message_1.json |
+| 12:36:34 | MichaÅ Wiencek | moge ci na maila przeslac albo tutaj | message_1.json |
+| 12:36:56 | Klaudia ObtuÅowicz | podobno jest jakaÅ opcja przekaÅ¼ bilet innej osobie na going | message_1.json |
+| 12:38:04 | Klaudia ObtuÅowicz | [Photo: 1] | message_1.json |
+| 12:38:08 | MichaÅ Wiencek | to moment pobiore i zobacze | message_1.json |
+| 12:38:09 | Klaudia ObtuÅowicz | to jest coÅ takiego | message_1.json |
+| 12:37:16 | Klaudia ObtuÅowicz | jesli tam kupowaÅeÅ | message_1.json |
+| 12:37:22 | MichaÅ Wiencek | tak z going mam | message_1.json |
+| 12:37:32 | Klaudia ObtuÅowicz | chyba tak | message_1.json |
+| 10:50:13 | MichaÅ Wiencek | MoÅ¼ecie teraz dzwoniÄ do siebie i wysyÅaÄ wiadomoÅci oraz wyÅwietlaÄ dane, takie jak status a... | message_1.json |
+| 12:51:40 | Adrian WszoÅek | siema | message_1.json |
+| 12:51:44 | Adrian WszoÅek | aktualny bilet? | message_1.json |
+| 11:28:07 | Martyna SzyrszeÅ | chyba tak | message_1.json |
+| 08:58:41 | Emilia JarzÄb | Hejka!! Ten bilet na Kukona aktualny, bo jestem zainteresowana ð¥º | message_1.json |
+| 10:50:13 | MichaÅ Wiencek | Tak aktualny | message_1.json |
+| 13:02:15 | Adrian WszoÅek | dzieki za infi | message_1.json |
+| 13:02:15 | Adrian WszoÅek | trzymaj sie milego | message_1.json |
+| 13:02:38 | MichaÅ Wiencek | MiÅego i powodzenia w szukaniu! | message_1.json |
+| 13:01:36 | MichaÅ Wiencek | JuÅ¼ sprzedany | message_1.json |
+| 13:01:37 | MichaÅ Wiencek | MoÅ¼ecie teraz dzwoniÄ do siebie i wysyÅaÄ wiadomoÅci oraz wyÅwietlaÄ dane, takie jak status a... | message_1.json |
+| 13:02:15 | Adrian WszoÅek | kurde | message_1.json |
+| 11:27:39 | Oliwia WÅodarczyk | puszcza | message_1.json |
+| 12:45:05 | Klaudia ObtuÅowicz | 519353906 | message_1.json |
+| 12:45:06 | MichaÅ Wiencek | Mail ten sam nie? | message_1.json |
+| 12:45:09 | Klaudia ObtuÅowicz | tak | message_1.json |
+| 12:44:27 | MichaÅ Wiencek | Bo chyba sie nie da | message_1.json |
+| 12:44:35 | Klaudia ObtuÅowicz | dobra to sprÃ³bujemy tak | message_1.json |
+| 12:45:00 | MichaÅ Wiencek | Daj swoj blik | message_1.json |
+| 12:46:42 | Klaudia ObtuÅowicz | dziÄkujÄ! | message_1.json |
+| 12:46:48 | MichaÅ Wiencek | dzieki tez | message_1.json |
+| 11:27:34 | Oliwia WÅodarczyk | ej pamietacie mkze czy ona piszczÄ dwa razy listÄ obecnoÅci? | message_1.json |
+| 12:46:32 | MichaÅ Wiencek | powinnas miec | message_1.json |
+| 12:46:34 | MichaÅ Wiencek | na mailu juz | message_1.json |
+| 12:46:40 | Klaudia ObtuÅowicz | tak mam | message_1.json |
+| 12:36:23 | Klaudia ObtuÅowicz | bilet elektroniczny? | message_1.json |
+| 23:24:32 | Nikola Chudyka | gdzie | message_1.json |
+| 23:24:49 | Angelika Åuczyk | KoÅo filutka chos | message_1.json |
+| 08:37:49 | Julita Bouffette | Kochani, zostaÅy nadal dwa tematy | message_1.json |
+| 22:53:10 | Angelika Åuczyk | JesteÅmy przy filutku | message_1.json |
+| 22:53:12 | Angelika Åuczyk | ChoÅ | message_1.json |
+| 22:53:20 | Angelika Åuczyk | Bo bÄdzie najÅatwiej siÄ znaleÅºÄ | message_1.json |
+| 08:38:49 | Julita Bouffette | I czy ktoÅ moÅ¼e stworzyÄ plik? | message_1.json |
+| 08:43:21 | Maria Zguda | https://docs.google.com/document/d/14GUeI9G9ovBQbZsXlmUeXKV7Synwa5Qe5M5VGHpKMcM/edit?usp=drivesdk | message_1.json |
+| 08:44:43 | Julita Bouffette | DziÄki maria | message_1.json |
+| 08:37:56 | Julita Bouffette | Wpisujcie siÄ, Å¼eby mieÄ to z gÅowy | message_1.json |
+| 08:38:13 | Julita Bouffette | I zaczÄÄ uzupeÅniaÄ | message_1.json |
+| 08:38:37 | Julita Bouffette | Jest o wiele wiÄcej osÃ³b na tej grupce niÅ¼ tematÃ³w, nawet przy dwÃ³ch osobach na temat | message_1.json |
+| 22:52:48 | Vanessa Malczewska | Ja mogÄ | message_1.json |
+| 19:27:19 | Ewelina KapÅon | Nie bez powodu jesteÅ niebiarÄ xd | message_1.json |
+| 19:35:56 | Marek Rapta | Prosze o chwile ciszy z powodu rozpoczÄcia sezonu na komary  [*] | message_1.json |
+| 19:38:22 | Angelika Åuczyk | U mnie nie xd | message_1.json |
+| 19:22:28 | Marek Rapta | Maga pobiera energie z kosmosu | message_1.json |
+| 19:22:31 | MaÅgorzata Drozdek | To teÅ¼ racja xdd | message_1.json |
+| 19:26:45 | Magda Waga | oddajÄ siÄ wszechÅwiatowi | message_1.json |
+| 22:31:46 | Angelika Åuczyk | Byle nie iÅÄ do sklepu z kolejkÄ | message_1.json |
+| 22:52:24 | Angelika Åuczyk | Albo ktoÅ chce siÄ spotkaÄ na MÅ? | message_1.json |
+| 22:52:27 | Angelika Åuczyk | Ms | message_1.json |
+| 22:31:02 | Angelika Åuczyk | To jest mega waÅ¼ne pytanie | message_1.json |
+| 22:31:13 | Angelika Åuczyk | Ma ktoÅ piwo do sprzedania i jest na miasteczku? | message_1.json |
+| 22:31:31 | Angelika Åuczyk | ZapÅacÄ XD | message_1.json |
+| 12:20:16 | Klaudia ObtuÅowicz | kurczÄ sorki jednak nie okazaÅo siÄ Å¼e potrzebujÄ jednak normalny a nie ulgowy :// | message_1.json |
+| 12:20:16 | Klaudia ObtuÅowicz | MoÅ¼ecie teraz dzwoniÄ do siebie i wysyÅaÄ wiadomoÅci oraz wyÅwietlaÄ dane, takie jak status a... | message_1.json |
+| 12:31:02 | MichaÅ Wiencek | Aa luzik | message_1.json |
+| 05:59:26 | Krzysztof Antoni AmbroÅ¼y Czekaj | 26.05, piÄtek, 18:00  Jak byÄ samotnym? - dyskusja z prof. Tarnowskim  https://www.facebook.com/ev... | message_1.json |
+| 06:25:13 | Krzysztof Antoni AmbroÅ¼y Czekaj | 27.05, sobota, 17:00  Warsztaty asertywnej komunikacji "Powiedz to asertywnie"  https://www.facebook... | message_1.json |
+| 12:11:41 | MichaÅ Wiencek | Siema, jestes dalej zainteresowana tym biletem? | message_1.json |
+| 12:35:27 | MichaÅ Wiencek | mam mam | message_1.json |
+| 12:35:57 | MichaÅ Wiencek | masz blika? | message_1.json |
+| 12:36:09 | Klaudia ObtuÅowicz | tak | message_1.json |
+| 12:34:07 | Klaudia ObtuÅowicz | o kurczÄ! jednak jestem chÄtna | message_1.json |
+| 12:34:17 | Klaudia ObtuÅowicz | moÅ¼na wymieniÄ na miejscu na normalny | message_1.json |
+| 12:34:52 | Klaudia ObtuÅowicz | takÅ¼e jeÅli nadal masz to kupiÄ | message_1.json |
+| 05:59:21 | Krzysztof Antoni AmbroÅ¼y Czekaj | 25.05, czwartek, 18:30   Opioidy: konieczne leki, zabÃ³jcze narkotyki - debata  https://www.facebook... | message_1.json |
+| 09:19:00 | Damian Piotr Cokot | 29 bym daÅ | message_1.json |
+| 09:19:16 | Damian Piotr Cokot | Bo i tak bÄdzie sÅuÅ¼yÅ gÅÃ³wnie do ctrl+D | message_1.json |
+| 09:19:18 | Damian Piotr Cokot | F | message_1.json |
+| 08:44:45 | Julita Bouffette | ð | message_1.json |
+| 09:13:49 | Maria Zguda | ðð | message_1.json |
+| 09:15:16 | Julita Bouffette | PrzegÅosowano datÄ kolosa na 5 czerwca, wiÄc kiedy chcemy zrobiÄ deadline z notatkami jak juÅ¼ m... | message_1.json |
+| 09:23:24 | Julita Bouffette | I wpisujcie w wolne miejsca z tematami!!! | message_1.json |
+| 05:58:45 | Krzysztof Antoni AmbroÅ¼y Czekaj | 22.05, poniedziaÅek, 14:00  Sekcja Psychoterapii Sensorium zaprasza na spotkanie z psychoterapeutkÄ... | message_1.json |
+| 05:59:06 | Krzysztof Antoni AmbroÅ¼y Czekaj | 23.05, wtorek, 18:00  Sekcja Psychoterapii Sensorium zaprasza na kolejne z cyklu spotkanie wokÃ³Å w... | message_1.json |
+| 09:19:21 | Damian Piotr Cokot | * | message_1.json |
+| 09:22:47 | Julita Bouffette | [No text content] | message_1.json |
+| 09:23:11 | Julita Bouffette | Jak reszta myÅli? Dajcie reakcje pod tÄ wiadomoÅciÄ | message_1.json |

@@ -1,0 +1,132 @@
+﻿# WIADOMOSCI Z DNIA: 2023-04-30
+# Liczba: 127
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 12:04:58 | Anna PÅatek | To moÅ¼e wieczorem, jak juÅ¼ wszyscy bÄdÄ po zajÄciach? Bo teraz moÅ¼e komuÅ to umknÄÄ | message_1.json |
+| 11:57:21 | Kamil Kusibab | ZrÃ³bmy po prostu ankietÄ na fb, Å¼eby wiÄcej osÃ³b widziaÅo i siÄ wypowiedziaÅo | message_1.json |
+| 11:52:43 | Anna PÅatek | JeÅli jedna grupa ma Äwiczenia o 11:15 to wtedy tez to musiaÅoby byÄ zdalnie. Dlatego wydaje mi ... | message_1.json |
+| 12:05:43 | Kamil Kusibab | Jak teraz zrobimy post i oznaczymy, to tym osobom bÄdzie wisieÄ powiadomienie caÅy czas | message_1.json |
+| 12:58:46 | Oliwia Matyszczak | Nie | message_1.json |
+| 12:58:39 | Dorota Szczerba | Ej, czy dziÅ na poznawczej sÄ wejÅciÃ³wki? | message_1.json |
+| 12:55:18 | BÅaÅ¼ej Krzysztof | +1 | message_1.json |
+| 11:51:51 | Asia Pytlarz | +1 | message_1.json |
+| 11:48:40 | Ewelina Haraf | Ale moze sprobowac mimo wszystko warto? | message_1.json |
+| 11:47:59 | Anna PÅatek | Czyli Äwiczenia z mÃ³zgowych maja 2 grupy ;( wiec chyba lipa | message_1.json |
+| 11:40:58 | Oliwia WÅodarczyk | k4 ma mÃ³zgowe o 11:15 | message_1.json |
+| 11:49:20 | Anna PÅatek | JeÅli wszyscy byli zgodni na zdalne to moÅ¼na napisaÄ do Czwrneckiej co ona na to | message_1.json |
+| 11:51:32 | Joanna Pietrzyk | :) | message_1.json |
+| 11:51:29 | Joanna Pietrzyk | ProponujÄ zrobiÄ gÅosowanie, bo nie kaÅ¼dy chce, Å¼eby ten wykÅad byÅ zdalnie | message_1.json |
+| 11:49:40 | Anna PÅatek | MoÅ¼e te Äwiczenia dla niej tez by nie byÅy problemem, a byÅmy mieli dzieÅ bez jazdy na uczelnie | message_1.json |
+| 12:58:47 | Ewelina Haraf | Nie | message_1.json |
+| 07:19:59 | Gabi Mucha | [Photo: 7] | message_1.json |
+| 18:23:50 | Strojek Ania | hej studiuje ktoÅ moÅ¼e filozofia rozwoju osobowego z elementami psychologii najlepiej teraz na 1 r... | message_1.json |
+| 20:54:45 | Jowita Rozum | Chyba zostawiÅam na stanowisku po lewej stronie sali patrzÄc od drzwi | message_1.json |
+| 07:20:11 | Emilka Kowalczyk | [Photo: 4] | message_1.json |
+| 07:21:34 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
+| 07:20:42 | Emilka Kowalczyk | [Photo: 2] | message_1.json |
+| 07:20:31 | Emilka Kowalczyk | [Photo: 3] | message_1.json |
+| 20:54:13 | Jowita Rozum | Z takim dÅugim kablem, 2m | message_1.json |
+| 20:49:49 | Jowita Rozum | Czy byÅa dziÅ jakaÅ grupa, ktÃ³ra miaÅa statystyke o 15? | message_1.json |
+| 14:50:42 | Anna PÅatek | Czy jest ktoÅ chÄtny do zrobienia ankiety nt nastÄpnej niedzieli? Bo jeÅli siÄ dogadamy to nie ... | message_1.json |
+| 12:59:05 | Anna PÅatek | ciekawe z czego by zrobila xD | message_1.json |
+| 20:52:20 | Klaudia SzymaÅska | L06 | message_1.json |
+| 20:53:48 | Jowita Rozum | A nie znalazÅ ktoÅ moÅ¼e biaÅej Åadowarki do samsunga? | message_1.json |
+| 20:53:24 | Klaudia SzymaÅska | tak | message_1.json |
+| 20:53:08 | Jowita Rozum | W jakiej sali mieliÅcie? 249? | message_1.json |
+| 11:37:13 | Magdalena Kubowicz | A potem my ustalimy wewnÄtrz K2 co i jak i w razie co napiszemy | message_1.json |
+| 09:07:11 | Magda Staszel | Jak o 13:15 4 grupa siÄ ÅÄczy | message_1.json |
+| 09:05:55 | Katarzyna Huk | [Photo: 1] | message_1.json |
+| 09:04:41 | Kamil Kusibab | My mamy o 15 | message_1.json |
+| 09:07:41 | Magda Staszel | Czy Åºle to rozumiem | message_1.json |
+| 09:09:20 | Magda Staszel | Tylko Å¼e czÄÅÄ ma statystykÄ do 14:45 | message_1.json |
+| 09:08:08 | Katarzyna Huk | Tak to rozumiem xd | message_1.json |
+| 09:08:01 | Katarzyna Huk | Ja wcale nie rozumiem xd  KtoÅ ma sie doÅÄczyÄ  do grupy 1/2 | message_1.json |
+| 09:04:33 | Kamil Kusibab | q z maÅej moÅ¼e byÄ | message_1.json |
+| 16:25:50 | Aga Stec | [Sticker] | message_1.json |
+| 15:56:11 | Karolina Master | [Sticker] | message_1.json |
+| 15:53:34 | Vanessa Kubowicz-Lupa | [Sticker] | message_1.json |
+| 20:50:04 | Alicja Ewa Dubiel | Prawdopodobnie najwczeÅniejsze projekty niestety ruszÄ dopiero w paÅºdzierniku moi mili ze wzglÄd... | message_1.json |
+| 09:04:20 | Kamil Kusibab | Qitu4l6 GK02 | message_1.json |
+| 09:03:31 | Alicja MÅynarska | Hej, czy 1 i 2 grupa z poznawczej mogÅyby nam wysÅaÄ kody do swoich grup na teamsie? Bo coÅ nie ... | message_1.json |
+| 20:50:50 | Alicja Ewa Dubiel | JeÅli coÅ nam siÄ uda faktycznie zorganizowaÄ. BÄdÄ podpytywaÄ dr Sznajder o potencjalne wyst... | message_1.json |
+| 09:09:47 | Oliwia WÅodarczyk | jej pewnie chodzi o to, ze pierwsza grupa ma siÄ ÅÄczyÄ | message_1.json |
+| 11:34:48 | Anna PÅatek | A ewentualnie bierzecie pod uwagÄ zdalne Äwiczenia z mÃ³zgowych jakby siÄ zgodziÅa? | message_1.json |
+| 11:34:20 | Magdalena Kubowicz | Ale to chyba i tak nie byÅby problem, jakby sie zgodziÅa na wykÅad zdalnie, to przyjedziemy pÃ³Åº... | message_1.json |
+| 11:33:45 | Magdalena Kubowicz | K2 ma pomiÄdzy wykÅadem a poznawcza Äwiczenia z mÃ³zgowych :( | message_1.json |
+| 11:35:08 | Magdalena Kubowicz | Bo wykÅad siÄ koÅczy o 11:15 a my Äwiczenia mamy dopiero o 15 wiec mysle ze by wszystkim to paso... | message_1.json |
+| 11:36:57 | Magdalena Kubowicz | Ale mysle ze lepiej napisaÄ najpierw o wykÅad osobno, bo na to wiÄksza szansa ze siÄ zgodzi | message_1.json |
+| 11:36:31 | Magdalena Kubowicz | Nie chce mÃ³wiÄ w imieniu grupy, ale nie sadze Å¼eby to byÅ problem dla kogoÅ âºï¸ | message_1.json |
+| 11:36:00 | Katarzyna Huk | To jak wam by pasowaÅo to moÅ¼na do niej napisaÄ co ona na to | message_1.json |
+| 11:30:16 | Anna PÅatek | Pytanie jak K2 i K4 | message_1.json |
+| 09:28:37 | Magda Motal | GK2* nie 3 | message_1.json |
+| 09:28:32 | Magda Motal | WiÄc poÅowa doÅÄcza do GK1 i poÅowa do GK3 | message_1.json |
+| 09:28:23 | Magda Motal | Grupa 3 nie ma swoich zajÄÄ po prostu bo jesteÅmy przez laby podzieleni tak Å¼e nie zdÄÅ¼ymy na ... | message_1.json |
+| 10:07:33 | Ania Gancarz | okej, wybrane ostatecznie terminy to 27.05. i 02.06. | message_1.json |
+| 11:29:47 | Ewelina Haraf | Oooo byloby cudownie! | message_1.json |
+| 11:29:41 | Katarzyna Huk | K1 nie ma nic wiÄcej | message_1.json |
+| 11:29:23 | Anna PÅatek | SÅuchajcie, bo za tydzieÅ tez mamy kiec zdalne z poznawczej. Czy jest jakaÅ grupa, ktÃ³ra ma coÅ... | message_1.json |
+| 07:21:53 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
+| 10:33:04 | Madzia Szczypka | O nie tu | message_1.json |
+| 10:33:03 | Madzia Szczypka | Ej guys | message_1.json |
+| 10:01:33 | MichaÅ Wiencek | Dom szpital dren i tak w kolko xd | message_1.json |
+| 12:58:41 | MichaÅ Wiencek | Jednak nie na zywca | message_1.json |
+| 13:01:31 | Julita Bouffette | BÄdÄ ciÄ rozgrzebywaÄ | message_1.json |
+| 13:01:26 | Julita Bouffette | Czemu znow | message_1.json |
+| 12:58:56 | MichaÅ Wiencek | Bo operacja bÄdzie X D | message_1.json |
+| 10:01:13 | MichaÅ Wiencek | Czuje sie jak na karuzeli | message_1.json |
+| 10:10:12 | Gabriela WÃ³jcikiewicz | sÄ | message_1.json |
+| 09:22:17 | Magda Staszel | To sÄ jakieÅ klucze? | message_1.json |
+| 17:56:19 | Dorota Szczerba | My nie zrobimy nic wiÄcej XD na tej poznawczej | message_1.json |
+| 10:10:37 | Gabriela WÃ³jcikiewicz | pewnie z DorotÄ dokoÅczymy dzisiaj to kodowanie jak wystarczy czasu | message_1.json |
+| 10:01:10 | MichaÅ Wiencek | Znowu mi bÄdÄ dren na zywca zakÅadac | message_1.json |
+| 15:03:11 | Gabriela WÃ³jcikiewicz | jeden przykÅad jak dziaÅaÄ w anovie | message_1.json |
+| 15:02:58 | Dorota Szczerba | [File: 1] | message_1.json |
+| 13:02:04 | MichaÅ Wiencek | Ropa mi sie na bol brzucha rozlala xd | message_1.json |
+| 15:28:07 | MichaÅ Wiencek | I tam vy za mna njkt nie pÅakaÅ | message_1.json |
+| 15:28:02 | MichaÅ Wiencek | Bo jestem bezwartosciowym odpadem ludzkim | message_1.json |
+| 15:22:59 | Radek Salwach | Czemu aÅ¼ tak WiÄcuÅ | message_1.json |
+| 15:28:12 | MichaÅ Wiencek | A chxoiaz bym tak nie cierpial | message_1.json |
+| 19:55:29 | MichaÅ Wiencek | Ogolnie to sytuacja wyglada tak Å¼e mialem operacje rozcieli mi brzuch i zalozyli mi 2 dreny i okaza... | message_1.json |
+| 19:53:59 | MichaÅ Wiencek | Sorry od znieczulenia mi tak odjebalo | message_1.json |
+| 15:35:20 | Madzia Szczypka | Trzymaj sie tam mordo | message_1.json |
+| 15:22:23 | Madzia Szczypka | Co ty pierdolisz | message_1.json |
+| 13:02:44 | MichaÅ Wiencek | To bym chyba sepsy dostaÅ xd | message_1.json |
+| 13:02:38 | MichaÅ Wiencek | Jakby nie to ze mam ta rane przez ktÃ³ra mi sie duzo wylalo | message_1.json |
+| 13:02:08 | MichaÅ Wiencek | PÃ³Å | message_1.json |
+| 13:03:03 | Radek Salwach | Damn | message_1.json |
+| 15:21:52 | MichaÅ Wiencek | Jebac zycie | message_1.json |
+| 15:21:44 | MichaÅ Wiencek | WolaÅbym umrzeÄ | message_1.json |
+| 15:21:37 | MichaÅ Wiencek | Szkoda ze przeÅ¼yÅem | message_1.json |
+| 17:56:04 | Dorota Szczerba | Czy intuicja mnie myli czy to dalej jest uwaga | message_1.json |
+| 07:31:58 | Emilka Kowalczyk | [Video: 1] | message_1.json |
+| 07:29:10 | Emilka Kowalczyk | [Video: 1] | message_1.json |
+| 07:28:53 | Emilka Kowalczyk | [Video: 1] | message_1.json |
+| 07:37:18 | Emilka Kowalczyk | [Video: 1] | message_1.json |
+| 07:41:38 | Emilka Kowalczyk | [Video: 1] | message_1.json |
+| 07:40:35 | MichaÅ Matczak | [Photo: 1] | message_1.json |
+| 07:37:27 | Emilka Kowalczyk | [Video: 1] | message_1.json |
+| 07:25:40 | Emilka Kowalczyk | [Video: 1] | message_1.json |
+| 07:22:24 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
+| 07:22:23 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
+| 07:22:22 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
+| 07:22:27 | Emilka Kowalczyk | [Photo: 2] | message_1.json |
+| 07:22:52 | Emilka Kowalczyk | [Photo: 2] | message_1.json |
+| 07:22:41 | Emilka Kowalczyk | [Photo: 2] | message_1.json |
+| 07:22:32 | Emilka Kowalczyk | [Photo: 5] | message_1.json |
+| 07:42:52 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
+| 17:39:39 | Oliwia WÅodarczyk | a to ten konspekt nie ma byÄ po prostu do tego eksperymentu co mamy przedstawiaÄ? | message_1.json |
+| 17:38:29 | Dorota Szczerba | ZÅota kobieta | message_1.json |
+| 17:38:21 | Dorota Szczerba | Czy ona nam wÅaÅnie tÅumaczy, Å¼e w sumie mieliÅmy to zrobiÄ na bazie kontekstu, ktÃ³rego nam n... | message_1.json |
+| 17:39:52 | Oliwia WÅodarczyk | bo tam coÅ byÅo napisane ze na zaliczenie z zajÄÄ | message_1.json |
+| 17:55:52 | Dorota Szczerba | Jeju, zapowiedziaÅa kontrolÄ poznawcza na za tydzieÅ | message_1.json |
+| 17:40:36 | Dorota Szczerba | No powiedziaÅa, Å¼e myÅlimy jednym mÃ³zgiem, ale Å¼e zrobiliÅmy wszyscy ten sam bÅÄd, bo to pow... | message_1.json |
+| 17:40:35 | Oliwia WÅodarczyk | aaa kontekstuXDD | message_1.json |
+| 16:38:50 | Magda Staszel | Mi co drugie sÅowo ucieka | message_1.json |
+| 07:45:02 | Emilka Kowalczyk | [Photo: 3] | message_1.json |
+| 07:42:59 | Emilka Kowalczyk | [Video: 1] | message_1.json |
+| 07:42:55 | Emilka Kowalczyk | [Video: 1] | message_1.json |
+| 07:45:36 | Julita Bouffette | Julita Bouffette usunÄÅ(ÄÅa) CiÄ z grupy. | message_1.json |
+| 16:38:27 | Monika WiÅniewska | U mnie w miarÄ git jakoÅÄ | message_1.json |
+| 16:38:06 | Magda Staszel | JÄ* | message_1.json |
+| 16:37:33 | Magda Staszel | Tylko mi ja tak zacina? | message_1.json |

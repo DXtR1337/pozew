@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="CDA_PL_IG_1.3.2.xsl" type="text/xsl"?><ClinicalDocument xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" classCode="DOCCLIN" moodCode="EVN" xsi:type="ns5:ClinicalDocument">
+  <typeId extension="POCD_HD000040" root="2.16.840.1.113883.1.3"/>
+  <templateId root="2.16.840.1.113883.3.4424.13.10.1.1"/>
+  <templateId extension="1.3.2" root="2.16.840.1.113883.3.4424.13.10.1.17"/>
+  <id displayable="true" extension="9146852" root="2.16.840.1.113883.3.4424.2.7.16011.1.3.1"/>
+  <code code="11502-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Laboratory report">
+    <translation code="06.10" codeSystem="2.16.840.1.113883.3.4424.11.1.32" codeSystemName="KLAS_DOK_P1" displayName="Wyniki badań laboratoryjnych"/>
+  </code>
+  <title>LZ/20230404/94/ACHIKZ/BB_OG - Wyniki: MORF5D, CREJ, CRPL2, GFR, K_I, NA_I, PRCT</title>
+  <effectiveTime value="20230404115458"/>
+  <confidentialityCode code="N" codeSystem="2.16.840.1.113883.5.25"/>
+  <languageCode code="pl-PL"/>
+  <setId extension="9146852" root="2.16.840.1.113883.3.4424.2.7.16011.1.3.2"/>
+  <versionNumber value="1"/>
+  <recordTarget contextControlCode="OP" typeCode="RCT">
+    <templateId extension="1.3.2" root="2.16.840.1.113883.3.4424.13.10.2.3"/>
+    <patientRole classCode="PAT">
+      <id displayable="false" extension="3.330335" root="2.16.840.1.113883.3.4424.2.7.16011.17.1"/>
+      <id displayable="true" extension="01250803236" root="2.16.840.1.113883.3.4424.1.1.616"/>
+      <addr>
+        <country>POLSKA</country>
+        <postalCode postCity="Bielsko-Biała" xsi:type="ns5:adxp.postalCode">43-300</postalCode>
+        <city>Bielsko-Biała</city>
+        <streetName>Sternicza</streetName>
+        <houseNumber>28/134</houseNumber>
+      </addr>
+      <telecom value="tel:48720764734"/>
+      <patient classCode="PSN" determinerCode="INSTANCE" xsi:type="ns5:Patient">
+        <name>
+          <given>MICHAŁ</given>
+          <family>WIENCEK</family>
+        </name>
+        <administrativeGenderCode code="M" codeSystem="2.16.840.1.113883.5.1"/>
+        <birthTime value="20010508"/>
+      </patient>
+      <providerOrganization classCode="ORG" determinerCode="INSTANCE">
+        <templateId extension="1.3.2" root="2.16.840.1.113883.3.4424.13.10.2.2"/>
+        <id displayable="false" extension="000000013794" root="2.16.840.1.113883.3.4424.2.3.1"/>
+      </providerOrganization>
+    </patientRole>
+  </recordTarget>
+  <author contextControlCode="OP" typeCode="AUT">
+    <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.2.4"/>
+    <functionCode code="DLAB" codeSystem="2.16.840.1.113883.3.4424.11.3.18" displayName="Diagnosta laboratoryjny"/>
+    <time value="20230404"/>
+    <assignedAuthor classCode="ASSIGNED">
+      <id displayable="true" extension="02810" root="2.16.840.1.113883.3.4424.1.6.4"/>
+      <code code="0708" codeSystem="2.16.840.1.113883.3.4424.11.3.3" displayName="diagnostyka laboratoryjna"/>
+      <assignedPerson classCode="PSN" determinerCode="INSTANCE">
+        <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.2.1"/>
+        <name>
+          <prefix>mgr</prefix>
+          <given>Anna</given>
+          <family>Bajorska</family>
+        </name>
+      </assignedPerson>
+      <representedOrganization classCode="ORG" determinerCode="INSTANCE">
+        <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.2.18"/>
+        <id displayable="true" extension="000000013794-063" root="2.16.840.1.113883.3.4424.2.3.3"/>
+        <name>Laboratorium Analityczne</name>
+        <telecom use="PUB" value="tel:033810200003381"/>
+        <addr>
+          <postalCode postCity="Bielsko-Biała" xsi:type="ns5:adxp.postalCode">43-316</postalCode>
+          <city>Bielsko-Biała</city>
+          <streetName>Al. Armii Krajowej</streetName>
+          <houseNumber>101</houseNumber>
+          <censusTract>TERYT TERC: 2461011</censusTract>
+        </addr>
+        <standardIndustryClassCode code="7100" codeSystem="2.16.840.1.113883.3.4424.11.2.4" displayName="Pracownia diagnostyki laboratoryjnej (laboratorium)"/>
+        <asOrganizationPartOf classCode="PART">
+          <wholeOrganization>
+            <id displayable="true" extension="000000013794-04" root="2.16.840.1.113883.3.4424.2.3.2"/>
+            <name>Laboratorium Analityczne</name>
+            <telecom use="PUB" value="tel:033810200003381"/>
+            <addr>
+              <postalCode postCity="Bielsko-Biała" xsi:type="ns5:adxp.postalCode">43-316</postalCode>
+              <city>Bielsko-Biała</city>
+              <streetName>Al. Armii Krajowej</streetName>
+              <houseNumber>101</houseNumber>
+              <censusTract>TERYT TERC: 2461011</censusTract>
+            </addr>
+            <asOrganizationPartOf classCode="PART">
+              <wholeOrganization>
+                <id displayable="true" extension="07062159000030" root="2.16.840.1.113883.3.4424.2.2.2"/>
+                <name>Szpital Wojewódzki w Bielsku-Białej Zakład Diagnostyki Laboratoryjnej</name>
+                <telecom use="PUB" value="tel:033810200003381"/>
+                <addr>
+                  <postalCode postCity="Bielsko-Biała" xsi:type="ns5:adxp.postalCode">43-316</postalCode>
+                  <city>Bielsko-Biała</city>
+                  <streetName>Al. Armii Krajowej</streetName>
+                  <houseNumber>101</houseNumber>
+                  <censusTract>TERYT TERC: 2461011</censusTract>
+                </addr>
+                <asOrganizationPartOf>
+                  <wholeOrganization>
+                    <id displayable="true" extension="000000013794" root="2.16.840.1.113883.3.4424.2.3.1"/>
+                    <id displayable="true" extension="070621590" root="2.16.840.1.113883.3.4424.2.2.1"/>
+                    <name>Szpital Wojewódzki w Bielsku-Białej Zakład Diagnostyki Laboratoryjnej</name>
+                  </wholeOrganization>
+                </asOrganizationPartOf>
+              </wholeOrganization>
+            </asOrganizationPartOf>
+          </wholeOrganization>
+        </asOrganizationPartOf>
+      </representedOrganization>
+    </assignedAuthor>
+  </author>
+  <custodian typeCode="CST">
+    <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.2.5"/>
+    <assignedCustodian classCode="ASSIGNED">
+      <representedCustodianOrganization classCode="ORG" determinerCode="INSTANCE">
+        <id displayable="false" extension="000000013794" root="2.16.840.1.113883.3.4424.2.3.1"/>
+      </representedCustodianOrganization>
+    </assignedCustodian>
+  </custodian>
+  <legalAuthenticator contextControlCode="OP" typeCode="LA">
+    <templateId extension="1.3.2" root="2.16.840.1.113883.3.4424.13.10.2.6"/>
+    <time value="20230404"/>
+    <signatureCode code="S"/>
+    <assignedEntity classCode="ASSIGNED">
+      <id displayable="true" extension="02810" root="2.16.840.1.113883.3.4424.1.6.4"/>
+      <code code="DLAB" codeSystem="2.16.840.1.113883.3.4424.11.3.18" displayName="Diagnosta laboratoryjny"/>
+    </assignedEntity>
+  </legalAuthenticator>
+  <inFulfillmentOf typeCode="FLFS">
+    <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.2.53"/>
+    <order classCode="ACT" moodCode="RQO">
+      <id extension="2.389098155" root="2.16.840.1.113883.3.4424.2.7.16011.4.1"/>
+      <priorityCode code="R" codeSystem="2.16.840.1.113883.5.7" displayName="routine"/>
+    </order>
+  </inFulfillmentOf>
+  <componentOf typeCode="COMP">
+    <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.2.52"/>
+    <encompassingEncounter classCode="ENC" moodCode="EVN">
+      <id displayable="true" extension="3.1359391" root="2.16.840.1.113883.3.4424.2.7.16011.98"/>
+      <code code="7100" codeSystem="2.16.840.1.113883.3.4424.11.2.4" displayName="Pracownia diagnostyki laboratoryjnej (laboratorium)"/>
+      <effectiveTime>
+        <low value="20230404070800"/>
+        <high value="20230404081720"/>
+      </effectiveTime>
+      <location typeCode="LOC">
+        <healthCareFacility classCode="SDLOC">
+          <location classCode="PLC" determinerCode="INSTANCE">
+            <templateId extension="1.3.2" root="2.16.840.1.113883.3.4424.13.10.2.75"/>
+            <addr>
+              <postalCode postCity="Bielsko-Biała" xsi:type="ns5:adxp.postalCode">43-316</postalCode>
+              <city>Bielsko-Biała</city>
+              <streetName>aleja Armii Krajowej</streetName>
+              <houseNumber>101</houseNumber>
+              <censusTract>TERYT TERC: 2461011</censusTract>
+            </addr>
+          </location>
+        </healthCareFacility>
+      </location>
+    </encompassingEncounter>
+  </componentOf>
+  <component contextConductionInd="true" typeCode="COMP">
+    <templateId root="2.16.840.1.113883.3.4424.13.10.2.8"/>
+    <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.2.59"/>
+    <structuredBody classCode="DOCBODY" moodCode="EVN">
+      <component typeCode="COMP">
+        <section classCode="DOCSECT" moodCode="EVN">
+          <templateId root="2.16.840.1.113883.3.4424.13.10.3.55"/>
+          <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.3.65"/>
+          <code code="11502-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Laboratory report"/>
+          <text>
+            <renderMultiMedia referencedObject="DOCUMENT_CONTENT"/>
+          </text>
+          <confidentialityCode code="N" codeSystem="2.16.840.1.113883.5.25"/>
+          <languageCode code="pl-PL"/>
+          <entry typeCode="COMP">
+            <observationMedia ID="DOCUMENT_CONTENT" classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.49"/>
+              <value mediaType="application/pdf" representation="B64">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XSAxNyBbMjc4XSA4MCBbODMzXSA0NiBbNjY3XSAxOSBbNTU2XSA1MyBbNzIyXSA0MCBbNjY3XSA0MiBbNzc4XSA1MCBbNzc4XSA0OSBbNzIyXSAyOSBbMjc4XSAyNiBbNTU2XSAyMSBbNTU2XSAyNCBbNTU2XSAyOCBbNTU2XSAyNyBbNTU2XSA1NSBbNjExXSA0OCBbODMzXSAxOCBbMjc4XSAzOCBbNzIyXSA2NSBbNDY5XSA0MyBbNzIyXSA4IFs4ODldIDUxIFs2NjddIDIyNCBbNTU2XSA2MCBbNjY3XSA0NCBbMjc4XSA1NyBbNjY3XSA3MyBbMjc4XSA0MSBbNjExXSA2IFs1NTZdIDU2IFs3MjJdIDIwNyBbNzc4XSA2NiBbNTU2XSAxMzkgWzczN10gNzAgWzUwMF0gMjg2IFs1MDBdIDI2MSBbNTU2XSA3NSBbNTU2XSBdDQo+Pg0KZW5kb2JqDQozIDAgb2JqDQo8PA0KL1R5cGUgL0ZvbnQNCi9TdWJ0eXBlIC9UeXBlMA0KL0Jhc2VGb250IC9BcmlhbA0KL0VuY29kaW5nIC9JZGVudGl0eS1IDQovRGVzY2VuZGFudEZvbnRzIFsxNSAwIFJdDQovVG9Vbmljb2RlIDEzIDAgUg0KPj4NCmVuZG9iag0KMTYgMCBvYmoNCjw8DQovVHlwZSAvRm9udERlc2NyaXB0b3INCi9Gb250TmFtZSAvQXJpYWwsSXRhbGljDQovRm9udEZhbWlseSAvQXJpYWwsSXRhbGljDQovRmxhZ3MgMzINCi9Gb250QkJveCBbLTUxNyAtMzI1IDEzNTkgOTk4IF0NCi9JdGFsaWNBbmdsZSAtMTIwDQovQXNjZW50IDcyOA0KL0Rlc2NlbnQgLTIwOA0KL0xlYWRpbmcgMTE3DQovQ2FwSGVpZ2h0IDExMTcNCi9TdGVtViA4OA0KL0F2Z1dpZHRoIDQ0MQ0KL014V2lkdGggMTg3Ng0KL01pc3NpbmdXaWR0aCA0NDENCj4+DQplbmRvYmoNCjE3IDAgb2JqDQo8PCAvTGVuZ3RoIDU0OCAgL0ZpbHRlciAvRmxhdGVEZWNvZGUgL0xlbmd0aDEgMTIzMCA+Pg0Kc3RyZWFtDQp4AV1UyY7aQBS8I/EPfZxRDu7VTSSExLBIHLIoJB9g7IZYAtsy5sDfz/Or51EyPmCq31ZV3e1sc9gemnpQ2c++LY9pUOe6qfp0bx99mdQpXepmPjNWVXU5TJBXy1vRzWcZ1R+f9yHdDs25nc+WS5X9oqL70D/Vy7pqT+mVsn70Verr5qJe/myO/y8cqtQM9fAcV4+PrrumGy0oPZ+tVqpKZ6refCu678UtqWzd18X1y2EornX5T/D3s0uKOI7ZBizLtkr3rihTXzSXRMQ0PSu13NOzms9SU33OCAtUns7l36LnCremCq1DpIolvTcM41eBhmG+A/SI5hL1O0TfENWOodWAPjDMrUAPaARGQA/otgzDGtDvGeYbgQvAIDAHdIABtVFqDSAJg0BIIK4MA1hFYeVAIwgNi7mkE8kWg/YyCF5F8cqgsxVz6K3IQS9uWCR7SSaDx2iUQQGKoihysC6IdRZRcpBpOOgNk14kR0neMQ3jRdGe98homes0S/BbSLAc1V520KAVJfEgAzeckDTwyklnAxrEFclo5aZW4OxEkYf8XGhYbAqtcm1AqwhFxvBBMkGsI3ajV3kOzuQKQ5Fg3liRWyBqMIg2kjtbRP0UhXwaP0YNNsXE6VyBVS4nR2P3yaMxWWtEqQYQB9jKAbYwZ7JdYy7tHJJhjh3NoYs4XTj6i4/Kx30vH31PHwP+9mTj6njn6yZ9fJ+6tuO7LD/vWjQURmVuZHN0cmVhbQ0KZW5kb2JqDQoxOCAwIG9iag0KPDwNCi9SZWdpc3RyeSAoQWRvYmUpIC9PcmRlcmluZyAoSWRlbnRpdHkpIC9TdXBwbGVtZW50IDANCj4+DQplbmRvYmoNCjE5IDAgb2JqDQo8PA0KL1R5cGUgL0ZvbnQNCi9TdWJ0eXBlIC9DSURGb250VHlwZTINCi9CYXNlRm9udCAvQXJpYWwsSXRhbGljDQovQ0lEU3lzdGVtSW5mbyAxOCAwIFINCi9Gb250RGVzY3JpcHRvciAxNiAwIFINCi9XIFsgNTggWzk0NF0gOTIgWzUwMF0gODEgWzU1Nl0gNzYgWzIyMl0gNzggWzUwMF0gMyBbMjc4XSA2OSBbNTU2XSA2OCBbNTU2XSA3MSBbNTU2XSA2MSBbNjExXSA3OSBbMjIyXSA3MiBbNTU2XSA3MCBbNTAwXSA5MyBbNTAwXSAyOSBbMjc4XSA0OSBbNzIyXSA4NSBbMzMzXSA1NSBbNTM3XSA0NyBbNTU2XSA4MiBbNTU2XSA5MCBbNzIyXSAxNyBbMjc4XSA0NiBbNjY3XSA0MiBbNzc4XSA4NyBbMjc4XSA4OCBbNTU2XSA1MSBbNjY3XSA0MCBbNjY3XSA1NCBbNjY3XSA4MyBbNTU2XSAyMjUgWzIyMl0gMjUyIFs1MDBdIDQ4IFs4MzNdIDQ0IFsyNzhdIDE5IFs1NTZdIDIzIFs1NTZdIDIxIFs1NTZdIDIyIFs1NTZdIDI4IFs1NTZdIDI0IFs1NTZdIDc0IFs1NTZdIDQ1IFs1MDBdIDg2IFs1MDBdIDI4NiBbNTAwXSA3MyBbMjc4XSA4MCBbODMzXSAyNyBbNTU2XSAyNiBbNTU2XSA0MyBbNzIyXSAxNiBbMzMzXSAyOTggWzUwMF0gNzcgWzIyMl0gMTUgWzI3OF0gMTMgWzM4OV0gNCBbMjc4XSAzNyBbNjY3XSAxMSBbMzMzXSAxMiBbMzMzXSBdDQo+Pg0KZW5kb2JqDQo0IDAgb2JqDQo8PA0KL1R5cGUgL0ZvbnQNCi9TdWJ0eXBlIC9UeXBlMA0KL0Jhc2VGb250IC9BcmlhbCxJdGFsaWMNCi9FbmNvZGluZyAvSWRlbnRpdHktSA0KL0Rlc2NlbmRhbnRGb250cyBbMTkgMCBSXQ0KL1RvVW5pY29kZSAxNyAwIFINCj4+DQplbmRvYmoNCjIwIDAgb2JqDQo8PA0KL1R5cGUgL0ZvbnREZXNjcmlwdG9yDQovRm9udE5hbWUgL0FyaWFsLEJvbGQNCi9Gb250RmFtaWx5IC9BcmlhbCxCb2xkDQovRmxhZ3MgMzINCi9Gb250QkJveCBbLTYyOCAtMzc2IDIwMDAgMTA1NiBdDQovSXRhbGljQW5nbGUgMA0KL0FzY2VudCA3MjgNCi9EZXNjZW50IC0yMTANCi9MZWFkaW5nIDExNw0KL0NhcEhlaWdodCAxMTE3DQovU3RlbVYgMTY2DQovQXZnV2lkdGggNDc5DQovTXhXaWR0aCAyNjI4DQovTWlzc2luZ1dpZHRoIDQ3OQ0KPj4NCmVuZG9iag0KMjEgMCBvYmoNCjw8IC9MZW5ndGggNTE0ICAvRmlsdGVyIC9GbGF0ZURlY29kZSAvTGVuZ3RoMSAxMTA4ID4+DQpzdHJlYW0NCngBXVTLjtpAELwj+R/muFEOnqe9KyEkMIvEIQ+F7AcYe2AtgW0N5sDfp2eqjZL4gKjprq7qHrfzar/d990k8p9haA5+Eqeub4O/DffQeHH0567PFkqLtmumGabT5lqP2SIn/uFxm/x135+GbLFcivwXkW5TeIiXdTsc/RfK+hFaH7r+LF4+qsO/B/vW91M3PeLp4T6OF3+lAyGzxWolWn8idvWtHr/XVy/ydejqy9fNcGn/Cv1+jF6Qw5ir4LEZWn8b68aHuj97siXpWYnljp5VtvB9+3+Gk2AeT81nHRJDGWJIaSQxllKqEtAyVAnqd4YuQaMZFoAGUKKUnkvpFNU7RNU6QVMy3AKuGVpABUgKgtxY5lq4KtiVA7dkrq0St3gD16JUwaXeUwvKsmcNG1Qxte/QQsktOAiVsxD6LZnr0FExu3qFroOuS0Ky4FmR99hCUSFqoVtw+xa6xayLFkpuwSCZ3CSTGlHLUQ1dy7oGupZ1NSpbrkxXF23YDWzQPSe4BdSb1IJ9ZYjR2Xl0MkbVDBWSDScr2DBsQ73FZGmKVErJ1IKi09iCwthVydNQqbLUbINeiujK8djplYmQ7jVypdylyjSFBBWmYeZp4I6e94tpGJ4GmY2lXDRJCzG/+PQXq/3cuuYeAq1k+gLk8TTuXtf751diHMa0U/zzB4Z9/KllbmRzdHJlYW0NCmVuZG9iag0KMjIgMCBvYmoNCjw8DQovUmVnaXN0cnkgKEFkb2JlKSAvT3JkZXJpbmcgKElkZW50aXR5KSAvU3VwcGxlbWVudCAwDQo+Pg0KZW5kb2JqDQoyMyAwIG9iag0KPDwNCi9UeXBlIC9Gb250DQovU3VidHlwZSAvQ0lERm9udFR5cGUyDQovQmFzZUZvbnQgL0FyaWFsLEJvbGQNCi9DSURTeXN0ZW1JbmZvIDIyIDAgUg0KL0ZvbnREZXNjcmlwdG9yIDIwIDAgUg0KL1cgWyAxOSBbNTU2XSAyMyBbNTU2XSAxNyBbMjc4XSAyMSBbNTU2XSAyMiBbNTU2XSAzIFsyNzhdIDE4IFsyNzhdIDI2IFs1NTZdIDI5IFszMzNdIDIwIFs1MDFdIDUwIFs3NzhdIDcxIFs2MTFdIDkzIFs1MDBdIDc2IFsyNzhdIDY4IFs1NTZdIDIyNSBbMjc4XSA0MiBbNzc4XSA4NiBbNTU2XSA4NyBbMzMzXSA4NSBbMzg5XSA4MiBbNjExXSA3MiBbNTU2XSA4MSBbNjExXSA3OSBbMjc4XSA3NCBbNjExXSA3MCBbNTU2XSA5MiBbNTU2XSA1OCBbOTQ0XSA0NCBbMjc4XSA0MCBbNjY3XSA0OSBbNzIyXSAzOCBbNzIyXSA0NiBbNzIyXSA0OCBbODMzXSA0MyBbNzIyXSAzNiBbNzIyXSAyMjQgWzYxMV0gMjcgWzU1Nl0gMjQgWzU1Nl0gMjUgWzU1Nl0gMjY2IFs1NTZdIDI5OCBbNTAwXSAxNiBbMzMzXSA1NSBbNTkzXSA0NyBbNjExXSAxNSBbMjc4XSAyOCBbNTU2XSAzNyBbNzIyXSAzMyBbNTg0XSA1NiBbNzIyXSBdDQo+Pg0KZW5kb2JqDQo1IDAgb2JqDQo8PA0KL1R5cGUgL0ZvbnQNCi9TdWJ0eXBlIC9UeXBlMA0KL0Jhc2VGb250IC9BcmlhbCxCb2xkDQovRW5jb2RpbmcgL0lkZW50aXR5LUgNCi9EZXNjZW5kYW50Rm9udHMgWzIzIDAgUl0NCi9Ub1VuaWNvZGUgMjEgMCBSDQo+Pg0KZW5kb2JqDQoyNCAwIG9iag0KPDwNCi9UeXBlIC9Gb250RGVzY3JpcHRvcg0KL0ZvbnROYW1lIC9BcmlhbCxCb2xkDQovRm9udEZhbWlseSAvQXJpYWwsQm9sZA0KL0ZsYWdzIDMyDQovRm9udEJCb3ggWy02MjggLTM3NiAyMDAwIDEwNTYgXQ0KL0l0YWxpY0FuZ2xlIDANCi9Bc2NlbnQgNzI4DQovRGVzY2VudCAtMjEwDQovTGVhZGluZyAxMTcNCi9DYXBIZWlnaHQgMTExNw0KL1N0ZW1WIDE2Ng0KL0F2Z1dpZHRoIDQ3OQ0KL014V2lkdGggMjYyOA0KL01pc3NpbmdXaWR0aCA0NzkNCj4+DQplbmRvYmoNCjI1IDAgb2JqDQo8PCAvTGVuZ3RoIDMwNCAgL0ZpbHRlciAvRmxhdGVEZWNvZGUgL0xlbmd0aDEgNTM4ID4+DQpzdHJlYW0NCngBXZFNasMwEIX3Bt9By5QuLMtO04AxpA4BL/pDnR5AkcapIJaFrCx8+44lJbTVwvh7Mw/ezGRNu2+1ciT7sKPowJFeaWlhGq9WADnBWek0yRmRSrgbelUM3KRJhv5unhwMre7HNKkqkn2iaXJ2JqudHE/wgF3vVoJV+kxWX033V2glaKfcvKjd1ZgLDCgQmiZ1TST06G5euXnjA5BsZxW/PL6MF/mrdJwNEEy49OYhoxglTIYLsFyfAWNRfDWpDvjqNAEt/3fgiH6sUy++ufWOgqKD0nKPjorSggU8RFx7XLOAbOuxfIp4CNhE3AXcRGwCbiOWAfOAtPDIaMD82WOxjhhSsZiKbXy1LLGKY93i42840H134motLtbfMVvUZYNKw/3WZjR+M/HzA1sXkyllbmRzdHJlYW0NCmVuZG9iag0KMjYgMCBvYmoNCjw8DQovUmVnaXN0cnkgKEFkb2JlKSAvT3JkZXJpbmcgKElkZW50aXR5KSAvU3VwcGxlbWVudCAwDQo+Pg0KZW5kb2JqDQoyNyAwIG9iag0KPDwNCi9UeXBlIC9Gb250DQovU3VidHlwZSAvQ0lERm9udFR5cGUyDQovQmFzZUZvbnQgL0FyaWFsLEJvbGQNCi9DSURTeXN0ZW1JbmZvIDI2IDAgUg0KL0ZvbnREZXNjcmlwdG9yIDI0IDAgUg0KL1cgWyA0OCBbODMzXSA1MCBbNzc4XSA1MyBbNzIyXSA0MSBbNjExXSA0NyBbNjExXSA0MiBbNzc4XSA0NCBbMjc4XSAzNiBbNjg1XSAzIFsyNzhdIDI0IFs1NTZdIDE2IFszMzNdIDM5IFs3MjJdIF0NCj4+DQplbmRvYmoNCjYgMCBvYmoNCjw8DQovVHlwZSAvRm9udA0KL1N1YnR5cGUgL1R5cGUwDQovQmFzZUZvbnQgL0FyaWFsLEJvbGQNCi9FbmNvZGluZyAvSWRlbnRpdHktSA0KL0Rlc2NlbmRhbnRGb250cyBbMjcgMCBSXQ0KL1RvVW5pY29kZSAyNSAwIFINCj4+DQplbmRvYmoNCjI4IDAgb2JqDQo8PA0KL1R5cGUgL0ZvbnREZXNjcmlwdG9yDQovRm9udE5hbWUgL1RpbWVzIzIwTmV3IzIwUm9tYW4sSXRhbGljDQovRm9udEZhbWlseSAvVGltZXMjMjBOZXcjMjBSb21hbixJdGFsaWMNCi9GbGFncyAzMg0KL0ZvbnRCQm94IFstNDk4IC0zMDcgMTMzMyAxMDIzIF0NCi9JdGFsaWNBbmdsZSAtMTY0DQovQXNjZW50IDY5NA0KL0Rlc2NlbnQgLTIxNg0KL0xlYWRpbmcgMTA3DQovQ2FwSGVpZ2h0IDExMDcNCi9TdGVtViA4OA0KL0F2Z1dpZHRoIDQwMg0KL014V2lkdGggMTgzMQ0KL01pc3NpbmdXaWR0aCA0MDINCj4+DQplbmRvYmoNCjI5IDAgb2JqDQo8PCAvTGVuZ3RoIDM5MiAgL0ZpbHRlciAvRmxhdGVEZWNvZGUgL0xlbmd0aDEgNzc5ID4+DQpzdHJlYW0NCngBXZLfaoMwFMbvBd8hsJuOXRhjbFqQQv+CF+vG7B7AxmMXqFGiZfTtF3Ni2eZF5HfyfcmX5ETbfJdrNZDo3bSygIHUSlcG+vZmJJAzXJQOg5iRSslhQleVTdmFQWT9xb0foMl13YZBlpHow5r6wdzJbF21Z3i2qjdTgVH6Qmaf2+JvIa9AD2q4j9Xi1nVXaGyB0DBYrUgFtXVvX8vuWDZAopNqoH9i9Ajfdvxom1K/5EN5VfKX9HTvgNjEozfGzLKtoO9KCabUF7Axqf1WJDvYbxUGoKv/CibQea7lV2mcg6XWQSln1pHZP3c4jz0KRI6Yxoh7RL5FXCLSxCGjiOnaoRAeUSy8mO/d7HzjZxniwSMuJaalMKSYQs5RnKCYLxBTxHjnMFkjJihOvThFFBNSJ57vUJxuHIoFYoKYTojHt9Hd1cV4V4m/qxgzJz4zw4243yjBA3J/QIZePnmXbl+b1b3b9D7jEzZjRz6aRd6MsZ3kGjcaq2OLKA2P5u7azi3hhx9FuMHVZW5kc3RyZWFtDQplbmRvYmoNCjMwIDAgb2JqDQo8PA0KL1JlZ2lzdHJ5IChBZG9iZSkgL09yZGVyaW5nIChJZGVudGl0eSkgL1N1cHBsZW1lbnQgMA0KPj4NCmVuZG9iag0KMzEgMCBvYmoNCjw8DQovVHlwZSAvRm9udA0KL1N1YnR5cGUgL0NJREZvbnRUeXBlMg0KL0Jhc2VGb250IC9UaW1lcyMyME5ldyMyMFJvbWFuLEl0YWxpYw0KL0NJRFN5c3RlbUluZm8gMzAgMCBSDQovRm9udERlc2NyaXB0b3IgMjggMCBSDQovVyBbIDM3IFs2MTFdIDY4IFs1MDBdIDcxIFs1MDBdIDgxIFs1MDBdIDc2IFsyNzhdIDMgWzI1MF0gOTAgWzY2N10gOTIgWzQ0NF0gNzggWzQ0NF0gODIgWzUwMF0gODMgWzUwMF0gODUgWzM4OV0gNzAgWzQ0NF0gNzIgWzQ0NF0gMjkgWzMzM10gNTQgWzUwMF0gODYgWzM4OV0gODAgWzcyMl0gOTEgWzQ0NF0gNTkgWzYxMV0gNDkgWzY2N10gMjAgWzUwMF0gMTkgWzUwMF0gMzggWzY2N10gNTAgWzcyMl0gMzYgWzYxMV0gMjUgWzUwMF0gXQ0KPj4NCmVuZG9iag0KNyAwIG9iag0KPDwNCi9UeXBlIC9Gb250DQovU3VidHlwZSAvVHlwZTANCi9CYXNlRm9udCAvVGltZXMjMjBOZXcjMjBSb21hbixJdGFsaWMNCi9FbmNvZGluZyAvSWRlbnRpdHktSA0KL0Rlc2NlbmRhbnRGb250cyBbMzEgMCBSXQ0KL1RvVW5pY29kZSAyOSAwIFINCj4+DQplbmRvYmoNCjMyIDAgb2JqDQo8PA0KL1R5cGUgL0ZvbnREZXNjcmlwdG9yDQovRm9udE5hbWUgL0FyaWFsLEJvbGRJdGFsaWMNCi9Gb250RmFtaWx5IC9BcmlhbCxCb2xkSXRhbGljDQovRmxhZ3MgMzINCi9Gb250QkJveCBbLTU2MCAtMzc2IDEzOTAgMTAxOCBdDQovSXRhbGljQW5nbGUgLTEyMA0KL0FzY2VudCA3MjgNCi9EZXNjZW50IC0yMTANCi9MZWFkaW5nIDExNw0KL0NhcEhlaWdodCAxMTE3DQovU3RlbVYgMTY2DQovQXZnV2lkdGggNDc5DQovTXhXaWR0aCAxOTUwDQovTWlzc2luZ1dpZHRoIDQ3OQ0KPj4NCmVuZG9iag0KMzMgMCBvYmoNCjw8IC9MZW5ndGggMzQzICAvRmlsdGVyIC9GbGF0ZURlY29kZSAvTGVuZ3RoMSA2MzQgPj4NCnN0cmVhbQ0KeAFdkstugzAQRfdI/IOXqbrA5plICImQRGLRh0r7AY49pJbAIEMW+fsaxonaegE+M/dqrmwHVX2otZpJ8G4G0cBMWqWlgWm4GgHkDBelfY+FRCox33Gtip6PvhdYf3ObZuhr3Q6+l+ck+LCmaTY3sinlcIYnq3ozEozSF7L5qpq/hVqCntV8W6rNdRw76G2BUN8rCiKhte7qhY+vvAcSlEbx7nk/dLKeeafEL8HnbQRicy4OhknFIGEauQDD9QVsOGpXQfKTXYXvgZb/FWyLznMrvrlZHVFkHZQm1Dpy+09WzEKHB8TSYYW4Q4yxm2KX0XLpMua6SbYgzWIn3q6YJogU54b3uYiZw2y3ik8RimNMlbpU8XHtpnvXxVSpm8swVYSpaBKi+OTEMSJDTBji0aI9sPvB2C0+gMfdiKsx9uLWdxIs1eVulIbHWxqHcT1z9/kBr0amg2VuZHN0cmVhbQ0KZW5kb2JqDQozNCAwIG9iag0KPDwNCi9SZWdpc3RyeSAoQWRvYmUpIC9PcmRlcmluZyAoSWRlbnRpdHkpIC9TdXBwbGVtZW50IDANCj4+DQplbmRvYmoNCjM1IDAgb2JqDQo8PA0KL1R5cGUgL0ZvbnQNCi9TdWJ0eXBlIC9DSURGb250VHlwZTINCi9CYXNlRm9udCAvQXJpYWwsQm9sZEl0YWxpYw0KL0NJRFN5c3RlbUluZm8gMzQgMCBSDQovRm9udERlc2NyaXB0b3IgMzIgMCBSDQovVyBbIDUxIFs2NjddIDg1IFszODldIDkzIFs1MDBdIDkyIFs1NTZdIDc3IFsyNzhdIDI2NiBbNTU2XSA4NyBbMzMzXSA3MiBbNTU2XSAzIFsyNzhdIDgzIFs2MTFdIDEyMSBbNjExXSA2OSBbNjExXSA3OCBbNTU2XSA3NiBbMjc4XSAyOSBbMzMzXSA4MiBbNjExXSA2OCBbNTU2XSA4MSBbNjExXSBdDQo+Pg0KZW5kb2JqDQoxMCAwIG9iag0KPDwNCi9UeXBlIC9Gb250DQovU3VidHlwZSAvVHlwZTANCi9CYXNlRm9udCAvQXJpYWwsQm9sZEl0YWxpYw0KL0VuY29kaW5nIC9JZGVudGl0eS1IDQovRGVzY2VuZGFudEZvbnRzIFszNSAwIFJdDQovVG9Vbmljb2RlIDMzIDAgUg0KPj4NCmVuZG9iag0KMSAwIG9iag0KPDwNCi9UeXBlIC9QYWdlcw0KL0tpZHMgWzggMCBSIDExIDAgUiBdDQovQ291bnQgMg0KPj4NCmVuZG9iag0KMzYgMCBvYmoNCjw8DQovVGl0bGUgPEZFRkY+DQovQXV0aG9yIDxGRUZGMDA0NjAwNjEwMDczMDA3NDAwNTIwMDY1MDA3MDAwNkYwMDcyMDA3ND4NCi9TdWJqZWN0IDxGRUZGMDA0NjAwNjEwMDczMDA3NDAwNTIwMDY1MDA3MDAwNkYwMDcyMDA3NDAwMjAwMDUwMDA0NDAwNDYwMDIwMDA2NTAwNzgwMDcwMDA2RjAwNzIwMDc0Pg0KL0tleXdvcmRzIDxGRUZGPg0KL0NyZWF0b3IgPEZFRkYwMDRDMDA2MTAwNjI+DQovUHJvZHVjZXIgPEZFRkY+DQovQ3JlYXRpb25EYXRlIChEOjIwMjMwNDA0MTE1NTI2KQ0KL01vZERhdGUgKEQ6MjAyMzA0MDQxMTU1MjYpDQo+Pg0KZW5kb2JqDQozNyAwIG9iag0KPDwNCi9UeXBlIC9DYXRhbG9nDQovUGFnZXMgMSAwIFINCi9QYWdlTW9kZSAvVXNlTm9uZQ0KL1ZpZXdlclByZWZlcmVuY2VzIDw8DQovUHJpbnRTY2FsaW5nIC9Ob25lDQo+Pg0KPj4NCmVuZG9iag0KeHJlZg0KMCAzOA0KMDAwMDAwMDAwMCA2NTUzNSBmDQowMDAwMDU2NDg0IDAwMDAwIG4NCjAwMDAwMDAwMTAgMDAwMDAgbg0KMDAwMDA0ODk2MiAwMDAwMCBuDQowMDAwMDUwNzc0IDAwMDAwIG4NCjAwMDAwNTI0ODEgMDAwMDAgbg0KMDAwMDA1MzYyOSAwMDAwMCBuDQowMDAwMDU1MDUwIDAwMDAwIG4NCjAwMDAwMTAwNzYgMDAwMDAgbg0KMDAwMDAxMDMwOSAwMDAwMCBuDQowMDAwMDU2MzMwIDAwMDAwIG4NCjAwMDAwNDY4NTMgMDAwMDAgbg0KMDAwMDA0NzA5OCAwMDAwMCBuDQowMDAwMDQ3MzY1IDAwMDAwIG4NCjAwMDAwNDgwODUgMDAwMDAgbg0KMDAwMDA0ODE2NSAwMDAwMCBuDQowMDAwMDQ5MTA0IDAwMDAwIG4NCjAwMDAwNDkzODcgMDAwMDAgbg0KMDAwMDA1MDAyNyAwMDAwMCBuDQowMDAwMDUwMTA3IDAwMDAwIG4NCjAwMDAwNTA5MjMgMDAwMDAgbg0KMDAwMDA1MTIwMSAwMDAwMCBuDQowMDAwMDUxODA3IDAwMDAwIG4NCjAwMDAwNTE4ODcgMDAwMDAgbg0KMDAwMDA1MjYyOCAwMDAwMCBuDQowMDAwMDUyOTA2IDAwMDAwIG4NCjAwMDAwNTMzMDEgMDAwMDAgbg0KMDAwMDA1MzM4MSAwMDAwMCBuDQowMDAwMDUzNzc2IDAwMDAwIG4NCjAwMDAwNTQwODggMDAwMDAgbg0KMDAwMDA1NDU3MSAwMDAwMCBuDQowMDAwMDU0NjUxIDAwMDAwIG4NCjAwMDAwNTUyMTMgMDAwMDAgbg0KMDAwMDA1NTUwNiAwMDAwMCBuDQowMDAwMDU1OTQwIDAwMDAwIG4NCjAwMDAwNTYwMjAgMDAwMDAgbg0KMDAwMDA1NjU1NiAwMDAwMCBuDQowMDAwMDU2ODgyIDAwMDAwIG4NCnRyYWlsZXINCjw8DQovU2l6ZSAzOA0KL1Jvb3QgMzcgMCBSDQovSW5mbyAzNiAwIFINCi9JRCBbPDFiZjJkOTE3NzllZjc4YWE3ZGE5MjQ5M2QyZmM2NTU1PjwxYmYyZDkxNzc5ZWY3OGFhN2RhOTI0OTNkMmZjNjU1NT5dDQo+Pg0Kc3RhcnR4cmVmDQo1NzAwNg0KJSVFT0YNCg==</value>
+            </observationMedia>
+          </entry>
+          <entry typeCode="COMP">
+            <templateId extension="1.3.1" root="2.16.840.1.113883.3.4424.13.10.4.1"/>
+            <organizer classCode="BATTERY" moodCode="EVN">
+              <code code="8319008" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Principal diagnosis"/>
+              <statusCode code="completed"/>
+              <component typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="Z03" codeSystem="2.16.840.1.113883.6.3" codeSystemName="icd10" displayName="Obserwacja medyczna i ocena przypadków podejrzanych o chorobę lub stany podobne"/>
+                </observation>
+              </component>
+            </organizer>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="M37" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="KREATYNINA W SUROWICY"/>
+              <effectiveTime>
+                <low value="20230404083748"/>
+                <high value="20230404083917"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="CREJ" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="KREATYNINA W SUROWICY"/>
+                  <value unit="mg/dl" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="mg/dl" value="0.4000000059604645"/>
+                        <high inclusive="true" unit="mg/dl" value="1.2000000476837158"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="I81" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="CRP W SUROWICY"/>
+              <effectiveTime>
+                <low value="20230404083748"/>
+                <high value="20230404083917"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="CRPL2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="CRP W SUROWICY"/>
+                  <value unit="mg/l" value="126" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="mg/l" value="0"/>
+                        <high inclusive="true" unit="mg/l" value="5"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="N45" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="POTAS W SUROWICY"/>
+              <effectiveTime>
+                <low value="20230404083748"/>
+                <high value="20230404083917"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="K_I" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="POTAS W SUROWICY"/>
+                  <value unit="mmol/l" value="4" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="mmol/l" value="3.5"/>
+                        <high inclusive="true" unit="mmol/l" value="5.099999904632568"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="WBC" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="WBC"/>
+                  <value unit="10^3/mm3" value="12" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^3/mm3" value="4"/>
+                        <high inclusive="true" unit="10^3/mm3" value="10"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="RBC" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="RBC"/>
+                  <value unit="10^6/mm3" value="4" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^6/mm3" value="4.5"/>
+                        <high inclusive="true" unit="10^6/mm3" value="5.800000190734863"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="HGB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="HGB"/>
+                  <value unit="g/dl" value="11" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="g/dl" value="14"/>
+                        <high inclusive="true" unit="g/dl" value="17.5"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="HCT" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="HCT"/>
+                  <value unit="%" value="36" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="40"/>
+                        <high inclusive="true" unit="%" value="53"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="PLT" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="PŁYTKI  KRWI"/>
+                  <value unit="10^3/mm3" value="276" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^3/mm3" value="150"/>
+                        <high inclusive="true" unit="10^3/mm3" value="400"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="PCT" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="PCT"/>
+                  <value unit="%" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="0.1599999964237213"/>
+                        <high inclusive="true" unit="%" value="0.3400000035762787"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="MCV" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="MCV"/>
+                  <value unit="um3" value="85" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="um3" value="80"/>
+                        <high inclusive="true" unit="um3" value="96"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="MCH" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="MCH"/>
+                  <value unit="pg" value="27" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="pg" value="28"/>
+                        <high inclusive="true" unit="pg" value="33"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="MCHC" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="MCHC"/>
+                  <value unit="g/dl" value="32" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="g/dl" value="33"/>
+                        <high inclusive="true" unit="g/dl" value="36"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="RDWCV" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="RDW-CV"/>
+                  <value unit="%" value="12" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="11.600000381469727"/>
+                        <high inclusive="true" unit="%" value="14.399999618530273"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="RDWSD" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="RDW-SD"/>
+                  <value unit="fL" value="37" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="fL" value="35.099998474121094"/>
+                        <high inclusive="true" unit="fL" value="43.900001525878906"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="MPV" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="MPV"/>
+                  <value unit="um3" value="10" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="um3" value="9"/>
+                        <high inclusive="true" unit="um3" value="12.600000381469727"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="PLCR" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="P-LCR"/>
+                  <value unit="%" value="26" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="19.200000762939453"/>
+                        <high inclusive="true" unit="%" value="47"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="PDW" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="PDW"/>
+                  <value unit="%" value="12" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="9.800000190734863"/>
+                        <high inclusive="true" unit="%" value="16.100000381469727"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="LIMFP" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="LIMFOCYTY%"/>
+                  <value unit="%" value="4" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="25"/>
+                        <high inclusive="true" unit="%" value="40"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="LIMFB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="LIMFOCYTY#"/>
+                  <value unit="10^3/mm3" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^3/mm3" value="1.5"/>
+                        <high inclusive="true" unit="10^3/mm3" value="4"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="MONOP" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="MONOCYTY%"/>
+                  <value unit="%" value="8" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="2"/>
+                        <high inclusive="true" unit="%" value="8"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="MONOB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="MONOCYTY#"/>
+                  <value unit="10^3/mm3" value="1" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^3/mm3" value="0.20000000298023224"/>
+                        <high inclusive="true" unit="10^3/mm3" value="0.800000011920929"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="NEUTP" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="NEUTROFILE%"/>
+                  <value unit="%" value="85" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="50"/>
+                        <high inclusive="true" unit="%" value="70"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="NEUTB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="NEUTROFILE#"/>
+                  <value unit="10^3/mm3" value="10" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^3/mm3" value="1.7000000476837158"/>
+                        <high inclusive="true" unit="10^3/mm3" value="6"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="EOP" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="EOZYNOFILE%"/>
+                  <value unit="%" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="1"/>
+                        <high inclusive="true" unit="%" value="5"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="EOB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="EOZYNOFILE#"/>
+                  <value unit="10^3/mm3" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^3/mm3" value="0.009999999776482582"/>
+                        <high inclusive="true" unit="10^3/mm3" value="0.5"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="BAZOP" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="BAZOFILE%"/>
+                  <value unit="%" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="0"/>
+                        <high inclusive="true" unit="%" value="1"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="BAZOB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="BAZOFILE#"/>
+                  <value unit="10^3/mm3" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^3/mm3" value="0"/>
+                        <high inclusive="true" unit="10^3/mm3" value="0.10000000149011612"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="IGB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="IG#"/>
+                  <value unit="10^3/mm3" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^3/mm3" value="0"/>
+                        <high inclusive="true" unit="10^3/mm3" value="0.029999999329447746"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="IGP" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="IG%"/>
+                  <value unit="%" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="0"/>
+                        <high inclusive="true" unit="%" value="0.5"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="NRBCB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="NRBC#"/>
+                  <value unit="10^3/mm3" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="10^3/mm3" value="0"/>
+                        <high inclusive="true" unit="10^3/mm3" value="0.029999999329447746"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="C55" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="MORFOLOGIA 5-DIFF"/>
+              <effectiveTime>
+                <low value="20230404090034"/>
+                <high value="20230404090123"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="NRBCP" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="NRBC%"/>
+                  <value unit="%" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="%" value="0"/>
+                        <high inclusive="true" unit="%" value="0.5"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="O35" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="SÓD W SUROWICY"/>
+              <effectiveTime>
+                <low value="20230404083748"/>
+                <high value="20230404083917"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="NA_I" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="SÓD W SUROWICY"/>
+                  <value unit="mmol/l" value="138" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="mmol/l" value="135"/>
+                        <high inclusive="true" unit="mmol/l" value="145"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+          <entry>
+            <observation classCode="OBS" moodCode="EVN">
+              <templateId extension="1.3.0" root="2.16.840.1.113883.3.4424.13.10.4.20"/>
+              <code code="N58" codeSystem="2.16.840.1.113883.3.4424.11.2.6" codeSystemName="ICD-9-PL" displayName="PROKALCYTONINA W SUROWICY"/>
+              <effectiveTime>
+                <low value="20230404083927"/>
+                <high value="20230404083947"/>
+              </effectiveTime>
+              <entryRelationship typeCode="COMP">
+                <observation classCode="OBS" moodCode="EVN">
+                  <code code="PRCT" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="PROKALCYTONINA W SUROWICY"/>
+                  <value unit="ng/ml" value="0" xsi:type="PQ"/>
+                  <referenceRange typeCode="REFV">
+                    <observationRange classCode="OBS" moodCode="EVN.CRT">
+                      <value xsi:type="IVL_PQ">
+                        <low inclusive="true" unit="ng/ml" value="0"/>
+                        <high inclusive="true" unit="ng/ml" value="0.5"/>
+                      </value>
+                    </observationRange>
+                  </referenceRange>
+                </observation>
+              </entryRelationship>
+            </observation>
+          </entry>
+        </section>
+      </component>
+    </structuredBody>
+  </component>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="ID-9980baaf-ad6b-4e5a-8654-e2ebdc04367e">
+<ds:SignedInfo Id="ID-010e8136-0c6b-4cad-9d8d-427664f37628"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference Id="ID-91ed7597-04a3-40d2-8490-2c9918b9f2b6" URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116"><ds:XPath xmlns="http://uri.etsi.org/01903/v1.3.2#">not(ancestor-or-self::ds:Signature)</ds:XPath>
+</ds:Transform>
+<ds:Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116"><ds:XPath xmlns="http://uri.etsi.org/01903/v1.3.2#">not(ancestor-or-self::ds:Signature)</ds:XPath>
+</ds:Transform>
+<ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>9ZJqp53hCEV/+/UFo3s6pwrmQz0bQfohW/WCNsqb6kU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="ID-a9472aa7-4c98-4986-a7e4-580524327d0a" Type="http://uri.etsi.org/01903#SignedProperties" URI="#ID-01f0a25d-4e9c-46ec-bb96-a7bd1423be0e"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>UQmXY0LM4VlarrurdreR/k3zzA4FIo2QQ9uqErQyCiE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="ID-03b42e3b-b479-4b7e-b0cd-5a49ae04e13d">FtJtc/o9Pj6TZpTE8JrjglK9tSCWC1bkxmw5myntG4bUoVTSi2fXn1fagAdc7JQB/SAgX+mKW1D7qmpi
+hkN4aWYMYnAb/eaEJKs/TTTaSHPcHi+a489iD1U9nuhMQznRsGgfzZaSUkD0MpGtRSbazLQq58ze+B9y
+5h0arGeT14lCNmfOXX65N0HqKseLWgM/ormBDygJhd3as1PIHlJAkUWC7RReGzeS8685uFLZrHOQRLAj
+9vpkRAJIfgPXoKsFTFMF0AKzaE7HdM2YI2/Kz8iuqf/D+/S8TMcNR+QRyjVSDb7oSVI10YntBLEvTp6B
+aq6NXu/VXqkJd7mtF1wXqQ==</ds:SignatureValue>
+<ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIHdDCCBVygAwIBAgIUa04q8Q1q+3YTwob4Yh0hnCTmaVAwDQYJKoZIhvcNAQELBQAweDELMAkGA1UE
+BhMCUEwxKDAmBgNVBAoMH0tyYWpvd2EgSXpiYSBSb3psaWN6ZW5pb3dhIFMuQS4xJDAiBgNVBAMMG0NP
+UEUgU1pBRklSIC0gS3dhbGlmaWtvd2FueTEZMBcGA1UEYQwQVkFUUEwtNTI2MDMwMDUxNzAeFw0yMTA5
+MDMwODQyMTBaFw0yMzA5MDMwODQxMDBaMIH7MUswSQYDVQQQMEIMFkFsLiBBcm1paSBLcmFqb3dlaiAx
+MDEMFTQzLTMxNiBCaWVsc2tvLUJpYcWCYQwJxZtsxIVza2llDAZQb2xza2ExCzAJBgNVBAYTAlBMMS4w
+LAYDVQQKDCVTenBpdGFsIFdvamV3w7NkemtpIHcgQmllbHNrdS1CaWHFgmVqMRowGAYDVQQFExFQTk9Q
+TC04MDA5MjIwMDMyNDEuMCwGA1UEAwwlU3pwaXRhbCBXb2pld8OzZHpraSB3IEJpZWxza3UtQmlhxYJl
+ajESMBAGA1UEKgwJQWduaWVzemthMQ8wDQYDVQQEDAZGbHVkZXIwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCfQEVQPBexVc9LNdIx74Wo7ZthvSbMT1A5K7JWp9JTgdTUownrt4UtpICjPL1Gpr1Q
+MHDqCazDbvGIF445qmThISN6mDRqxKAVYjUJu0UMWe0WIa0On2nqUMmaisJ8pr0zb4/S8gh2MsniGC93
+w7qI5+eE0DgHnGK054kcA1yJW0bNtXJzXKmys0X6oQyQqAU27WhJFdxmVpSvZ+KHe76OPgSyHOgWxHI/
+hUODtFUmIkqMG8v9l5zLkZq/I0S/2UI2u+EePP+REVm0dNTcU0CMQ1qhLWSo9TX3wmdb1rkl0FLFGLdV
+RrBKTI3NUCMH7xoBdMQUOjf4LdwQHTQj3EXhAgMBAAGjggJwMIICbDAMBgNVHRMBAf8EAjAAMIHHBgNV
+HSABAf8EgbwwgbkwgbYGCSqEaAGG9yMBATCBqDBaBggrBgEFBQcCAjBODExDZXJ0eWZpa2F0IHd5ZGFu
+eSB6Z29kbmllIHogWmHFgsSFY3puaWtpZW0gSSBkbyBSb3pwb3J6xIVkemVuaWEgbnIgOTEwLzIwMTQu
+MEoGCCsGAQUFBwIBFj5odHRwOi8vd3d3LmVsZWt0cm9uaWN6bnlwb2RwaXMucGwvaW5mb3JtYWNqZS9k
+b2t1bWVudHktaS11bW93eTB/BggrBgEFBQcBAwRzMHEwCAYGBACORgEBMAgGBgQAjkYBBDBGBgYEAI5G
+AQUwPDA6FjRodHRwczovL3d3dy5lbGVrdHJvbmljem55cG9kcGlzLnBsL1BLSURpc2Nsb3N1cmUucGRm
+EwJwbDATBgYEAI5GAQYwCQYHBACORgEGATB/BggrBgEFBQcBAQRzMHEwLgYIKwYBBQUHMAGGImh0dHA6
+Ly9vY3NwLmVsZWt0cm9uaWN6bnlwb2RwaXMucGwwPwYIKwYBBQUHMAKGM2h0dHA6Ly9lbGVrdHJvbmlj
+em55cG9kcGlzLnBsL2NlcnR5ZmlrYXR5L296azYyLmRlcjAOBgNVHQ8BAf8EBAMCBkAwHwYDVR0jBBgw
+FoAU5rG0EuZHp4Q+5sPEuIlnQ6Nj0X0wQAYDVR0fBDkwNzA1oDOgMYYvaHR0cDovL2VsZWt0cm9uaWN6
+bnlwb2RwaXMucGwvY3JsL2NybF9vems2Mi5jcmwwHQYDVR0OBBYEFBHp+iy9A7wFwKt2uZWGiizhzMG9
+MA0GCSqGSIb3DQEBCwUAA4ICAQCEijt/1A4+pB8xc7uF59XZaDlXjvh6p41NXcRhFD49xha6N5bfFVVP
+jOmwMbPp4PnoawQlYCn1dkqA96rSfQ44b+Xd1QAA5hwCDkjvq9xF4DbudJmyQgzivEtd9topgtaY+IHb
++Y3i/9PH4RBMcxzFGMl90kuKixoNONmujKF2frmU8e8eJvaxik/AIqYG0SvNZiPwmyAmtpptsYFtQCgU
+HNpXTC4R695CRVaXTcPvKc5t9q3vvy7psoSIR7xbgWdTX8Q6U7E87og17MHpIQJUkqaCJglky6T4gONI
+9TzEpehDvxixXmNTRqZykAhm89U3yKAlYumpjzAFK2pdqpLJkugEiZti97mWBxgfincP1Algxvvr0mEo
+YriSswe7gLj+jcfd01ecFY3dHwU4ysWlW6ACHnLF4m46efvHQM6M6kpqblNXM+EMfKsO5FsVAgszZD18
+Nes8Oh56ZKi6DsExhN2VCv90mHl/fg5n/5Xj41LTD1tW0bROiEDZSYfa5Oyldrow3bLOdOoMMh8H5lYN
+jPO8LfhEjplTkTAMNo6xyeiXBvGoXmiFnjqGPomVf7X3uOOiKTNZlZasF8jolDdpZPpk7BacPqarFMGn
+sx8BtP2Q8roheEwKSCDjIYtrfdEdjlf2h/ZlCyQNEeNm38KcAiXyzdC1jeSFqJmkwmwq7g==</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="ID-2e82b2ef-2ef4-47f8-b593-9570d1d21880" Target="#ID-9980baaf-ad6b-4e5a-8654-e2ebdc04367e"><xades:SignedProperties Id="ID-01f0a25d-4e9c-46ec-bb96-a7bd1423be0e"><xades:SignedSignatureProperties><xades:SigningTime>2023-04-04T09:57:22Z</xades:SigningTime>
+<xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>rx5rq0ODM9FS3+kr1YHGdHo83Pfs9vuvdCg3ChXE0pc=</ds:DigestValue>
+</xades:CertDigest>
+<xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c10564154504c2d35323630333030353137,CN=COPE SZAFIR - Kwalifikowany,O=Krajowa Izba Rozliczeniowa S.A.,C=PL</ds:X509IssuerName>
+<ds:X509SerialNumber>612605211345531227226572709330133832312681818448</ds:X509SerialNumber>
+</xades:IssuerSerial>
+</xades:Cert>
+</xades:SigningCertificate>
+</xades:SignedSignatureProperties>
+<xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#ID-91ed7597-04a3-40d2-8490-2c9918b9f2b6"><xades:Description>BINARY_FORMAT []</xades:Description>
+<xades:MimeType>text/plain</xades:MimeType>
+<xades:Encoding>http://www.w3.org/2000/09/xmldsig#base64</xades:Encoding>
+</xades:DataObjectFormat>
+</xades:SignedDataObjectProperties>
+</xades:SignedProperties>
+</xades:QualifyingProperties>
+</ds:Object>
+</ds:Signature></ClinicalDocument>

@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Czy Tw\u00c3\u00b3j status jest widoczny?",
+      "value": "Prawda"
+    },
+    {
+      "label": "Czy Tw\u00c3\u00b3j status jest widoczny na Facebooku?",
+      "value": "Prawda"
+    },
+    {
+      "label": "Czy Tw\u00c3\u00b3j status jest widoczny w Messengerze?",
+      "value": "Prawda"
+    }
+  ],
+  "fbid": "685251001836918"
+}
