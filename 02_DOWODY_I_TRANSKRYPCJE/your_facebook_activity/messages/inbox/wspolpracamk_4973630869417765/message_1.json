@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Karol Frytek"
+    },
+    {
+      "name": "Zuza Karpiel"
+    },
+    {
+      "name": "Julia Paw\u00c5\u0082owska"
+    },
+    {
+      "name": "Magda Waga"
+    },
+    {
+      "name": "Aleksandra Kretek"
+    },
+    {
+      "name": "Monika Janiec"
+    },
+    {
+      "name": "Marta Bednarz"
+    },
+    {
+      "name": "Gosia Mizera"
+    },
+    {
+      "name": "Paulina \u00c5\u00bbwirek"
+    },
+    {
+      "name": "Ewelina D\u00c4\u0099bosz"
+    },
+    {
+      "name": "Julita Bouffette"
+    },
+    {
+      "name": "Emilka Matera"
+    },
+    {
+      "name": "Agata Smarzek"
+    },
+    {
+      "name": "Magda Cie\u00c5\u00bc"
+    },
+    {
+      "name": "Salvador Rafa\u00c5\u0082 Romero"
+    },
+    {
+      "name": "Ma\u00c5\u0082gorzata Drozdek"
+    },
+    {
+      "name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+    },
+    {
+      "name": "Zuza Tola"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Szymon Fuchs"
+    },
+    {
+      "name": "Natalie Mountain"
+    },
+    {
+      "name": "Ma\u00c5\u0082gosia Pieczonka"
+    },
+    {
+      "name": "Oliwia Burzy"
+    },
+    {
+      "name": "Julia Tabaka"
+    },
+    {
+      "name": "Kasia Bulzacka"
+    },
+    {
+      "name": "Anna Zawalska"
+    },
+    {
+      "name": "Angelika \u00c5\u0081uczyk"
+    },
+    {
+      "name": "Weronika Zieli\u00c5\u0084ska"
+    },
+    {
+      "name": "Pawe\u00c5\u0082 Piotrowski"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Weronika Zieli\u00c5\u0084ska",
+      "timestamp_ms": 1682238810013,
+      "content": "Idzie kto\u00c5\u009b na to oprowadzanie po \"Maszynerii Teatru\" w Domu pod Krzy\u00c5\u00bcem o godzinie 15?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika Zieli\u00c5\u0084ska",
+      "timestamp_ms": 1682238791434,
+      "content": "Hej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wsp\u00c3\u00b3\u00c5\u0082praca MK",
+  "is_still_participant": true,
+  "thread_path": "inbox/wspolpracamk_4973630869417765",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

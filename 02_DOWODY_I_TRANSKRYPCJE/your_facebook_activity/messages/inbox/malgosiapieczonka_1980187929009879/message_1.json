@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Ma\u00c5\u0082gosia Pieczonka"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683540911248,
+      "content": "Dzi\u00c4\u0099kujeee!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gosia Pieczonka",
+      "timestamp_ms": 1683537811172,
+      "content": "Wszystkiego najlepszego, du\u00c5\u00bco zdr\u00c3\u00b3wka szczeg\u00c3\u00b3lnie w tym czasie, bo mam nadzieje \u00c5\u00bce w ko\u00c5\u0084cu wyjdziesz \u00c5\u00bce szpitala i jeszcze fajnie zdanej sesji, kt\u00c3\u00b3ra  jest coraz bli\u00c5\u00bcej \u00f0\u009f\u00a5\u00b3",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gosia Pieczonka",
+      "timestamp_ms": 1682015540369,
+      "content": "Dzi\u00c4\u0099ki \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682007209324,
+      "content": "Wszystkiego najlepszego z okazji urodzin!!! \u00f0\u009f\u00a5\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ma\u00c5\u0082gosia Pieczonka",
+  "is_still_participant": true,
+  "thread_path": "inbox/malgosiapieczonka_1980187929009879",
+  "magic_words": [
+    
+  ]
+}

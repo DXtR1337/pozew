@@ -1,0 +1,689 @@
+{
+  "participants": [
+    {
+      "name": "Jakub Zachara"
+    },
+    {
+      "name": "Marek Rapta"
+    },
+    {
+      "name": "Kamil Tyto\u00c5\u0084"
+    },
+    {
+      "name": "Dominik Sowula"
+    },
+    {
+      "name": "Magda Waga"
+    },
+    {
+      "name": "Patrycja Ryba"
+    },
+    {
+      "name": "Mateusz Wr\u00c3\u00b3bel"
+    },
+    {
+      "name": "Karolina Michalec"
+    },
+    {
+      "name": "Katarzyna Morawska"
+    },
+    {
+      "name": "Adam Szpyrka"
+    },
+    {
+      "name": "Jan Kope\u00c4\u0087"
+    },
+    {
+      "name": "Justyna Bednarczyk"
+    },
+    {
+      "name": "Maks Szot"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Zych"
+    },
+    {
+      "name": "Klaudia Guca"
+    },
+    {
+      "name": "Sylwia Kobos"
+    },
+    {
+      "name": "Salvador Rafa\u00c5\u0082 Romero"
+    },
+    {
+      "name": "Weronika Kaczor"
+    },
+    {
+      "name": "Sebastian K\u00c4\u0085kol"
+    },
+    {
+      "name": "Kacper Kramarz"
+    },
+    {
+      "name": "Kamila J\u00c4\u0099dryjas"
+    },
+    {
+      "name": "Edyta Bobak"
+    },
+    {
+      "name": "Zuza Tola"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Eleanora Samoilava"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marek Tokarz",
+      "timestamp_ms": 1684090081005,
+      "content": "Marek Tokarz opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Michalec",
+      "timestamp_ms": 1683911958777,
+      "content": "Karolina Michalec doda\u00c5\u0082a Wojciecha Wojciechowskiego do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683814873041,
+      "content": "A to widze ze nie ma sensu isc",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Sebastian K\u00c4\u0085kol"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a5\u00ba",
+          "actor": "Kamila J\u00c4\u0099dryjas"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Edyta Bobak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edyta Bobak",
+      "timestamp_ms": 1683814818324,
+      "content": "Ja przepraszam ale si\u00c4\u0099 nie wyrobi\u00c4\u0099 jednak \u00f0\u009f\u00a5\u00ba",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Sebastian K\u00c4\u0085kol"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila J\u00c4\u0099dryjas",
+      "timestamp_ms": 1683814109410,
+      "content": "B\u00c4\u0099d\u00c4\u0099 pisac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila J\u00c4\u0099dryjas",
+      "timestamp_ms": 1683814106897,
+      "content": "Ale postaram si\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683813996979,
+      "content": "To srednio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila J\u00c4\u0099dryjas",
+      "timestamp_ms": 1683813932373,
+      "content": "Nwm czy si\u00c4\u0099 dzi\u00c5\u009b wyrobi\u00c4\u0099 bo jeszcze w pracy siedze",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Sebastian K\u00c4\u0085kol"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683805303066,
+      "content": "ja chetnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eleanora Samoilava",
+      "timestamp_ms": 1683803955594,
+      "content": "Hejo, mo\u00c5\u00bce kto\u00c5\u009b ma ochot\u00c4\u0099 zagra\u00c4\u0087 w siatk\u00c4\u0099 w niedziel\u00c4\u0099?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marek Rapta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683732520704,
+      "content": "Na razie ze zg\u00c5\u0082oszonych ja ty @Edyta i moich 2 znajomych wiec pasowa\u00c5\u0082o by jeszcze ogarnac par\u00c4\u0099 os\u00c3\u00b3b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683732482392,
+      "content": "Jak dla mnie moga byc nawet 4 mi to lotto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila J\u00c4\u0099dryjas",
+      "timestamp_ms": 1683732401679,
+      "content": "A ile.musi by\u00c4\u0087 os\u00c3\u00b3b \u00c5\u00bceby si\u00c4\u0099 odby\u00c5\u0082a xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683732367964,
+      "content": "To tam xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila J\u00c4\u0099dryjas",
+      "timestamp_ms": 1683732358737,
+      "content": "No mniej wi\u00c4\u0099cej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683732303641,
+      "content": "Wiesz gdzie sa boiska w parku Jordana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683732291502,
+      "content": "Nie bedzie platne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila J\u00c4\u0099dryjas",
+      "timestamp_ms": 1683731202811,
+      "content": "W kt\u00c3\u00b3rym to b\u00c4\u0099dzie miejscu? I czy jako\u00c5\u009b p\u00c5\u0082atne?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683728880779,
+      "content": "W miare mo\u00c5\u00bcliwo\u00c5\u009bci prosi\u00c5\u0082bym osoby ktore ida na siatke w czwartek o wpisanie sie w komentarzu pod postem zeby bylo widac ze ktos idzie i jest ruch",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683641687808,
+      "content": "Niestety nie widze zeby mozna bylo dokonac jakiejs rezerwacji wiec pojdziemy troch\u00c4\u0099 na przypal ale nawet jakby bylo zajete to cos ogarniemy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683641558352,
+      "content": "Posz\u00c5\u0082o zobaczymy ile os\u00c3\u00b3b sie zglosi na grupietez bo od nas na razie 3 chetnych byla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683641319638,
+      "content": "W niedziele mozna drugi raz jak kto\u00c5\u009b chce ewentualnie tez w piatek jako ze jest wolny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1683641290048,
+      "content": "To ja odpadam ;(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila J\u00c4\u0099dryjas",
+      "timestamp_ms": 1683641250417,
+      "content": "Ale fajnie jakby wi\u00c4\u0099cej os\u00c3\u00b3b te\u00c5\u00bc da\u00c5\u0082o znac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683641222030,
+      "content": "To rzucam na grupke ze poszukujemy os\u00c3\u00b3b na siatkoweczke w czwartek ok 17",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamila J\u00c4\u0099dryjas",
+      "timestamp_ms": 1683612158939,
+      "content": "W czwartek od 17 jako\u00c5\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683610063137,
+      "content": "Jakie godziny by wam odpowiada\u00c5\u0082y?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edyta Bobak",
+      "timestamp_ms": 1683538476239,
+      "content": "Dobraaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683538464223,
+      "content": "Wieczorem wrzucam to na grupke i zbieramy 10/ 12 osob",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Sebastian K\u00c4\u0085kol"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683537515907,
+      "content": "niedziela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683537512466,
+      "content": "Czwartek  + grill na miasteczku",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kamila J\u00c4\u0099dryjas"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Edyta Bobak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683537226235,
+      "content": "chociaz nie wiadomo bo jak w niedziele to roznie moze byc haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683537202825,
+      "content": "no to koordynatorzy juz sa xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edyta Bobak",
+      "timestamp_ms": 1683537177859,
+      "content": "Jaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683536326495,
+      "content": "reszte zgarniemy z grupy sUPer formy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683536314053,
+      "content": "ktos zainteresowany siatkoweczka w parku Jordana w czwartek lub niedziele jesli bedzie \u00c5\u0082adna pogoda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1683322431144,
+      "content": "Przyda si\u00c4\u0099 idealnie \u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1683322423749,
+      "content": "To po majowce \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1683322422469,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/siaaaatka_8749723201736727/photos/3130654957234430.jpg",
+          "creation_timestamp": 1683322419
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edyta Bobak",
+      "timestamp_ms": 1683303713424,
+      "content": "Nie mo\u00c5\u00bce Was tam zabrakn\u00c4\u0085\u00c4\u0087 !!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0096\u00a4",
+          "actor": "Jakub Zachara"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Katarzyna Morawska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0096\u00a4",
+          "actor": "Klaudia Guca"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683303656281,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/siaaaatka_8749723201736727/photos/924710102091783.jpg",
+          "creation_timestamp": 1683303655
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683303653105,
+      "content": "https://www.facebook.com/100064524826595/posts/pfbid02hAADiLwGeBSqrYmnYzxDUasHGQQgK7uRDiAVsLdamweETgELcrdBG5TckyWqBxKRl/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683303648255,
+      "content": "Zapraszamy tak\u00c5\u00bce na nasz\u00c4\u0085 nowiutk\u00c4\u0085 grup\u00c4\u0099 na fb,  gdzie mo\u00c5\u00bcna znale\u00c5\u00ba\u00c4\u0087 ludzi do wsp\u00c3\u00b3lnej aktywno\u00c5\u009bci oraz ciekawe wydarzenia organizowane przez nasz\u00c4\u0085 grup\u00c4\u0099 projektowa",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0096\u00a4",
+          "actor": "Jakub Zachara"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Waga"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Katarzyna Morawska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0096\u00a4",
+          "actor": "Klaudia Guca"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682962371263,
+      "content": "Troche lepiej niz we wrze\u00c5\u009bniu wiec jest dobrze",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Katarzyna Morawska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682962362221,
+      "content": "No tak, nie wida\u00c4\u0087 umiej\u00c4\u0099tno\u00c5\u009bci hah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682962352684,
+      "content": "Najlepsze warunki do gry w plazowke",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682962345034,
+      "content": "Zimno i ciemno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682962326994,
+      "content": "Zimno wievzorem \u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682960791408,
+      "content": "Do godzin nocnych na piasku",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682960783041,
+      "content": "By\u00c5\u0082by ktos zainteresowany siatkoweczka w My\u00c5\u009blenicach w tym tygodniu jakos wieczorem?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Katarzyna Morawska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Waga",
+      "timestamp_ms": 1682540842329,
+      "content": "ja po 8.05 na pewno b\u00c4\u0099d\u00c4\u0099, a wcze\u00c5\u009bniej to nie jestem pewna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682540710742,
+      "content": "Ja wracam do krk dopiero w niedziele po majowce",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dominik Sowula",
+      "timestamp_ms": 1682540681793,
+      "content": "no te\u00c5\u00bc zale\u00c5\u00bcy kto si\u00c4\u0099 b\u00c4\u0099dzie na chate wraca\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dominik Sowula",
+      "timestamp_ms": 1682540672218,
+      "content": "czwartek-niedziela zostaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dominik Sowula",
+      "timestamp_ms": 1682540662140,
+      "content": "ja bym m\u00c3\u00b3g\u00c5\u0082 po maj\u00c3\u00b3wce",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682540633773,
+      "content": "Mnie osobiscie w nast\u00c4\u0099pnym tygodniu nie ma wogole w krk a w tym juz nie mam czasu raczej wieczorami",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682540556813,
+      "content": "No Maga to na pewno \u00f0\u009f\u0098\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u00ab",
+          "actor": "Magda Waga"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Katarzyna Morawska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682540528102,
+      "content": "A No tak, my z @Magda to tak r\u00c3\u00b3\u00c5\u00bcnie mo\u00c5\u00bcemy sko\u00c5\u0084czy\u00c4\u0087 po tej majowce xddd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Jakub Zachara"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Dominik Sowula"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Magda Waga"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Mateusz Wr\u00c3\u00b3bel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sebastian K\u00c4\u0085kol"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682540477469,
+      "content": "Majoweczka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682540470787,
+      "content": "Teraz moze by\u00c4\u0087 ci\u00c4\u0099\u00c5\u00bcko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682539612244,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/siaaaatka_8749723201736727/photos/622931326406906.png",
+          "creation_timestamp": 1682539611
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682539576489,
+      "content": "Kiedy gramy?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jakub Zachara"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Magda Waga"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682531476823,
+      "content": "Marek Rapta doda\u00c5\u0082 Eleanor\u00c4\u0099 Samoilav\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Siaaaatka",
+  "is_still_participant": true,
+  "thread_path": "inbox/siaaaatka_8749723201736727",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/145663425074531.jpg",
+    "creation_timestamp": 1678050267
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

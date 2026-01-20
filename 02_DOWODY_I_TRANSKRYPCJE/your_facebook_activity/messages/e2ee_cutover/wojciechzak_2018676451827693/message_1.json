@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Wojciech \u00c5\u00bbak"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683541026408,
+      "content": "Jasne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wojciech \u00c5\u00bbak",
+      "timestamp_ms": 1683541002328,
+      "content": "Dawaj zna\u00c4\u0087 i b\u00c4\u0099dzie mobilizacja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wojciech \u00c5\u00bbak",
+      "timestamp_ms": 1683540985700,
+      "content": "Trzymamy kciuki",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683540971198,
+      "content": "Mam nadzieje ze juz nied\u00c5\u0082ugo sie uda xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683540957540,
+      "content": "Dzi\u00c4\u0099ki stary",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wojciech \u00c5\u00bbak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wojciech \u00c5\u00bbak",
+      "timestamp_ms": 1683537620441,
+      "content": "Wszystkiego najlepszego Micha\u00c5\u0082, zdrowiej i wracaj na Kraka jak najszybciej!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wojciech \u00c5\u00bbak",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/wojciechzak_2018676451827693",
+  "magic_words": [
+    
+  ]
+}

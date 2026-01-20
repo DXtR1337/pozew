@@ -1,0 +1,2462 @@
+{
+  "participants": [
+    {
+      "name": "Sebastian Kutaj"
+    },
+    {
+      "name": "Maria Zguda"
+    },
+    {
+      "name": "Iza Opalska"
+    },
+    {
+      "name": "Bartosz Biza\u00c5\u0084ski"
+    },
+    {
+      "name": "Rafa\u00c5\u0082 Molski"
+    },
+    {
+      "name": "Paulina Pietras"
+    },
+    {
+      "name": "Damian Piotr Cokot"
+    },
+    {
+      "name": "Zuza Zi\u00c4\u0099ba"
+    },
+    {
+      "name": "Julita Bouffette"
+    },
+    {
+      "name": "Magdalena Mi\u00c5\u009bkowiec"
+    },
+    {
+      "name": "Gabi Mucha"
+    },
+    {
+      "name": "Madzia Szczypka"
+    },
+    {
+      "name": "Justyna Sarota"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685612042389,
+      "content": "Wrzucisz do rozpiski?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685611339929,
+      "content": "Nwm czy kto\u00c5\u009b utworzy plik, ale jak co\u00c5\u009b to mo\u00c5\u00bcecie si\u00c4\u0099 dopisywa\u00c4\u0087 do tego gdzie ja spisywa\u00c5\u0082am swoje notatki. Gdyby co\u00c5\u009b by\u00c5\u0082o niejasne lub nie tak to mo\u00c5\u00bcecie na luzie edytowa\u00c4\u0087. Za dzi\u00c5\u009b i za 3 wyk\u00c5\u0082ad nie mam (wtedy chyba by\u00c5\u0082o o interpretacji, o kt\u00c3\u00b3rej te\u00c5\u00bc nie mam), ale oba s\u00c4\u0085 nagrane i wrzucone na dc, wi\u00c4\u0099c ez \nhttps://docs.google.com/document/d/1gAST8KAP1U5sPtE0yaNprqnAP-90dj1guHPJiM1gmw0/edit?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685608143328,
+      "content": "no ostatnio te\u00c5\u00bc tyle by\u00c5\u0082o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685608135603,
+      "content": "Tyle powiedzia\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685608124998,
+      "content": "co m\u00c3\u00b3wi\u00c5\u0082 wcze\u00c5\u009bniej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685608119320,
+      "content": "i nie s\u00c5\u0082ysza\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685608114358,
+      "content": "Bo si\u00c4\u0099 sp\u00c3\u00b3\u00c5\u00bani\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685608110261,
+      "content": "I tylko to b\u00c4\u0099dzie na kolosie ?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685606203762,
+      "content": "Okiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iza Opalska",
+      "timestamp_ms": 1685606188963,
+      "content": "Tyle poda\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iza Opalska",
+      "timestamp_ms": 1685606187797,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/najlepszenotatki_5639319519454923/photos/760070609123719.jpg",
+          "creation_timestamp": 1685606186
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685606161942,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685606160104,
+      "content": "Co jeszcze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685605950881,
+      "content": "Czym jest kultura, dyskurs, amalgamacja, interpretacja",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sebastian Kutaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685605891416,
+      "content": "Spisujemy Skowronka w jeden plik?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sebastian Kutaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Pietras"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685536190852,
+      "content": "Ale na ca\u00c5\u0082\u00c4\u0085 reszt\u00c4\u0099 to jak najbardziej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685536182031,
+      "content": "W\u00c5\u0082a\u00c5\u009bnie na marzenke to akurat jeden chuj bo i tak ustnie b\u00c4\u0099dzie wi\u00c4\u0099c trzeba si\u00c4\u0099 tego w miar\u00c4\u0099 nauczy\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685532581685,
+      "content": "Szczegolnie na marzenke",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685532572818,
+      "content": "I na przysz\u00c5\u0082e notatki tez tak r\u00c3\u00b3bmy prosze \u00f0\u009f\u0098\u0084",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Pietras"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685530704227,
+      "content": "W\u00c5\u0082a\u00c5\u009bnie je\u00c5\u009bli komu\u00c5\u009b bardzo si\u00c4\u0099 nie chce przepisywa\u00c4\u0087 to mo\u00c5\u00bcna chocia\u00c5\u00bc zrobi\u00c4\u0087 tak \u00c5\u00bce zapisa\u00c4\u0087 pod/nad slajdem jakie\u00c5\u009b wa\u00c5\u00bcne s\u00c5\u0082owa klucze \u00c5\u00bceby \u00c5\u0082atwo da\u00c5\u0082o si\u00c4\u0099 wyszuka\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Maria Zguda"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685530671998,
+      "content": "W tym, kt\u00c3\u00b3re robi\u00c5\u0082a Iza (wyk\u00c5\u0082ad 6) ja zamie\u00c5\u009b i\u00c5\u0082am ca\u00c5\u0082y tekst ze slajdu w okolicy obrazka, wi\u00c4\u0099c jest do wyszukania, ale obrazek te\u00c5\u00bc jest dla kontekstu",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Pietras"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685530282041,
+      "content": "A jest sporo takich slajd\u00c3\u00b3w w tej notatce",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685530265414,
+      "content": "Jak s\u00c4\u0085 same zdj\u00c4\u0099cia z podpisami no to spoko ale jak s\u00c4\u0085 ca\u00c5\u0082e definicje na zdj\u00c4\u0099ciu to useless to jest",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685530245644,
+      "content": "z tego co pamietam xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685530243685,
+      "content": "chyba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685530231660,
+      "content": "ja mam przepisane",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Pietras"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685530215356,
+      "content": "Bo chyba po to piszemy te notatki \u00c5\u00bceby szybko m\u00c3\u00b3c wyszuka\u00c4\u0087 potrzebne rzeczy a jak jest wklejone zdj z polem tekstu to to troch\u00c4\u0099 mija si\u00c4\u0099 z celem",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685530203823,
+      "content": "Bo to nie ma sensu XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Damian Piotr Cokot"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Madzia Szczypka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685530194873,
+      "content": "Niech ka\u00c5\u00bcdy przepisze slajdy kt\u00c3\u00b3re ma w swojej notatce na neuro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685530184125,
+      "content": "Ej wielka pro\u00c5\u009bba do wszystkich",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685528486818,
+      "content": "tu  macie plik na Reuter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685528474920,
+      "content": "https://docs.google.com/document/d/16UVVBJbbN28xEWqtebYbb5toy_zbBLMfWDbd7qswz94/edit",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526829820,
+      "content": "Moje tez, no ale zawsze mo\u00c5\u00bce si\u00c4\u0099 przyda\u00c4\u0087 \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526813145,
+      "content": "\u00c5\u00bbeby ka\u00c5\u00bcdy m\u00c3\u00b3g\u00c5\u0082 przejrze\u00c4\u0087 ale \u00c5\u00bceby nie zabiera\u00c4\u0087 miejsca na notatkach",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526811655,
+      "content": "XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526809683,
+      "content": "Bo wygl\u00c4\u0085daj\u00c4\u0085 jak tablica Uraniaka",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Zuza Zi\u00c4\u0099ba"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526793327,
+      "content": "Tylko zrobimy folder czy co\u00c5\u009b i tam si\u00c4\u0099 to wrzuci",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526789252,
+      "content": "Nie wiem na ile pomocne w og\u00c3\u00b3le b\u00c4\u0099d\u00c4\u0085 moje notatki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526779308,
+      "content": "Ale to nie b\u00c4\u0099dziemy wkleja\u00c4\u0087 do tego pliku co powsta\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526765900,
+      "content": "Jak dla mnie spoko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526747509,
+      "content": "No tylko ze wtedy ctrl+f odpada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526667107,
+      "content": "I czy wszyscy si\u00c4\u0099 na to zgadzaj\u00c4\u0085?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526647901,
+      "content": "A zawsze kto\u00c5\u009b b\u00c4\u0099dzie m\u00c3\u00b3g\u00c5\u0082 sobie na to spojrze\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526640835,
+      "content": "To dopiszemy po prostu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526636182,
+      "content": "I jak b\u00c4\u0099dzie co\u00c5\u009b do uzupe\u00c5\u0082nienia z tych notatek co kto\u00c5\u009b ma na kompie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526623602,
+      "content": "I tez my\u00c5\u009ble ze wrzuc\u00c4\u0099 je w plik",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526616762,
+      "content": "Ja mam tez pisane r\u00c4\u0099cznie na tablecie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685526607905,
+      "content": "My\u00c5\u009ble ze mo\u00c5\u00bcesz zrobi\u00c4\u0087 zdj\u00c4\u0099cia i wrzuci\u00c4\u0087 w plik",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685526570341,
+      "content": "taak, dzieki \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526554203,
+      "content": "XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526549163,
+      "content": "Jak to wklei\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526545483,
+      "content": "Tak\u00c5\u00bce nie wiem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526538142,
+      "content": "Jak co\u00c5\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526531202,
+      "content": "Tylko ja mam notatki papierowe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685526519255,
+      "content": "ju\u00c5\u00bc powinno pozwala\u00c4\u0087 na edycj\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685526466137,
+      "content": "jasne, za momencik",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685526435022,
+      "content": "czy mo\u00c5\u00bcna zmieni\u00c4\u0087 uprawnienia, zeby kazdy mogl cos dopisac ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685526373410,
+      "content": "https://docs.google.com/document/d/1C_ad9zbT0l6OTNjuHb1TfH8FYm0kVMePFdlxLOQVDN4/edit?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685526075080,
+      "content": "Jaki jest termin na Reuter, przypomnicie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685525627265,
+      "content": "robie go juz",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Maria Zguda"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685525616142,
+      "content": "sure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685524468707,
+      "content": "Wtedy jeden plik i porzadek \u00f0\u009f\u0098\u0084",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524466919,
+      "content": "kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685524460237,
+      "content": "I dealine robienia od razu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524438932,
+      "content": "I tam b\u00c4\u0099dzie nag\u00c5\u0082\u00c3\u00b3wek przedmiotu i pod spodem zapisy, pod nimi notatki",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524415663,
+      "content": "Mo\u00c5\u00bcna plik",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685524408207,
+      "content": "Albo jeden plik gdzie beda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685524397621,
+      "content": "Bo i osobne na zapisy i osobne na notatki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685524390700,
+      "content": "Tylko po to zeby sie te linki nie jebaly",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sebastian Kutaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685524384383,
+      "content": "Ej moze zrobimy grupe na discordzie notatkowa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524374266,
+      "content": "Na Urbaniaka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524369486,
+      "content": "4 czerwca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524361666,
+      "content": "Da\u00c5\u0082abym do ko\u00c5\u0084ca weekendu czyli do niedzieli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685524355436,
+      "content": "xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685524354618,
+      "content": "ale mi sie usunely",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685524352824,
+      "content": "ja robilem notatki co on mowil ze mamy umiec na kolokwium",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524342252,
+      "content": "Tylko ewentualnie dorzuca\u00c4\u0087 po zaj\u00c4\u0099ciach z nim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524330416,
+      "content": "Wi\u00c4\u0099c za bardzo nic nowego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524313544,
+      "content": "My\u00c5\u009bl\u00c4\u0099, \u00c5\u00bce na Urbaniaka mo\u00c5\u00bce by\u00c4\u0087 wcze\u00c5\u009bniej bo to mamy doda\u00c4\u0087 swoje dotychczasowe notatki",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685524295347,
+      "content": "Spoko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685524232529,
+      "content": "A na Urbaniaka 10.06?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685524217966,
+      "content": "Jak ona jest 14",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685524204944,
+      "content": "08.06?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685523769991,
+      "content": "Sorki za obsuw\u00c4\u0099 ale dosta\u00c5\u0082am pot\u00c4\u0099\u00c5\u00bcnego zapalenia gard\u00c5\u0082a i zdycham xd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Sebastian Kutaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685523765949,
+      "content": "Tak tak, ju\u00c5\u00bc od razu po Reuter dodam, obiecuje \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685522717282,
+      "content": "@Paulina Pietras dodasz notatk\u00c4\u0099 z neuro? \u00f0\u009f\u00a4\u0093",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685522649821,
+      "content": "@Maria Zguda chcia\u00c5\u0082aby\u00c5\u009b zrobi\u00c4\u0087 pliczek na zagadnienia z ruter? \u00f0\u009f\u0098\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685451542811,
+      "content": "https://docs.google.com/document/d/1IVVOfmFHgPwDiHfngyn1w4NpSRe9eZEt6RXb2Q30Tqo/edit?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685451533985,
+      "content": "I te\u00c5\u00bc deadline na Urbaniaka? Zbi\u00c3\u00b3r wszystkiego co posiadamy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685451472668,
+      "content": "Dobra, czyli do kiedy deadline notatek na reuter?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685451344612,
+      "content": "On jest psychic",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685451339420,
+      "content": "Taaak, koniecznie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685451314025,
+      "content": "I skleimy z tego jeden plik",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Zi\u00c4\u0099ba",
+      "timestamp_ms": 1685451305447,
+      "content": "Proponuje \u00c5\u00bceby ka\u00c5\u00bcdy wys\u00c5\u0082a\u00c5\u0082 tutaj notatki jakie zrobi\u00c5\u0082 na Urbaniaku",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685451262885,
+      "content": "tw\u00c3\u00b3rcze ale odtw\u00c3\u00b3rcze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685451108733,
+      "content": "mam pami\u00c4\u0099ta\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685451105266,
+      "content": "XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685451104704,
+      "content": "jak te wszystkie bazgro\u00c5\u0082y",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450927701,
+      "content": "31 sierpnia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450875388,
+      "content": "Wrzesie\u00c5\u0084!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685450869215,
+      "content": "sierpniu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685450865901,
+      "content": "w lipcu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685450862568,
+      "content": "Xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450862482,
+      "content": "Serio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450860153,
+      "content": "No chyba nieeee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685450686892,
+      "content": "nagrane jest",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iza Opalska",
+      "timestamp_ms": 1685450677296,
+      "content": "Bo mi si\u00c4\u0099 roz\u00c5\u0082adowa\u00c5\u0082 komputer na kt\u00c3\u00b3rym notowa\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iza Opalska",
+      "timestamp_ms": 1685450666343,
+      "content": "Ej zd\u00c4\u0085\u00c5\u00bcy\u00c5\u0082 kto\u00c5\u009b napisa\u00c4\u0087 te wnioski co teraz dyktuje ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685450581565,
+      "content": "A jak b\u00c4\u0099dzie od razu pod murem podstawiony to odpowie konkretnie",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450558947,
+      "content": "Ze zdalnie raczej faktycznie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450552649,
+      "content": "To mu podstaw to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685450543325,
+      "content": "Dobra ja zapytam dzisiaj, lepiej wiedzie\u00c4\u0087 jak najwcze\u00c5\u009bniej",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maria Zguda"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450542208,
+      "content": "\u00c5\u00bceby nie zapomnia\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450532755,
+      "content": "w\u00c5\u0082a\u00c5\u009bnie to mia\u00c5\u0082am pisa\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685450528902,
+      "content": "a on przed sesja chce",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685450525624,
+      "content": "za tydzie\u00c5\u0084 jest 6 czerwca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450523171,
+      "content": "Ale niech napisze do niego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450517959,
+      "content": "Dobra, to si\u00c4\u0099 nie odzywam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450515594,
+      "content": "tak mi odpisa\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685450513605,
+      "content": "xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450504851,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/najlepszenotatki_5639319519454923/photos/1145441760181813.jpg",
+          "creation_timestamp": 1685450504
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450496174,
+      "content": "I jak?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450488506,
+      "content": "Znaczy ja dzisiaj pisa\u00c5\u0082am do Radka o to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685450460475,
+      "content": "You go girl",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450457978,
+      "content": "Jak on to widzi, bo jestem pewna \u00c5\u00bce mo\u00c5\u00bce wyskoczyc w kt\u00c3\u00b3rym\u00c5\u009b momencie jak Filip z konopi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450437165,
+      "content": "Mo\u00c5\u00bce si\u00c4\u0099 spytam pod koniec zaj\u00c4\u0099\u00c4\u0087?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maria Zguda"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685450392295,
+      "content": "Done",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450390872,
+      "content": "totalnie\u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450375467,
+      "content": "Ale jest coraz bardziej odklejony",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450357005,
+      "content": "Narazie nic o tym nie m\u00c3\u00b3wi i fajnie by by\u00c5\u0082o \u00c5\u00bceby\u00c5\u009bmy mieli troch\u00c4\u0099 wi\u00c4\u0099cej ni\u00c5\u00bc tydzie\u00c5\u0084 na to",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450347017,
+      "content": "znaczy 4*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450340158,
+      "content": "Chcia\u00c5\u0082 pono\u00c4\u0087 zrobi\u00c4\u0087 dwa kolokwia",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a5\u00b4",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450328187,
+      "content": "Ej a co z zaliczeniem z urbaniakiem, nie widz\u00c4\u0099 innej opcji ni\u00c5\u00bc zdalnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450323572,
+      "content": "bo nie dam rady edytowa\u00c4\u0087 na tel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685450310893,
+      "content": "Wpisze mi kto\u00c5\u009b te 5 po Damianie prosz\u00c4\u0099 \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+          "actor": "Maria Zguda"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685450231931,
+      "content": "Powinna juz byc :(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685450216421,
+      "content": "Nie ma w\u00c5\u0082a\u00c5\u009bnie narazie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685450208206,
+      "content": "i dont think so",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685450192540,
+      "content": "Kiedy wrzuci liste z zapisami?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685450187523,
+      "content": "A Marzenka mowila",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685450174443,
+      "content": "w wordzie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685449998128,
+      "content": "google forms",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449974239,
+      "content": "A zaliczenie \u00c4\u0087wicze\u00c5\u0084 musi by\u00c4\u0087 wcze\u00c5\u009bniej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449953522,
+      "content": "Plus 22.06 Jakubczak chce zacz\u00c4\u0085\u00c4\u0087 egzaminowanie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449883832,
+      "content": "Reuter nawet wspomina\u00c5\u0082a, \u00c5\u00bce zastanawia\u00c5\u0082a si\u00c4\u0099 nad form\u00c4\u0085 online i mia\u00c5\u0082a na my\u00c5\u009bli \"Teams, mail czy Moodle\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449838768,
+      "content": "Tak, jestem pewna, \u00c5\u00bce b\u00c4\u0099dzie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685449692361,
+      "content": "Jak my\u00c5\u009blicie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685449685486,
+      "content": "Czyli b\u00c4\u0099dzie zdalne kolokwium?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449655312,
+      "content": "Mo\u00c5\u00bce ustawmy si\u00c4\u0099 na zrobienie ich do 10.06? 15.06 Pewnie b\u00c4\u0099dzie kolokwium, bo Jakubczak wspomina\u00c5\u0082a, \u00c5\u00bce b\u00c4\u0099dzie prosi\u00c4\u0087 Reuter o ten termin",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449582229,
+      "content": "Zosta\u00c5\u0082y te",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449572441,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/najlepszenotatki_5639319519454923/photos/571899621737569.png",
+          "creation_timestamp": 1685449570
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449546025,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/najlepszenotatki_5639319519454923/photos/237446445576234.png",
+          "creation_timestamp": 1685449543
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449525121,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/najlepszenotatki_5639319519454923/photos/5097397373718788.png",
+          "creation_timestamp": 1685449517
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685449113357,
+      "content": ";D supcio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685449108456,
+      "content": "Ja te\u00c5\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maria Zguda"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685449083997,
+      "content": "wpisa\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685449044554,
+      "content": "35,36,39,40",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685448957212,
+      "content": "zosta\u00c5\u0082y te",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685448951988,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/najlepszenotatki_5639319519454923/photos/255764080364374.png",
+          "creation_timestamp": 1685448949
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685448915199,
+      "content": "ju\u00c5\u00bc Izka wzi\u00c4\u0099\u00c5\u0082a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685448843974,
+      "content": "18-21 bio\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685445771761,
+      "content": "Wpisa\u00c5\u0082am si\u00c4\u0099 do 5, 6, 46 i 47",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sebastian Kutaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685445531184,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685445385216,
+      "content": "Ale i tak bawi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685445377252,
+      "content": "Nie ta grupa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1685445369037,
+      "content": "Ej Urbaniak na zdj\u00c4\u0099ciu i Urbaniak w rzeczywisto\u00c5\u009bci to dwie inne osoby",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Sebastian Kutaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Gabi Mucha"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685445285888,
+      "content": "done",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685445218509,
+      "content": "I 30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685445138718,
+      "content": "I haczyk w drugiej kolumnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685445114078,
+      "content": "Jak ktos moze to wpiszcie pls",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685445104446,
+      "content": "Ja zaklepuje 15,16,17",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685443316964,
+      "content": "Wpisa\u00c5\u0082am Was @Iza Opalska @Julita Bouffette - tylko jest tam pytanie o zgod\u00c4\u0099 na ewentualne udost\u00c4\u0099pnienie reszcie roku- oczywi\u00c5\u009bcie zostawi\u00c5\u0082am puste",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685442716314,
+      "content": "https://docs.google.com/spreadsheets/d/1Wp9anLUsMuQ7gKabIeH2DoO3G4d2OTLAoLjbKZNDpIw/edit?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iza Opalska",
+      "timestamp_ms": 1685442594439,
+      "content": "Ja chce 18,19,20,21",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Damian Piotr Cokot"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685442441808,
+      "content": "I'm on it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685442382793,
+      "content": "7,8,9,10 mog\u00c4\u0099 zrobi\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685442311052,
+      "content": "Jaki\u00c5\u009b pliczek do temat\u00c3\u00b3w i przypisywania sobie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685442286456,
+      "content": "Wychodzi na to, \u00c5\u00bce ka\u00c5\u00bcdy po 4 zagadnienia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685380533681,
+      "content": "tylko 51",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Zuza Zi\u00c4\u0099ba"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685380530607,
+      "content": "uff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685380448716,
+      "content": "51 zagadnie\u00c5\u0084 do Reuter \u00f0\u009f\u0098\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685380431478,
+      "files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/najlepszenotatki_5639319519454923/files/656632949624408.docx",
+          "creation_timestamp": 1685380431
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685378617411,
+      "content": "Pozdrowionka z W\u00c4\u0099gier \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Maria Zguda"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Zuza Zi\u00c4\u0099ba"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gabi Mucha"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1685378602662,
+      "content": "Ja mam swoje o pami\u00c4\u0099ci gotowe ale dopiero jutro b\u00c4\u0099d\u00c4\u0099 w domu wi\u00c4\u0099c do wieczora jutro to b\u00c4\u0099dzie pls nie krzyczcie na mnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685355639589,
+      "content": "ale dobra po prostu uzupe\u00c5\u0082nie to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685355555114,
+      "content": "2 i 3 s\u00c4\u0085 osobno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685355506317,
+      "content": "Ewentualnie mo\u00c5\u00bcesz uzupe\u00c5\u0082ni\u00c4\u0087 jak czego\u00c5\u009b brakuje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685355490573,
+      "content": "Na zaj\u00c4\u0099ciach, wi\u00c4\u0099c by\u00c4\u0087 mo\u00c5\u00bce co\u00c5\u009b si\u00c4\u0099 pokry\u00c5\u0082o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685355476096,
+      "content": "Ona chyba je \u00c5\u0082\u00c4\u0085czy\u00c5\u0082a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685354031984,
+      "content": "wi\u00c4\u0099c nie wiem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685354030359,
+      "content": "ale widze \u00c5\u00bce ju\u00c5\u00bcjest",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685354027575,
+      "content": "bo ja sko\u00c5\u0084czy\u00c5\u0082em to robi\u00c4\u0087 teraz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685353889317,
+      "content": "tak o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685353883938,
+      "content": "kto\u00c5\u009b zrobi\u00c5\u00823 wyk\u00c5\u0082ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685297435696,
+      "content": "Up up",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685296416820,
+      "content": "to skoncze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685296415748,
+      "content": "albo dzis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685296414045,
+      "content": "no ja jutro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685294131337,
+      "content": "i 5 te\u00c5\u00bc nie ma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685294108554,
+      "content": "ja wklej\u00c4\u0099 jutro \u00f0\u009f\u0098\u008e\nBo mam ju\u00c5\u00bc, ale musz\u00c4\u0099 to troch\u00c4\u0099 skr\u00c3\u00b3ci\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685294077914,
+      "content": "ale przypominajka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685294072876,
+      "content": "yupp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685294068209,
+      "content": "i 3 r\u00c3\u00b3wnie\u00c5\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685294061905,
+      "content": "bo to do jutra, nie ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685294049328,
+      "content": "to wsm sporo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685294040095,
+      "content": "wyk\u00c5\u0082ad 4,7,8 i 9 chyba nie jest jeszcze uzupe\u00c5\u0082niony",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685216695247,
+      "content": "Plus ona w wi\u00c4\u0099kszo\u00c5\u009bci m\u00c3\u00b3wi\u00c5\u0082a wa\u00c5\u00bcne rzeczy - na slajdach jest mo\u00c5\u00bce 10% z tego",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Damian Piotr Cokot"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685216644721,
+      "content": "besos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685216639793,
+      "content": "bo informacji ze skrina nie wyszuka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1685216577485,
+      "content": "ejka pro\u00c5\u009bba, \u00c5\u00bceby nie wkleja\u00c4\u0087 tylko samych slajd\u00c3\u00b3w \u00f0\u009f\u0098\u0085 w sensie wiadomo jak s\u00c4\u0085 obrazki czy du\u00c5\u00bco tre\u00c5\u009bci na slajdzie to spoko ale wtedy przed slajdem te\u00c5\u00bc \u00c5\u00bceby dawa\u00c4\u0087 informacje w wordzie co na nim jest, bo przy wyszukiwaniu w pliku to g\u00c3\u00b3wno da i pomo\u00c5\u00bce",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Paulina Pietras"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Damian Piotr Cokot"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1685127594670,
+      "content": "ja 29 si\u00c4\u0099 postaram zrobi\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685127578941,
+      "content": "Czy lepiej do p\u00c3\u00b3\u00c5\u0082nocy w niedziele ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1685127568762,
+      "content": "W\u00c5\u0082\u00c4\u0085cznie ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685127086925,
+      "content": "Hah no to oki, dzi\u00c4\u0099ki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685127076021,
+      "content": "Jak co\u00c5\u009b, tak\u00c5\u00bce luzik",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685127069558,
+      "content": "To do 29",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1685127053205,
+      "content": "Szlag, zapomnia\u00c5\u0082am i nie dam rady ju\u00c5\u00bc dzisiaj. Wybaczysz mi, je\u00c5\u009bli wy\u00c5\u009bl\u00c4\u0099 jutro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685126901032,
+      "content": "\u00f0\u009f\u0092\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1685126899125,
+      "content": "Pami\u00c4\u0099tajcie o zrobieniu zagadnie\u00c5\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684574604838,
+      "content": "I wpisujcie w wolne miejsca z tematami!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684574591910,
+      "content": "Jak reszta my\u00c5\u009bli? Dajcie reakcje pod t\u00c4\u0085 wiadomo\u00c5\u009bci\u00c4\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+          "actor": "Sebastian Kutaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+          "actor": "Maria Zguda"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Paulina Pietras"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Madzia Szczypka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684574567002,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1684574361596,
+      "content": "*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1684574358967,
+      "content": "F",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1684574356959,
+      "content": "Bo i tak b\u00c4\u0099dzie s\u00c5\u0082u\u00c5\u00bcy\u00c5\u0082 g\u00c5\u0082\u00c3\u00b3wnie do ctrl+D",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Paulina Pietras"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1684574340430,
+      "content": "29 bym da\u00c5\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+          "actor": "Sebastian Kutaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+          "actor": "Maria Zguda"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684574116134,
+      "content": "Przeg\u00c5\u0082osowano dat\u00c4\u0099 kolosa na 5 czerwca, wi\u00c4\u0099c kiedy chcemy zrobi\u00c4\u0087 deadline z notatkami jak ju\u00c5\u00bc mamy plik?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684574029251,
+      "content": "\u00f0\u009f\u0092\u0099\u00f0\u009f\u0092\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684572285384,
+      "content": "\u00f0\u009f\u0092\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684572283961,
+      "content": "Dzi\u00c4\u0099ki maria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684572201082,
+      "content": "https://docs.google.com/document/d/14GUeI9G9ovBQbZsXlmUeXKV7Synwa5Qe5M5VGHpKMcM/edit?usp=drivesdk",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684571929627,
+      "content": "I czy kto\u00c5\u009b mo\u00c5\u00bce stworzy\u00c4\u0087 plik?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684571917775,
+      "content": "Jest o wiele wi\u00c4\u0099cej os\u00c3\u00b3b na tej grupce ni\u00c5\u00bc temat\u00c3\u00b3w, nawet przy dw\u00c3\u00b3ch osobach na temat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684571893008,
+      "content": "I zacz\u00c4\u0085\u00c4\u0087 uzupe\u00c5\u0082nia\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684571876970,
+      "content": "Wpisujcie si\u00c4\u0099, \u00c5\u00bceby mie\u00c4\u0087 to z g\u00c5\u0082owy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684571869347,
+      "content": "Kochani, zosta\u00c5\u0082y nadal dwa tematy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684244677635,
+      "content": "https://docs.google.com/spreadsheets/d/1TkZlBQMv6jw6TOz_Hyy8uXXUqQ9BSGu46VYoRct4MXA/edit?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684244607638,
+      "content": "Mamy jeszcze miejsca na ogarnianie wyk\u00c5\u0082ad\u00c3\u00b3w",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684244571476,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/najlepszenotatki_5639319519454923/photos/933720887677058.png",
+          "creation_timestamp": 1684244569
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1684174497534,
+      "content": "Okiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iza Opalska",
+      "timestamp_ms": 1684174486253,
+      "content": "Notatki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iza Opalska",
+      "timestamp_ms": 1684174484187,
+      "content": "I na ich podstawie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iza Opalska",
+      "timestamp_ms": 1684174479226,
+      "content": "Filmiki na discordzie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1684174456181,
+      "content": "A gdzie s\u00c4\u0085 te prezki?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Piotr Cokot",
+      "timestamp_ms": 1684174342393,
+      "content": "Ja r\u00c3\u00b3wnie\u00c5\u00bc za",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684153811452,
+      "content": "https://docs.google.com/spreadsheets/d/1TkZlBQMv6jw6TOz_Hyy8uXXUqQ9BSGu46VYoRct4MXA/edit?usp=drivesdk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684153797589,
+      "content": "na w\u00c3\u00b3zek wid\u00c5\u0082owy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684153793279,
+      "content": "To jednak nie funkcja xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684153781030,
+      "content": "potrzebuje uprawnien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684153757829,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1684151594183,
+      "content": "O jejku jakie mamy fajne profilowe",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Maria Zguda"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Pietras"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684151508133,
+      "content": "supiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684151239325,
+      "content": "W sensie za godzin\u00c4\u0099 by by\u00c5\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sebastian Kutaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Pietras"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Zguda",
+      "timestamp_ms": 1684151227294,
+      "content": "Ja mog\u00c4\u0099 zrobi\u00c4\u0087 za godzin\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684151079499,
+      "content": "jak sie wpisuje dane w excela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684151061063,
+      "content": "pora przypomnie\u00c4\u0087 sobie umiejetnosci excela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1684151048855,
+      "content": "Tylko jako\u00c5\u009b fajnie ogarn\u00c4\u0085\u00c4\u0087 podzia\u00c5\u0082, \u00c5\u00bceby ka\u00c5\u00bcdy wiedzia\u00c5\u0082 co ma robi\u00c4\u0087 \u00f0\u009f\u0098\u008e",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magdalena Mi\u00c5\u009bkowiec",
+      "timestamp_ms": 1684151029775,
+      "content": "Jestem za!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684150773403,
+      "content": "co to za pere\u00c5\u0082ka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684150686305,
+      "content": "w ogole to wlodzislaw duch zrobi\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684150645884,
+      "content": "to jest to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684150634960,
+      "content": "https://is.umk.pl/~duch/Wyklady/Kog1/B08-pam.htm",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Iza Opalska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magdalena Mi\u00c5\u009bkowiec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1684150558791,
+      "content": "Ja mog\u00c4\u0099 zaj\u00c4\u0085c si\u00c4\u0099 dzisiejsz\u00c4\u0085 pami\u00c4\u0099ci\u00c4\u0085 ca\u00c5\u0082\u00c4\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684150072090,
+      "content": "tez wiekszosc screenow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1684150063810,
+      "content": "ja mam troche zapisane",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684149956559,
+      "content": "ona sie duzo powtarza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684149949927,
+      "content": "ja moge sam nagranie bo to 30 minut",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684149934120,
+      "content": "ja tak moge",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1684149909378,
+      "content": "Wi\u00c4\u0099c mo\u00c5\u00bce podzielimy si\u00c4\u0099 tak \u00c5\u00bceby przes\u00c5\u0082ucha\u00c4\u0087 jeszcze raz te\u00c5\u00bc nagrania? Np dwie osoby na jedno nagranie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1684149855440,
+      "content": "Nooo w\u00c5\u0082a\u00c5\u009bnie ona sporo dopowiada\u00c5\u0082a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684149835170,
+      "content": "ale z tego co pami\u00c4\u0099tam na tych prezentacjach to tak 1/3 z tego co ona m\u00c3\u00b3wi\u00c5\u0082a, nie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Kutaj",
+      "timestamp_ms": 1684149825946,
+      "content": "ja z ch\u00c4\u0099ci\u00c4\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+          "actor": "Maria Zguda"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1684149812531,
+      "content": "Podzieli\u00c4\u0087 si\u00c4\u0099 jako\u00c5\u009b fajnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Pietras",
+      "timestamp_ms": 1684149804293,
+      "content": "Czy kto\u00c5\u009b ch\u00c4\u0099tny \u00c5\u00bceby napisa\u00c4\u0087 plik ze wszystkimi prezkami z neuro?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+          "actor": "Maria Zguda"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Najlepsze notatki",
+  "is_still_participant": true,
+  "thread_path": "inbox/najlepszenotatki_5639319519454923",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1617280652022669.jpg",
+    "creation_timestamp": 1670579091
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

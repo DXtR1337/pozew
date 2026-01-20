@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Anna St\u00c4\u0099pie\u00c5\u0084"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680431680120,
+      "content": "Mam wszystko, ale dzi\u00c4\u0099ki",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Anna St\u00c4\u0099pie\u00c5\u0084"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680431569817,
+      "content": "Jak co\u00c5\u009b to mam u siebie leki przeciwb\u00c3\u00b3lowe jakby\u00c5\u009b potrzebowa\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680431545014,
+      "content": "O kurcze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680431516179,
+      "content": "Brzuch mnie napierdala tak ze ledwo chodze i rodzice po mnie za nied\u00c5\u0082ugo przyje\u00c5\u00bcd\u00c5\u00bcaj\u00c4\u0085, ale madzia mowila ze ogarnie jak co",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680431179421,
+      "content": "Posprz\u00c4\u0085tasz dzisiaj \u00c5\u0082azienk\u00c4\u0099 i toalet\u00c4\u0099? \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680431167268,
+      "content": "Hajka Micha\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anna St\u00c4\u0099pie\u00c5\u0084",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/annastepien_3244537675819347",
+  "magic_words": [
+    
+  ]
+}

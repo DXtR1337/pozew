@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Stasiu Przygoda"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682602357072,
+      "content": "Luzik",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682602308036,
+      "content": "Dziekiiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682601654302,
+      "content": "Podpisa\u00c5\u0082em cb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682576875355,
+      "content": "Zebt mnie tex wpisa\u00c5\u0082 tsm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682576871860,
+      "content": "A jak nie bedziesz to powiedz komus kto cie wpisywal b\u00c4\u0099dzie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stasiu Przygoda",
+      "timestamp_ms": 1682576280061,
+      "content": "Jak b\u00c4\u0099d\u00c4\u0099 szed\u00c5\u0082 to spoko",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682574624544,
+      "content": "Wpiszesz mnie na Jakubczak jak co?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stasiu Przygoda",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/stasiuprzygoda_3244959082416165",
+  "magic_words": [
+    
+  ]
+}

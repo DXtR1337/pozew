@@ -1,0 +1,170 @@
+{
+  "participants": [
+    {
+      "name": "Sylwia \u00c5\u00bbuchowicz"
+    },
+    {
+      "name": "Pawe\u00c5\u0082 Tworzyd\u00c5\u0082o"
+    },
+    {
+      "name": "Klaudia Szyma\u00c5\u0084ska"
+    },
+    {
+      "name": "Dorota Szczerba"
+    },
+    {
+      "name": "Patrycja Szyd\u00c5\u0082owska"
+    },
+    {
+      "name": "Jasiek Wikar"
+    },
+    {
+      "name": "Kamila Fr\u00c4\u0085cek"
+    },
+    {
+      "name": "Natalia Steczkiewicz"
+    },
+    {
+      "name": "Ewelina Sala"
+    },
+    {
+      "name": "Martyna Szyrsze\u00c5\u0084"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Oliwia W\u00c5\u0082odarczyk"
+    },
+    {
+      "name": "Gabriela W\u00c3\u00b3jcikiewicz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jasiek Wikar",
+      "timestamp_ms": 1685290016816,
+      "content": "Albo jeszcze opcja na jaki\u00c5\u009b wydzia\u00c5\u0082 polonistyki u g\u00c3\u00b3ry czy co\u00c5\u009b, tam te\u00c5\u00bc nie powinno jej by\u00c4\u0087 xd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd",
+          "actor": "Dorota Szczerba"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1685289980437,
+      "content": "W ko\u00c5\u0084cu wiecie co X g\u00c5\u0082\u00c3\u00b3w to nie jedna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1685289882280,
+      "content": "A zaj\u00c4\u0099\u00c4\u0087 z poznawczej nigdy nie mieli\u00c5\u009bmy na nowym",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1685289866930,
+      "content": "To p\u00c3\u00b3jdziemy j\u00c4\u0085 nowy budynek najwy\u00c5\u00bcej, bo jakby mia\u00c5\u0082a by\u00c4\u0087 na uczelni to pewnie siedzia\u00c5\u0082a by w sali przypisanej na (u)wu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliwia W\u00c5\u0082odarczyk",
+      "timestamp_ms": 1685289804835,
+      "content": "podobaj\u00c4\u0085 mi si\u00c4\u0099 takie pomys\u00c5\u0082y",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Dorota Szczerba"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasiek Wikar",
+      "timestamp_ms": 1685289803952,
+      "content": "A ona napewno streamuje z domku? \u00c5\u00bbeby nas nie spotka\u00c5\u0082a haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Dorota Szczerba"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Oliwia W\u00c5\u0082odarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1685289771896,
+      "content": "W przysz\u00c5\u0082ym tygodniu po statystyce, mamy kolokwium z poznawczej, co wy na to, \u00c5\u00bceby zosta\u00c4\u0087 na uczelni i napisa\u00c4\u0087 to razem?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sylwia \u00c5\u00bbuchowicz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jasiek Wikar"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kamila Fr\u00c4\u0085cek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Steczkiewicz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1685289739864,
+      "content": "Witam serdecznie,  mam propozycj\u00c4\u0099 nie do odrzucenia ( no chyba, \u00c5\u00bce kto\u00c5\u009b chce to mo\u00c5\u00bcna odrzuci\u00c4\u0087 XD)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Szyrsze\u00c5\u0084",
+      "timestamp_ms": 1680440413767,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GL06",
+  "is_still_participant": true,
+  "thread_path": "inbox/gl06_8085692624838304",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/760110101758008.jpg",
+    "creation_timestamp": 1664808219
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
