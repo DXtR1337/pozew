@@ -1,0 +1,1421 @@
+{
+  "participants": [
+    {
+      "name": "Bogusia Ptak"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685485321668,
+      "content": "i ja mialam tam chyba 4 4,5 5 5 oceny i to wystarczylo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685485297321,
+      "content": "rili ona tak powiedziala XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685485288621,
+      "content": "no to ona sb taka gre wymyslila ze jak my piszemy kolosy to zbieramy punkty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685485243846,
+      "content": "ej update nwm co sie stalo ale ta baba zwolnila mnie z tego egzaminu XD powiedziala ze ostanio ladnie piszemy te kolosy i przepu\u00c5\u009bcila jeszcze pare osob wiec jeden egzamin mam z glowy",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685485145541,
+      "content": "wgl bylam blisko zeby nie chodzic bo sie zalatwilam i zapalenie gardla zlapalam, brawo ja w maju XDD i mi sie lekarka pytala czy mi zaswiadczenie wypisywac a ja ze na szczescie nie bo zdalne i w domu siedze",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685485077855,
+      "content": "nigdzie indziej chyba tak nie ma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685485032898,
+      "content": "u nas tak samo zapytac sie cos i czekac miesiac na odpowiedz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685485018536,
+      "content": "noo typowo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685485010266,
+      "content": "wyszedles juz ze szpitala?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1685484979889,
+      "content": "coo japierdziele przer\u00c4\u0085bane ://",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174710648,
+      "content": "Ile mkec plusow za aktywnosc itd XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174704685,
+      "content": "Ale to jest wiesz opisane dokladnke co i jak musisz zrobic",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174696140,
+      "content": "Bo u nas za aktywnosc np zwalniaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174690574,
+      "content": "Za aktywnosc czy co",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174687841,
+      "content": "To zrobi\u00c5\u0082a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174685864,
+      "content": "Ale na jakiej podstawie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174679508,
+      "content": "Ouuups",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174661467,
+      "content": "Zrobie se urodziny jak wyjde kiedy\u00c5\u009b X D",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174651257,
+      "content": "Nie pyklo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174647223,
+      "content": "No niestety XDDDD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174633310,
+      "content": "Ooo dzi\u00c4\u0099kuj\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174625331,
+      "content": "O no to bez kitu widze ze bardzo udana maj\u00c3\u00b3wka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174589051,
+      "content": "To zalosne imo jest strasznie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174585128,
+      "content": "Ale zeby 100% obecnosci wymagac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174577126,
+      "content": "O no to super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174557693,
+      "content": "Napisa\u00c5\u0082em do wykladowcow o nadrabianie wczoraj to dalej od \u00c5\u00bcadnego odpowiedzi nie dostalem XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174534207,
+      "content": "Mam dosc XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174529035,
+      "content": "Te chorowanie juznpoltorej miesiaca sie ciagnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174511611,
+      "content": "Nie polecam ogolnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174507636,
+      "content": "I dostalem jaki\u00c5\u009b silny antybiotyk po kt\u00c3\u00b3rym 2 dni zdychalem i rzygalem csly czas XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174487082,
+      "content": "Mialem wyjsc wczoraj ale w pi\u00c4\u0085tek sie okaza\u00c5\u0082o ze sie jakas lekoodporna bakteria szpitalna zarazilem i musze jeszcze przez tydzien teraz w izolatce siedziec XDDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174455559,
+      "content": "I teraz leze juz 17 dzien w szpitalu kolejny raz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174438480,
+      "content": "Mialem operacje i mi rurki do brxucha ktoee mia\u00c5\u0082em kilka dni za\u00c5\u0082o\u00c5\u00bcyli bylem w szpitalu 10 dni i pozniej jak wyzdrowialem i wrocilen do domu po 1 dniu mi wr\u00c3\u00b3ci\u00c5\u0082 znowu ten ropien i 40 stopni goraczki i karetka mnie do szpitala zabrala i drugi raz operacja i wieksze rurki XDDDD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00ab\u00a2",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174366659,
+      "content": "Ropien mi sie zrobil w brzuchu miedzy jelitami",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174354565,
+      "content": "No jeblo mi zdrowie powiem ci",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174265844,
+      "content": "To bym wolal w Krakowie siedziec xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174260414,
+      "content": "Ale szczerze ja nawet jakbym tak blisko mieszkal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684174252262,
+      "content": "Noo ty to tak bardzo blisko krakowa mieszkasz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104325871,
+      "content": "To ca\u00c5\u0082e cool up",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104313750,
+      "content": "Ofc jak si\u00c4\u0099 domy\u00c5\u009blasz nie ma mnie w\u00c5\u009br\u00c3\u00b3d nich XDD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104284822,
+      "content": "Wybra\u00c5\u0082a sb swoich ulubie\u00c5\u0084c\u00c3\u00b3w z ca\u00c5\u0082ego roku i oni nie musza pisa\u00c4\u0087 egzaminu XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104259970,
+      "content": "I btw powiem ci co jedna baba u nas zeobila",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104241589,
+      "content": "Mam nadzieje ze na urodziny w szpitalu nie byles",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104231844,
+      "content": "Wgl sp\u00c3\u00b3\u00c5\u00banione wszystkiego najlepszegoo\u00f0\u009f\u00a5\u00b3 zdania sesyjki",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104129722,
+      "content": "XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104128086,
+      "content": "Co z tego ze deszcz pada\u00c5\u0082, w gara\u00c5\u00bcu siedzieli\u00c5\u009bmy i by\u00c5\u0082o supi",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104104789,
+      "content": "Zeobilam grilla z rodzinka",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104085907,
+      "content": "Potem na wesele pojecha\u00c5\u0082am",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104078992,
+      "content": "W pracy by\u00c5\u0082am",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104074879,
+      "content": "A powiem ci ze nawet spoko",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104028594,
+      "content": "Na szcz\u00c4\u0099\u00c5\u009bcie na razie by\u00c5\u0082am na wsyztskich tam gdzie musz\u00c4\u0099 mie\u00c4\u0087 sto pro obecno\u00c5\u009bci",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684104009604,
+      "content": "Ja sobie powiedzia\u00c5\u0082am ze nawet jak b\u00c4\u0099d\u00c4\u0099 mie\u00c4\u0087 40 stopni gor\u00c4\u0085czki to i tak pojde na te zaj\u00c4\u0099cia bo ostatnio mia\u00c5\u0082am przejebane jak nie posz\u00c5\u0082am xD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684103956027,
+      "content": "O niee teraz to wszytsko nadrabia\u00c4\u0087 [*]",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684103888674,
+      "content": "Coo dzizas maria co ty tak chorujesz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1684103855672,
+      "content": "Mo\u00c5\u00bce im si\u00c4\u0099 nie op\u00c5\u0082aca wraca\u00c4\u0087, ja mam w miare blisko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128253662,
+      "content": "Tobie jak tam majowka minela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128243754,
+      "content": "A leze sobie w szpitalu i nawet z lozka wstac nie moge \u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128224797,
+      "content": "Mialem jechsc ze znajomymi nad jeziora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128216136,
+      "content": "No to nie wysz\u00c5\u0082o cos XDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128208821,
+      "content": "Yyy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128197823,
+      "content": "XDDDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128189947,
+      "content": "W sumie nie by\u00c5\u0082o mnie dosc sporo na uczelni przez ta chorobe i szpital a nswet za bardzo zaleglosci jedzcze nie mam xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128169419,
+      "content": "U nas to swieta to czas swieta",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128161369,
+      "content": "Przesada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128159715,
+      "content": "Zadania na swieta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128156859,
+      "content": "XDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128148192,
+      "content": "Spoko ja w szpitalu leze od tego czasu co pisa\u00c5\u0082em ostatnio XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128130611,
+      "content": "Dalej siedzi XDDDD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128122304,
+      "content": "Idk wiekszosc dziennych raczej i tak w krakowie na codzie\u00c5\u0084 woli siedziec",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128078682,
+      "content": "Dziwny kierunek masz XDDD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683128057317,
+      "content": "No ta zimno i ciemno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766667830,
+      "content": "Ale b\u00c4\u0099dzie maj\u00c3\u00b3wka to mo\u00c5\u00bce nie zachorujesz\u00f0\u009f\u0098\u009c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766651905,
+      "content": "No to do dupy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766616288,
+      "content": "Co najlepsze to s\u00c4\u0085 zadanie stricte dla nauczycieli wiec babie si\u00c4\u0099 chyba kierunki popierniczyly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766578787,
+      "content": "I kurde mamy to potem prezentowa\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766560147,
+      "content": "Plus musz\u00c4\u0099 zeobic jakie\u00c5\u009b zadanie co baba nam wys\u00c5\u0082a\u00c5\u0082a na teams w \u00c5\u009bwi\u00c4\u0099ta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766536234,
+      "content": "Ten tyg tez odpada bo mam 2 kolosy\u00e2\u0098\u00a0\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766500573,
+      "content": "O niee na wolne najgorzej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766478224,
+      "content": "No bo wszyscy od razu jad\u00c4\u0085 pewnie do domu, nie op\u00c5\u0082aca si\u00c4\u0099 wraca\u00c4\u0087 do mieszkania",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766427077,
+      "content": "I wish zeby tak by\u00c5\u0082o xD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766399559,
+      "content": "Ahaa xDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766384185,
+      "content": "Ale w jesie\u00c5\u0084 i zim\u00c4\u0099\u00e2\u0098\u00a0\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766372805,
+      "content": "Teraz to i tak b\u00c4\u0099dzie git bo p\u00c3\u00b3\u00c5\u00baniej si\u00c4\u0099 ciemno robi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766332391,
+      "content": "No wlansie to bez sensu jak oni tego nas w liceum uczyli",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766267853,
+      "content": "Ale pewnie i tak bym lepiej tego ni\u00c4\u0085 napisa\u00c5\u0082a xd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681766256761,
+      "content": "Chyba nie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486659701,
+      "content": "Wiec po chuju z tym wolnym XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486650564,
+      "content": "Wez moje cale wolne i tak posz\u00c5\u0082o na chorowanie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486637578,
+      "content": "A jaki\u00c5\u009b inny termin masz wolny?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486622367,
+      "content": "Spoczko mi zdrowie siadlo i tak to bym nie da\u00c5\u0082 rady i tak XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486592369,
+      "content": "W sumie to sporo osob z tymi walizkami lazi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486576864,
+      "content": "XDDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486568759,
+      "content": "Boze zadania domowe na studiach XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486563210,
+      "content": "Co najwyzej jakas prezka na zaliczenie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486555628,
+      "content": "My nie mamy czegos takiego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486551237,
+      "content": "Boze zadania XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486521340,
+      "content": "Mniej materialu na egzanin XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486516567,
+      "content": "Jak nie ma zajec to przepadaja i chuj XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486510304,
+      "content": "No u nas takich jaj nie ma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486505804,
+      "content": "XDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486489947,
+      "content": "Bo \u00c5\u00bcadnych zajec i tak w planie na ten czas nie mielusmy XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486479811,
+      "content": "No nie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486464288,
+      "content": "To ch\u00c4\u0099ci do \u00c5\u00bcycia cz\u00c5\u0082owiek traci",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486456542,
+      "content": "Czasem tak mam na psychologii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486450101,
+      "content": "Nie ma to jak wychodzi\u00c4\u0087 z zajec jak jest ciemno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486443954,
+      "content": "Kurwa wspolczuje XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486420362,
+      "content": "Ten zwalniajacy to wgl mem by\u00c5\u0082 XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486409632,
+      "content": "Nwm dla mnie to wszystko z tym angielskim latwe bylo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486387087,
+      "content": "Jakby to bylo c1 to jeszcze bym pochodzi\u00c5\u0082 XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486378899,
+      "content": "Czyli taki jak na maturze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486374741,
+      "content": "Szczegolnie ze to poziom b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486369866,
+      "content": "Ten angielski jest bez snesu",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486365439,
+      "content": "No ta XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486352015,
+      "content": "Czy sie sp\u00c3\u00b3\u00c5\u00bani\u00c5\u0082em z tym XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681486348257,
+      "content": "Ja ci nie mowilem zebys sie postarala jak to b\u00c4\u0099dziesz pisac?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250785182,
+      "content": "chce miec takie problemy XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250767497,
+      "content": "tak nas kochaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250756853,
+      "content": "niestety nie mam tak luzu...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250745852,
+      "content": "kurde w tym tyg s\u00c5\u0082abo ://",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250703878,
+      "content": "o niee biedna",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250651433,
+      "content": "jak s\u00c5\u0082yszysz dzwiek ciagnietej walizki to duze prawdopodobienstwo ze to ja lece XDD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250625275,
+      "content": "ej to ja XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250601057,
+      "content": "ja w wolne sb zadanka robilam bo zadali i kazali wys\u00c5\u0082a\u00c4\u0087 xD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250479107,
+      "content": "wlasnie to jest niby fajne ale jedna baba juz nam mowila ze w zwiazku z tymi wolnymi ona nie wyrobi godzin wiec zrobi dodatkowe zajecia na ktore niby mozna nie przyjsc ale jak nie pojdziesz to gowno bedziesz wiedzial wiec XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250398417,
+      "content": "i wy tego odrabiac nie bedziecie??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250366189,
+      "content": "ahaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250350085,
+      "content": "jedyny plus zajec do 20",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250344869,
+      "content": "tyle dobrze ze jestem ostatnia grupa i inne osoby mowia co mniej wiecej bylo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250292265,
+      "content": "to mieliscie jakies latwe to pewnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250244458,
+      "content": "i jeszcze bedziemy pisac test po kazdym dziale jak w liceum xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250230381,
+      "content": "nwm na jaka cholere nam ten angielski",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250206178,
+      "content": "co to za jakas faworyzacja",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bogusia Ptak",
+      "timestamp_ms": 1681250156739,
+      "content": "nie xD blagam cie ja tylko chcialam miec to zaliczone bo myslalam ze do niczego to nie bedzie potrzebne",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806733084,
+      "content": "I musze jako\u00c5\u009b zagospodarowac czas XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806720214,
+      "content": "Bo ja mam luz w chuj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806717293,
+      "content": "Wgl jakby\u00c5\u009b chcia\u00c5\u0082a sie na jakis meet ustawi\u00c4\u0087 pogadac se o studiach jako\u00c5\u009b po \u00c5\u009bwi\u00c4\u0099tach to pisz chyba ze masz duzo nauki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806653579,
+      "content": "Przed uczelnia XDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806650463,
+      "content": "Ostatnio widzaem jak jakas laska sie wypierdolila z walizka na schodach",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806640190,
+      "content": "Z walizkami na uczelni",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806636554,
+      "content": "Zawsze mnie rozwalaja ludzie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806632066,
+      "content": "Eh typowy krakow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806606402,
+      "content": "To w ogole fajrant",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806603295,
+      "content": "No mi jeszcze jak tym wolnym dojebali",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806598159,
+      "content": "Masakra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806574541,
+      "content": "Ale to ci opowiadalem chyba XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806568938,
+      "content": "I gosc chcial wszystkich ujebac potem",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806562911,
+      "content": "Wlasnie zdalny o 8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806559181,
+      "content": "Gdxie mia\u00c5\u0082em 1 obecnosc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806555266,
+      "content": "A to ja mialem taki w tamtym semestrzr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806530759,
+      "content": "I potem od 27 kwietnia do 9 maja xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806508335,
+      "content": "XDDDDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806506312,
+      "content": "Bo tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806505407,
+      "content": "Od 28 marca do 18 kwietnia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806498649,
+      "content": "I teraz wolne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806496765,
+      "content": "Ja jeszcze zadnego kolosa nie mialem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806488892,
+      "content": "Jak w szkole no",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bogusia Ptak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806486499,
+      "content": "Przejebane",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806483967,
+      "content": "XDDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806462134,
+      "content": "Ale mnie dopu\u00c5\u009bcili XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806458773,
+      "content": "Ale tamto na szybko pisalem.i byle jak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806453034,
+      "content": "Z poziomujacego to nawet nie wiem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806447202,
+      "content": "Z matur",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806445465,
+      "content": "Ja mia\u00c5\u0082em 100 i 92%",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806436675,
+      "content": "U nas patrzyli an poziomujacy +matury",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806427567,
+      "content": "Ale glupota swiata",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806424690,
+      "content": "XDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680806417097,
+      "content": "A ty nie napisalas na 75?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bogusia Ptak",
+  "is_still_participant": true,
+  "thread_path": "inbox/bogusiaptak_3139495316380919",
+  "magic_words": [
+    
+  ]
+}

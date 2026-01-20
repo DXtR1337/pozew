@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Szymek Kot"
+    },
+    {
+      "name": "Tomasz Kudzia"
+    },
+    {
+      "name": "Piotrek Nowak"
+    },
+    {
+      "name": "Kacper Fejdych"
+    },
+    {
+      "name": "Pawe\u00c5\u0082 Cichocki"
+    },
+    {
+      "name": "Radek Salwach"
+    },
+    {
+      "name": "Julita Bouffette"
+    },
+    {
+      "name": "Madzia Szczypka"
+    },
+    {
+      "name": "Stasiu Przygoda"
+    },
+    {
+      "name": "Salvador Rafa\u00c5\u0082 Romero"
+    },
+    {
+      "name": "Oskar Gawlik"
+    },
+    {
+      "name": "Kamil Br\u00c4\u0085czek"
+    },
+    {
+      "name": "Bar\u00c5\u0082omiej Greiner"
+    },
+    {
+      "name": "Jan Skowronek"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Mateusz Wi\u00c4\u0099cek"
+    },
+    {
+      "name": "Wojciech \u00c5\u00bbak"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawe\u00c5\u0082 Cichocki",
+      "timestamp_ms": 1680268649448,
+      "content": "Ja mog\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Wi\u00c4\u0099cek",
+      "timestamp_ms": 1680245161155,
+      "content": "Ja jak juz kolo 17",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "pi\u00c5\u0082ko noga",
+  "is_still_participant": true,
+  "thread_path": "inbox/pilkonoga_5855519871161826",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

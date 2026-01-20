@@ -1,0 +1,44 @@
+{
+  "autofill_information_v2": {
+    "CITY": [
+      "Krak\u00c3\u00b3w"
+    ],
+    "COUNTRY": [
+      "PL"
+    ],
+    "EMAIL": [
+      "michal.seido@vp.pl"
+    ],
+    "PHONE": [
+      "+48720764734",
+      "+48660463449"
+    ],
+    "GENDER": [
+      "male"
+    ],
+    "SLIDER": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "FIRST_NAME": [
+      "Micha\u00c5\u0082"
+    ],
+    "LAST_NAME": [
+      "Wiencek"
+    ],
+    "FULL_NAME": [
+      "Micha\u00c5\u0082 Wiencek"
+    ],
+    "WORK_EMAIL": [
+      "michal.seido@vp.pl"
+    ],
+    "WORK_PHONE": [
+      "+48720764734",
+      "+48660463449"
+    ]
+  }
+}

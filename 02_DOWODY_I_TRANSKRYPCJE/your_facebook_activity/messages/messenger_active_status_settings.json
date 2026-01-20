@@ -1,0 +1,24 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Widoczne dla wszystkich?",
+      "value": "Prawda"
+    },
+    {
+      "label": "Ustawienie widoczno\u00c5\u009bci",
+      "value": "Lista zablokowanych"
+    },
+    {
+      "label": "Czas utworzenia",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Czas ostatniej modyfikacji",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "1799144150447592"
+}

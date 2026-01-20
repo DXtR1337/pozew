@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Dorota Szczerba"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685560447092,
+      "files": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/dorotaszczerba_2022559687943163/files/1698724710584438.docx",
+          "creation_timestamp": 1685560446
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dorota Szczerba",
+      "timestamp_ms": 1684436302419,
+      "content": "http://www.procrastination.no/instrPOL.html",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dorota Szczerba",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/dorotaszczerba_2022559687943163",
+  "magic_words": [
+    
+  ]
+}

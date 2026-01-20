@@ -1,0 +1,767 @@
+{
+  "participants": [
+    {
+      "name": "Martyna Gancarczyk"
+    },
+    {
+      "name": "Aleksander Michalec"
+    },
+    {
+      "name": "Magdalena Birgiel"
+    },
+    {
+      "name": "Ula Jaro\u00c5\u0084"
+    },
+    {
+      "name": "Karolina Bijan"
+    },
+    {
+      "name": "Kuba Habryn"
+    },
+    {
+      "name": "Natalia W\u00c5\u0082odek"
+    },
+    {
+      "name": "Natalia Pawlus"
+    },
+    {
+      "name": "Ola Karciarz"
+    },
+    {
+      "name": "Paulina Smuczek"
+    },
+    {
+      "name": "Karolina Master"
+    },
+    {
+      "name": "Klara Kurek"
+    },
+    {
+      "name": "Joanna Pac\u00c5\u0082awska"
+    },
+    {
+      "name": "Kasia Ws\u00c3\u00b3\u00c5\u0082"
+    },
+    {
+      "name": "Alicja Kmak"
+    },
+    {
+      "name": "Weronika Tutaj"
+    },
+    {
+      "name": "Amelia Jasi\u00c5\u0084ska"
+    },
+    {
+      "name": "Paulina Kaczmarczyk"
+    },
+    {
+      "name": "Maria Franelak"
+    },
+    {
+      "name": "Natalia Wi\u00c4\u0099ckowska"
+    },
+    {
+      "name": "Sylwia Wolny"
+    },
+    {
+      "name": "Ola Lato\u00c5\u009b"
+    },
+    {
+      "name": "Ola Stefaniak"
+    },
+    {
+      "name": "Laura Gle\u00c5\u0084"
+    },
+    {
+      "name": "Maria Wi\u00c5\u009bniowska"
+    },
+    {
+      "name": "Natalia Starzyk"
+    },
+    {
+      "name": "Bart\u00c5\u0082omiej Polaszczyk"
+    },
+    {
+      "name": "Paula Wolak"
+    },
+    {
+      "name": "Natalia Sikora"
+    },
+    {
+      "name": "Wiola Sajdak"
+    },
+    {
+      "name": "Ola Borkowska"
+    },
+    {
+      "name": "Ignacy S\u00c4\u0085dej"
+    },
+    {
+      "name": "Julia Binda"
+    },
+    {
+      "name": "Jola Ciomber"
+    },
+    {
+      "name": "Ola Wilk"
+    },
+    {
+      "name": "Dominika Nowak"
+    },
+    {
+      "name": "Ola Malik"
+    },
+    {
+      "name": "Nina Curzyd\u00c5\u0082o"
+    },
+    {
+      "name": "Weronika Hamerlak"
+    },
+    {
+      "name": "Mi\u00c5\u0082osz Markiewicz"
+    },
+    {
+      "name": "Anna Mierzwi\u00c5\u0084ska"
+    },
+    {
+      "name": "Toma Marchuk"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1685179584238,
+      "content": "https://dolinabedkowska.pl",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1685179518795,
+      "content": "Plan obozu:\na) warsztaty mindfullness i medytacja\nb) warsztaty pracy z l\u00c4\u0099kiem\nc) spacer sokratejski\nd) warsztaty - \u00c4\u0087wiczenie strategii relaksacji\ne) warsztat dyskomfort-l\u00c4\u0099k-panika - o stopniowaniu odczuwanych emocji\nf) warsztaty z zakresu wspinaczki ska\u00c5\u0082kowej jako wyj\u00c5\u009bcie poza stref\u00c4\u0099 komfortu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1685179501316,
+      "content": "Przesy\u00c5\u0082am wst\u00c4\u0099pny plan obozu oraz miejsce - mo\u00c5\u00bce kto\u00c5\u009b by\u00c5\u0082by jeszcze zainteresowany. Je\u00c5\u009bli tak, dajcie zna\u00c4\u0087 priv",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1685179495587,
+      "content": "Hej \u00f0\u009f\u0098\u008a zosta\u00c5\u0082o jeszcze pare miejsc na ob\u00c3\u00b3z naukowy pod namiotami (termin to 8-11 lipca)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684861755496,
+      "content": "Mam pytanie dotycz\u00c4\u0085ce przysz\u00c5\u0082ego spotkania. Ze wzgl\u00c4\u0099du na zdalne, a p\u00c3\u00b3\u00c5\u00baniej sesje nie spotkamy si\u00c4\u0099 ju\u00c5\u00bc stacjonarnie. St\u00c4\u0085d moje pytanie, czy jest kto\u00c5\u009b zainteresowany przygotowaniem czego\u00c5\u009b na ostatnie zdalne spotkanie ( prawdopodobnie za 2 tyg - 6 lub 7 czerwca). To ostatnia okazja, \u00c5\u00bceby odhaczy\u00c4\u0087 jak\u00c4\u0085\u00c5\u009b aktywno\u00c5\u009b\u00c4\u0087 w kole w tym semestrze, dlatego zach\u00c4\u0099cam \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684861736652,
+      "content": "Heej ! Je\u00c5\u009bli kto\u00c5\u009b jest zainteresowany tematem psychopatii to prezka ju\u00c5\u00bc dodana na teamsa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Laura Gle\u00c5\u0084"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paula Wolak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684854513161,
+      "content": "https://teams.microsoft.com/l/meetup-join/19:eyup2cRlbUAluIUNQcgB4RrZHqdwicC1KyEHSR0vskQ1@thread.tacv2/1684854475333?context=%7B%22Tid%22:%22560f4a6a-182f-453e-a28b-22e160aaab93%22,%22Oid%22:%22882cc592-cba0-4f99-a6fb-2bd0b0c20844%22%7D",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684854444688,
+      "content": "Utworze spotkanie gdyby kto\u00c5\u009b chcia\u00c5\u0082 pos\u00c5\u0082ucha\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u0095",
+          "actor": "Weronika Bukowska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paula Wolak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martyna Gancarczyk",
+      "timestamp_ms": 1684853529895,
+      "content": "sp\u00c3\u00b3\u00c5\u00bani\u00c4\u0099 si\u00c4\u0099 delikatnie",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Karolina Master"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684841893614,
+      "content": "Dzisiaj odb\u00c4\u0099dzie si\u00c4\u0099 tez spotkanie Neuropsy na temat Neuromarketingu i Neuroforecasting - 20:00 sala  316",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paula Wolak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684834911720,
+      "content": "Przypominam o dzisiejszym spotkaniu sekcji o 17:00 - sala 350 \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Pawlus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smuczek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Kasprzycka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paula Wolak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684786819566,
+      "content": "Je\u00c5\u00bceli chodzi o kosztorys - wszystko b\u00c4\u0099dzie zale\u00c5\u00bca\u00c5\u0082o od liczby ch\u00c4\u0099tnych os\u00c3\u00b3b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684786804917,
+      "content": "Osoby ch\u00c4\u0099tne prosz\u00c4\u0099, aby do \u00c5\u009brody zaznaczy\u00c5\u0082y, kt\u00c3\u00b3ry termin najbardziej im odpowiada (ankieta na grupie sekcji). Je\u00c5\u00bceli komu\u00c5\u009b pasuje wi\u00c4\u0099cej ni\u00c5\u00bc jeden termin, zaznaczcie oba (wybierany jest termin, kt\u00c3\u00b3ry b\u00c4\u0099dzie pasowa\u00c5\u0082 najwi\u00c4\u0099kszej ilo\u00c5\u009bci os\u00c3\u00b3b).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684786781858,
+      "content": "Tematyka obozu to praca z l\u00c4\u0099kiem i wychodzenie ze sfery komfortu, jest te\u00c5\u00bc okazja do spotkania z wyk\u00c5\u0082adowcami poza salami wyk\u00c5\u0082adowymi, integracji w gronie student\u00c3\u00b3w z r\u00c3\u00b3\u00c5\u00bcnych rocznik\u00c3\u00b3w i rozwoju siebie.B\u00c4\u0099dziecie mieli do czynienia z wyzwaniami zwi\u00c4\u0085zanymi ze wspinaczk\u00c4\u0085 ska\u00c5\u0082kow\u00c4\u0085. Nie jest wymagany \u00c5\u00bcaden poziom znajomo\u00c5\u009bci tego sportu, nie ma te\u00c5\u00bc innych wymaga\u00c5\u0084 (mamy zapewnione profesjonalne wsparcie).",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684786771117,
+      "content": "Mam jeszcze jedno wakacyjne og\u00c5\u0082oszenie \u00f0\u009f\u0098\u008a\nKo\u00c5\u0082o naukowe ControlUP (mo\u00c5\u00bcliwe, \u00c5\u00bce we wsp\u00c3\u00b3\u00c5\u0082pracy z Sensorium) b\u00c4\u0099dzie organizowa\u00c4\u0087 ob\u00c3\u00b3z naukowy na Jurze Krakowsko-Cz\u00c4\u0099stochowskiej w Brandys\u00c3\u00b3wce, noclegi planowane s\u00c4\u0085 pod namiotami.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684742874142,
+      "content": "Nie wiem czy opcja zdalnie by\u00c5\u0082aby na pewno mo\u00c5\u00bcliwa, ale je\u00c5\u009bli b\u00c4\u0099dzie du\u00c5\u00bce zainteresowanie to mo\u00c5\u00bce si\u00c4\u0099 uda - zw\u00c5\u0082aszcza ze wzgl\u00c4\u0099du na wakacje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684742780355,
+      "content": "Zdalnie",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Bijan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Pawlus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smuczek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika Tutaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Kasprzycka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sylwia Wolny"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paula Wolak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Natalia Sikora"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jola Ciomber"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684742778377,
+      "content": "Stacjo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magdalena Birgiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Nawalany"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Pawlus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smuczek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika Tutaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Justyna Gaudyn"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Izabela G\u00c3\u00b3ral"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684742776305,
+      "content": "Osoby zainteresowane spotkaniem prosze zeby zareagowaly na form\u00c4\u0099 kt\u00c3\u00b3ra bardziej wam odpowiada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684742709390,
+      "content": "Jest tez opcja ustalenia innego tematu spotkania je\u00c5\u009bli bardziej by nam odpowiada\u00c5\u0082o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684742657040,
+      "content": "Tematy jakie zaproponowa\u00c5\u0082a to:\n1.           Spotkanie \u00c5\u00bcydowsko-arabskie podczas szkolenia w zakresie doradztwa edukacyjnego - wspomnienia osobiste i grupowe.\n2.           Doradcy szkolni przekazuj\u00c4\u0085 informacje na temat doradztwa szkolnego i swojej pracy: Jak przekazywane jest ich profesjonalne przes\u00c5\u0082anie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684742605498,
+      "content": "\u00e2\u0080\u009eJestem psychoterapeut\u00c4\u0085 analitycznym, terapeut\u00c4\u0085 rodzin i par oraz seksuologiem.  Mam do\u00c5\u009bwiadczenie w nauczaniu, badaniach, poradnictwie i leczeniu w Izraelu i USA.  Przez oko\u00c5\u0082o 15 lat pracowa\u00c5\u0082am na r\u00c3\u00b3\u00c5\u00bcnych stanowiskach w Ministerstwie Edukacji, pracowa\u00c5\u0082am w s\u00c5\u0082u\u00c5\u00bcbie psychologicznej jako konsultant edukacyjny i instruktor. Zajmowa\u00c5\u0082am si\u00c4\u0099 doradztwem i terapi\u00c4\u0085 w r\u00c3\u00b3\u00c5\u00bcnych szko\u00c5\u0082ach \u00c5\u00bcydowskich, w edukacji regularnej i specjalnej oraz w dwuj\u00c4\u0099zycznej szkole \u00c5\u00bcydowsko-arabskiej. Pracowa\u00c5\u0082em r\u00c3\u00b3wnie\u00c5\u00bc w szpitalu i w centrum terapii rodzinnej.  Obecnie jestem starszym wyk\u00c5\u0082adowc\u00c4\u0085, badaczem i instruktorem na studiach magisterskich w zakresie doradztwa edukacyjnego oraz bada\u00c5\u0084 i ewaluacji w Beit Berel Academic College. W przesz\u00c5\u0082o\u00c5\u009bci by\u00c5\u0082am instruktorem klinicznym w zakresie indywidualnej pracy z rodzinami, a tak\u00c5\u00bce prowadzi\u00c5\u0082am kursy dla nauczycieli i personelu zajmuj\u00c4\u0085cego si\u00c4\u0099 rozwojem m\u00c5\u0082odzie\u00c5\u00bcy. Moje obszary bada\u00c5\u0084 i zainteresowa\u00c5\u0084 \u00c5\u0082\u00c4\u0085cz\u00c4\u0085 terapi\u00c4\u0099 rodzinn\u00c4\u0085, poradnictwo pedagogiczne, edukacj\u00c4\u0099 specjaln\u00c4\u0085 i poradnictwo edukacyjne i koncentruj\u00c4\u0085 si\u00c4\u0099 na postawach wobec populacji znajduj\u00c4\u0085cych si\u00c4\u0099 w niekorzystnej sytuacji i ich integracji, pracy z populacj\u00c4\u0085 wielu kultur i to\u00c5\u00bcsamo\u00c5\u009bci, pracy systemowej w szkole w og\u00c3\u00b3le oraz z naciskiem na relacje rodzic-nauczyciel\u00e2\u0080\u009d.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684742593564,
+      "content": "Przesy\u00c5\u0082am r\u00c3\u00b3wnie\u00c5\u00bc kilka info na jej temat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684742553084,
+      "content": "Hejka ! \u00f0\u009f\u0098\u008a Mam pytanie od dr Krzywoszanskiej dotycz\u00c4\u0085ce spotkania z Pani\u00c4\u0085 Lori Greenberger z Beit Berl College (Izrael), kt\u00c3\u00b3ra planuje sw\u00c3\u00b3j przyjazd w ramach Erasmusa + KA 107 w pierwszym tygodniu lipca 3-7/07/2023. Pani Lori Greenberger\u00c2\u00a0specjalizuje si\u00c4\u0099 w psychologii rozwojowej, doradztwie edukacyjnym oraz pedagogice specjalnej. Jest to termin po sesji, ale chcia\u00c5\u0082abym zapyta\u00c4\u0087 czy byliby\u00c5\u009bcie zainteresowani takim spotkaniem ? (ewentualnie mog\u00c4\u0099 dopyta\u00c4\u0087 o mo\u00c5\u00bcliwo\u00c5\u009b\u00c4\u0087 do\u00c5\u0082\u00c4\u0085czenia zdalnie ze wzgl\u00c4\u0099du na wakacje)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kuba Habryn"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Pawlus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika Tutaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Justyna Gaudyn"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Kasprzycka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Izabela G\u00c3\u00b3ral"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Natalia Sikora"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684416355585,
+      "content": "https://www.facebook.com/events/746453293627890/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A229549553046098%7D%7D%5D%22%7D",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684416341860,
+      "content": "Dodatkowo sekcja Psychoterapii Sensorium zaprasza na spotkanie z psychoterapeutka poznawczo-behawioraln\u00c4\u0085 w przysz\u00c5\u0082y poniedzia\u00c5\u0082ek. Podsy\u00c5\u0082am link do wydarzenia",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smuczek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1684416315785,
+      "content": "Hejka ! W przysz\u00c5\u0082y wtorek (23.05) o godz. 17:00 odb\u00c4\u0099dzie si\u00c4\u0099 spotkanie sekcji. Temat spotkania to : M\u00c3\u00b3zg psychopaty - zmiany anatomiczne  i funkcjonalne m\u00c3\u00b3zgu na podstawie bada\u00c5\u0084 neuroobrazowych. Prawdopodobnie odb\u00c4\u0099dzie si\u00c4\u0099 w sali 350, ale to potwierdz\u00c4\u0099 jeszcze na dniach \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Pawlus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ania Zdebska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joanna Pac\u00c5\u0082awska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kasia Ws\u00c3\u00b3\u00c5\u0082"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Kasprzycka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Wi\u00c4\u0099ckowska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paula Wolak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1683545674045,
+      "content": "Hejkaaa jutro Neuropsa zaprasza na seminarium o 20:00 na temat neuronalnych korelat\u00c3\u00b3w przetwarzania rytmu",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mateusz Tybel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika Bukowska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Karciarz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Kasprzycka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alicja Ewa Dubiel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Agnieszka Kowalcze"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paula Wolak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1682623870344,
+      "content": "Tutaj podsy\u00c5\u0082am link : https://forms.gle/zjiUVQwVCWVywocz7?fbclid=IwAR2ZYzEXop4k3A1neC7V4hJ-tTMW6kB2ac4ol4WgfXgIHRvEv10c2OwPsGY",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1682623865937,
+      "content": "Hej ! Wszystkich, kt\u00c3\u00b3rzy do\u00c5\u0082\u00c4\u0085czaj\u00c4\u0085 do ko\u00c5\u0082a, a nie s\u00c4\u0085 dodawani przez administrator\u00c3\u00b3w grupy bardzo prosz\u00c4\u0099 o wype\u00c5\u0082nienie formularza o cz\u00c5\u0082onkostwo w sekcji \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Wi\u00c4\u0099ckowska",
+      "timestamp_ms": 1682592844919,
+      "content": "Natalia Wi\u00c4\u0099ckowska doda\u00c5\u0082a Gabriel\u00c4\u0099 Kani\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1682533218508,
+      "content": "Dodatkowo w plikach na teamsie pojawi\u00c5\u0082o si\u00c4\u0099 wczorajsze wyst\u00c4\u0085pienie dziewczyn na temat dysleksji, koncepcji biologicznych oraz terapii \u00f0\u009f\u0098\u008a Znajdziecie tam wiele ciekawych rzeczy dlatego gor\u00c4\u0085co zach\u00c4\u0099cam !",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Konrad Guzowski"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Pawlus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Karciarz"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Kasprzycka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Izabela G\u00c3\u00b3ral"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paula Wolak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1682533208075,
+      "content": "Hejkaa ! Na grupe sekcji wrzuci\u00c5\u0082am niedawno post o wyje\u00c5\u00badzie integracyjnym organizowanym przez sekcje Psychologii Sportu KNSP UJ \n\nZainteresowanych odsy\u00c5\u0082am do wydarzenia : https://m.facebook.com/story.php?story_fbid=pfbid02Lh9gDxgjxU1HXHESyv1j67Fgz5yajHwE3FaUcRoTrNZsRaqKVU8Zvx9UW6qbNxPml&id=100057477788853",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1682332720244,
+      "content": "Hejkaa ! Przypominam o jutrzejszym spotkaniu \u00f0\u009f\u0098\u008a @Natalia i @Julia opowiedz\u00c4\u0085 o dysleksji",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Pawlus"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joanna Pac\u00c5\u0082awska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Kasprzycka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Wi\u00c4\u0099ckowska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicja M\u00c5\u0082ynarska",
+      "timestamp_ms": 1682062741630,
+      "content": "Alicja M\u00c5\u0082ynarska opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kasia Lange",
+      "timestamp_ms": 1681826927463,
+      "content": "Kasia Lange opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Wi\u00c4\u0099ckowska",
+      "timestamp_ms": 1681821384204,
+      "content": "Dzi\u00c4\u0099ki!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1681821308778,
+      "content": "Bardzo mo\u00c5\u00bcliwe ze ten",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Wi\u00c4\u0099ckowska",
+      "timestamp_ms": 1681821244980,
+      "content": "wiadomo jaki temat?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1681821092166,
+      "content": "Spotkanie Sensorium w przysz\u00c5\u0082y wtorek (25.04) o godz. 18:00 - sala 350 \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Martyna Gancarczyk"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalia Wi\u00c4\u0099ckowska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1681821087973,
+      "content": "Hejka ! Neuropsa zaprasza dzisiaj na spotkanie - jak zawsze godz. 20:00 sala 316",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1681472904963,
+      "content": "Wyst\u00c4\u0085pienie trwa oko\u00c5\u0082o 30 min i 15 min na ewentualne pytania, chyba \u00c5\u00bce kto\u00c5\u009b potrzebuje wi\u00c4\u0099cej czasu, wtedy to jest uzgadniane indywidualnie. godziny od 9.30-12.15",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1681472892784,
+      "content": "Dosta\u00c5\u0082am od Radzi wi\u00c4\u0099cej info na ten temat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1681466746213,
+      "content": "Musz\u00c4\u0099 przekaza\u00c4\u0087 info do dzisiaj tak\u00c5\u00bce je\u00c5\u009bli kto\u00c5\u009b chcia\u00c5\u0082aby si\u00c4\u0099 zg\u00c5\u0082osi\u00c4\u0087 to prosz\u00c4\u0099 napiszcie do wieczora \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Master",
+      "timestamp_ms": 1681466712840,
+      "content": "Hej ! Czy by\u00c5\u0082by mo\u00c5\u00bce kto\u00c5\u009b zainteresowany poprowadzeniem warsztat\u00c3\u00b3w / wyst\u00c4\u0085pienia na dniach otwartych UP (25.04) ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SENSORIUM sekcja neuropsychologii",
+  "is_still_participant": false,
+  "thread_path": "inbox/sensoriumsekcjaneuropsychologii_4624348984337822",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

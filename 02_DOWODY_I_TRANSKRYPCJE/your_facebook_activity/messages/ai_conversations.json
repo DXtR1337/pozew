@@ -1,0 +1,65 @@
+{
+  "title": "Meta AI",
+  "timestamp": 1760660920,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Podsumowanie",
+      "value": ""
+    },
+    {
+      "label": "Przypi\u00c4\u0099te wiadomo\u00c5\u009bci",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Animacje wyraz\u00c3\u00b3w",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Obraz"
+    },
+    {
+      "label": "Czy jeste\u00c5\u009b administratorem?",
+      "value": "Fa\u00c5\u0082sz"
+    },
+    {
+      "label": "Link umo\u00c5\u00bcliwiaj\u00c4\u0085cy do\u00c5\u0082\u00c4\u0085czenie",
+      "dict": [
+        {
+          "label": "Link",
+          "value": "",
+          "href": ""
+        },
+        {
+          "label": "Prywatno\u00c5\u009b\u00c4\u0087",
+          "value": "Prywatne"
+        }
+      ]
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Poprzedni uczestnicy"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Przedmiot w Marketplace"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Wiadomo\u00c5\u009bci"
+    }
+  ],
+  "fbid": "9198478723613539"
+}

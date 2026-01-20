@@ -1,0 +1,5106 @@
+{
+  "participants": [
+    {
+      "name": "Marek Rapta"
+    },
+    {
+      "name": "Aleksandra Kretek"
+    },
+    {
+      "name": "Luiza Socha"
+    },
+    {
+      "name": "Mateusz Marci\u00c5\u0084ski"
+    },
+    {
+      "name": "Monika Chru\u00c5\u009bciel"
+    },
+    {
+      "name": "Marta Bednarz"
+    },
+    {
+      "name": "Eliza Kurczyna"
+    },
+    {
+      "name": "Wiktoria Trela"
+    },
+    {
+      "name": "Julita Bouffette"
+    },
+    {
+      "name": "Paulina Smolec"
+    },
+    {
+      "name": "Emilka Matera"
+    },
+    {
+      "name": "Magda Cie\u00c5\u00bc"
+    },
+    {
+      "name": "Ma\u00c5\u0082gorzata Drozdek"
+    },
+    {
+      "name": "Ola Cio\u00c5\u0082ek"
+    },
+    {
+      "name": "Oskar Gawlik"
+    },
+    {
+      "name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Julia Tabaka"
+    },
+    {
+      "name": "Karolina Zar\u00c4\u0099bska"
+    },
+    {
+      "name": "Kasia Bulzacka"
+    },
+    {
+      "name": "Mateusz Wi\u00c4\u0099cek"
+    },
+    {
+      "name": "Angelika \u00c5\u0081uczyk"
+    },
+    {
+      "name": "Paulina W\u00c3\u00b3jcik"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1684605802685,
+      "content": "Hejo! Mam dla Was ostatnie zadanie \u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085 bo brakuje mi zdj\u00c4\u0099cia  z bilecikami od sabrossa i salsa, czy macie je mo\u00c5\u00bce jeszcze? Je\u00c5\u009bli tak to pliska zr\u00c3\u00b3bcie jakie\u00c5\u009b focie \u00c5\u0082adne na fb <3 potrzebuj\u00c4\u0099 do posta",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Marek Rapta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1684165579256,
+      "content": "Odebrane",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1684137767690,
+      "content": "Te paczuszki kt\u00c3\u00b3re dla krwiodawc\u00c3\u00b3w by\u00c5\u0082y, takie te\u00c5\u00bc dostaje grupa projektowa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1684137723685,
+      "content": "To znaczy? \u00f0\u009f\u00a4\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1684132527493,
+      "content": "Ja jeszcze nie, dzi\u00c5\u009b podskocze",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1684132503692,
+      "content": "Hej! Czy wszyscy odebrali sobie pakiet z biura?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Wiktoria Trela"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Oskar Gawlik"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julia Tabaka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683729851228,
+      "content": "oj teraz ju\u00c5\u00bc nie wiem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683728441060,
+      "content": "Do kiedy jest ta salsa og\u00c3\u00b3\u00c5\u0082em?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1683727162704,
+      "content": "Chyba ju\u00c5\u00bc nie ma nikogo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683727096457,
+      "content": "Jeste\u00c5\u009bcie nadal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Cie\u00c5\u00bc",
+      "timestamp_ms": 1683725264378,
+      "content": "Jestem ja Pawe\u00c5\u0082 i Ewelinka",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683725263177,
+      "content": "By\u00c5\u0082y trzy osoby jeszcze niedawno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1683725240208,
+      "content": "A jeste\u00c5\u009bcie w biurze jeszcze?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683724972117,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683724969855,
+      "content": "Kochani, dzi\u00c4\u0099kujemy za pomoc! Dzisiaj uda\u00c5\u0082o si\u00c4\u0099 zebra\u00c4\u0087 krew a\u00c5\u00bc od 36 os\u00c3\u00b3b! W sumie 76 os\u00c3\u00b3b odda\u00c5\u0082o krew \u00f0\u009f\u0098\u008d\u00f0\u009f\u00a5\u00b9 Dzi\u00c4\u0099kuj\u00c4\u0099 bardzo za Wasz czas i pomoc \u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Monika Chru\u00c5\u009bciel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Tabaka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683724068273,
+      "content": "Czeka w biurze",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kasia Bulzacka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683724062078,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/555169836798791.jpg",
+          "creation_timestamp": 1683724061
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683723645552,
+      "content": "Kt\u00c3\u00b3ry pozwala na wej\u00c5\u009bcie za 5ziko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683723634296,
+      "content": "Oki, to zosta\u00c5\u0082 ju\u00c5\u00bc tylko bon do Muzeum Etnograficznego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1683723096037,
+      "content": "Ja chc\u00c4\u0099 te\u00c5\u00bc sals\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kasia Bulzacka",
+      "timestamp_ms": 1683722795380,
+      "content": "Ja r\u00c3\u00b3wnie\u00c5\u00bc sals\u00c4\u0099 ch\u00c4\u0099tnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683722789755,
+      "content": "Czy tam salse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683722761578,
+      "content": "Ja ch\u00c4\u0099tnie wezm\u00c4\u0099 sambe!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683722604042,
+      "content": "Za\u00c5\u0082atwione",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683722531623,
+      "content": "No siekiery byly by spoko haha poczu\u00c5\u0082 bym sie jak w domu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683722461906,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/785177332934914.jpg",
+          "creation_timestamp": 1683722460
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683722455140,
+      "content": "Mo\u00c5\u00bcna odebra\u00c4\u0087 sobie pakiet",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683722445944,
+      "content": "Kto\u00c5\u009b chce?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683722442933,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/248917280982191.jpg",
+          "creation_timestamp": 1683722441
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683718631935,
+      "content": "To kto ma klucz niech podejdzie do biura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Cie\u00c5\u00bc",
+      "timestamp_ms": 1683718109489,
+      "content": "Zapraszamy kogo nie ma!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683717491574,
+      "content": "Przed wej\u00c5\u009bciem do UP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683717479916,
+      "content": "Nie odchodzimy, robimy za chwil\u00c4\u0099 zdj\u00c4\u0099cie grupowe!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683717429404,
+      "content": "Aleksandra Kretek doda\u00c5\u0082a Magd\u00c4\u0099 Cie\u00c5\u00bc do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683707128675,
+      "content": "Jak oddasz to mozesz odebrac zwolnienie lekarskie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683707118489,
+      "content": "Taak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Tabaka",
+      "timestamp_ms": 1683707109835,
+      "content": "Czy s\u00c4\u0085 jakie\u00c5\u009b zwolnienia z zaj\u00c4\u0099\u00c4\u0087 dla os\u00c3\u00b3b kt\u00c3\u00b3re odda\u00c5\u0082y krew?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina W\u00c3\u00b3jcik",
+      "timestamp_ms": 1683639754511,
+      "content": "O super dzi\u00c4\u0099ki pi\u00c4\u0099kne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683639726797,
+      "content": "O to to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683639718266,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/931531124844903.jpg",
+          "creation_timestamp": 1683639717
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina W\u00c3\u00b3jcik"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683639707119,
+      "content": "Dzisiaj przynajmniej 2 litry wody wypi\u00c4\u0087 a rano lekkie \u00c5\u009bniadanko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina W\u00c3\u00b3jcik",
+      "timestamp_ms": 1683639633351,
+      "content": "W sensie w kwestii jedzenia/picia? Po prostu chyba trzeba dzi\u00c5\u009b du\u00c5\u00bco wypi\u00c4\u0087 co nie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina W\u00c3\u00b3jcik",
+      "timestamp_ms": 1683639619811,
+      "content": "Musz\u00c4\u0099 pami\u00c4\u0099ta\u00c4\u0087 o czym\u00c5\u009b specjalnym ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina W\u00c3\u00b3jcik",
+      "timestamp_ms": 1683639608043,
+      "content": "Ja jutro oddaje krew",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683639520513,
+      "content": "Dzi\u00c4\u0099kuj\u00c4\u0099 Wam bardzo moje Wampirki!! Dzisiaj zebrali\u00c5\u009bmy krew od prawie 40 os\u00c3\u00b3b \u00f0\u009f\u00a4\u00a9\u00f0\u009f\u00a4\u00a9 Gdyby nie Wy to ja nie wiem \u00f0\u009f\u00a5\u00b9",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009e",
+          "actor": "Mateusz Marci\u00c5\u0084ski"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Eliza Kurczyna"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Tabaka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683616359828,
+      "content": "Czy kto\u00c5\u009b mo\u00c5\u00bce zej\u00c5\u009b\u00c4\u0087 do drzwi na d\u00c3\u00b3\u00c5\u0082 i m\u00c3\u00b3wi\u00c4\u0087 gdzie ludzie maj\u00c4\u0085 na Wampa i\u00c5\u009b\u00c4\u0087?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1683615997677,
+      "content": "Ja te\u00c5\u00bc mog\u00c4\u0099 ale chyba marek bedzie szybciej bo ma auto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683615880764,
+      "content": "Moze zdaze do 40 pi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683615870283,
+      "content": "Moge obejsc jeszcze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683615859101,
+      "content": "Ja powiem co i jak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683615852835,
+      "content": "Czy kto\u00c5\u009b m\u00c3\u00b3g\u00c5\u0082by si\u00c4\u0099 przejsc do biedronka i wzi\u00c4\u0085\u00c4\u0087 soczki dla rckik?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1683612783734,
+      "content": "Kochani, ja dzi\u00c5\u009b niestety mam lekarza, wi\u00c4\u0099c prawdopodobnie wyrobie si\u00c4\u0099 na sam koniec, trzymam za was kciuki \u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1683609642788,
+      "content": "Te\u00c5\u00bc 8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1683609076735,
+      "content": "O 8 b\u00c4\u0099d\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683608627313,
+      "content": "Ja te\u00c5\u00bc powinnam si\u00c4\u0099 wyklu\u00c4\u0087 do 8",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683608618057,
+      "content": "Chyba tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683608603363,
+      "content": "Wystarczy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683608600803,
+      "content": "Kolo 8 mysle ze bym sie wyrobil",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683608535428,
+      "content": "To o kt\u00c3\u00b3rej b\u00c4\u0099dziecie? Potrzebujemy pomocy w uk\u00c5\u0082adaniu sto\u00c5\u0082\u00c3\u00b3w i krzese\u00c5\u0082ek \u00f0\u009f\u00a5\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683607472152,
+      "content": "Niestety nie uda\u00c5\u0082o si\u00c4\u0099 tego za\u00c5\u0082atwi\u00c4\u0087, a teraz jeszcze jeste\u00c5\u009bmy na \u00c5\u0082\u00c4\u0085czniku wi\u00c4\u0099c nie ma za bardzo gdzie nawet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Wi\u00c4\u0099cek",
+      "timestamp_ms": 1683593503217,
+      "content": "Wiadomo cokolwiek co z zespolem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1683572192914,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683572171009,
+      "content": "Dzi\u00c4\u0099kuj\u00c4\u0099 pi\u00c4\u0099knie za dzisiejsz\u00c4\u0085 pomoc!! Jeste\u00c5\u009bcie najlepsi \u00f0\u009f\u0098\u008d\u00f0\u009f\u00a5\u00b9",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Eliza Kurczyna"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Tabaka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683569074353,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/654026543235276.jpg",
+          "creation_timestamp": 1683569073
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0096",
+          "actor": "Emilka Matera"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683568898696,
+      "content": "A przygotowania na Wamp\u00c4\u0099 pe\u00c5\u0082n\u00c4\u0085 par\u00c4\u0085!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683568880935,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/991066032068330.jpg",
+          "creation_timestamp": 1683568879
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009e",
+          "actor": "Mateusz Marci\u00c5\u0084ski"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1683566570251,
+      "content": "Tylko potrzebuj\u00c4\u0099 zwolnienia z angielskiego, ma kt\u00c3\u00b3rym niczego si\u00c4\u0099 nie naucz\u00c4\u0099 xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1683566548903,
+      "content": "Ja mog\u00c4\u0099 przyj\u00c5\u009b\u00c4\u0087 rano",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1683566490246,
+      "content": "Ja jutro b\u00c4\u0099d\u00c4\u0099 ca\u00c5\u0082y dzie\u00c5\u0084, wi\u00c4\u0099c mog\u00c4\u0099 przyj\u00c5\u009b\u00c4\u0087 wcze\u00c5\u009bniej te\u00c5\u00bc pom\u00c3\u00b3c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kasia Bulzacka",
+      "timestamp_ms": 1683566425624,
+      "content": "Ja w \u00c5\u009brod\u00c4\u0099 b\u00c4\u0099d\u00c4\u0099 ca\u00c5\u0082y dzie\u00c5\u0084, ale we wtorek mam fizjoterapi\u00c4\u0099 i ko\u00c5\u0084cz\u00c4\u0099 ko\u00c5\u0082o 12 - mog\u00c4\u0099 podjecha\u00c4\u0087 wtedy co\u00c5\u009b wspom\u00c3\u00b3c je\u00c5\u009bli jest taka potrzeba",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683566191232,
+      "content": "Wiem ale we wtorek akurat mam takie zanecia ze nie chce ich raczej opuszcza\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683565995421,
+      "content": "Og\u00c3\u00b3lnie jak kto\u00c5\u009b potrzebuje to b\u00c4\u0099d\u00c4\u0085 zwolnienia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683565983625,
+      "content": "By\u00c5\u0082oby super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683565775648,
+      "content": "Zajecia dopiero o 9;45 mam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683565767594,
+      "content": "Moge przyjsc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683565715074,
+      "content": "Hejo, kto przyjdzie jutro rano pom\u00c3\u00b3c rozk\u00c5\u0082ada\u00c4\u0087 sto\u00c5\u0082y i pom\u00c3\u00b3c wej\u00c5\u009b\u00c4\u0087 RCKiK ze sprz\u00c4\u0099tem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1683556512094,
+      "content": "Kto jeszcze da jutro rad\u00c4\u0099 kierowa\u00c4\u0087 po oddaniu krwi ludzi, \u00c5\u00bceby napili si\u00c4\u0099 wody i odebrali paczuszk\u00c4\u0099?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eliza Kurczyna",
+      "timestamp_ms": 1683489309556,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/6207975515924798.jpg",
+          "creation_timestamp": 1683489309
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683489189991,
+      "content": "czyli umawiamy si\u00c4\u0099 w okolicach 18?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Eliza Kurczyna"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julia Tabaka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683489157636,
+      "content": "jak najbardziej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683489116633,
+      "content": "Ale to marek nam mo\u00c5\u00bce to przynie\u00c5\u009b\u00c4\u0087 z rana jak co\u00c5\u009b chyba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683489080139,
+      "content": "jutro rano nie mog\u00c4\u0099, w\u00c5\u0082a\u00c5\u009bnie jako\u00c5\u009b w okolicach popo\u00c5\u0082udnia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683489059280,
+      "content": "To spoczko, szybciej nam p\u00c3\u00b3jdzie w sumie te\u00c5\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1683489033898,
+      "content": "I przy okazji mog\u00c4\u0099 byc w biurze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683489033794,
+      "content": "ja doniose jeszcze rzeczy z kopalni jak chcecie to moge nawet z samego rana przyniesc do biura",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1683489014254,
+      "content": "Deklarowalam sie julce na pewno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683489010652,
+      "content": "super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1683489007579,
+      "content": "Aa too spoko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683489006889,
+      "content": "W\u00c5\u0082a\u00c5\u009bnie chyba nie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683489000615,
+      "content": "Znaczy my z Julk\u00c4\u0085 my\u00c5\u009bleli\u00c5\u009bmy jutro ok. 18",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1683488997409,
+      "content": "Nie pami\u00c4\u0099tam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683488982181,
+      "content": "Ty Karola pakujesz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683488975306,
+      "content": "a kiedy mo\u00c5\u00bcesz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1683488963585,
+      "content": "Jak bardzo poznym?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Smolec",
+      "timestamp_ms": 1683488956656,
+      "content": "Taak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683488940366,
+      "content": "Teraz pytanko do os\u00c3\u00b3b, kt\u00c3\u00b3re mia\u00c5\u0082y pakowa\u00c4\u0087, czy jutro bardziej p\u00c3\u00b3\u00c5\u00banym popo\u00c5\u0082udniem lub we wtorek rano Wam pasuje?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Eliza Kurczyna"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kasia Bulzacka",
+      "timestamp_ms": 1683485101103,
+      "content": "Ja na oba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Smolec",
+      "timestamp_ms": 1683484723419,
+      "content": "Ja te\u00c5\u00bc \u00c5\u009broda \u00f0\u009f\u0098\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eliza Kurczyna",
+      "timestamp_ms": 1683484703819,
+      "content": "Ja na \u00c5\u009brod\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1683484318798,
+      "content": "Oba poprosze",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1683484296514,
+      "content": "Na kt\u00c3\u00b3ry dzie\u00c5\u0084?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1683483809492,
+      "content": "Ja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Tabaka",
+      "timestamp_ms": 1683482476275,
+      "content": "Ja na \u00c5\u009brod\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1683482456348,
+      "content": "Ja na wtorek",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683482436557,
+      "content": "ja bede potrzebowal na srode",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1683482276026,
+      "content": "Hejo, kto b\u00c4\u0099dzie potrzebowa\u00c4\u0087 zwolnienia z zaj\u00c4\u0099\u00c4\u0087 na czas wampy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683219750936,
+      "content": "Dzi\u00c4\u0099kuj\u00c4\u0099 Ci bardzo <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683219176691,
+      "content": "Zostawione na parapecie w ma\u00c5\u0082ej papierowej torbie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683216247352,
+      "content": "Oki doki \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683216201981,
+      "content": "Do godziny podjad\u00c4\u0099 i zostawi\u00c4\u0099 w biurze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683216201419,
+      "content": "No, te lizaki s\u00c4\u0085 \u00c5\u009bwietne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683216157473,
+      "content": "Mam ulotki do rozdania i kupony na zrobienie lizaka haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683216144889,
+      "content": "Ale super <3 dzi\u00c4\u0099kuj\u00c4\u0099!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683216127675,
+      "content": "Tylko wzi\u00c4\u0099li mnie za ciebie bo imi\u00c4\u0099 to samo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683216112406,
+      "content": "Mam!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683215057071,
+      "content": "O, by\u00c5\u0082oby super! To jak Ci si\u00c4\u0099 uda, daj zna\u00c4\u0087!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683215040928,
+      "content": "Przynajmniej si\u00c4\u0099 postaram zd\u00c4\u0085\u00c5\u00bcy\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1683215029897,
+      "content": "Mog\u00c4\u0099 ja dzisiaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683213889806,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/628515168795860.jpg",
+          "creation_timestamp": 1683213889
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683213869641,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/761306405653339.jpg",
+          "creation_timestamp": 1683213868
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683213847097,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1683213711371,
+      "content": "Hejka! Czy kto\u00c5\u009b da rad\u00c4\u0099 odebra\u00c4\u0087 kupony z ciu ciu cukiernia artist?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682762951195,
+      "content": "Na razie nie mam od nich informacji konkretnych, tak jak od dragonus",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682761178830,
+      "content": "a jak tam Avatar? napisali ile wkoncu przekaza?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682709774811,
+      "content": "Kochani! Udost\u00c4\u0099pnijcie prosz\u00c4\u0099 wsz\u00c4\u0099dzie gdzie si\u00c4\u0099 da nasze Wampowe wydarzenie! Na grupach swoich kierunk\u00c3\u00b3w i r\u00c3\u00b3\u00c5\u00bcnych innych gdzie tylko mo\u00c5\u00bcecie <3 czy te\u00c5\u00bc w swoich relacjach, niech si\u00c4\u0099 wszyscy dowiedz\u00c4\u0085  https://fb.me/e/18yOyklBl",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700850956,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682700832434,
+      "content": "dzi\u00c4\u0099kuj\u00c4\u0099 Ci Marek!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700740324,
+      "content": "Mialem nadzieje na sole do k\u00c4\u0085pieli haha bo moja kuzynka tam pracuje i czesto przynosi ale cieszmy sie co mamy haha",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700705688,
+      "content": "I to by by\u00c5\u0082o na tyle, paczk\u00c4\u0099 dostarcz\u00c4\u0099 do biura w tygodniu wampowym",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682700692142,
+      "content": "ej, ale super paka, totalnie nietypowa",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Luiza Socha"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682700688360,
+      "content": "Oooo jednak to nie by\u00c5\u0082 \u00c5\u00bcart!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700678760,
+      "content": "Przuprawa nad przyprawami sol z kolorowym pieprzem 20 szt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700664358,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/221154213940287.jpg",
+          "creation_timestamp": 1682700663
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700657378,
+      "content": "Przyprawa nad przyprawami s\u00c3\u00b3l z lubczykiem 20 sztuk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700642135,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/689348203195053.jpg",
+          "creation_timestamp": 1682700641
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682700630949,
+      "content": "Bo serio my\u00c5\u009bla\u00c5\u0082am ze pieprz te\u00c5\u00bc dostaniemy XDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700630618,
+      "content": "Kolor zielony pisza na niebiesko",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Luiza Socha"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682700622137,
+      "content": "Marek nabra\u00c5\u0082e\u00c5\u009b mnie w ci\u00c4\u0085gu jednego dnia ju\u00c5\u00bc dwa razy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Emilka Matera"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700617005,
+      "content": "Brelok latarka (bez baterii) ok 21 szt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682700609371,
+      "content": "zielone?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700600080,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/1455147148624469.jpg",
+          "creation_timestamp": 1682700599
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700592646,
+      "content": "D\u00c5\u0082ugopisy kopalnia niebieskie 50 szt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700584438,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/132187609836480.jpg",
+          "creation_timestamp": 1682700583
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700574717,
+      "content": "Odblaski kopalnia.pl ok 100 szt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700563808,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/276881414669072.jpg",
+          "creation_timestamp": 1682700563
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700558940,
+      "content": "Gniotki kask ok 13 sztuk",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682700548848,
+      "content": "ulala",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700545489,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/911708620106278.jpg",
+          "creation_timestamp": 1682700545
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700540631,
+      "content": "Sol spo\u00c5\u00bcywcza jodowana 250g 7 sztuk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700523794,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/128519616875398.jpg",
+          "creation_timestamp": 1682700523
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682700519233,
+      "content": "Podsumowanie naszej paczki od kopalni soli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina W\u00c3\u00b3jcik",
+      "timestamp_ms": 1682697523983,
+      "content": "oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682697494722,
+      "content": "tylko zaakceptuj zaproszenie i b\u00c4\u0099d\u00c4\u0099 mog\u00c5\u0082a Ci\u00c4\u0099 doda\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682697436421,
+      "content": "spoczi <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina W\u00c3\u00b3jcik",
+      "timestamp_ms": 1682697383398,
+      "content": "na messengerze jestem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina W\u00c3\u00b3jcik",
+      "timestamp_ms": 1682697379101,
+      "content": "i jakby kto\u00c5\u009b m\u00c3\u00b3g\u00c5\u0082 mnie te\u00c5\u00bc wrzuci\u00c4\u0087 na grub\u00c4\u0099 nzs na fb, to by\u00c5\u0082abym wdzi\u00c4\u0099czna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina W\u00c3\u00b3jcik",
+      "timestamp_ms": 1682697366653,
+      "content": "jesli mam by\u00c4\u0087 w jakie\u00c5\u009b grupie takiej facebookowej odno\u00c5\u009bnie wampy, to poprosz\u00c4\u0099 o wrzucenie ponowne, bo mia\u00c5\u0082am to zamieszanie z kontem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682688407399,
+      "content": "Ja w\u00c5\u0082a\u00c5\u009bnie powiedzia\u00c5\u0082am znajomemu Ooo wiesz o tym? A on \u00c5\u00bce co ja bra\u00c5\u0082am XDD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kasia Bulzacka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1682688367582,
+      "content": "Noo ja si\u00c4\u0099 po prostu tradycyjnie nabra\u00c5\u0082am i gdyby\u00c5\u009b nie napisa\u00c5\u0082a, \u00c5\u00bce ro\u00c5\u009bnie to bym opowiada\u00c5\u0082a znajomym czy wiedzieli, \u00c5\u00bce maj\u00c4\u0085 tam te\u00c5\u00bc ten pieprz \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682688322061,
+      "content": "Bo\u00c5\u00bce ja naprawd\u00c4\u0099 przez chwil\u00c4\u0099 by\u00c5\u0082am w szoku \u00c5\u00bce wydobywa si\u00c4\u0099 w Wieliczce pieprz XDD chyba si\u00c4\u0099 nie wyspa\u00c5\u0082am",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682688248962,
+      "content": "Tak w\u00c5\u0082a\u00c5\u009bnie si\u00c4\u0099 dzieje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682688089510,
+      "content": "A pieprz nie ro\u00c5\u009bnie przypadkiem?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682687709637,
+      "content": "\u00c5\u0081oo, nie wiedzia\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682687484143,
+      "content": "I pieprz xd bo okazuje sie ze w wieliczce tez go kopia xd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682687472003,
+      "content": "S\u00c3\u00b3l",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682684801684,
+      "content": "Jest pakunek",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682684698278,
+      "content": "Fajne upominki?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682684161214,
+      "content": "Haha to dlatego nie chcieli loga pewnie",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682684154471,
+      "content": "Upominki *",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682683684906,
+      "content": "Kontakt opu\u00c5\u009bci\u00c5\u0082 grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682683675295,
+      "content": "Osoba z Twoich kontakt\u00c3\u00b3w doda\u00c5\u0082a Paulin\u00c4\u0099 W\u00c3\u00b3jcik do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682673024891,
+      "content": "Pewnie, na spokojnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682668063720,
+      "content": "To raczej bez problemu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682666832565,
+      "content": "Dzis jade po bony na kopalnie, ale wracam do krk dopiero w niedziele po majowce wiec dopiero wtedy moge przynie\u00c5\u009b\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682599273626,
+      "content": "Supii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682599061480,
+      "content": "\u00f0\u009f\u0098\u008e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682599059060,
+      "content": "Karton w biurze",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mateusz Marci\u00c5\u0084ski"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682598895147,
+      "content": "Ale szybk\u00c4\u0085 akcj\u00c4\u0085 \u00f0\u009f\u0098\u008d dziekujee",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mateusz Marci\u00c5\u0084ski"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682598880310,
+      "content": "Id\u00c4\u0099 tam z pud\u00c5\u0082em",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682598877101,
+      "content": "Luzik, Ewelina jest",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mateusz Marci\u00c5\u0084ski"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682598821676,
+      "content": "@Paulina W\u00c3\u00b3jcik Jak potrzeba klucza to mog\u00c4\u0099 wyj\u00c5\u009b\u00c4\u0087 teraz z zaj\u00c4\u0099\u00c4\u0087 i ci otworzy\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682598719594,
+      "content": "Zaraz zobacz\u00c4\u0099 czy kto\u00c5\u009b na tej promocji w og\u00c3\u00b3le siedzi",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682598705484,
+      "content": "Nie wiem czy biuro jest otwarte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682598698902,
+      "content": "Haha, dobrze <3 dzi\u00c4\u0099kuj\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682598677053,
+      "content": "Jeszcze nie oszala\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682598674004,
+      "content": "Dajcie spok\u00c3\u00b3j b\u00c4\u0099d\u00c4\u0099 orzeczenia czyta\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682598662162,
+      "content": "To zejd\u00c4\u0099 tam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682598658099,
+      "content": "Bo akurat posz\u00c5\u0082am z zaj\u00c4\u0099\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682598653490,
+      "content": "To ja id\u00c4\u0099 \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682598646798,
+      "content": "Ja mog\u00c4\u0099 za 15 minut jak w budynku g\u00c5\u0082\u00c3\u00b3wnym xD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682598638453,
+      "content": "Trzeba je tylko przenie\u00c5\u009b\u00c4\u0087 do biura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682598631781,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682598629862,
+      "content": "O kt\u00c3\u00b3rej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682598620223,
+      "content": "Kto\u00c5\u009b da rad\u00c4\u0099 dzisiaj lub jutro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682598605313,
+      "content": "Hejka! Wa\u00c5\u00bcna sprawa: odbioru gad\u00c5\u00bcet\u00c3\u00b3w z biura promocji na UP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682487233002,
+      "content": "Wa\u00c5\u00bcne, \u00c5\u00bce b\u00c4\u0099dziesz <3",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Luiza Socha"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiza Socha",
+      "timestamp_ms": 1682447876237,
+      "content": "I chyba tylko uda mi si\u00c4\u0099 w jeden dzie\u00c5\u0084 by\u00c4\u0087 :(",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiza Socha",
+      "timestamp_ms": 1682447866559,
+      "content": "Ja tez b\u00c4\u0099d\u00c4\u0099 taka osoba",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008f",
+          "actor": "U\u00c5\u00bcytkownik Facebooka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682446310321,
+      "content": "OG\u00c5\u0081OSZENIE: Wampa odb\u00c4\u0099dzie si\u00c4\u0099 na \u00c5\u0082\u00c4\u0085czniku, tam gdzie grudnoiwa + jutro rano id\u00c4\u0099 rowiesza\u00c4\u0087 plakaty zedytowane, je\u00c5\u009bli kto\u00c5\u009b b\u00c4\u0099dzie w okolicach 8:00 rano na uczelni, to dajcie zna\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682446199613,
+      "content": "jasne",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682446191755,
+      "content": "Bo nie mog\u00c4\u0099 edytowa\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682446187355,
+      "content": "Mo\u00c5\u00bce kto\u00c5\u009b mnie wpisa\u00c4\u0087 ze tak?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682446159470,
+      "content": "ale polecam si\u00c4\u0099 wpisa\u00c4\u0087 na stanowisko je\u00c5\u009bli kto\u00c5\u009b si\u00c4\u0099 nie wpisa\u00c5\u0082, bo to pomo\u00c5\u00bce w organizacji",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682446124888,
+      "content": "dobra, super <3 takie osoby te\u00c5\u00bc s\u00c4\u0085 potrzebne <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682446105649,
+      "content": "nie wpisywa\u00c5\u0082am si\u00c4\u0099 w poprzednim pliku, ale b\u00c4\u0099d\u00c4\u0099 si\u00c4\u0099 i tak kr\u00c4\u0099ci\u00c4\u0087, wi\u00c4\u0099c gdzie mnie wy\u00c5\u009blecie tam p\u00c3\u00b3jd\u00c4\u0099 :D",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682446077011,
+      "content": "tak, czy b\u00c4\u0099dziesz na dniu wydarzenia na jakim\u00c5\u009b stanowisku",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682446049985,
+      "content": "w sensie chodzi, czy chc\u00c4\u0099 identyfikator? dobrze rozumiem? xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682446011769,
+      "content": "hej, wpisali\u00c5\u009bcie si\u00c4\u0099? potrzebuje na ju\u00c5\u00bc \u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f https://docs.google.com/document/d/1Cu34k3wYzqWIPylZZvgF57bgRBH5cKr_HDotdce7r88/edit?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682420052278,
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1682420043234,
+      "content": "Jeste\u00c5\u009bcie dalej??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682419590086,
+      "content": "Nie jeszcze, bo nie ma zgody na aul\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682419520824,
+      "content": "Kto\u00c5\u009b to ju\u00c5\u00bc zacz\u00c4\u0085\u00c5\u0082 wiesza\u00c4\u0087?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682419346745,
+      "content": "Czekamy pod biurem jak co\u00c5\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682419339154,
+      "content": "Na jakim pi\u00c4\u0099trze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682419329862,
+      "content": "Gdzie jeste\u00c5\u009bcie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682419198392,
+      "content": "by\u00c5\u0082a przed chwila Ania Ewelina i wiele innych kobiet xD",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Mateusz Marci\u00c5\u0084ski"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682419173789,
+      "content": "A jest ktos w biurze teraz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682418510653,
+      "content": "B\u00c4\u0099d\u00c4\u0099 o 13 jak co\u00c5\u009b",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682418496896,
+      "content": "Pewnie, dam od razu. Dzi\u00c4\u0099kuj\u00c4\u0099, \u00c5\u00bce jeste\u00c5\u009bcie w gotowo\u00c5\u009bci <3 je\u00c5\u009bli kto\u00c5\u009b specjalnie jecha\u00c5\u0082 to zachecam do biura na kawk\u00c4\u0099 p\u00c3\u00b3j\u00c5\u009b\u00c4\u0087 \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bf\u00f0\u009f\u00a5\u00b9",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682418228576,
+      "content": "To jak b\u00c4\u0099dziemy mogli wiesza\u00c4\u0087 to daj zna\u00c4\u0087 ;)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682418023846,
+      "content": "Przepraszam Was, ale wynik\u00c5\u0082y komplikacje, nie mo\u00c5\u00bcemy jeszcze rozwiesza\u00c4\u0087, bo potwierdzenie na zgod\u00c4\u0099 o aul\u00c4\u0099 nie przysz\u00c5\u0082o",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a5\u00ba",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682417436736,
+      "content": "Oki, Ewelina nasza kochana posz\u00c5\u0082a zapyta\u00c4\u0087 czy mo\u00c5\u00bcemy wiesza\u00c4\u0087 jak co\u00c5\u009b \u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bf",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682417392197,
+      "content": "To ju\u00c5\u00bc id\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682417277249,
+      "content": "Plakaty w biurze wyglada ze nie ma zadnego b\u00c5\u0082\u00c4\u0099du",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1682417253646,
+      "content": "S\u00c4\u0085 ju\u00c5\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682417112718,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682417111152,
+      "content": "Jeej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682417069655,
+      "content": "Odebralem ide do biura",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682417057108,
+      "content": "Napiszcie jak b\u00c4\u0099d\u00c4\u0085 plakaty ju\u00c5\u00bc to przyjd\u00c4\u0099 z dnia otwartego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Smolec",
+      "timestamp_ms": 1682415728944,
+      "content": "Oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682415725974,
+      "content": "bo powinny byc na 12 gotowe wiec w przerwie obejde",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682415713185,
+      "content": "zaraz koncze zajecia i po nie pojde",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682415703173,
+      "content": "jeszce nie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Smolec",
+      "timestamp_ms": 1682415688278,
+      "content": "A plakaty s\u00c4\u0085 ju\u00c5\u00bc w biurze?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682415617438,
+      "content": "Podejdziecie tam z tym?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682415608829,
+      "content": "Pan Witold Wiertel w pok. 127 musi zobaczy\u00c4\u0087 i powiedzie\u00c4\u0087, \u00c5\u00bce mo\u00c5\u00bcemy wiesza\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682415391733,
+      "content": "Okej, nim rozwiesimy plakaty musimy p\u00c3\u00b3j\u00c5\u009b\u00c4\u0087 zapyta\u00c4\u0087 pana od pozwole\u00c5\u0084 na wieszanie czy mo\u00c5\u00bcemy xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682415120901,
+      "content": "Po 12 mog\u00c4\u0099 i\u00c5\u009b\u00c4\u0087 pom\u00c3\u00b3c w plakatach bo akurat sko\u00c5\u0084cz\u00c4\u0099 pomoc przy dniach otwartych",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682415035899,
+      "content": "Ej ja sie chyba sp\u00c3\u00b3\u00c5\u00bani\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682414246447,
+      "content": "Marek ustawi\u00c5\u0082 szybk\u00c4\u0085 reakcj\u00c4\u0099 jako \u00f0\u009f\u00a9\u00b8.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682414016227,
+      "content": "\u00f0\u009f\u00a7\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682414015650,
+      "content": "nic si\u00c4\u0099 nie sta\u00c5\u0082o \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682413914032,
+      "content": "Nie wiem jaki by\u00c5\u0082 poprzedni",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682413897821,
+      "content": "Sory, klik\u00c5\u0082o mi si\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682413878335,
+      "content": "Karolina zmieni\u00c5\u0082a motyw na Herbata b\u00c4\u0085belkowa \u00f0\u009f\u00a7\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682412839305,
+      "content": "supi <3 dzi\u00c4\u0099kuj\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1682412826912,
+      "content": "Dobrze, to b\u00c4\u0099d\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682412826215,
+      "content": "w pi\u00c4\u0085tek ju\u00c5\u00bc raczej nikogo nie b\u00c4\u0099dzie na uczelni",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682412796487,
+      "content": "zosta\u00c5\u0082o nam w sumie nieca\u00c5\u0082e trzy dni \u00c5\u00bceby to zobaczyli :/ bo potem maj\u00c3\u00b3wka",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1682412790699,
+      "content": "Oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682412769356,
+      "content": "dzisiaj musz\u00c4\u0085 wisie\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1682412727040,
+      "content": "@Aleksandra Kretek to przyj\u00c5\u009b\u00c4\u0087 i tak dzisiaj, czy umawiamy si\u00c4\u0099 n inny termin???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682410558608,
+      "content": "oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kasia Bulzacka",
+      "timestamp_ms": 1682410515179,
+      "content": "To jak chodzi o dzisiaj to nie dam rady",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682403564642,
+      "content": "Tak, dzisiaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682403559177,
+      "content": "Oki doki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682400466957,
+      "content": "Jak beda zwiniete jakos bardzo to w biurze dopiero sprawdze ale to tez nie powinien by\u00c4\u0087 klopot w razie czego wymienic",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682400423781,
+      "content": "Wyslijcie mi projekt tego poakatu \u00c5\u00bcebym m\u00c3\u00b3g\u00c5\u0082 sprawdzic przy odbiorze mo\u00c5\u00bce czy wszystko jest dobrze wydrukowane",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682400336126,
+      "content": "ja te\u00c5\u00bc to odebra\u00c5\u0082am jako dzisiaj btw XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1682400303044,
+      "content": "Ja mog\u00c4\u0099 dzisiaj o tej godzinie, je\u00c5\u009bli o to chodzi\u00c5\u0082o, jutro mam wtedy zaj\u00c4\u0099cia",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682379022374,
+      "content": "Okii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682378660953,
+      "content": "Ja jestem na dniu otwartym, ale b\u00c4\u0099d\u00c4\u0099 dawa\u00c4\u0087 zna\u00c4\u0087 czy mog\u00c4\u0099 si\u00c4\u0099 na chwile wyrwa\u00c4\u0087 \nWst\u00c4\u0099pnie my\u00c5\u009ble ze bez problemu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682378300236,
+      "content": "+ czy pasuje wam jutro po 12:00 wieszanie plakat\u00c3\u00b3w? @Wiola Ksi\u00c4\u0085\u00c5\u00bcek @Karolina Zar\u00c4\u0099bska @Paulina W\u00c3\u00b3jcik @Kasia Bulzacka?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682378078743,
+      "content": "Hej, pliczek z nazwiskami do identyfikator\u00c3\u00b3w na wydarzenie: https://docs.google.com/document/d/1Cu34k3wYzqWIPylZZvgF57bgRBH5cKr_HDotdce7r88/edit?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682342791415,
+      "content": "Dok\u00c5\u0082adnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682342761481,
+      "content": "Bo jestem prawie pod etnoxd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682342752927,
+      "content": "Salasa hause i etnomuzeum nie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682341870666,
+      "content": "Marek odbiera z kopalni i drukarni",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682341846123,
+      "content": "@Karolina kt\u00c3\u00b3re\u00c5\u009b z tych",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682341643174,
+      "content": "Nvm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682341632405,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682341630010,
+      "content": "odbiore jutro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682341615726,
+      "content": "Jutro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682341596316,
+      "content": "Tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682341548170,
+      "content": "@Marek Rapta ty si\u00c4\u0099 chyba wpisa\u00c5\u0082e\u00c5\u009b?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682341500044,
+      "content": "Trzeba b\u00c4\u0099dzie je te\u00c5\u00bc porozwieszac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682341478703,
+      "content": "Kto\u00c5\u009b da\u00c5\u0082by rad\u00c4\u0099?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682341472288,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/252995160511427.jpg",
+          "creation_timestamp": 1682341471
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682341442799,
+      "content": "Mamy kolejn\u00c4\u0085 rzecz do odebrania, a mianowicie plakaty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682341420996,
+      "content": "Na spokojnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682341410354,
+      "content": "Jak si\u00c4\u0099 nie uda to si\u00c4\u0099 powiem pani profesor \u00c5\u00bce wyj\u00c5\u009b\u00c4\u0087 musz\u00c4\u0099 i p\u00c3\u00b3jd\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1682341234799,
+      "content": "@Karolina dasz rad\u00c4\u0099?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682341152957,
+      "content": "Nie wyrobie si\u00c4\u0099 bo mamy odrabianie zaj\u00c4\u0099\u00c4\u0087 zaleg\u00c5\u0082ych :/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682292971839,
+      "content": "Te\u00c5\u00bc b\u00c4\u0099d\u00c4\u0099 dost\u00c4\u0099pna raczej",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682292885277,
+      "content": "Ja dam zna\u00c4\u0087 jutro czy wyrobie si\u00c4\u0099 po zaj\u00c4\u0099ciach, jak tak to podejd\u00c4\u0099 do entomuzem",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682290817049,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/555828403322589.png",
+          "creation_timestamp": 1682290797
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682290816660,
+      "content": "Hejo, b\u00c4\u0099dziecie mie\u00c4\u0087 moze czas w tym tygodniu odebra\u00c4\u0087?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682099964703,
+      "content": "Aleksandra Kretek doda\u00c5\u0082a Luiz\u00c4\u0099 Soch\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682081888565,
+      "content": "Dzi\u00c4\u0099kuj\u00c4\u0099! <3 Dobrze \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682079179313,
+      "content": "W poniedzia\u00c5\u0082ek zanios\u00c4\u0099 do biura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682079172090,
+      "content": "Odebrane",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682079164165,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/843752010749509.jpg",
+          "creation_timestamp": 1682079162
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682072651294,
+      "content": "Supi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682072629876,
+      "content": "Spoczko akurat mam po drodze do domu",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682072445765,
+      "content": "Dzis powinno byc juz otwarte",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682072417145,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/1930793413937655.png",
+          "creation_timestamp": 1682072380
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682072416765,
+      "content": "Hej, czyli nie odebra\u00c5\u0082 nikt voucher\u00c3\u00b3w od Prominent Club? @Mateusz Marci\u00c5\u0084ski je\u00c5\u009bli masz czas to m\u00c3\u00b3g\u00c5\u0082by\u00c5\u009b to za\u00c5\u0082atwi\u00c4\u0087? 5 voucher\u00c3\u00b3w",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682020549526,
+      "content": "Oki, to damy zna\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1682020232207,
+      "content": "Jutro ca\u00c5\u0082y dzie\u00c5\u0084 wolny jestem wi\u00c4\u0099c jakby kto\u00c5\u009b si\u00c4\u0099 zg\u00c5\u0082osi\u00c5\u0082 \u00c5\u00bceby odebra\u00c4\u0087 co\u00c5\u009b to mog\u00c4\u0099 i\u00c5\u009b\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682019925925,
+      "content": "Dzi\u00c4\u0099ki! <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682019805484,
+      "content": "Mam, zanios\u00c4\u0099 jutro do biura",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682019759327,
+      "content": "Zapraszaj\u00c4\u0085 do odbioru so\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1682019756146,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/760005918848955.jpg",
+          "creation_timestamp": 1682019755
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1682018254999,
+      "content": "To dobrze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682018203587,
+      "content": "Nie XDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682018197889,
+      "content": "Do ko\u00c5\u0084ca czerwca 2023 beda do wykorzystania karnety",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1682018139666,
+      "content": "Bo ja nic nie wiem \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1682018126691,
+      "content": "Czy te\u00c5\u00bc nie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1682018123332,
+      "content": "Nie wiem czy chodzi o mnie xdd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682018073772,
+      "content": "Ma\u00c5\u0082gorzata widz\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682018047254,
+      "content": "@Julita Bouffette",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682018042477,
+      "content": "@Aleksandra Kretek",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1682018032757,
+      "content": "Ej a by\u00c5\u0082o kontaktowane z Ma\u00c5\u0082gorzat\u00c4\u0085 czy Magdalena te karnety na ta\u00c5\u0084ce?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681985800361,
+      "content": "Prominent tez zamkniety xddd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681985757534,
+      "content": "Jak sie darzy to sie darzy xd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681985753396,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/1283565045907482.jpg",
+          "creation_timestamp": 1681985752
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681985251180,
+      "content": "22 30",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681985240104,
+      "content": "Tutaj",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1681985199087,
+      "content": "Potem zostawi\u00c4\u0087 to w biurze tylko tak?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1681985188301,
+      "content": "To pojad\u00c4\u0099 po zaj\u00c4\u0099ciach",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1681985172529,
+      "content": "A do ktorej s\u00c4\u0085 otwarci?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1681985164375,
+      "content": "Ja chyba bede mogla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681985117730,
+      "content": "Nie dal by rady ktos podjechac po drodze na mogilskie jakby wieczorem jecha\u00c5\u0082, bo ja dzis jednak tak \u00c5\u009brednio wieczorem z czasem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681985086769,
+      "content": "A to od 17;45 xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681985079973,
+      "content": "Myslalem ze kolo poludnia to juz otwarte beezie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681985069925,
+      "content": "Xd druga sprawa, nie wprawdzilem godzin otwarcia tego klubu tanecznego \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681985057191,
+      "content": "No to \u00c5\u0082adnie nam napisali :/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681982279072,
+      "content": "Tylko kazdy kto pokaze kwitek dostaje znizke",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681982268621,
+      "content": "W cytacie nie ma nic do odbioru xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681977995180,
+      "content": "Nie chce ci si\u00c4\u0099 uczy\u00c4\u0087 -> widzisz zadanie -> bierzesz zadanie -> wmawiasz sobie ze skoro tak to nie mo\u00c5\u00bcesz sie uczyc bo musisz je wykona\u00c4\u0087 -> idziesz na nogach zeby zaj\u00c4\u0099\u00c5\u0082o wiecej czasu i zebys mial wi\u00c4\u0099cej wolnego od nauki",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Mateusz Marci\u00c5\u0084ski"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Monika Chru\u00c5\u009bciel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wiktoria Trela"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Emilka Matera"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Julia Tabaka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681977931756,
+      "content": "To jest prosty trik",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1681977731529,
+      "content": "Podziwiam, ja to mam problem, aby wsta\u00c4\u0087 do kuchni herbat\u00c4\u0099 zrobi\u00c4\u0087 xD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681977695399,
+      "content": "Taki ma\u00c5\u0082y spacerek z rana haha",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681977674164,
+      "content": "Dzi\u00c4\u0099kujemy Mareczku",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681977666274,
+      "content": "Amazing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681977465499,
+      "content": "To jak maja gorowe to wsumie moge debrac wszystkie bo mam wolne",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681948053947,
+      "content": "Do odebrania:\n1. Sabrosa Dance Studio - Rondo Mogilskie 1 (6 karnet\u00c3\u00b3w)\n2. Cytat cafe Krk - Miodowa 23/3 (10% zni\u00c5\u00bcki)\n3. Prominent Club - Kamienna 17 (3 vouchery na 1h bilarda)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681910400349,
+      "content": "dzi\u00c4\u0099ki <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681910298001,
+      "content": "Jezus jak ja pisz\u00c4\u0099 xdd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681910291090,
+      "content": "Wrzucone*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681910283801,
+      "content": "Vouchery wczucone \u00f0\u009f\u0098\u008e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681907656548,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/1251023588849937.jpg",
+          "creation_timestamp": 1681907655
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681897541094,
+      "content": "Tutaj na razie dajemy wampowe rzeczy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681897528444,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/776155214079842.jpg",
+          "creation_timestamp": 1681897527
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681894945108,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/751061796521330.jpg",
+          "creation_timestamp": 1681894944
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681840397247,
+      "content": "super, dzi\u00c4\u0099ki <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839973071,
+      "content": "To wszystko co dosta\u00c5\u0082am narazie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839966149,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/1162587047740852.jpg",
+          "creation_timestamp": 1681839965
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839964559,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/1233752483927021.jpg",
+          "creation_timestamp": 1681839963
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839898837,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/786912839442741.jpg",
+          "creation_timestamp": 1681839898
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839857105,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/901048527834765.jpg",
+          "creation_timestamp": 1681839856
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839841118,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/761149272344727.jpg",
+          "creation_timestamp": 1681839840
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839791267,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/122447787482163.jpg",
+          "creation_timestamp": 1681839790
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839770704,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/953915218976675.jpg",
+          "creation_timestamp": 1681839769
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839746245,
+      "content": "Wys\u00c5\u0082a\u00c5\u0082am Wam na mejla, bo jest logo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681839738388,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/544539264541981.jpg",
+          "creation_timestamp": 1681839737
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681836624333,
+      "content": "\u00c5\u0081adnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681836568013,
+      "content": "Avatar rzuca kasa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681836557749,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/1217470135551664.png",
+          "creation_timestamp": 1681836556
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Julia Tabaka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681823057974,
+      "content": "Spoczko \u00f0\u009f\u0092\u0093",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681821778584,
+      "content": "Jeej \u00f0\u009f\u00a5\u00b0 dzi\u00c4\u0099kuj\u00c4\u0099!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821768124,
+      "content": "Do 18 kwietnia przysz\u00c5\u0082ego roku jest wa\u00c5\u00bcny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821753895,
+      "content": "Za\u00c5\u0082atwione",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681821625538,
+      "content": "Dzi\u00c4\u0099ki wielkie! <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681821613683,
+      "content": "Wampa jest 9-10 maj, wi\u00c4\u0099c nie wiem ile chc\u00c4\u0085, chocia\u00c5\u00bc dwa miesi\u00c4\u0085ce mo\u00c5\u00bce",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821598993,
+      "content": "Tak ogarn\u00c4\u0099 spraw\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681821583591,
+      "content": "W\u00c5\u0082a\u00c5\u009bnie, mo\u00c5\u00bce da\u00c5\u0082oby si\u00c4\u0099 co\u00c5\u009b z tym zrobi\u00c4\u0087. Zapyta\u00c5\u0082a by\u00c5\u009b?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821582487,
+      "content": "Tylko nwm na jak\u00c4\u0085 dat\u00c4\u0099 zmieni\u00c4\u0087 trzeba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821563312,
+      "content": "Id\u00c4\u0099 do nich",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821559694,
+      "content": "Jestem blisko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681821553093,
+      "content": "Nie ma Ci\u00c4\u0099 tam ju\u00c5\u00bc, co nie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681821541771,
+      "content": "O niee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821505399,
+      "content": "A raczej na pewno xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821482472,
+      "content": "Tu jest chyba b\u00c5\u0082\u00c4\u0085d xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821475703,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/1440729319665032.jpg",
+          "creation_timestamp": 1681821474
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681821448897,
+      "content": "Mam vouchery",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1681810332055,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681807735559,
+      "content": "tak, wys\u00c5\u0082any mail do nich ju\u00c5\u00bc jest",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009e",
+          "actor": "Mateusz Marci\u00c5\u0084ski"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681807338998,
+      "content": "super <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681807338706,
+      "content": "Dzisiaj* \"xdd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681807325892,
+      "content": "Dobra to ja odbior\u00c4\u0099 dzieci vouchery i jutro do biura podrzuc\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681807317032,
+      "content": "wy\u00c5\u009ble Wam fotke jak b\u00c4\u0099dzie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1681807297368,
+      "content": "Bo przypomnia\u00c5\u0082o mi si\u00c4\u0099, \u00c5\u00bce kiedy\u00c5\u009b nam wys\u00c5\u0082ali z 200 par skarpetek to te\u00c5\u00bc by by\u00c5\u0082 fajny dodatek",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681807296574,
+      "content": "wi\u00c4\u0099c po drodze od jutra mo\u00c5\u00bcecie vouchery dawa\u00c4\u0087 do koszyka z napisem Wampa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681807274993,
+      "content": "jutro b\u00c4\u0099d\u00c4\u0099 na UP to ogarn\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1681807247311,
+      "content": "Pisa\u00c5\u0082 kto\u00c5\u009b do Many Mornings maila?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1681807231431,
+      "content": "W biurze pewnie od groma pude\u00c5\u0082ek to raczej nie problem xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681807202394,
+      "content": "tak, mieli\u00c5\u009bmy zrobi\u00c4\u0087 koszyk na rzeczy wampowe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681807040674,
+      "content": "Albo w kilku r\u00c3\u00b3\u00c5\u00bcnych miejscach bez sensu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681807029491,
+      "content": "\u00c5\u00bbeby nie zostawi\u00c4\u0087 dzi\u00c5\u009b i si\u00c4\u0099 zgubi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681807020730,
+      "content": "No z takim te\u00c5\u00bc zamiarem chc\u00c4\u0099 uzgodni\u00c4\u0087 z Ola, jak to ogarn\u00c4\u0085\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681806997232,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681806637508,
+      "content": "Dobry pomys\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681806606385,
+      "content": "Jesli moge sie odezwac niepytany xD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681806593977,
+      "content": "Ja bede za tydzie\u00c5\u0084 w pi\u00c4\u0085tek odbieral vouchery z kopalni tez wiec my\u00c5\u009bl\u00c4\u0099 \u00c5\u00bce dobrze by by\u00c5\u0082o zapyta\u00c4\u0087 kogo\u00c5\u009b z zarzadu odpowiedzialnego za ten projekt czy mozecie wstawic do biura pudelko jakies na rzeczy wampowe i od razu rzuca\u00c4\u0087 to tam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681806447384,
+      "content": "Jak my\u00c5\u009blisz @Aleksandra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681806053826,
+      "content": "Okej, mam je dostarczy\u00c4\u0087 p\u00c3\u00b3\u00c5\u00baniej do biura?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681805952991,
+      "content": "By\u00c5\u0082oby ekstra!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681805856661,
+      "content": "Ja mog\u00c4\u0099 skoczy\u00c4\u0087 dzisiaj,ale tak oko\u00c5\u0082o 13 dopiero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681805813754,
+      "content": "a kto\u00c5\u009b inny chcia\u00c5\u0082by/m\u00c3\u00b3g\u00c5\u0082by skoczy\u00c4\u0087?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1681805133511,
+      "content": "Kurcz\u00c4\u0099 troch\u00c4\u0099 mi nie po drodze \u00f0\u009f\u0098\u0094",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681804927692,
+      "content": "aleja pokoju 16",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681804915342,
+      "content": "http://skokibungee.pl/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1681804743554,
+      "content": "Gdzie to jest dok\u00c5\u0082adnie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681804692279,
+      "content": "https://drive.google.com/drive/folders/1ZmPu2HE7zVIiUqd0j4URywiU9XvR7HAm?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681804664690,
+      "content": "W sensie link",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681804657324,
+      "content": "To dajcie dysk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681804656884,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681804507614,
+      "content": "dobry pomys\u00c5\u0082, zr\u00c3\u00b3bmy dysk <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681804460155,
+      "content": "moze zrobimy dysk jakis na loga? czy sobie poprostu pobierac bedziecie z meili?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681804267781,
+      "content": "super! Czy kto\u00c5\u009b m\u00c3\u00b3g\u00c5\u0082by si\u00c4\u0099 wybra\u00c4\u0087 do Bungee Jumping Krak\u00c3\u00b3w, \u00c5\u00bceby odebra\u00c4\u0087 vouchery?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681803903416,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/539729821429755.jpg",
+          "creation_timestamp": 1681803902
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681800522331,
+      "content": "Dok\u00c5\u0082adnie tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681777302970,
+      "content": "Tylko wys\u00c5\u0082a\u00c4\u0087 Wam screena?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681777290176,
+      "content": "Co mam zrobi\u00c4\u0087, jak dostan\u00c4\u0099 odpowied\u00c5\u00ba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681647396258,
+      "content": "Przypominam o deadline wysy\u00c5\u0082ania maili do sponsor\u00c3\u00b3w @Ma\u00c5\u0082gorzata Drozdek @Karolina Zar\u00c4\u0099bska, do dzi\u00c5\u009b \u00f0\u009f\u0098\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Karolina Zar\u00c4\u0099bska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681639010107,
+      "content": "Up, nadrabiajcie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681598287652,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/178847901644301.jpg",
+          "creation_timestamp": 1681598286
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681590245142,
+      "content": "Ale wszystkie mejle bra\u00c5\u0082am ze stron XD generalnie my\u00c5\u009bl\u00c4\u0099, \u00c5\u00bce to chujowo, \u00c5\u00bce nie by\u00c5\u0082y one wpisane w t\u00c4\u0085 tabelk\u00c4\u0099 (chodzi o sta\u00c5\u0082ych), bo na stronach s\u00c4\u0085 mejle og\u00c3\u00b3lne i z do\u00c5\u009bwiadczenia  juz wiem, \u00c5\u00bce prawie ka\u00c5\u00bcdy wtedy odsy\u00c5\u0082a do innej osoby i trzeba pisa\u00c4\u0087 od nowa, a skoro to s\u00c4\u0085 stali to na pewno macie mejle, z kt\u00c3\u00b3rych korzystali\u00c5\u009bcie wcze\u00c5\u009bniej, wi\u00c4\u0099c ju\u00c5\u00bc s\u00c4\u0085 do odpowiedniej osoby, no ale napisa\u00c5\u0082amXD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1681590154105,
+      "content": "Ja ostatnio bylam w secie i by\u00c5\u0082a zamkni\u00c4\u0099ta wi\u00c4\u0099c mo\u00c5\u00bcliwe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681590127342,
+      "content": "Tez mialem te powiadomienia, trzeba wejsc na ich strone i sprawdzic czy meil sie zgadza lub czy wogole nie zamkneli sie bo ja tak mialem z jednym barem \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681590068751,
+      "content": "a tak to napisa\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681590068642,
+      "content": "Niekt\u00c3\u00b3re mejle kontaktowe sa zle/nieaktualne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681590065886,
+      "content": "i do muzeum ak nie umiem, bo mi nie wyszukuje mejla jak go wpisuje juz w wiadomosc(?) XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681590034343,
+      "content": "do Sety Disco co\u00c5\u009b nie klika - przychodz\u00c4\u0085 mi mejle, \u00c5\u00bce nie dostarczy\u00c5\u0082o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681569137826,
+      "content": "dzi\u00c4\u0099ki <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Chru\u00c5\u009bciel",
+      "timestamp_ms": 1681569113399,
+      "content": "Oki doki super \u00e2\u009d\u00a4\u00ef\u00b8\u008f w takim razie podsy\u00c5\u0082am screena na priv \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681569039983,
+      "content": "tak, my b\u00c4\u0099dziemy odpisywa\u00c4\u0087 ju\u00c5\u00bc <3 prosimy tylko o screeny  \u00c5\u00bceby nic nam nie umkn\u00c4\u0099\u00c5\u0082o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Chru\u00c5\u009bciel",
+      "timestamp_ms": 1681568881320,
+      "content": "@Julita @Aleksandra jak kto\u00c5\u009b si\u00c4\u0099 do nas odezwa\u00c5\u0082 to oprocz znizek/wej\u00c5\u009bci\u00c3\u00b3wek prosimy od razu o logo albo co\u00c5\u009b? \u00f0\u009f\u0099\u0088",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1681565019544,
+      "content": "Ja w\u00c5\u0082a\u00c5\u009bnie z pracy wysz\u00c5\u0082am wi\u00c4\u0099c te\u00c5\u00bc kolo tego",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681564512025,
+      "content": "Te\u00c5\u00bc zrobi\u00c4\u0099 to wieczorem",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681564086073,
+      "content": "Zrobi\u00c4\u0099 wieczorem, a jak nie zd\u00c4\u0085\u00c5\u00bc\u00c4\u0099 wszystkiego to jutro wieczorem doko\u00c5\u0084cz\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681552138924,
+      "content": "Supi \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681550698309,
+      "content": "Hahahah mia\u00c5\u0082a by\u00c4\u0087 @Ma\u00c5\u0082gorzata",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681550619877,
+      "content": "Ale \u00c5\u00bceby tak Karoline 2 razy wywo\u00c5\u0082ywa\u00c4\u0087? \u00f0\u009f\u00a4\u00a3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681550563669,
+      "content": "Supi, wszystko jest rozpisane na grupie jak co\u00c5\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1681550509127,
+      "content": "Ju\u00c5\u00bc si\u00c4\u0099 zabieram za to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681550386984,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681550385571,
+      "content": "@Angelika \u00c5\u0081uczyk @Karolina Zar\u00c4\u0099bska @Karolina Zar\u00c4\u0099bska @Mateusz Marci\u00c5\u0084ski",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Chru\u00c5\u009bciel",
+      "timestamp_ms": 1681550252356,
+      "content": "ja doda\u00c5\u0082am komentarz gdzie b\u00c4\u0099d\u00c4\u0099 pisa\u00c4\u0087 i w\u00c5\u0082a\u00c5\u009bnie zabra\u00c5\u0082am si\u00c4\u0099 za wysy\u00c5\u0082anie \u00f0\u009f\u0099\u0088",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681550137520,
+      "content": "Hej! Jak Wam id\u00c4\u0085 zadanka? Do jutra deadline na maile, na razie Marek pr\u00c4\u0099\u00c5\u00bcnie dzia\u00c5\u0082a, za co bardzo wielkie dzi\u00c4\u0099ki <3 \nPamietajcie o wpisaniu sie w terminarz (w miejscu \"imi\u00c4\u0099\" si\u00c4\u0099 wpisujemy i zaznaczamy czy gotowe):  https://docs.google.com/spreadsheets/d/18mUmmMJsp_7NgaCnU0Lm8KxMDIHLPVHLAdrXTKHRTJ0/edit?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681545117030,
+      "content": "je\u00c5\u009bli kogo\u00c5\u009b na niej nie ma to koniecznie dajcie zna\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681545065586,
+      "content": "Hejka, na grupie zamieszczone jest g\u00c5\u0082osowanie na has\u00c5\u0082o wiosennej wampiriady, nie wszyscy jeszcze zag\u00c5\u0082osowali, tak\u00c5\u00bce wszystko w waszych r\u00c4\u0099kach, bo czas na zebranie wynik\u00c3\u00b3w b\u00c4\u0099dzie do jutra,wi\u00c4\u0099c pe\u00c5\u0082na mobilizacja i lecimy z projektem plakatu \u00f0\u009f\u00a4\u0093 link do grupy : https://www.facebook.com/groups/725090976021791",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681335430843,
+      "content": "Prezentacja do mejli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681333771738,
+      "content": "Kt\u00c3\u00b3ry dokument?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681333582669,
+      "content": "To si\u00c4\u0099 dzieje jak pr\u00c3\u00b3buj\u00c4\u0099 pobra\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika \u00c5\u0081uczyk",
+      "timestamp_ms": 1681333575783,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/photos/561297705988252.jpg",
+          "creation_timestamp": 1681333574
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681313963243,
+      "content": "w komentarzu koniecznie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681313805486,
+      "content": "to kto bierze jaka grupe wpisujemy w komentarzu w arkuszu tak jak w grudniu czy wpisac w jakiejs komorce?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681307787053,
+      "content": "Rozmowa wideo zako\u00c5\u0084czy\u00c5\u0082a si\u00c4\u0099.",
+      "call_duration": 1516,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681306670856,
+      "content": "https://docs.google.com/document/d/1ET6UVaMtX7kuwADQ-kKbN_OFKI1Hwkxp03wgR1Uqgqk/edit?fbclid=IwAR33P-Xu_ZHdMoMCNcUaaNWc-VVVR0J2NjwKejCbysekSUKZiuXHaV7z0L8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Chru\u00c5\u009bciel",
+      "timestamp_ms": 1681306600131,
+      "content": "Mi niestety te\u00c5\u00bc nie :(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1681306590180,
+      "content": "Wy\u00c5\u009bl\u00c4\u0099 ktos screena?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1681306581565,
+      "content": "Ekran mi sie nie \u00c5\u0082aduje xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Chru\u00c5\u009bciel",
+      "timestamp_ms": 1681306523214,
+      "content": "Monika do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a do rozmowy wideo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1681306518416,
+      "content": "Ola do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a do rozmowy wideo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karolina Zar\u00c4\u0099bska",
+      "timestamp_ms": 1681306508450,
+      "content": "Karolina do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a do rozmowy wideo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681306410158,
+      "content": "Oki doki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wiktoria Trela",
+      "timestamp_ms": 1681306359377,
+      "content": "Ja poczekam na podsumowanie, bo jestem w poci\u00c4\u0085gu a nie mam s\u00c5\u0082uchawek. Wpisa\u00c5\u0082am si\u00c4\u0099 na list\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681306353840,
+      "content": "Aleksandra rozpocz\u00c4\u0099\u00c5\u0082a udost\u00c4\u0099pnianie wideo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1681306307729,
+      "content": "Wioletta do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a do po\u00c5\u0082\u00c4\u0085czenia g\u00c5\u0082osowego.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681306299767,
+      "content": "Aleksandra do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a do po\u00c5\u0082\u00c4\u0085czenia g\u00c5\u0082osowego.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Chru\u00c5\u009bciel",
+      "timestamp_ms": 1681306298101,
+      "content": "Monika do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a do po\u00c5\u0082\u00c4\u0085czenia g\u00c5\u0082osowego.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1681306295729,
+      "content": "Ola do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a do po\u00c5\u0082\u00c4\u0085czenia g\u00c5\u0082osowego.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1681306293655,
+      "content": "Kontakt do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082 do rozmowy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Wi\u00c4\u0099cek",
+      "timestamp_ms": 1681306291973,
+      "content": "Mateusz do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082 do po\u00c5\u0082\u00c4\u0085czenia g\u00c5\u0082osowego.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681306290139,
+      "content": "Marek do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082 do po\u00c5\u0082\u00c4\u0085czenia g\u00c5\u0082osowego.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wiktoria Trela",
+      "timestamp_ms": 1681306287868,
+      "content": "Wiktoria do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a do po\u00c5\u0082\u00c4\u0085czenia g\u00c5\u0082osowego.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681306280074,
+      "content": "Julita do\u00c5\u0082\u00c4\u0085czy\u00c5\u0082a do po\u00c5\u0082\u00c4\u0085czenia g\u00c5\u0082osowego.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681306266750,
+      "content": "Julita rozpocz\u00c4\u0099\u00c5\u0082a rozmow\u00c4\u0099.",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681306251024,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681306243444,
+      "content": "Startujemy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681306238956,
+      "content": "Oki, mamy 15:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681304324287,
+      "content": "Aleksandra zmieni\u00c5\u0082(a) zdj\u00c4\u0099cie grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1681298340997,
+      "content": "Robi\u00c5\u0082am raz zebranie i mi wciskali kit ze nie mogli si\u00c4\u0099 do\u00c5\u0082\u00c4\u0085czy\u00c4\u0087 \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1681298328036,
+      "content": "Oooo to dobrze wiedzie\u00c4\u0087 ze mnie oszukali \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Wi\u00c4\u0099cek",
+      "timestamp_ms": 1681298305031,
+      "content": "Max 50 z czego tylko 6 osob moze byc aktywne - prowadzi\u00c4\u0087 dialog",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1681298220992,
+      "content": "Msg ma chyba ograniczenie max 6 os\u00c3\u00b3b na rozmow\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681298204399,
+      "content": "Zapraszamy wszystkich \u00f0\u009f\u00a5\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681298196617,
+      "content": "O 15:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681298194074,
+      "content": "Tak dok\u00c5\u0082adnie, tutaj na mess",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "U\u00c5\u00bcytkownik Facebooka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Wi\u00c4\u0099cek",
+      "timestamp_ms": 1681298156138,
+      "content": "Spotkanie online?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681296354474,
+      "content": "To mo\u00c5\u00bce tak ko\u00c5\u0082o 15;30 zaczniemy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1681296132017,
+      "content": "A o kt\u00c3\u00b3rej b\u00c4\u0099dzie mniej wi\u00c4\u0099cej? Bo ja tak zaraz po 16 musz\u00c4\u0099 si\u00c4\u0099 zmyc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681296084138,
+      "content": "Tak\u00c5\u00bce nie martwcie si\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681296076805,
+      "content": "B\u00c4\u0099dzie i tak podsumowanie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681296068690,
+      "content": "Czyli dzi\u00c5\u009b spotkanko dla tych kt\u00c3\u00b3rzy mog\u00c4\u0085?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eliza Kurczyna",
+      "timestamp_ms": 1681249459539,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wiktoria Trela",
+      "timestamp_ms": 1681245324698,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681242017886,
+      "content": "i przychodz\u00c4\u0085 ludzie przygotowani w wyznaczone miejsce \u00f0\u009f\u0092\u00aa\u00f0\u009f\u0091\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681241922968,
+      "content": "to fakt, ale jednak lepiej w spokojniejszych warunkach, lekarze mog\u00c4\u0085 na spokojnie dzia\u00c5\u0082a\u00c4\u0087, ludzie si\u00c4\u0099 mo\u00c5\u00bce mniej stresuj\u00c4\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681241828068,
+      "content": "troche szkoda, przez korytarz przewija sie wiecej ludzi",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681241820668,
+      "content": "miejmy nadziej\u00c4\u0099 \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681241799509,
+      "content": "na nowej auli",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00af",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681241763795,
+      "content": "wydarzenie bedzie tam gdzie w grudniu tak?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1681241414428,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681239465296,
+      "content": "\u00f0\u009f\u00a9\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681238599336,
+      "content": "Marek ustawi\u00c5\u0082 szybk\u00c4\u0085 reakcj\u00c4\u0099 jako \u00f0\u009f\u00a9\u00b8.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Marci\u00c5\u0084ski",
+      "timestamp_ms": 1681238532976,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emilka Matera",
+      "timestamp_ms": 1681237948134,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateusz Wi\u00c4\u0099cek",
+      "timestamp_ms": 1681237946257,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681237894508,
+      "content": "Pi\u00c4\u0085tek, godz 15/16",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marek Rapta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681237886934,
+      "content": "Czwartek, godz 15/16",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julia Tabaka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681237875802,
+      "content": "\u00c5\u009aroda, godz 15/16",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "U\u00c5\u00bcytkownik Facebooka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mateusz Marci\u00c5\u0084ski"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Chru\u00c5\u009bciel"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Angelika \u00c5\u0081uczyk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Kretek",
+      "timestamp_ms": 1681237861375,
+      "content": "Komu pasuje daje emotk\u00c4\u0099:",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Tabaka",
+      "timestamp_ms": 1681237300894,
+      "content": "Ja jutro niezbyt dam rade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681237206865,
+      "content": "Dawajcie zna\u00c4\u0087 co my\u00c5\u009blicie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681237088896,
+      "content": "ok. 16?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek",
+      "timestamp_ms": 1681237041077,
+      "content": "A o kt\u00c3\u00b3rej godzinie np??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681236999480,
+      "content": "ja niestety nie mam pewno\u00c5\u009bci jeszcze czy jutro b\u00c4\u0099de dost\u00c4\u0099pny",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Julita Bouffette"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681236946865,
+      "content": "Pierwsz\u00c4\u0085 istotn\u00c4\u0085 kwesti\u00c4\u0085 b\u00c4\u0099dzie spotkanie online, czy pasuje wam jutro? Taka propozycja ode mnie i od Oli, aby rusza\u00c4\u0087 od razu \u00f0\u009f\u0098\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681236884689,
+      "content": "@Aleksandra zrobi jeszcze grupk\u00c4\u0099 na FB, \u00c5\u00bceby nie umkn\u00c4\u0099\u00c5\u0082y wam \u00c5\u00bcadne wa\u00c5\u00bcne informacje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681236844390,
+      "content": "https://docs.google.com/document/d/1ET6UVaMtX7kuwADQ-kKbN_OFKI1Hwkxp03wgR1Uqgqk/edit?fbclid=IwAR2Kq7ZXmIy8IVFmU-HcjClkl6mNYWaT1Cvi6iwXflncin8Bi5i_0hApCJ8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681236815679,
+      "content": "Wi\u00c4\u0099c go tutaj pode\u00c5\u009bl\u00c4\u0099, b\u00c4\u0099dzie sprawniej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681236804714,
+      "content": "Brakuje nam kilku os\u00c3\u00b3b z tego co patrzy\u00c5\u0082am na doca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681236778494,
+      "content": "Gapy \u00f0\u009f\u0098\u0085, kt\u00c3\u00b3re nie wpisa\u00c5\u0082y si\u00c4\u0099 do pliku, koniecznie wpiszcie si\u00c4\u0099 do wybranych zada\u00c5\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monika Chru\u00c5\u009bciel",
+      "timestamp_ms": 1681236727082,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina Smolec",
+      "timestamp_ms": 1681236689016,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wampamaj_9773610432652768/gifs/676796680877764.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Tabaka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681236684310,
+      "content": "Z @Aleksandra Kretek mamy nadziej\u00c4\u0099, \u00c5\u00bce wypocz\u00c4\u0099li\u00c5\u009bcie, gdy\u00c5\u00bc szykuje si\u00c4\u0099 kolejna edycja wampy, a co za tym idzie du\u00c5\u00bco do zrobienia przed nami \u00f0\u009f\u0098\u008e",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1681236612696,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681236582703,
+      "content": "Witamy wszystkich serdecznie po przerwie \u00c5\u009bwi\u00c4\u0085tecznej, kt\u00c3\u00b3ra niestety dobiega ju\u00c5\u00bc ko\u00c5\u0084ca \u00f0\u009f\u00ab\u00a3",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Kretek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1681236535705,
+      "content": "Julita nada\u00c5\u0082(a) grupie nazw\u00c4\u0099 Wampa MAJ.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wampa MAJ",
+  "is_still_participant": true,
+  "thread_path": "inbox/wampamaj_9773610432652768",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1250678745826115.png",
+    "creation_timestamp": 1681304322
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
