@@ -1,269 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-05-07
-# Liczba: 264
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 10:56:01 | Magda Motal | Niee, z poznawczej mamy swoje zespoÅy przecieÅ¼ | message_1.json |
-| 10:55:10 | Dorota Szczerba | Ale przecieÅ¼ kod jest jeden dla wszystkich, a kaÅ¼da grupa ma swÃ³j kanaÅ | message_1.json |
-| 10:59:43 | Agnieszka Baruch | A ok, nie ogarnÄÅam tego, dziÄki! | message_1.json |
-| 10:56:14 | Magda Motal | Tylko ona pokazywaÅa ten kod na zajÄciach i pewnie nikt go nie ma zapisanego | message_1.json |
-| 09:30:19 | Magda Motal | praktycznie raz siÄ zdarzyÅo Å¼e byÅy od 1 do 4 XD | message_1.json |
-| 09:29:51 | Jowita Rozum | Pozamieniane xd | message_1.json |
-| 10:52:49 | Agnieszka Baruch | W sensie do grupy 3 na teamsach z poznawczej | message_1.json |
-| 10:45:01 | Agnieszka Baruch | Poda ktoÅ kod do grupy 3? | message_1.json |
-| 11:32:49 | Ewelina Haraf | Bo jestem z Wami i nie ogarniamðð¤ª | message_1.json |
-| 11:32:40 | Natasza Rodziewicz | ale pamiÄÄ ogÃ³lnie | message_1.json |
-| 11:33:05 | Natasza Rodziewicz | O widzisz XD | message_1.json |
-| 11:33:04 | Wiktoria MiÅaszewska | My teÅ¼, nie martw siÄ xd | message_1.json |
-| 11:32:18 | Ewelina Haraf | Grupa k3 - o czym dr Fudali teraz mowi?ð | message_1.json |
-| 11:27:04 | Dominik KudÅa | Hej ma ktoÅ kod do teamsow ÄwiczeÅ na bilogie? | message_1.json |
-| 11:32:35 | Natasza Rodziewicz | ciÄÅ¼ko sie polapac | message_1.json |
-| 11:32:31 | Natasza Rodziewicz | nie wiemy | message_1.json |
-| 09:29:01 | Magda Motal | [Photo: 1] | message_1.json |
-| 09:18:17 | Dorota Szczerba | No nam ostatnio kazaÅa robiÄ jakieÅ zadania na zajÄciach (jesteÅmy gr 4) po czym sprawdza co zr... | message_1.json |
-| 09:17:16 | Kamil Kusibab | [Photo: 1] | message_1.json |
-| 09:18:46 | Dorota Szczerba | Ma | message_1.json |
-| 09:18:32 | Magda Staszel | A grupa 4 nie ma dzis o 16:45? | message_1.json |
-| 09:16:20 | Magda Motal | pÅak | message_1.json |
-| 09:15:59 | Agnieszka Kowalcze | XDDD i cant | message_1.json |
-| 09:17:15 | Kamil Kusibab | jej jedyne przygotowania do zajÄÄ | message_1.json |
-| 09:16:45 | Wiktoria MiÅaszewska | [No text content] | message_1.json |
-| 09:20:25 | Ania Gancarz | teoretycznie powinno byÄ tak | message_1.json |
-| 09:20:21 | Dorota Szczerba | Jeszcze psychologiem nie jestem ale ja tu podejrzewam problem w jej gÅowie, a nie w wu | message_1.json |
-| 09:23:34 | Zuza JagÅa | SÅodka | message_1.json |
-| 09:23:18 | Edyta Lemiech | [Photo: 1] | message_1.json |
-| 09:19:04 | Magda Staszel | Okej | message_1.json |
-| 09:19:02 | Magda Staszel | A | message_1.json |
-| 09:20:19 | Ania Gancarz | [Photo: 1] | message_1.json |
-| 09:19:36 | Martyna Gancarczyk | SprawdÅºcie sobie wszyscy jak macie na WU, bo moÅ¼e to problem u paru osÃ³b a nie tylko u niej | message_1.json |
-| 13:29:14 | Martyna Gancarczyk | Niestety nie. JeÅli grupa, ktÃ³ra teraz z niÄ ma zajÄcia, mogÅaby zapytaÄ, to byÅabym wdziÄcz... | message_1.json |
-| 13:29:13 | Anna PÅatek | Czy wszyscy juÅ¼ dostali artykuÅy? Bo wczoraj wspominaÅa, se zostaÅo jej kilka wysÅanych na pocz... | message_1.json |
-| 13:29:44 | Anna PÅatek | Wczoraj pytaÅam. MÃ³wiÅa, ze dalej na jakieÅ zgody czeka i ze jak tylko ruszy to od razu da znaÄ | message_1.json |
-| 13:29:38 | Martyna Gancarczyk | MÃ³wiÅa dziÅ Å¼e still nie wysÅaÅa wszystkim i Å¼e moÅ¼na do niej napisaÄ z upomnieniem siÄ | message_1.json |
-| 13:28:48 | Kamil Kusibab | A wspominaÅa o tych badaniach, ktÃ³re bÄdÄ organizowanÄ przez niÄ i dr Ganczerek? | message_1.json |
-| 13:28:13 | Martyna Gancarczyk | PytaÅam dr. Czarneckiej i niestety badania online nie wliczajÄ siÄ do dodatkowych punktÃ³w. MuszÄ... | message_1.json |
-| 13:28:57 | Ania Gancarz | nope | message_1.json |
-| 13:28:50 | Patryk Balicki | A czy mÃ³wiÅa coÅ o tych badaniach, ktÃ³re ona planuje? | message_1.json |
-| 14:34:18 | Ania Gancarz | kto pisaÅ do Stawarza o zgodÄ na zdalne w czerwcu? | message_1.json |
-| 14:16:24 | Ewelina Haraf | Dziekuje! | message_1.json |
-| 15:00:41 | Dorota Szczerba | Okazuje siÄ, Å¼e nie zrozumiaÅa jak jej to powiedzieliÅcie "zakÅadki w gÅowie" miaÅa pozamykan... | message_1.json |
-| 14:34:34 | Martyna Gancarczyk | niech grupa kolejna wspomni Fudali Å¼e mamy czerwiec zdalny bo jÄ trochÄ zaskoczyÅo a chciaÅa ko... | message_1.json |
-| 13:30:31 | Gabriela Åapuszek | W sensie teraz na zajÄciach xD | message_1.json |
-| 13:29:49 | Gabriela Åapuszek | MÃ³wiÅa, ze zostaÅo jej kilka artykuÅÃ³w do wysÅania i zrobi to dzisiaj po zajÄciach | message_1.json |
-| 14:15:37 | Agnieszka Baruch | Kolor w tekÅcie, nie czcionki | message_1.json |
-| 13:30:41 | Ania Gancarz | a jak ktoÅ jej to zgÅaszaÅ na uczelni, to Å¼eby do niej napisaÄ wiadomoÅÄ, bo niektÃ³rzy majÄ... | message_1.json |
-| 13:14:45 | Joanna Joanna | [No text content] | message_1.json |
-| 12:03:48 | Magda Staszel | Ej bo ja chyba znalazÅam sposÃ³b by jÄ zrozumieÄ. WziÄÅam aspirynÄ i mnie przyjebaÅo moÅ¼e ud... | message_1.json |
-| 12:02:55 | Ewelina Haraf | Blagam nie sÅuchajcie co Ona mowið¤¦ââï¸ | message_1.json |
-| 12:06:33 | Anna PÅatek | AÅ¼ Å¼aÅuje, ze nie sÅuchaÅam ð | message_1.json |
-| 12:06:11 | Ewelina Haraf | PomyliÅa calkiem z kwadratem wzmocnien... nie wierzÄ..  z ta aspiryna chyba jedyna droga... | message_1.json |
-| 11:35:28 | Wiktoria MiÅaszewska | Raczej nie | message_1.json |
-| 11:34:58 | Agnieszka Ciurej | Jest dzis wejÅciÃ³wka? | message_1.json |
-| 12:02:43 | Ewelina Haraf | O nieee, Ona bredzi teraz | message_1.json |
-| 11:35:35 | Wiktoria MiÅaszewska | Nie wspominaÅa nic | message_1.json |
-| 12:07:33 | Magda Staszel | Albo zajaraÄ trawkÄ | message_1.json |
-| 12:07:23 | Nadia Materek | teraz maÅe smaczki przemycane z biopsy | message_1.json |
-| 12:56:35 | Ania Gancarz | pytaÅam pani Czerneckiej o organizacje naszego egzaminu i tak  â¢ w czerwcu zajÄcia bÄdÄ zdalni... | message_1.json |
-| 12:19:27 | Ewelina Haraf | Wylaczylam sie - w tej drugiej wersji mamy klikac w kolor jaki kest napisany czy w kolor czcionki? | message_1.json |
-| 12:06:47 | Magda Staszel | Ale boje siÄ Å¼e bÄdÄ musiaÅa wziÄÄ caÅÄ paczkÄ Å¼eby jej dorÃ³wnac | message_1.json |
-| 12:06:45 | Anna PÅatek | Ale przeszliÅmy do stresu? | message_1.json |
-| 12:07:20 | Ewa Kempny | (co tam siÄ dzieje ð«£) | message_1.json |
-| 12:06:48 | Ewelina Haraf | Nie Å¼aÅuj ðð¤ª | message_1.json |
-| 19:50:33 | Karolina ZarÄbska | I przy okazji mogÄ byc w biurze | message_1.json |
-| 19:50:33 | Marek Rapta | ja doniose jeszcze rzeczy z kopalni jak chcecie to moge nawet z samego rana przyniesc do biura | message_1.json |
-| 19:51:20 | Aleksandra Kretek | jutro rano nie mogÄ, wÅaÅnie jakoÅ w okolicach popoÅudnia | message_1.json |
-| 19:50:59 | Ola CioÅek | To spoczko, szybciej nam pÃ³jdzie w sumie teÅ¼ | message_1.json |
-| 19:50:07 | Karolina ZarÄbska | Aa too spoko | message_1.json |
-| 19:50:06 | Ola CioÅek | WÅaÅnie chyba nie | message_1.json |
-| 19:50:14 | Karolina ZarÄbska | Deklarowalam sie julce na pewno | message_1.json |
-| 19:50:10 | Aleksandra Kretek | super | message_1.json |
-| 07:22:36 | Oliwia WÅodarczyk | 4y70opf | message_1.json |
-| 07:15:47 | BÅaÅ¼ej Krzysztof | ma ktoÅ kod do teamsa do tych zajÄÄ ktÃ³re mamy aktualnie? | message_1.json |
-| 07:37:01 | Martyna Gancarczyk | Macie moÅ¼e zapisany ostatni punkt z podsumowania? | message_1.json |
-| 07:22:40 | Oliwia WÅodarczyk | chyba ten | message_1.json |
-| 19:52:37 | Aleksandra Kretek | jak najbardziej | message_1.json |
-| 19:51:56 | Ola CioÅek | Ale to marek nam moÅ¼e to przynieÅÄ z rana jak coÅ chyba | message_1.json |
-| 19:55:09 | Eliza Kurczyna | [Photo: 1] | message_1.json |
-| 19:53:09 | Aleksandra Kretek | czyli umawiamy siÄ w okolicach 18? | message_1.json |
-| 19:50:00 | Ola CioÅek | Znaczy my z JulkÄ myÅleliÅmy jutro ok. 18 | message_1.json |
-| 18:31:36 | Julita Bouffette | Na ktÃ³ry dzieÅ? | message_1.json |
-| 18:23:29 | Karolina ZarÄbska | Ja | message_1.json |
-| 18:38:23 | Eliza Kurczyna | Ja na ÅrodÄ | message_1.json |
-| 18:31:58 | Karolina ZarÄbska | Oba poprosze | message_1.json |
-| 18:00:36 | Marek Rapta | ja bede potrzebowal na srode | message_1.json |
-| 17:57:56 | Julita Bouffette | Hejo, kto bÄdzie potrzebowaÄ zwolnienia z zajÄÄ na czas wampy? | message_1.json |
-| 18:01:16 | Julia Tabaka | Ja na ÅrodÄ | message_1.json |
-| 18:00:56 | Wioletta KsiÄÅ¼ek | Ja na wtorek | message_1.json |
-| 19:49:35 | Aleksandra Kretek | a kiedy moÅ¼esz? | message_1.json |
-| 19:49:23 | Karolina ZarÄbska | Jak bardzo poznym? | message_1.json |
-| 19:49:57 | Karolina ZarÄbska | Nie pamiÄtam | message_1.json |
-| 19:49:42 | Ola CioÅek | Ty Karola pakujesz? | message_1.json |
-| 18:45:01 | Kasia Bulzacka | Ja na oba | message_1.json |
-| 18:38:43 | Paulina Smolec | Ja teÅ¼ Åroda ð | message_1.json |
-| 19:49:16 | Paulina Smolec | Taak | message_1.json |
-| 19:49:00 | Aleksandra Kretek | Teraz pytanko do osÃ³b, ktÃ³re miaÅy pakowaÄ, czy jutro bardziej pÃ³Åºnym popoÅudniem lub we wtor... | message_1.json |
-| 09:10:57 | Anna PÅatek | Czyli do okoÅo 14 Brdzie siÄ ogarniaÅa co robiÄ dalej xD z kimkolwiek siÄ poÅÄczy | message_1.json |
-| 09:10:49 | Joanna Pietrzyk | to jej odpiszcie moÅ¼e przed zajÄciami, Å¼eby upewniÅa siÄ w harmonogramie, z ktÃ³rÄ grupÄ kied... | message_1.json |
-| 09:11:30 | Ania Gancarz | i Å¼e inaczej nie moÅ¼emy, bo siÄ niw rozdwoimyXD | message_1.json |
-| 09:11:15 | Ania Gancarz | wypisze jej po prostu moÅ¼e o ktÃ³rej godzinie ktÃ³ra grupa ma | message_1.json |
-| 09:09:47 | Edyta Lemiech | nam napisaÅa, Å¼e widzimy siÄ o 15 XD | message_1.json |
-| 09:09:33 | Katarzyna Huk | A powinnismy o 15:00 | message_1.json |
-| 09:10:05 | Zuza JagÅa | A mamy wtedy mÃ³zgowe w planie XD | message_1.json |
-| 09:09:56 | Dorota Szczerba | Ja myÅlÄ, Å¼e dla niej to trzeba zrobiÄ bingo jak na socjologi | message_1.json |
-| 09:12:48 | Jowita Rozum | ZrÃ³b pls XD | message_1.json |
-| 09:12:26 | Jowita Rozum | [Video: 1] | message_1.json |
-| 09:15:49 | Edyta Lemiech | sÅuchajcie, ona po prostu nie wie co i na ktÃ³rej grupie pisze | message_1.json |
-| 09:15:38 | Edyta Lemiech | [Photo: 1] | message_1.json |
-| 09:11:45 | Martyna Gancarczyk | ma ktoÅ poprzedni slajd?:-) | message_1.json |
-| 09:11:34 | Dorota Szczerba | I zawrzeÄ wszelkie odklejki, zajawki i tabelki z uwagi | message_1.json |
-| 09:11:55 | Magda Motal | miaÅam w planach dzisiaj XDDDD | message_1.json |
-| 09:11:51 | Joanna Pietrzyk | tylko moÅ¼e drukowanymi literami | message_1.json |
-| 09:09:22 | Jowita Rozum | XDDD | message_1.json |
-| 07:54:03 | Magda Motal | ZaczÄÅa juÅ¼? | message_1.json |
-| 07:38:35 | Anna PÅatek | To dobrze, bo ja notuje tylko to co mÃ³wi, a prez nie ð | message_1.json |
-| 07:54:22 | Dorota Szczerba | Nie* | message_1.json |
-| 07:54:15 | Dorota Szczerba | Nir | message_1.json |
-| 07:37:35 | Magda Motal | [Photo: 1] | message_1.json |
-| 07:37:19 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
-| 07:38:11 | Magda Motal | tak | message_1.json |
-| 07:37:58 | Anna PÅatek | Ona udostÄpni te prezentacje nie? | message_1.json |
-| 09:09:04 | Wiktoria MiÅaszewska | Nie wiadomo xd | message_1.json |
-| 09:08:58 | Jowita Rozum | Grupa K3 powinna mieÄ ale to skomplikowane XDDD | message_1.json |
-| 09:09:14 | Katarzyna Huk | Bo k1 NapisaÅa ze widizmy siÄ o 13:15 xd | message_1.json |
-| 09:09:08 | Jowita Rozum | Dostajemy od niej sprzeczne informacje | message_1.json |
-| 08:59:37 | Magda Motal | ma ktoÅ poprzedni slajd? | message_1.json |
-| 07:55:35 | Joanna Joanna | Teraz tak | message_1.json |
-| 09:08:41 | Katarzyna Huk | KtoÅ ma dzisiaj poznawcza o 13:15? | message_1.json |
-| 08:59:42 | Magda Motal | ostatni punkt | message_1.json |
-| 15:03:21 | Dorota Szczerba | A wy pamiÄtacie jakie tematu wybraliÅcie? | message_1.json |
-| 14:58:44 | Weronika SÅota | Na pierwszych zajÄciach | message_1.json |
-| 15:03:32 | Magda Staszel | Ciekawa jestem czy znowu zapomni Å¼e nam coÅ zadaÅa | message_1.json |
-| 15:03:30 | Dorota Szczerba | Bo moÅ¼e moÅ¼emy jej dopytaÄ czy to ma | message_1.json |
-| 09:35:18 | Gabriela WÃ³jcikiewicz | tak | message_1.json |
-| 09:35:13 | Oliwia WÅodarczyk | too cnie? | message_1.json |
-| 14:58:36 | Weronika SÅota | Chyba tak | message_1.json |
-| 14:57:01 | Dorota Szczerba | Ej, a ona zbieraÅa od nas listÄ na ktÃ³rej wybieraliÅmy tematy do tych badaÅ? | message_1.json |
-| 15:52:50 | Gabriela WÃ³jcikiewicz | chyba nie ale ciÄÅ¼ko stwierdziÄ XD | message_1.json |
-| 15:52:40 | Dorota Szczerba | Nie wiem, odbieraÅam jedzonko, muszÄ tam doÅÄczyÄ do tego linku wgl? | message_1.json |
-| 14:55:10 | Dorota Szczerba | @Magda Staszel  @Gabriela WÃ³jcikiewicz  czy wy pamiÄtacie jaki temat wybraÅyÅmy do tego zaliczen... | message_1.json |
-| 17:17:45 | Krzysztof Siwek | ej czyli jutro nie ma mono? | message_1.json |
-| 15:20:02 | Dorota Szczerba | Ja jej nie sÅucham jedynie to WALKING memory mnie co jakiÅ czas wybija z zamyÅlenia | message_1.json |
-| 15:18:31 | Magda Staszel | Czy tylko ja siÄ czujÄ jakbym smerfy oglÄdaÅa? | message_1.json |
-| 15:50:35 | Klaudia SzymaÅska | to jest cos takiego jak wejÅciÃ³wka? | message_1.json |
-| 15:20:17 | Magda Staszel | Xdd | message_1.json |
-| 09:35:09 | Oliwia WÅodarczyk | [Photo: 1] | message_1.json |
-| 09:22:06 | Monika WiÅniewska | [Photo: 1] | message_1.json |
-| 08:57:50 | Dorota Szczerba | A teraz sama wyÅÄczyÅa kamerkÄ, Å¼eby nas nie rozpraszaÄ jak wyÅwietla prezentacje | message_1.json |
-| 09:22:29 | Martyna SzyrszeÅ | shahah | message_1.json |
-| 09:22:24 | Monika WiÅniewska | Odpisze jej moÅ¼e Å¼e mamy o 16.45 | message_1.json |
-| 08:56:42 | Monika WiÅniewska | Oby niee | message_1.json |
-| 08:56:26 | Dorota Szczerba | Ej, a myÅlicie, Å¼e bÄdzie wymagaÅa kamerek na zajÄciach z mechanizmÃ³w? | message_1.json |
-| 08:57:21 | Dorota Szczerba | Ale w sumie ona wyÅwietla zawsze rzeczy, jakieÅ obrazki i filmiki | message_1.json |
-| 08:57:00 | Dorota Szczerba | Bo nie wiem czy siÄ ogarniaÄ jakoÅ do Å¼ycia Xd | message_1.json |
-| 09:34:35 | Klaudia SzymaÅska | ja mam tylko jedno aktywne spotkanie | message_1.json |
-| 09:34:06 | Oliwia WÅodarczyk | czy mi siÄ nie wyÅwietla po prostu? | message_1.json |
-| 09:34:45 | Dorota Szczerba | WiÄc raczej to | message_1.json |
-| 09:34:39 | Dorota Szczerba | Ona stworzyÅa nowe spotkanie zatytuÅowane Äwiczenia grupa 4 | message_1.json |
-| 09:33:43 | Monika WiÅniewska | To ktÃ³re spotkanie w koÅcu | message_1.json |
-| 09:24:20 | Monika WiÅniewska | O juÅ¼ zczaiÅa to siÄ powstrzymam XD | message_1.json |
-| 09:33:58 | Dorota Szczerba | Nie wiem | message_1.json |
-| 09:33:58 | Oliwia WÅodarczyk | ona chyba skoÅczyÅa to spotkani z wykÅadu | message_1.json |
-| 09:29:19 | MichaÅ Wiencek | To pomaga | message_1.json |
-| 09:29:17 | MichaÅ Wiencek | Serio | message_1.json |
-| 09:34:53 | Madzia Szczypka | Ze to nie musi byc obrÄczka zÅota | message_1.json |
-| 09:34:46 | Madzia Szczypka | But u know | message_1.json |
-| 09:29:09 | MichaÅ Wiencek | Obraczka zÅota | message_1.json |
-| 08:24:10 | Julita Bouffette | Tak jest kapitanie | message_1.json |
-| 09:29:16 | MichaÅ Wiencek | Jak macie jakas | message_1.json |
-| 09:29:13 | MichaÅ Wiencek | Sobie potrzyj | message_1.json |
-| 09:45:15 | Stasiu Przygoda | Na to | message_1.json |
-| 09:45:14 | Stasiu Przygoda | Mam maÅÄ | message_1.json |
-| 09:46:11 | Madzia Szczypka | [No text content] | message_1.json |
-| 09:45:30 | Madzia Szczypka | Lekarze z leÅnej gory | message_1.json |
-| 09:35:15 | Madzia Szczypka | Bo chodzi o rozmasowanie tego | message_1.json |
-| 09:34:56 | Madzia Szczypka | Tylko byle co | message_1.json |
-| 09:35:36 | Madzia Szczypka | ÅyÅ¼eczke ciepÅa sobie poprzykladaj | message_1.json |
-| 09:35:29 | Madzia Szczypka | Btw moja mama mi chyba robiÅa jakis ciepÅy okÅad czy cos | message_1.json |
-| 08:18:58 | Stasiu Przygoda | Dlatego mam ten plaster Å¼eby mieÄ pewnoÅÄ ze nic nie ruszam XDDD | message_1.json |
-| 06:47:48 | Stasiu Przygoda | I wczoraj jak siÄ obudziÅem to ten jÄczmieÅ zrobiÅ takiego maÅego âpryszczaâ ktÃ³ry byÅ n... | message_1.json |
-| 06:47:07 | Stasiu Przygoda | DostaÅem jÄczmieÅ na oku w piÄtek | message_1.json |
-| 06:48:48 | Stasiu Przygoda | No i Julka mi wieczorem ogarnÄÅa maÅÄ i plaster na oko | message_1.json |
-| 06:48:29 | Stasiu Przygoda | Przez co jak mrugalem to mnie to bolaÅo | message_1.json |
-| 14:55:35 | Magda Staszel | Czy jakoÅ tak | message_1.json |
-| 14:55:26 | Magda Staszel | DecyzyjnoÅÄ chyba | message_1.json |
-| 05:28:06 | MichaÅ Wiencek | Co Ci siÄ stalo? @Stasiu Przygoda | message_1.json |
-| 14:57:22 | Gabriela WÃ³jcikiewicz | ja nawet nie wiem co my mamy robiÄ XD | message_1.json |
-| 08:17:07 | Julita Bouffette | Nie, nie, nie wyciskaj ani nic | message_1.json |
-| 08:14:55 | Stasiu Przygoda | Wiec mamy progres | message_1.json |
-| 08:18:38 | Stasiu Przygoda | Wiem nic nie ruszam | message_1.json |
-| 08:17:10 | Julita Bouffette | Sam pÄknie | message_1.json |
-| 07:47:03 | Julita Bouffette | To ci teraz musi pÄknÄÄ | message_1.json |
-| 06:48:58 | Stasiu Przygoda | No i teraz mam cosplay pirata | message_1.json |
-| 08:14:19 | Stasiu Przygoda | Ale zdjÄÅem plaster i mogÄ mrugaÄ | message_1.json |
-| 08:14:05 | Stasiu Przygoda | WÅaÅnie chyba nie moÅ¼na sprawiaÄ Å¼eby pÄkÅ | message_1.json |
-| 15:14:01 | Kamil Kusibab | ja na zajÄciach z poznawczej: | message_1.json |
-| 15:13:58 | Magda Staszel | Nie wiem czemu ale z tym mi siÄ skojarzyÅo | message_1.json |
-| 15:14:33 | Magda Staszel | [Photo: 1] | message_1.json |
-| 15:14:01 | Kamil Kusibab | [Photo: 2] | message_1.json |
-| 15:12:02 | Dorota Szczerba | [Photo: 1] | message_1.json |
-| 15:11:58 | Dorota Szczerba | Gramy w akuku | message_1.json |
-| 15:13:44 | Magda Staszel | [Photo: 1] | message_1.json |
-| 15:13:03 | Agnieszka Kowalcze | Moje samopoczucie gdy zaczynaja siÄ Äwiczenia z poznawczej: | message_1.json |
-| 20:32:17 | UÅ¼ytkownik Facebooka | ja tydzieÅ temu i nie | message_1.json |
-| 20:26:12 | Gabriela Åapuszek | Czy ktoÅ kto kontaktowaÅ siÄ mailowo (w przeciÄgu ostatniego miesiÄca) z dr KaleÅskÄ-Rodzaj o... | message_1.json |
-| 20:38:59 | Gabriela Åapuszek | Oki dziÄki | message_1.json |
-| 20:32:32 | UÅ¼ytkownik Facebooka | po zajÄciach podeszÅam do niej | message_1.json |
-| 15:16:20 | Kamil Kusibab | studenci na UP | message_1.json |
-| 15:14:40 | Magda Staszel | Jaki kraj taki Awatar | message_1.json |
-| 15:17:09 | Magda Staszel | - Dalej jesteÅ obraÅ¼ona? - NIE | message_1.json |
-| 15:16:20 | Kamil Kusibab | [Photo: 1] | message_1.json |
-| 15:09:26 | Magda Staszel | Weselej* | message_1.json |
-| 15:08:29 | Agnieszka Ciurej | XD | message_1.json |
-| 15:08:27 | Kamil Kusibab | ð | message_1.json |
-| 15:08:34 | Katarzyna Huk | Fajny wiosenny | message_1.json |
-| 15:08:30 | Sylwia HoÅda | ð | message_1.json |
-| 15:07:54 | Agnieszka Ciurej | Agnieszka zmieniÅa motyw na Rozkwit ð | message_1.json |
-| 15:06:18 | Magda Motal | brzmi jak coÅ co by powiedziaÅa XD | message_1.json |
-| 15:08:26 | Agnieszka Ciurej | Jak to cofnav | message_1.json |
-| 15:08:18 | Agnieszka Ciurej | Jezu sory | message_1.json |
-| 15:09:01 | Magdalena Kubowicz | O ale Åadnie tu | message_1.json |
-| 15:08:58 | Patryk Balicki | Napawa nadziejÄ na sesjÄ | message_1.json |
-| 15:09:25 | Kamil Kusibab | AÅ¼ samemu chce siÄ pyÅek z kwiatÃ³w zbieraÄ | message_1.json |
-| 15:09:04 | Magda Staszel | Tak siÄ weselnej zrobiÅo | message_1.json |
-| 15:08:39 | Kamil Kusibab | Åadne, moÅ¼na zostawic | message_1.json |
-| 15:08:38 | Natalia Dudzic | Ale wiosennie | message_1.json |
-| 15:08:57 | Natalia Dudzic | AÅ¼ chce siÄ Å¼yÄ | message_1.json |
-| 15:08:48 | Agnieszka Ciurej | O chyba siÄ WAN podoba xD | message_1.json |
-| 14:08:19 | Aleksandra Cholak | Hehe | message_1.json |
-| 14:08:13 | Aleksandra Cholak | Dajcie znaÄ czy zdaÅam | message_1.json |
-| 16:49:42 | PaweÅ Piotrowski | Podbijam! Te ankietki sÄ teÅ¼ bardzo waÅ¼ne dla nas, wprawdzie koÅczymy kadencjÄ ale chcielibyÅm... | message_1.json |
-| 14:08:43 | Katarzyna Morawska | DziÄki za wypeÅnienie ! ProszÄ podazajcie za Ola â¤ï¸ | message_1.json |
-| 13:44:30 | Aleksandra Cholak | Czyli po prostu klikam opcje? Bo one siÄ przesuwajÄ w kolejnoÅci i to mnie zmyliÅo xD | message_1.json |
-| 13:43:31 | Katarzyna Morawska | Na kosmetyczne bÅÄdy proszÄ nie zwracajcie uwagi, bo mimo  iÅ¼ przeglÄdaÅam te pytania tysiÄc ... | message_1.json |
-| 14:08:08 | Aleksandra Cholak | Ok, dziÄki! TRUDNY TEN TEST | message_1.json |
-| 13:45:53 | Katarzyna Morawska | Tak dokÅadnie. MoÅ¼liwe ze musisz  kliknÄÄ na pole martwe wtedy nie przechodzi | message_1.json |
-| 08:16:26 | Dorota Szczerba | Chyba nie | message_1.json |
-| 08:15:51 | Klaudia SzymaÅska | mamy cos do zrobienia na poznawczÄ? | message_1.json |
-| 08:18:14 | Klaudia SzymaÅska | suuuper | message_1.json |
-| 08:16:37 | Dorota Szczerba | A nawet jeÅli to ona teÅ¼ pewnie nie wie albo nie pamiÄta XD | message_1.json |
-| 17:16:36 | Weronika ZieliÅska | Jest dobrze ð | message_1.json |
-| 17:16:29 | Weronika ZieliÅska | Ten niezrÄczny moment kiedy potrzeba Ci 3 min, Å¼eby zgadnÄÄ o kim mowa, bo widziaÅaÅ osobÄ z ... | message_1.json |
-| 17:18:07 | PaweÅ Piotrowski | PaweÅ Piotrowski usunÄÅ uÅ¼ytkownika Kinga Pregler z grupy. | message_1.json |
-| 17:17:56 | PaweÅ Piotrowski | PaweÅ Piotrowski usunÄÅ uÅ¼ytkownika Vero CiaÅowicz z grupy. | message_1.json |
-| 13:42:10 | Katarzyna Morawska | ChodziÅo nam o akcje ktÃ³re zostaÅy zainicjowane przez wielka piÄtkÄ, albo wydarzenia , imprezy ... | message_1.json |
-| 12:47:30 | Katarzyna Morawska | PodbiÅa, Å¼eby nie zginÄÅo ð | message_1.json |
-| 12:47:23 | Katarzyna Morawska | Ankieta ewaluacyjna â> https://forms.office.com/e/xjpCRsb8SY | message_1.json |
-| 13:02:49 | Magda CieÅ¼ | Podbijam, wypeÅniajcie ankietke, to dla nas mega waÅ¼ne!  A oprÃ³cz tego wysyÅam wam linka do bazy... | message_1.json |
-| 12:48:16 | Katarzyna Morawska | Nowi czÅonkowie - teraz to juÅ¼ wasz obowiÄzek, aby jÄ wypeÅniÄ ðð«¶ð» | message_1.json |
-| 20:39:43 | Natalia Bodziony | takze polecam sprobowac przez teamsa | message_1.json |
-| 20:39:36 | Natalia Bodziony | ja napisalam na teams i dostalam odpowiedz w ten sam dzien | message_1.json |
-| 12:46:56 | Katarzyna Morawska | CzeÅÄ wam w niedziele!  Za tydzieÅ wzc a co za tym idzie? Ukr ciÄÅ¼ko pracuje tworzÄc opinie do... | message_1.json |
-| 21:23:44 | UÅ¼ytkownik Facebooka | Ja pisaÅam przez teamsa tez i nic xd | message_1.json |
-| 13:41:31 | Aleksandra Cholak | Jak to siÄ klika | message_1.json |
-| 13:41:26 | Aleksandra Cholak | Mam to poukÅadaÄ w kolejnoÅci? | message_1.json |
-| 13:41:46 | Katarzyna Morawska | Nie to sÄ podpunkty zamiast a b C d hah | message_1.json |
-| 13:41:32 | Aleksandra Cholak | Help | message_1.json |
-| 13:38:22 | Aleksandra Cholak | @Kasiunia? | message_1.json |
-| 13:37:39 | Aleksandra Cholak | KtÃ³re z wydarzeÅ ZarzÄdu najbardziej zapadÅo Ci w pamiÄci? - nie rozumiem pytania. O jakiego ro... | message_1.json |
-| 13:41:19 | Aleksandra Cholak | [Photo: 1] | message_1.json |
-| 13:41:16 | Aleksandra Cholak | I o co chodzi z tym: | message_1.json |

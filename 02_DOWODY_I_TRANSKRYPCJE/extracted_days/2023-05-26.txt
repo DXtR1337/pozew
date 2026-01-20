@@ -1,277 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-05-26
-# Liczba: 272
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 11:36:49 | Kamil Kusibab | Ona korzysta z wiÄkszej bazy pytaÅ? | message_1.json |
-| 11:36:47 | PaweÅ Rodak | OdpowiadaÅem dokÅadnie tak jak ustalaliÅmy odp | message_1.json |
-| 11:39:43 | PaweÅ Rodak | Nie | message_1.json |
-| 11:37:12 | Kamil Kusibab | ByÅy pytania, ktÃ³re Wam siÄ nie powtarzaÅy? | message_1.json |
-| 11:36:06 | PaweÅ Rodak | UkryÅa poprawne odp | message_1.json |
-| 11:35:55 | Kamil Kusibab | Nie ma podsumowania? | message_1.json |
-| 11:36:15 | Anna PÅatek | Cwana bestia | message_1.json |
-| 11:36:10 | PaweÅ Rodak | Sprytna | message_1.json |
-| 11:39:47 | PaweÅ Rodak | Wszystkie byÅy wspÃ³lne | message_1.json |
-| 11:43:01 | Åukasz Kucharski | [Photo: 1] | message_1.json |
-| 11:42:52 | PaweÅ Rodak | Chyba Å¼e sobie wymysli Å¼e ZAL od 80 proc haha | message_1.json |
-| 11:43:29 | Kamil Kusibab | To zajebiÅcie, metodÄ prÃ³b i bÅÄdÃ³w moÅ¼emy uzyskaÄ 100% z jednego testu. Spiszemy odpowiedzi... | message_1.json |
-| 11:43:17 | Martyna Gancarczyk | kurde bele | message_1.json |
-| 11:42:08 | Martyna Gancarczyk | zdane!! | message_1.json |
-| 11:39:50 | PaweÅ Rodak | Tylko wymieszane | message_1.json |
-| 11:42:41 | PaweÅ Rodak | Åukasz miaÅ 8 a zaznaczaliÅmy to samo | message_1.json |
-| 11:42:41 | Katarzyna Huk | mam nadzieje ze ona pÃ³Åºniej znowu nie zrobi tak ze nagle prog wymyÅli inny XD | message_1.json |
-| 11:20:25 | Magda Motal | Akurat jeden odcinek serialu | message_1.json |
-| 11:19:48 | Anna PÅatek | Nawet ostatnia osoba nie powinna zejÅÄ poniÅ¼ej 45 minut | message_1.json |
-| 11:20:39 | Magda Motal | OdpaliÄ, zaznaczyÄ i siedzieÄ czekaÄ XDD | message_1.json |
-| 11:20:35 | Anna PÅatek | DokÅadnie xD | message_1.json |
-| 11:18:40 | PaweÅ Rodak | Ale moÅ¼na wracaÄ do pytan | message_1.json |
-| 11:18:03 | Åukasz Kucharski | PowtarzajÄ siÄ | message_1.json |
-| 11:19:03 | PaweÅ Rodak | Polecam wam nie rozwiÄzaÄ tego w 2 minuty bo ostatnio siÄ o to rzucaÅa | message_1.json |
-| 11:18:50 | PaweÅ Rodak | WiÄc moÅ¼na to rÃ³wnie dobrze przeklikac i szukaÄ pytaÅ wspolnych | message_1.json |
-| 11:24:18 | Martyna Gancarczyk | Nie no myÅlÄ Å¼e takie 25 jest optymalne | message_1.json |
-| 11:35:35 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 11:35:29 | PaweÅ Rodak | Trzeba popracowaÄ nad ostatecznym rozwiÄzaniem | message_1.json |
-| 11:35:51 | Anna PÅatek | Nie wyÅwietlajÄ siÄ odpowiedzi? | message_1.json |
-| 11:35:41 | PaweÅ Rodak | CoÅ ewidentnie nie tak | message_1.json |
-| 11:24:32 | Anna PÅatek | A ile jest pytaÅ? | message_1.json |
-| 11:24:25 | Martyna Gancarczyk | W koÅcu tak chyba mieliÅmy tez w szkole co nie | message_1.json |
-| 11:24:55 | Anna PÅatek | Aaaa to tak ;) 25 jest optymalne, sory, myÅlaÅam, ze jest 25 pytaÅ | message_1.json |
-| 11:24:38 | Martyna Gancarczyk | 12 | message_1.json |
-| 12:23:51 | Katarzyna Huk | Ja osttanio miaÅam âtest zakoÅczonyâ | message_1.json |
-| 12:23:26 | Martyna Gancarczyk | WiÄc myÅlÄ ze prÃ³g to 7/12 | message_1.json |
-| 12:24:50 | Martyna Gancarczyk | Bo ona to orxy nas ustalala | message_1.json |
-| 12:24:45 | Martyna Gancarczyk | A ja tez faktycznie | message_1.json |
-| 12:22:35 | Martyna SzyrszeÅ | oki, dzieki | message_1.json |
-| 12:22:17 | Martyna Gancarczyk | Jak masz napisane ze test zdany to myÅlÄ ze moÅ¼na na tym polegaÄ | message_1.json |
-| 12:23:11 | Martyna Gancarczyk | Tak | message_1.json |
-| 12:22:47 | Kamil Kusibab | A na poprzednim teÅ¼ byÅo to powiadomienie? | message_1.json |
-| 12:24:53 | Martyna Gancarczyk | Jaki jest prog | message_1.json |
-| 12:57:35 | Martyna Gancarczyk | 19 | message_1.json |
-| 12:53:56 | Anna PÅatek | A do ktÃ³rej planowo? | message_1.json |
-| 12:59:50 | Anna PÅatek | DziÄki ;) | message_1.json |
-| 12:57:38 | Patryk Balicki | 19.15 | message_1.json |
-| 12:53:17 | Anna PÅatek | O ktÃ³rej jest wykÅad z hmp? Bo mi siÄ znowu wu nir odpala | message_1.json |
-| 12:24:57 | Martyna Gancarczyk | A tu juz pewnie jest narzucony | message_1.json |
-| 12:53:32 | Dorota Szczerba | O 15:00 | message_1.json |
-| 12:53:30 | Patryk Balicki | 15 | message_1.json |
-| 11:44:53 | PaweÅ Rodak | [Photo: 12] | message_1.json |
-| 11:44:31 | PaweÅ Rodak | I z tym dynamic joys | message_1.json |
-| 11:45:12 | PaweÅ Rodak | Musicie wyhaczyc te bÅÄdy | message_1.json |
-| 11:45:03 | PaweÅ Rodak | Tutaj 5 odpowiedzi bÄdzie bÅÄdnych | message_1.json |
-| 11:43:58 | PaweÅ Rodak | Nie mam pojÄcia ktÃ³re pytania mogÄ byÄ Åºle | message_1.json |
-| 11:43:42 | Kamil Kusibab | I ew. ktoÅ gdzieÅ siÄ jebnie, Å¼eby nie byÅo | message_1.json |
-| 11:44:31 | Martyna Gancarczyk | Wypiszmy najpierw sobie pewniaki | message_1.json |
-| 11:44:04 | PaweÅ Rodak | MoÅ¼liwe Å¼e coÅ z tym konfliktem dÄÅ¼enie | message_1.json |
-| 11:52:06 | UÅ¼ytkownik Facebooka | A od ilu pkt siÄ zdaje? | message_1.json |
-| 12:12:44 | Martyna SzyrszeÅ | oby | message_1.json |
-| 12:11:55 | Martyna SzyrszeÅ | tez 7 a w niektÃ³rych daÅam inaczej | message_1.json |
-| 12:22:12 | Dorota Szczerba | To jest ta co kaÅ¼dej grupie podnosiÅa prÃ³g wiÄc nigdy nie wiadomo, ale mÃ³wiÅa, Å¼e w zwiÄzku ... | message_1.json |
-| 12:21:18 | Martyna SzyrszeÅ | a od ilu procent siÄ zdawaÅo u niej? 50 czy 60? | message_1.json |
-| 11:52:51 | PaweÅ Rodak | ZgÅosiliÅmy siÄ razem z Åukaszem na state i lista jest juÅ¼ peÅna | message_1.json |
-| 11:52:15 | PaweÅ Rodak | Pewnie od 7 | message_1.json |
-| 12:11:50 | Martyna SzyrszeÅ | [Photo: 13] | message_1.json |
-| 12:11:25 | Anna PÅatek | Co | message_1.json |
-| 11:00:42 | PaweÅ Rodak | 1h | message_1.json |
-| 11:00:38 | Magda Motal | Ile mamy czasu na to | message_1.json |
-| 11:00:50 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 11:00:47 | Magda Motal | O | message_1.json |
-| 10:59:46 | Anna PÅatek | JuÅ¼ patrze w notatki | message_1.json |
-| 10:59:17 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 11:00:37 | PaweÅ Rodak | Czym siÄ rÃ³Å¼ni popÄd od instynktu tez | message_1.json |
-| 11:00:32 | PaweÅ Rodak | Jest pytanie | message_1.json |
-| 11:00:52 | Magda Motal | Ale super | message_1.json |
-| 11:02:29 | UÅ¼ytkownik Facebooka | tak | message_1.json |
-| 11:02:21 | Martyna Gancarczyk | Zachowanie jest funkcjÄ osoby | message_1.json |
-| 11:02:30 | Sylwia Å»uchowicz | teÅ¼ mi siÄ wydaje Å¼e pierwsze | message_1.json |
-| 11:02:30 | PaweÅ Rodak | Tak wÅaÅnie kojarzyÅem tez | message_1.json |
-| 11:01:43 | PaweÅ Rodak | PÃ³Åºniej moÅ¼na zrobiÄ z tych pytaÅ baze | message_1.json |
-| 11:01:15 | Martyna Gancarczyk | Nie potrzebujÄ bodÅºcÃ³w | message_1.json |
-| 11:01:56 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 11:01:46 | PaweÅ Rodak | Czy dodaÄ do bazy | message_1.json |
-| 06:58:22 | Martyna Gancarczyk | To piszemy "profesorze" | message_1.json |
-| 06:58:16 | Martyna Gancarczyk | Jak jest dr habilitowany | message_1.json |
-| 10:27:14 | Ania Gancarz | [Photo: 1] | message_1.json |
-| 06:58:36 | Martyna Gancarczyk | tak na przyszÅoÅÄ dla wszystkich | message_1.json |
-| 03:21:49 | Joanna Krk | Ja proponuje przeslac maila dalej do wszystkich prowadzÄcych z informacja ze caky czerwiec w zwiazk... | message_1.json |
-| 03:19:41 | Joanna Krk | Tak jest zgoda. Wczoraj prÃ³bowaÅam zlapac drRafaÅa  na uczelni ale bezskutecznie. Obawiam siÄ ze... | message_1.json |
-| 06:58:07 | Martyna Gancarczyk | ðªº | message_1.json |
-| 06:20:12 | Julka Åypaczewska | [No text content] | message_1.json |
-| 10:27:27 | Ania Gancarz | dostaliÅmy zgodÄ na przedÅuÅ¼enie sesji do 1 lipca | message_1.json |
-| 10:58:52 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 10:56:34 | Martyna Gancarczyk | Po prostu Zaswiadxzam Å¼e xyz bral_a udzial w badaniu o nazwie abc realizowanym na uczelni qwz dnia ... | message_1.json |
-| 10:58:59 | PaweÅ Rodak | Pierwsze? | message_1.json |
-| 10:58:56 | PaweÅ Rodak | ? | message_1.json |
-| 10:30:15 | Magda Motal | A to nie jest? | message_1.json |
-| 10:28:08 | Kamil Kusibab | Z daleko jego profilowe wyglÄda jakby w tle byÅa wieÅ¼a Eiffla | message_1.json |
-| 10:55:22 | Martyna Gancarczyk | Ej jak wyglÄdajÄ wasze zaÅwiadczenia z badaÅ? | message_1.json |
-| 10:30:24 | Magda Motal | Nawet z bliska tak wyglÄda..... | message_1.json |
-| 11:14:56 | Martyna Gancarczyk | Tez bym dala a | message_1.json |
-| 11:12:50 | PaweÅ Rodak | Raczej odp A, ale jestem ciekaw waszego zdania | message_1.json |
-| 11:15:25 | Åukasz Kucharski | [Photo: 1] | message_1.json |
-| 11:15:02 | Åukasz Kucharski | [No text content] | message_1.json |
-| 11:09:33 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 11:09:26 | PaweÅ Rodak | Jest teÅ¼ takie pytanie, tutaj raczej A | message_1.json |
-| 11:10:29 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 11:10:24 | PaweÅ Rodak | O jest pytanie o Freuda | message_1.json |
-| 11:15:29 | Åukasz Kucharski | Pierwotne? | message_1.json |
-| 11:16:53 | PaweÅ Rodak | DaÅbym potrzeby pierwotne raczej | message_1.json |
-| 11:16:29 | PaweÅ Rodak | Wiec bÄdzie potrzeby podstawowe albo emocje podstawowe | message_1.json |
-| 11:17:53 | Martyna Gancarczyk | PowtarzajÄ wam siÄ pytania czy macie caÅkowicie inne? | message_1.json |
-| 11:17:01 | Martyna Gancarczyk | No w bazie jest b | message_1.json |
-| 11:15:45 | PaweÅ Rodak | Tutaj z Google wynikaÅo Å¼e c a z bazy Å¼e B | message_1.json |
-| 11:15:37 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 11:16:23 | PaweÅ Rodak | Rudymentarne to znaczy elemenarne, podstawowe | message_1.json |
-| 11:15:57 | Anna PÅatek | Ja bym tu daÅa C | message_1.json |
-| 11:04:11 | PaweÅ Rodak | Nazwisk | message_1.json |
-| 11:04:09 | PaweÅ Rodak | MiaÅo nie byÄ nazwiai | message_1.json |
-| 11:04:22 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 11:04:15 | PaweÅ Rodak | A co 2 pytanie o nazwiska | message_1.json |
-| 11:03:16 | PaweÅ Rodak | [Photo: 1] | message_1.json |
-| 11:03:04 | Martyna Gancarczyk | dawaj dalej | message_1.json |
-| 11:03:55 | Martyna Gancarczyk | Chyba tak | message_1.json |
-| 11:03:18 | PaweÅ Rodak | Raczej C | message_1.json |
-| 11:04:33 | Åukasz Kucharski | [Photo: 1] | message_1.json |
-| 11:08:19 | Kamil Kusibab | A nie dÄÅ¼enie dÄÅ¼enie? Mamy dwa przyjemne bodÅºca i w sumie musimy wybraÄ, ktÃ³ry bardziej nam ... | message_1.json |
-| 11:08:10 | Åukasz Kucharski | [Photo: 1] | message_1.json |
-| 11:09:10 | PaweÅ Rodak | Jakby ktoÅ siÄ jeszcze mÃ³gÅ odnieÅÄ do wypowiedzi Kamila to byÅoby super | message_1.json |
-| 11:08:43 | PaweÅ Rodak | WÅaÅnie zapomniaÅem juÅ¼ z ÄwiczeÅ | message_1.json |
-| 11:06:29 | Kamil Kusibab | A? | message_1.json |
-| 11:05:16 | Martyna Gancarczyk | Mc i lorenz | message_1.json |
-| 11:06:58 | PaweÅ Rodak | Tutaj daÅem A, ale czy ktoÅ mÃ³gÅby siÄ odnieÅÄ? | message_1.json |
-| 11:06:40 | Kamil Kusibab | ChociaÅ¼ nie wiem | message_1.json |
-| 09:08:21 | Anja Bulanda | Jak wyglÄda sprawa z gÅosami teraz? | message_1.json |
-| 09:08:11 | Julita Bouffette | TeÅ¼ tak sÄdzÄ, przynajmniej inna forma zaliczenia | message_1.json |
-| 09:08:38 | Damian Piotr Cokot | A chyba na tym polegajÄ te studia w koÅcu | message_1.json |
-| 09:08:23 | Damian Piotr Cokot | CoÅ ciekawszego i kreatywniejszego | message_1.json |
-| 22:14:50 | Maciek Radecki | [Photo: 1] | message_1.json |
-| 18:39:28 | Agnieszka Olszewska | Agnieszka Olszewska dodaÅa KarolinÄ BentkowskÄ do grupy. | message_1.json |
-| 09:07:53 | Damian Piotr Cokot | Imo jeÅli mamy szanse uÅ¼yÄ w koÅcu jakÄÅ wiedze w praktyce to warto sprÃ³bowaÄ, a Skowron sam... | message_1.json |
-| 22:14:51 | Maciek Radecki | Hu hu | message_1.json |
-| 09:08:39 | Julita Bouffette | I moÅ¼na siÄ sprawdziÄ, mÃ³wiÅ, Å¼e kaÅ¼da interpretacja moÅ¼e byÄ dobra i trzeba siÄ postaraÄ... | message_1.json |
-| 09:27:51 | Damian Piotr Cokot | No nic, tak ciÄ oznaczyÅem Å¼ebyÅ zauwaÅ¼yÅ ze gadamy o tb hihi | message_1.json |
-| 09:26:08 | Krzysztof Siwek | Co ja? | message_1.json |
-| 09:36:10 | Krzysztof Siwek | ð | message_1.json |
-| 09:30:28 | Justyna Sarota | ð | message_1.json |
-| 09:25:38 | Krzysztof Siwek | [Photo: 1] | message_1.json |
-| 09:11:18 | Damian Piotr Cokot | @Krzysztof Siwek ð | message_1.json |
-| 09:25:46 | Krzysztof Siwek | Bruh momento | message_1.json |
-| 09:25:42 | Krzysztof Siwek | X D D D | message_1.json |
-| 18:48:19 | Julita Bouffette | PamiÄtajcie o zrobieniu zagadnieÅ | message_1.json |
-| 14:38:35 | Paulina Kasprzak | Spraw o Pani bym kaca nie miaÅað¥ºð«¨ | message_1.json |
-| 18:50:53 | Maria Zguda | Szlag, zapomniaÅam i nie dam rady juÅ¼ dzisiaj. Wybaczysz mi, jeÅli wyÅlÄ jutro? | message_1.json |
-| 18:48:21 | Julita Bouffette | ð | message_1.json |
-| 14:37:19 | Karolina ZarÄbska | PobÅogosÅawi wszystkie drinki na integracji | message_1.json |
-| 14:37:07 | Juls Cichy | TrochÄ zÅego koloru, ale to pomiÅmy | message_1.json |
-| 14:37:52 | Paulina Kasprzak | Twoje wÅosy sÅoÅce wystarczÄ hahahâ¤ï¸ | message_1.json |
-| 14:37:39 | Paulina Kasprzak | SÅuchaj jakby byÅa zÅota to by byÅo za duÅ¼o Å¼Ã³Åtego XD | message_1.json |
-| 18:51:09 | Julita Bouffette | To do 29 | message_1.json |
-| 14:05:52 | Krzysztof Antoni AmbroÅ¼y Czekaj | 2 czerwca, piÄtek  od 17 do rana  -> DzieÅ WewnÄtrznego Dziecka -> Impreza z serii Psychosynteza,... | message_1.json |
-| 18:59:54 | Sebastian Kutaj | ja 29 siÄ postaram zrobiÄ | message_1.json |
-| 15:26:42 | Weronika WcisÅo | Weronika WcisÅo opuÅciÅ(a) grupÄ. | message_1.json |
-| 15:04:25 | Amelia Niezgoda | Amelia Niezgoda dodaÅa WeronikÄ Szaro do grupy. | message_1.json |
-| 18:51:26 | Maria Zguda | Hah no to oki, dziÄki | message_1.json |
-| 18:51:16 | Julita Bouffette | Jak coÅ, takÅ¼e luzik | message_1.json |
-| 18:59:38 | Magdalena MiÅkowiec | Czy lepiej do pÃ³Ånocy w niedziele ? | message_1.json |
-| 18:59:28 | Magdalena MiÅkowiec | WÅÄcznie ? | message_1.json |
-| 10:26:06 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
-| 10:02:57 | Kasia Masiarz | [No text content] | message_1.json |
-| 10:49:19 | Stasiu Przygoda | OgÃ³lnie to jednak muszÄ iÅÄ raz we wrzeÅniu | message_1.json |
-| 10:26:09 | Emilka Kowalczyk | Szumi na straÅ¼y | message_1.json |
-| 09:57:52 | Damian Piotr Cokot | Mamy czas do czwartku so fine | message_1.json |
-| 09:57:51 | Krzysztof Siwek | Mamy znowu 50/50 | message_1.json |
-| 09:59:17 | Krzysztof Siwek | Ale well | message_1.json |
-| 09:59:01 | Krzysztof Siwek | Ja teÅ¼ bym wolaÅ interpretacje bo jak sam powiedziaÅ dopÃ³ki trzyma siÄ kupy to ciÄÅ¼ko Å¼eby n... | message_1.json |
-| 10:49:26 | Stasiu Przygoda | Na wf | message_1.json |
-| 14:26:44 | MichaÅ Wiencek | To od razu nagrode dostaniesz | message_1.json |
-| 14:26:32 | MichaÅ Wiencek | Powiedz ze kozyre wyjebales z up | message_1.json |
-| 21:28:45 | Madzia Szczypka | [Photo: 1] | message_1.json |
-| 14:28:01 | Stasiu Przygoda | Popieram | message_1.json |
-| 14:26:12 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
-| 10:49:44 | Stasiu Przygoda | Bo na kaÅ¼dej kartce jest napisane ze jest grupa ale na stronie pisze ze rozwiÄzana | message_1.json |
-| 14:26:16 | MichaÅ Wiencek | Cos dla ciebie | message_1.json |
-| 14:26:14 | MichaÅ Wiencek | @Radek Salwach | message_1.json |
-| 09:54:39 | Damian Piotr Cokot | Jedna interpretacja i kilka pytaÅ z teorii rozwiÄzaÅoby sprawÄ | message_1.json |
-| 09:54:20 | Damian Piotr Cokot | MoÅ¼emy ewentualnie poÅÄczyÄ obydwie rzeczy na kolosie | message_1.json |
-| 09:55:08 | Krzysztof Siwek | WiÄc trochÄ defeats the purpose | message_1.json |
-| 09:54:59 | Krzysztof Siwek | No ale interpretacja byÅaby i tak jedna XDD | message_1.json |
-| 09:49:20 | Krzysztof Siwek | Obecnie ma 54% xd | message_1.json |
-| 09:49:11 | Krzysztof Siwek | Dobra stalemate siÄ zÅamaÅ i znowu gÅosy przesunÄÅy siÄ w stronÄ ksiÄÅ¼kowego testu | message_1.json |
-| 09:51:25 | Justyna Sarota | Y'know to chyba nie pierwszy raz gdzie 1-2 gÅosy decydujÄ | message_1.json |
-| 09:49:33 | Krzysztof Siwek | WiÄc ciÄÅ¼ko to nazwaÄ znaczÄcÄ wiÄkszoÅciÄ | message_1.json |
-| 09:55:33 | Damian Piotr Cokot | OgÃ³lnie chodzi mi tez o to ze test z samej wiedzy ksiÄÅ¼kowej niczego nie sprawdza | message_1.json |
-| 09:57:25 | Krzysztof Siwek | Okej JA PIERNICZÄ | message_1.json |
-| 09:56:37 | Krzysztof Siwek | Ale still | message_1.json |
-| 09:57:33 | Krzysztof Siwek | X D | message_1.json |
-| 09:57:32 | Krzysztof Siwek | Znowu siÄ wyrÃ³wnujÄ procenty | message_1.json |
-| 09:56:24 | Krzysztof Siwek | Ale ludzie na to gÅosujÄ bo prawdopodobnie 1: Åatwiej wykuÄ niÅ¼ byÄ kreatywnym i 2: Åatwiej Å... | message_1.json |
-| 09:55:40 | Damian Piotr Cokot | XD | message_1.json |
-| 09:56:31 | Krzysztof Siwek | Co niby jest valid point of view | message_1.json |
-| 09:56:31 | Damian Piotr Cokot | Wiec dodatkowa interpretacja na ocenÄ lepsza byÅaby imo dobrym rozwiÄzaniem dla zrÃ³Å¼nicowania o... | message_1.json |
-| 17:40:34 | Joanna Joanna | JÃ³zefacka, gdy mowila o egzaminie, to mowila, ze program bÄdzie liczyl za nas, ze sami nie musimy.... | message_1.json |
-| 17:04:18 | Magda Motal | ja przeglÄdnÄÅam tak z 1,5 strony i nie znalazÅam bÅÄdÃ³w, nie wiem jak jest dalej | message_1.json |
-| 17:41:40 | Joanna Joanna | KtoÅ sie orientuje jaka bÄdzie forma tego jutrzejszego egzaminu? A b c d, czy jak? | message_1.json |
-| 17:41:00 | Joanna Joanna | Czy jak o tym gadala, to miala na myÅli test na koniec ÄwiczeÅ | message_1.json |
-| 17:04:02 | Martyna Gancarczyk | a to w ogole jest przedmiot za 4 etcs XD | message_1.json |
-| 17:03:56 | Kamil Kusibab | materiaÅ wciÄÅ¼ siÄ pokrywa | message_1.json |
-| 17:04:07 | Kamil Kusibab | niecaÅoÅciowo | message_1.json |
-| 17:04:05 | Martyna Gancarczyk | takze koksik | message_1.json |
-| 17:42:43 | Magda Motal | mÃ³wiÅa Å¼e bÄdÄ tylko zamkniÄte pytania 1krotnego wyboru | message_1.json |
-| 18:35:00 | MaÅgorzata Gajewska | W pytaniu o Freuda jest odpowiedz niska | message_1.json |
-| 17:43:35 | Joanna Joanna | ð Oki dziÄki! | message_1.json |
-| 18:53:05 | Katarzyna Huk | Å¹rÃ³dÅo metoda prÃ³b i bÅÄdÃ³w hahaha | message_1.json |
-| 18:52:41 | Magda Motal | MogÅabyÅ podaÄ ÅºrÃ³dÅo? Bo nie mogÄ tego znaleÅºÄ w ksiÄÅ¼ce a chÄtnie bym sobie doczytaÅa | message_1.json |
-| 17:43:13 | Joanna Joanna | Ok, to moze chodzilo jej o test na koniec ÄwiczeÅ, gdy mowila, ze "sami nie bÄdziemy musieli licz... | message_1.json |
-| 17:42:43 | Katarzyna Huk | Abcd | message_1.json |
-| 17:43:27 | Magda Motal | nie kaÅ¼dy ma windowsa | message_1.json |
-| 17:43:21 | Magda Motal | z teorii i praktyki, ale raczej nie moÅ¼e wymagaÄ od nas SPSS | message_1.json |
-| 16:09:36 | Martyna Gancarczyk | nie wspomniaÅa chyba :- | message_1.json |
-| 16:07:42 | Anna PÅatek | Kojarzycie moÅ¼e czy mÃ³wiÅa Jozefacka ile ma trwaÄ ten egzamin jutro? | message_1.json |
-| 17:02:51 | Martyna Gancarczyk | z czego | message_1.json |
-| 17:02:43 | Kamil Kusibab | sprawdzaÅ ktoÅ z Was ten egzamin, ktÃ³ry mamy na dysku i orientuje siÄ ktoÅ, na ile prawidÅowe ... | message_1.json |
-| 13:35:44 | Martyna Gancarczyk | 9/12 | message_1.json |
-| 13:35:41 | Martyna Gancarczyk | [Photo: 12] | message_1.json |
-| 14:24:28 | Martyna Gancarczyk | @Ania Gancarz | message_1.json |
-| 14:24:25 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
-| 17:03:02 | Kamil Kusibab | ze statystyki | message_1.json |
-| 17:03:37 | Magda Motal | imo | message_1.json |
-| 17:03:35 | Martyna Gancarczyk | jÃ³zefacka jÄ prowadzi pierwszy raz | message_1.json |
-| 17:03:53 | Martyna Gancarczyk | ale nie martwcie sie tym, bedziemy pracowac wspolnie + mÃ³wila ze kazdy zda | message_1.json |
-| 17:03:43 | Kamil Kusibab | no wiem, ale warto i tak sprawdziÄ swojÄ wiedzÄ, tak | message_1.json |
-| 17:03:14 | Kamil Kusibab | waÅ¼na informacja sorki xD | message_1.json |
-| 17:03:10 | Martyna Gancarczyk | nie sugerujcie sie nim | message_1.json |
-| 17:03:28 | Magda Motal | ale to sÄ spoko pytanka poglÄdowe, nawet jeÅli nie jej | message_1.json |
-| 17:03:24 | Martyna Gancarczyk | w zeszÅych latach statystykÄ prowadziÅ ktoÅ inny | message_1.json |
-| 11:12:00 | Strojek Ania | DziÄki wielkie | message_1.json |
-| 10:48:52 | Katarzyna Morawska | Ja mam super ! ZadzwoniÄ do mamy i dam ci znaÄ ð | message_1.json |
-| 13:29:07 | Natalia Stachura | Nie, ale ja zwalniam pokÃ³j niedaleko pÅaszowa, przystanek Gromadzka, jakby ktoÅ byÅ chÄtny to z... | message_1.json |
-| 12:23:01 | Wiktoria Grochal | Czy ktoÅ tutaj ogarnia statystykÄ i moze mi pomÃ³c? Mam parÄ pytaÅ | message_1.json |
-| 09:20:38 | Marek Rapta | Nie planuje ktoÅ zwalniaÄ w najbliÅ¼szym czasie mieszkania gdzieÅ blisko podchorÄÅ¼ych? | message_1.json |
-| 06:30:40 | Weronika ZieliÅska | Super ð | message_1.json |
-| 10:38:42 | Strojek Ania | Macie moÅ¼e do polecenia szewca w Krakowie? KupiÅam niskie szpilki kitten heels i sÄ caÅkowicie n... | message_1.json |
-| 09:30:25 | Emilka Matera | Emilka Matera dodaÅa WiktoriÄ Grochal do grupy. | message_1.json |
-| 14:32:23 | Edyta Bobak | [Photo: 1] | message_1.json |
-| 14:36:05 | Magda CieÅ¼ | ð¤ | message_1.json |
-| 14:36:00 | Magda CieÅ¼ | Bawcie siÄ dobrze!! | message_1.json |
-| 14:36:55 | Karolina ZarÄbska | XDDDDDD | message_1.json |
-| 14:36:42 | Paulina Kasprzak | Juls ma aureolÄ ale jaja! ð | message_1.json |
-| 14:35:16 | Ewelina KapÅon | Tylko nie zgubcie siÄ ! | message_1.json |
-| 14:32:34 | Edyta Bobak | Zaczynamy podbijaÄ WarszawÄ | message_1.json |
-| 14:35:52 | Karolina ZarÄbska | ð miÅego dzionka dziewczynki | message_1.json |
-| 14:35:50 | Juls Cichy | Mamy strzaÅeczki, wiÄc nie mamy jak siÄ zgubiÄ | message_1.json |
-| 20:28:31 | Magda Motal | [Photo: 1] | message_1.json |
-| 19:01:16 | Magda Motal | dziÄkujÄ!! | message_1.json |
-| 20:28:44 | Magda Motal | MetodÄ prÃ³b i upadkÃ³w teÅ¼ XDD | message_1.json |
-| 20:28:38 | Magda Motal | To na 100% dobrze | message_1.json |
-| 18:53:33 | MaÅgorzata Gajewska | *znaleÅºÄ | message_1.json |
-| 18:53:24 | MaÅgorzata Gajewska | Nie mam ÅºrÃ³dÅa bo rzeczywiÅcie trudno cokolwiek znaleÅÄ ale robiliÅmy wspÃ³lnie test i okazaÅ... | message_1.json |
-| 18:56:39 | Toma Marchuk | [Photo: 1] | message_1.json |
-| 18:53:49 | Magda Motal | Oki, dziÄkujÄ w kaÅ¼dym razie | message_1.json |
-| 17:20:13 | Karolina Master | Karolina nadaÅ(a) grupie nazwÄ ObÃ³z naukowy ðï¸. | message_1.json |
-| 06:21:11 | Weronika ZieliÅska | WysÅaÅam mamÄ do zdania bojowego, jak tylko mi powiedziaÅa wczoraj, ale jeszcze na ten moment ni... | message_1.json |
-| 06:19:28 | Karolina ZarÄbska | WyÅlesz zdjÄcie? | message_1.json |
-| 06:25:33 | Karolina ZarÄbska | Jak wyÅlesz to ja teÅ¼ rozeÅle | message_1.json |
-| 06:25:22 | Karolina ZarÄbska | Ja bym wziÄÅa tyle kotÃ³w ile mi siÄ do mieszkania zmieÅci gdybym mogÅa XD | message_1.json |
-| 17:25:05 | Karolina Master | Karolina Master dodaÅa AniÄ Szkliniarz do grupy. | message_1.json |
-| 17:20:56 | Karolina Master | Karolina Master dodaÅa BarbarÄ ÅapiÅskÄ do grupy. | message_1.json |
-| 06:18:47 | Weronika ZieliÅska | Hej, czy ktoÅ nie chciaÅby przygarnÄÄ rudego kota? Do rodzicÃ³w ostatnio przychodzi, widaÄ Å¼e ... | message_1.json |
-| 17:49:08 | Alicja Ewa Dubiel | Alicja Ewa Dubiel opuÅciÅ(a) grupÄ. | message_1.json |

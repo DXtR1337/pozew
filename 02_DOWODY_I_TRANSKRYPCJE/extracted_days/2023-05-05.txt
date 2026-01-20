@@ -1,245 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-05-05
-# Liczba: 240
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 12:39:04 | Martyna Gancarczyk | MoÅ¼e dobrze byÅoby napisaÄ do wszystkich nauczycieli od kolosÃ³w w tym temacie skoro czerwiec mam... | message_1.json |
-| 12:39:08 | Martyna Gancarczyk | brak odpowiedzi jeszcze | message_1.json |
-| 12:43:03 | Adrianna Koza | Oki dziÄki! | message_1.json |
-| 12:38:54 | Adrianna Koza | Wie ktoÅ czy mamy w niedziele mmfu zdalnie? | message_1.json |
-| 12:36:50 | Kamil Kusibab | Smutni panowie bÄdÄ do nas przychodziÄ | message_1.json |
-| 12:37:28 | Magda Staszel | Zbierze wolontariuszy ktÃ³rzy bÄdÄ nas pilnowaÄ | message_1.json |
-| 12:38:45 | Adrianna Koza | PrzerywajÄc na moment tÄ tragikomediÄ ð | message_1.json |
-| 12:47:01 | Martyna Gancarczyk | A moÅ¼ecie mi napisaÄ z czego mamy kolosy? | message_1.json |
-| 12:51:14 | Magda Motal | statystyka | message_1.json |
-| 12:51:56 | Magda Motal | motywacja jest w maju jeszcze i juÅ¼ powiedziane Å¼e zdalnie wiÄc jedyne o co pasowaÅoby zapytaÄ ... | message_1.json |
-| 12:52:09 | Magda Motal | ale to w sumie jutro zapytamy | message_1.json |
-| 12:51:10 | Magda Motal | motywacja, mÃ³zgowe, poznawcza jeÅli o to pytasz | message_1.json |
-| 12:47:08 | Martyna Gancarczyk | Logika Lektorat | message_1.json |
-| 12:47:09 | Martyna Gancarczyk | co jesczzw | message_1.json |
-| 12:50:11 | Magda Motal | w sobotÄ gk3 ma z niÄ Äwiczenia to zapytamy najwyÅ¼ej | message_1.json |
-| 12:34:23 | Jowita Rozum | Prosze nagraÄ sie z trzech rÃ³Å¼nych urzÄdzeÅ podczad pisania i wysÅaÄ mi nagrania | message_1.json |
-| 12:34:23 | Martyna Gancarczyk | mogÄ ogÃ³lnie | message_1.json |
-| 12:34:44 | Magda Staszel | I zaopatrzyÄ siÄ w 3:  1. Na twarz 2. Na rÄce  A 3 na caÅy pokÃ³j | message_1.json |
-| 12:33:53 | Wiktoria MiÅaszewska | ,,prosze obrÃ³ciÄ kamerÄ o 180 stopniâ | message_1.json |
-| 12:33:42 | Wiktoria MiÅaszewska | JuÅ¼ widzÄ go na zdalnym kolosie | message_1.json |
-| 12:33:42 | Martyna Gancarczyk | myÅlÄ Å¼e trzeba wszystkim nauczycielom to ogÃ³lnie powiedzieÄ Å¼e mamy zdalny czerwiec bo moÅ¼e ... | message_1.json |
-| 12:33:48 | Martyna Gancarczyk | A to doÅÄ istotneXD | message_1.json |
-| 12:34:47 | Magda Motal | ogÃ³lnie rozjebane to jest bo nawet chcÄc przyjechaÄ na mmfu stacjonarnie musielibyÅmy siedzieÄ ... | message_1.json |
-| 12:36:36 | Magda Staszel | I spontanicznie bÄdÄ prosiÄ o wykonanie jakiejÅ czynnoÅci | message_1.json |
-| 12:36:36 | Wiktoria MiÅaszewska | Albo po prostu zrobi speedrun po naszych domach | message_1.json |
-| 12:36:40 | Wiktoria MiÅaszewska | Jest na tyle szybki | message_1.json |
-| 12:36:29 | Sylwia HoÅda | On jest totalnie do tego zdolny xd on nie przeÅ¼yÅby braku kontroli nad nami | message_1.json |
-| 12:34:47 | Magda Motal | [Photo: 1] | message_1.json |
-| 12:35:11 | Martyna Gancarczyk | no ja mam np o 18 ten kolos wiec wcale nie lepiej | message_1.json |
-| 12:36:03 | Kamil Kusibab | ProszÄ puÅciÄ drona w pokoju i niech nagrywa z widoku lotu ptaka | message_1.json |
-| 20:07:40 | Ania Gancarz | [Photo: 1] | message_1.json |
-| 20:10:04 | Magda Motal | "KC" | message_1.json |
-| 20:10:05 | Magda Motal | Kct | message_1.json |
-| 19:52:45 | Ania Gancarz | zawsze wam daje na bieÅ¼Äco znaÄ o wszystkim | message_1.json |
-| 19:50:51 | Martyna Gancarczyk | moÅ¼e Ania nie ukrywa przed nami Å¼adnych informacji i by siÄ podzieliÅa gdyby wiedziaÅa ; p | message_1.json |
-| 19:51:58 | Magda Motal | NiecierpliwiÄ siÄ sorry XDD | message_1.json |
-| 19:52:37 | Ania Gancarz | nie widziaÅam, im sorry | message_1.json |
-| 10:00:40 | Natalia Stachura | Hejka kochani,  ProsiÅabym o klikniÄcie w wydarzenie, zrÃ³bmy haÅas o finale kokosa ð¥¥ð¥° http... | message_1.json |
-| 15:37:03 | Ania Michno | Jest i ona... Oficjalna spoÅecznoÅÄ superformyð¤¸ DoÅÄczajcie i udostÄpniajcieð  https://w... | message_1.json |
-| 15:54:53 | Edyta Bobak | Idealne miejsce na ogarnianie spotkaÅ sportowych i na cieszenie siÄ swojÄ pasjÄ â¤ï¸ | message_1.json |
-| 22:18:08 | Maciek Radecki | [Photo: 1] | message_1.json |
-| 12:56:04 | Ola CioÅek | 29 | message_1.json |
-| 10:06:36 | Magda Waga | przed wzc moÅ¼na zajrzeÄ na pokaz na miasteczkuð | message_1.json |
-| 12:55:45 | Kamil Milik | Hej, ktoÅ wie dokÅadnie od kiedy up przechodzi na zdalne? | message_1.json |
-| 12:56:03 | Agnieszka Serwinowska | od 28 | message_1.json |
-| 13:04:23 | Magda Motal | tak tak | message_1.json |
-| 13:36:25 | Ania Gancarz | Czernecka pyta, co z Äwiczeniami po wykÅadzie, jeÅ¼eli miaÅby byÄ zdalnie | message_1.json |
-| 13:36:59 | Ania Gancarz | bÄdziecie w trakcie wykÅadu na uczelnie jechaÄ, czy chcielibyÅcie je zdalnie tez, czy co | message_1.json |
-| 13:03:13 | Martyna Gancarczyk | Ten na pc | message_1.json |
-| 13:03:02 | Martyna Gancarczyk | jaki jest kolos ze statystyki | message_1.json |
-| 13:03:08 | Martyna Gancarczyk | aa Å¼e egzamin praktyczny ci chodzi! | message_1.json |
-| 13:03:09 | Martyna Gancarczyk | ? * | message_1.json |
-| 13:40:46 | Kamil Kusibab | Zdalne | message_1.json |
-| 13:41:52 | Katarzyna Huk | To gÅosujÄ juÅ¼ tylko osoby ktÃ³re maja w ten dzieÅ Äwiczenia nie? | message_1.json |
-| 16:45:33 | Ania Gancarz | okej, to tak jej napisze | message_1.json |
-| 19:41:51 | Magda Motal | @Ania Gancarz byÅ juÅ¼ jakiÅ odzew? | message_1.json |
-| 13:41:20 | Kamil Kusibab | Grupie* | message_1.json |
-| 13:40:48 | Kamil Kusibab | Stacjonarne | message_1.json |
-| 13:40:50 | Kamil Kusibab | GÅosujcie | message_1.json |
-| 13:41:17 | Kamil Kusibab | Albo zrÃ³bmy posta na grupa | message_1.json |
-| 12:25:43 | Martyna Gancarczyk | nie dawaÅabym go na jeden weekend raczej | message_1.json |
-| 12:26:03 | Sylwia HoÅda | A moÅ¼e jakby przedÅuÅ¼yÄ sesje do tego 2.07 i pisaÄ to tego 2.07? Zawsze wiÄcej czasu, Å¼eby na... | message_1.json |
-| 12:26:20 | Martyna Gancarczyk | hmm ale wtedy miaÅy byÄ mÃ³zgowe | message_1.json |
-| 12:23:43 | Sylwia HoÅda | To nie dobrze | message_1.json |
-| 12:18:53 | Magda Motal | I jak doÅoÅ¼ymy jeszcze egzamin z emocji to nie wiem czy siÄ wyrobimy z tym wszystkim | message_1.json |
-| 12:22:32 | Sylwia HoÅda | No moÅ¼naby to pisaÄ w ten sam weekend co poznawcza, skoro niby jest bazÄ itp. | message_1.json |
-| 12:23:22 | Magda Motal | Ja siÄ trochÄ bojÄ Å¼e ona pozmienia bazÄ bo u nas mÃ³wiÅa Å¼e wie jaki bÅÄd popeÅniÅa i ju... | message_1.json |
-| 12:26:29 | Magda Motal | Poprawka* kolos z mmfu jest jednak tydzieÅ wczeÅniej - ale to i tak duÅ¼o jak na jeden weekend | message_1.json |
-| 12:27:41 | Martyna Gancarczyk | wydaje mi siÄ Å¼e jesteÅmy w stanie siÄ tak spiÄÄ mocno i poradziÄ z jednym egzaminem tego 18.... | message_1.json |
-| 12:27:58 | Martyna Gancarczyk | Wiecie nawet z nia nie byÅo Å¼adnej rozmowy w tym temacie i nie wiemy czy siÄ zgodzi w ogÃ³le | message_1.json |
-| 12:28:25 | Magda Motal | Imo to by byÅo najlepsze rozwiÄzanie bo bÄdziemy mieÄ praktycznie wszystko z gÅowy tego 18 i mo... | message_1.json |
-| 12:27:27 | Magda Motal | WiÄc ani tak ani tak nie jest lepiej XDD | message_1.json |
-| 12:26:45 | Kamil Kusibab | No najlepiej jednak tÄ sesjÄ o dwa dni przedÅuÅ¼yÄ i rozprÄÅ¼yÄ sobie sesje | message_1.json |
-| 12:26:46 | Sylwia HoÅda | Znaczy w mojej grupie jest 17-18 | message_1.json |
-| 12:27:18 | Magda Motal | Wychodzi na to Å¼e bÄdziemy pisaÄ w ten sam weekend albo co poznawcza 25-26.06 albo co mmfu 30.06-... | message_1.json |
-| 21:33:42 | Katarzyna Morawska | [Photo: 1] | message_1.json |
-| 21:33:43 | Katarzyna Morawska | To po majowce ð¤£ð¤£ð¤£ | message_1.json |
-| 21:33:51 | Katarzyna Morawska | Przyda siÄ idealnie ðªð» | message_1.json |
-| 16:21:53 | Edyta Bobak | Nie moÅ¼e Was tam zabraknÄÄ !!! | message_1.json |
-| 16:20:48 | Marek Rapta | Zapraszamy takÅ¼e na naszÄ nowiutkÄ grupÄ na fb,  gdzie moÅ¼na znaleÅºÄ ludzi do wspÃ³lnej aktyw... | message_1.json |
-| 16:20:53 | Marek Rapta | https://www.facebook.com/100064524826595/posts/pfbid02hAADiLwGeBSqrYmnYzxDUasHGQQgK7uRDiAVsLdamweETg... | message_1.json |
-| 16:20:56 | Marek Rapta | [Photo: 1] | message_1.json |
-| 12:04:07 | Magda Motal | a co do psychologii emocji, wie ktoÅ moÅ¼e czy na kolejnym kolosie obowiÄzuje nas ostatni punkt z ... | message_1.json |
-| 12:16:51 | Magda Motal | [No text content] | message_1.json |
-| 12:17:11 | Magda Motal | Znaczy XD niewaÅ¼ne zajebaÅam siÄ w akcji | message_1.json |
-| 12:18:34 | Magda Motal | W weekend 17-18.06 mamy dosyÄ sporo do ogarniÄcia bo wtedy sÄ ostatnie Äwiczenia z mÃ³zgowych, p... | message_1.json |
-| 12:14:12 | Magda Motal | I wykÅad teÅ¼ nam wyÅle nagrany | message_1.json |
-| 12:04:10 | Magda Motal | [Photo: 1] | message_1.json |
-| 12:13:38 | Martyna Gancarczyk | A chyba ten kolos 27.05 ma byÄ zdalny co nie? | message_1.json |
-| 12:14:05 | Magda Motal | Tak mÃ³wiÅa | message_1.json |
-| 12:31:46 | Sylwia HoÅda | Samym siÄ im nie bÄdzie chciaÅo | message_1.json |
-| 12:31:58 | Magda Motal | SzczegÃ³lnie Fudali | message_1.json |
-| 12:32:08 | Sylwia HoÅda | Jej to na pewno | message_1.json |
-| 12:31:33 | Magda Motal | Ale- | message_1.json |
-| 12:31:10 | Magda Motal | Na napisanie kolosa | message_1.json |
-| 12:31:25 | Kamil Kusibab | To jest UP, pamiÄtaj | message_1.json |
-| 12:31:29 | Magda Motal | Znaczy mogÄ | message_1.json |
-| 12:32:20 | Martyna Gancarczyk | Kolos z logiki nie | message_1.json |
-| 12:33:06 | Martyna Gancarczyk | W sensie mÃ³wiÅ tak w kontekÅcie tego, Å¼e zdalnie bÄdzie coÅ tam | message_1.json |
-| 12:33:07 | Magda Motal | To siÄ nie wyrobimy | message_1.json |
-| 12:33:12 | Martyna Gancarczyk | I on powiedziaÅ ze kolos bÄdzie normalnie | message_1.json |
-| 12:33:04 | Magda Motal | I skoro ma byÄ zdalnie | message_1.json |
-| 12:32:24 | Martyna Gancarczyk | On jest stacjo | message_1.json |
-| 12:32:44 | Magda Motal | Ale musimy z nim pogadaÄ o tym bo nie zdÄÅ¼ymy dojechaÄ | message_1.json |
-| 12:32:57 | Magda Motal | Gk3 ma np mÃ³zgowe przed logikÄ | message_1.json |
-| 12:28:59 | Martyna Gancarczyk | plus w czerwcu wszystko zdalnie mamy | message_1.json |
-| 12:29:14 | Sylwia HoÅda | Oby sesja byÅa zdalna | message_1.json |
-| 12:29:17 | Martyna Gancarczyk | czy ja wiem, mogÅo byc gorzej duÅ¼o | message_1.json |
-| 12:28:53 | Martyna Gancarczyk | wiÄc to wrÄcz nie egzamin xd | message_1.json |
-| 12:28:38 | Magda Motal | Tylko bÄdzie straszny zapierdol | message_1.json |
-| 12:28:39 | Martyna Gancarczyk | A z poznawczej nie chce robiÄ nam przed sesja wiÄc nie mamy wyjÅcia | message_1.json |
-| 12:28:47 | Martyna Gancarczyk | A lektorat i tak jest egzamin na moodle | message_1.json |
-| 12:29:31 | Magda Motal | ð¯ï¸ð¯ï¸ð¯ï¸ Sesja jest zdalna ð¯ï¸ð¯ï¸ð¯ï¸ | message_1.json |
-| 12:30:56 | Magda Motal | Nie no ale jak zajÄcia sÄ zdalnie | message_1.json |
-| 12:31:04 | Magda Motal | To nie mogÄ nas zmusiÄ przyjechaÄ na 20 minut | message_1.json |
-| 12:31:06 | Magda Motal | Czy pÃ³Å h | message_1.json |
-| 12:30:51 | Sylwia HoÅda | Dobra to damy radÄ xd | message_1.json |
-| 12:30:02 | Sylwia HoÅda | A myÅlicie, Å¼e te wszystkie kolosy czerwcowe teÅ¼? | message_1.json |
-| 12:30:15 | Magda Motal | Ja mam porÃ³wnanie miÄdzy pierwszym semestrem a teraz tylko wiÄc pod tym wzglÄdem juÅ¼ oceniam XD... | message_1.json |
-| 12:30:41 | Magda Motal | Tak. ð¯ï¸ | message_1.json |
-| 12:02:33 | MichaÅ Wiencek | Za sÅodki drink+za malo slodki kisiel XD | message_1.json |
-| 12:02:33 | Stasiu Przygoda | Brzmi zle | message_1.json |
-| 12:03:20 | MichaÅ Wiencek | To jak nam z lodowki | message_1.json |
-| 12:02:24 | MichaÅ Wiencek | I to jest pyszne | message_1.json |
-| 12:02:18 | MichaÅ Wiencek | Polaczylem 2 jedyne rzeczy ktore moge jesc | message_1.json |
-| 12:02:21 | MichaÅ Wiencek | Nutridrinka i z kisielem | message_1.json |
-| 12:02:22 | Stasiu Przygoda | A tak na serio to miaÅ pralkÄ rozjebana ze mu woda siÄ wylewaÅa | message_1.json |
-| 12:05:46 | Stasiu Przygoda | Nooo z tym ze on miaÅ chyba obieg zamkniÄty ze zlewem i mu siÄ to do zlewu wylewaÅo?? | message_1.json |
-| 12:16:23 | Radek Salwach | ð | message_1.json |
-| 12:16:44 | Radek Salwach | OprÃ³cz tego, nawet bliski nie byÅem do tego jacy wy byliÅcie potem wkurwiajÄcy | message_1.json |
-| 12:16:48 | Radek Salwach | I taka jest prawda | message_1.json |
-| 12:16:21 | Radek Salwach | MiaÅem swoje powody | message_1.json |
-| 12:05:49 | Stasiu Przygoda | CoÅ takiego | message_1.json |
-| 12:11:22 | Radek Salwach | Ohoho narzekaÅ | message_1.json |
-| 12:13:07 | Stasiu Przygoda | GlÄdziÅeÅ caÅy czas na nas i taka prawda | message_1.json |
-| 09:26:12 | Madzia Szczypka | Kazdy ma granice | message_1.json |
-| 09:27:38 | MichaÅ Wiencek | Czulem sie troche jak to ogladalem na Å¼ywo jakbym jakiÅ filmik z bestgore oglÄdaÅ | message_1.json |
-| 11:54:46 | Radek Salwach | Uwaga nie uwierzycie, ogarnieta zostaÅa sprawa z pralkÄ pierdolonÄ | message_1.json |
-| 09:24:43 | MichaÅ Wiencek | KiedyÅ bylas pierwsza do tego Å¼ebym rurki wysylal | message_1.json |
-| 09:24:14 | MichaÅ Wiencek | Wszystko na zywca | message_1.json |
-| 09:24:18 | MichaÅ Wiencek | XDDDD | message_1.json |
-| 09:24:30 | MichaÅ Wiencek | I w opatrunek zawineli tak o | message_1.json |
-| 11:55:01 | Radek Salwach | Nie trza byÅo hydraulika, ale zadanie Åatwe nie byÅo | message_1.json |
-| 12:01:58 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
-| 12:01:58 | Stasiu Przygoda | Stary po tym jak marudziÅ wczoraj na towarzystwo dzisiaj wstaÅ i zaczÄÅ rozbieraÄ pralkÄ i Åc... | message_1.json |
-| 12:02:09 | MichaÅ Wiencek | WGL patrzcie jaki masterchef ze mnie jest | message_1.json |
-| 11:57:37 | MichaÅ Wiencek | XD | message_1.json |
-| 11:57:27 | MichaÅ Wiencek | A co Ci siÄ z pralkÄ stalo? | message_1.json |
-| 11:57:31 | MichaÅ Wiencek | I jak ogarnÄÅes | message_1.json |
-| 11:57:35 | MichaÅ Wiencek | Chetnie poslucham | message_1.json |
-| 14:18:49 | Stasiu Przygoda | Jest dzieÅ up | message_1.json |
-| 14:19:01 | Radek Salwach | Åwietnie | message_1.json |
-| 14:19:06 | Radek Salwach | To wiem kiedy jadÄ do WrocÅawua | message_1.json |
-| 14:07:46 | Radek Salwach | Skowronek/Marzenka i nawet nasz wf nie ma w planie | message_1.json |
-| 12:44:04 | Stasiu Przygoda | No to mÃ³wiÄ zadzwoÅcie do wÅaÅciciela co z tym zrobiÄ | message_1.json |
-| 12:44:23 | Stasiu Przygoda | Tak to caÅy czas bÄdzie siÄ psuÄ | message_1.json |
-| 14:07:36 | Radek Salwach | ktoÅ wie czemu my 11 maja, nastÄpny czwartek full wolne? | message_1.json |
-| 14:25:49 | Stasiu Przygoda | Kurde tez by sie do siebie wrÃ³ciÅo | message_1.json |
-| 15:12:30 | Madzia Szczypka | Ja bym w sumie w jakis weekend pojechaÅa na 2 dni do Pragi | message_1.json |
-| 15:12:34 | Madzia Szczypka | Mozemy jechac | message_1.json |
-| 16:03:58 | Stasiu Przygoda | Ok to jutro | message_1.json |
-| 15:12:03 | Madzia Szczypka | Znowu | message_1.json |
-| 14:26:36 | Radek Salwach | Ja bym pojechaÅ teraz, ale tak mi siÄ nie chce w cholerne | message_1.json |
-| 14:26:47 | Radek Salwach | I ogarnÄÅem opiekÄ kotom we Wro Å¼e nie jadÄ tam teraz | message_1.json |
-| 14:29:19 | Stasiu Przygoda | Ja bym se jakiegoÅ tripa zajebal | message_1.json |
-| 12:17:50 | Stasiu Przygoda | Ale fanie byÅo | message_1.json |
-| 12:18:10 | Radek Salwach | Ale my mÃ³wimy o narzekaniu czy byciu wkurwiajÄcym | message_1.json |
-| 12:18:17 | Stasiu Przygoda | Tym drugim | message_1.json |
-| 12:17:45 | Stasiu Przygoda | RaduÅ ale tylko ty narzekales wczoraj, popytaj tÅumu to ci odpowiedzÄ inaczej | message_1.json |
-| 12:16:50 | Radek Salwach | ðð | message_1.json |
-| 12:17:29 | MichaÅ Wiencek | Spinka | message_1.json |
-| 12:17:39 | Radek Salwach | Nie no chill | message_1.json |
-| 12:18:48 | Stasiu Przygoda | Wczoraj byla akcja robiona Radku | message_1.json |
-| 12:37:24 | Radek Salwach | Bo zawleczkÄ odkrÄciÅ Matczak i zaczÄÅo laÄ wodÄ w chuj, to zaczÄliÅmy odsÄczaÄ wodÄ z r... | message_1.json |
-| 12:37:44 | Radek Salwach | Ale gramy w fifkÄ i nagle poszÅo Gul Gul i jednak cipa Jana jest nadal | message_1.json |
-| 12:38:31 | Radek Salwach | W kaÅ¼dym razie kret tu nie pomoÅ¼e juÅ¼ | message_1.json |
-| 12:36:20 | Radek Salwach | Jednak nie jest git, ale juÅ¼ byÅo git | message_1.json |
-| 12:19:00 | Stasiu Przygoda | Operacja pt. âNo zarycz Noâ | message_1.json |
-| 12:19:28 | Stasiu Przygoda | I myÅle ze siÄ poniekÄd udaÅa | message_1.json |
-| 12:22:07 | Stasiu Przygoda | Ale No mister opowiedz coÅ z pralka zrobiÅ ze juÅ¼ jest git | message_1.json |
-| 09:41:01 | Anja Bulanda | [Photo: 1] | message_1.json |
-| 09:45:56 | Sebastian Kutaj | niech zmieniÄ na uniwersytet wakacyjny | message_1.json |
-| 09:46:00 | Sebastian Kutaj | bedziemy miec krakowskie uwu | message_1.json |
-| 11:58:37 | Oliwia Julia Serafin | Ech szkoda Å¼e nie zal :/ no nic, dziÄkujÄ bardzo :) | message_1.json |
-| 11:54:39 | Dorota Szczerba | Ale ostatnio na filozofii byÅo tylko zal u niego | message_1.json |
-| 11:54:42 | Weronika SÅota | Zaliczenie z ocenÄ | message_1.json |
-| 11:54:56 | Gabriela WÃ³jcikiewicz | na ocenÄ | message_1.json |
-| 10:46:07 | Sebastian Kutaj | albo uniwersytet kognistyczny czy coÅ | message_1.json |
-| 10:59:46 | Anja Bulanda | MoÅ¼e nie bÄdziemy siÄ musieli w koÅcu uÅ¼eraÄ z tymi filozofiami na kogni | message_1.json |
-| 10:59:52 | Anja Bulanda | XDDDD | message_1.json |
-| 11:00:01 | Seweryn Harvey Howell | Przeczytalem | message_1.json |
-| 10:59:32 | Anja Bulanda | Popieram | message_1.json |
-| 10:49:45 | Sebastian Kutaj | [Photo: 1] | message_1.json |
-| 10:49:46 | Sebastian Kutaj | XDD | message_1.json |
-| 10:54:43 | Julia Chrzan | Co jest xD | message_1.json |
-| 09:27:05 | Dorota Szczerba | A nie miaÅo byÄ na drugich i chyba czwartych? Czy coÅ | message_1.json |
-| 09:27:18 | Klaudia SzymaÅska | okeeej dziÄkii | message_1.json |
-| 09:27:28 | Dorota Szczerba | Ostatnio mÃ³wiÅa, Å¼e to drugie miaÅo byÄ 27.05 jak jej nie ma | message_1.json |
-| 09:27:03 | Weronika SÅota | Chyba dopiero na kolejnych | message_1.json |
-| 22:18:21 | Maciek Radecki | https://fb.me/e/QiOM6x5n | message_1.json |
-| 22:19:33 | Maciek Radecki | Zapraszam do czynnego i biernego udziaÅu ;) - tematy mogÄ byÄ z pograniczna teologii i innych nau... | message_1.json |
-| 09:26:27 | Klaudia SzymaÅska | czy na jutrzejszych zajÄciach z psychologii motywacji tez bÄdzie takie krÃ³tkie kolokwium? wydaje ... | message_1.json |
-| 09:27:36 | Dorota Szczerba | WiÄc bÄdzie to bardziej quiz online | message_1.json |
-| 10:56:47 | Gabriela WÃ³jcikiewicz | Chyba nie odpisaÅa jeszcze | message_1.json |
-| 11:53:26 | Oliwia Julia Serafin | Wie ktoÅ moÅ¼e czy kolokwium z logiki jest na ocenÄ czy na zal? | message_1.json |
-| 11:54:04 | Dorota Szczerba | Trudne pytanie ja ostatnio, zapytaÅam ile bÄdzie bÄdzie pytaÅ na kolokwium to mi opowiadaÅ z 5 ... | message_1.json |
-| 10:55:50 | Magda Staszel | A tego to juÅ¼ nie wiem | message_1.json |
-| 09:27:47 | Oliwia WÅodarczyk | kamieÅ z serca.. | message_1.json |
-| 10:54:12 | Magda Staszel | A ja mam takie pytanie czy w niedzielÄ tylko wykÅady z MMFU mamy zdalnie czy Äwiczenia teÅ¼ ? | message_1.json |
-| 10:55:14 | Dorota Szczerba | WÅaÅnie chyba tylko wykÅad,  wiÄc bez sensu sobie to wymyÅlili,  ale czy prowadzÄca odpisaÅa?... | message_1.json |
-| 09:23:24 | MichaÅ Wiencek | Wlasnie bylem swiadkiem | message_1.json |
-| 09:23:27 | MichaÅ Wiencek | Jak dziakdowi obok mnie | message_1.json |
-| 09:23:30 | MichaÅ Wiencek | Po.amputacji nogi | message_1.json |
-| 09:23:21 | MichaÅ Wiencek | Kurwa mac | message_1.json |
-| 14:20:12 | Gabriela WÃ³jcikiewicz | KOCHAM XDDDD | message_1.json |
-| 14:20:19 | Gabriela WÃ³jcikiewicz | za dobrze mnie znasz XD | message_1.json |
-| 14:20:49 | Dorota Szczerba | No raczej nie pytasz o nasz plan dnia tak hobbistycznie ð | message_1.json |
-| 09:23:36 | Madzia Szczypka | Siusiaka trzymali? | message_1.json |
-| 09:24:06 | Madzia Szczypka | Ej pisz to Radkowi na pv | message_1.json |
-| 09:24:07 | MichaÅ Wiencek | I polewali to miÄso czyms | message_1.json |
-| 09:24:07 | Madzia Szczypka | Xddd | message_1.json |
-| 09:24:00 | MichaÅ Wiencek | Rozciagneli to tak | message_1.json |
-| 09:23:43 | MichaÅ Wiencek | Wycinali wszystkie szwy pod kolanem na zywca | message_1.json |
-| 09:23:47 | MichaÅ Wiencek | Potem wyciagneli mu cale mieso | message_1.json |
-| 09:23:57 | MichaÅ Wiencek | Ze kosc kolanowa bylo widac | message_1.json |
-| 12:52:48 | Sebastian Kutaj | czyli nie bd filozofii na zajeciach?? | message_1.json |
-| 12:52:52 | Sebastian Kutaj | tylko sam abramciow?? | message_1.json |
-| 12:52:55 | Sebastian Kutaj | super | message_1.json |
-| 12:33:07 | BarÅomiej Greiner | Hehe | message_1.json |
-| 11:00:05 | Seweryn Harvey Howell | Filozofilami | message_1.json |
-| 12:26:37 | BarÅomiej Greiner | Po co naprawiaÄ problemy, jak moÅ¼na siÄ ich pozbyÄ z papieru xd Moze jeszcze przeksztaÅca IS po... | message_1.json |
-| 12:32:58 | BarÅomiej Greiner | A kogni ma przejÅÄ na instytut psychologii | message_1.json |
-| 14:18:07 | Anja Bulanda | A jaki byÅ problem w ogÃ³le? i jak coÅ to Å¼artowaÅam z tym Å¼e to popieram XDD | message_1.json |
-| 14:19:57 | Dorota Szczerba | Chyba ja | message_1.json |
-| 14:20:04 | Dorota Szczerba | Wpisze CiÄ | message_1.json |
-| 14:20:11 | Magda Staszel | A ja gÅÄboko nad tym rozmyÅlam | message_1.json |
-| 14:19:46 | Gabriela WÃ³jcikiewicz | Czy ktoÅ z Was wybiera siÄ jutro na wykÅad? | message_1.json |
-| 14:20:23 | Anja Bulanda | Tak serio to nie wiem o co chodzi, czemu chcÄ to usunÄÄ? | message_1.json |
-| 15:51:04 | Bartek Rybicki | Å»eby lepiej brzmiaÅo | message_1.json |
-| 15:51:44 | Bartek Rybicki | [Photo: 1] | message_1.json |

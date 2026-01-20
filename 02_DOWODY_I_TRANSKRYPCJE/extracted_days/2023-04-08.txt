@@ -1,205 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-04-08
-# Liczba: 200
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 11:00:46 | Radek Salwach | JuÅ¼ zaczynam trochÄ rozumieÄ | message_1.json |
-| 11:00:50 | Madzia Szczypka | I jedyne co powiedzial to ja pierdole | message_1.json |
-| 11:00:52 | Madzia Szczypka | XDDDDDDDD | message_1.json |
-| 11:00:35 | Radek Salwach | Dobra Madzia | message_1.json |
-| 11:00:35 | Madzia Szczypka | To zobaczyÅ kolczyki | message_1.json |
-| 11:00:45 | Madzia Szczypka | I miaÅ mine takiego zawiedzionego ojca | message_1.json |
-| 11:01:46 | Madzia Szczypka | Ale wesoÅych swiat Wam tez dziubaski!!! â¤ï¸ | message_1.json |
-| 11:01:47 | Radek Salwach | Ale to na rÄce, i tatuaÅ¼ | message_1.json |
-| 11:01:55 | Radek Salwach | A drugiemu bratu pokazaÅaÅ? | message_1.json |
-| 11:01:17 | Madzia Szczypka | I sie do mnie nie odzywa ðð | message_1.json |
-| 11:01:26 | Madzia Szczypka | Najgorszy zajÄczek w jego zyciu chyba | message_1.json |
-| 11:01:39 | Radek Salwach | Jak mÃ³j brat zrobiÅ sobie tatuaÅ¼ na rÄce to siÄ teÅ¼ patrzyli spod byka na niego | message_1.json |
-| 11:00:32 | Madzia Szczypka | Nie dosc ze chÅop w takim szoku ze to zrobilam | message_1.json |
-| 10:59:31 | Madzia Szczypka | XDDDDD | message_1.json |
-| 10:59:39 | Radek Salwach | CoÅ odjebaÅa | message_1.json |
-| 10:59:49 | Madzia Szczypka | Dobra ogÃ³lnie juz i tak poÅowa wie | message_1.json |
-| 10:45:26 | Stasiu Przygoda | Nie wiem wymyÅlcie sobie Å¼yczenia i potem dopowiedzcie ze to ode mnie | message_1.json |
-| 10:59:05 | Radek Salwach | Najlepszego jaja, Å¼ebyÅcie siÄ z rodzinÄ zjednali ð | message_1.json |
-| 10:59:29 | Madzia Szczypka | No mi to dzisiaj chujowo wyszÅo | message_1.json |
-| 11:00:15 | Madzia Szczypka | I dzisiaj przyszedÅ moj brat z Å¼ona | message_1.json |
-| 11:00:20 | Madzia Szczypka | I wzielam go do pokoju | message_1.json |
-| 11:00:24 | Madzia Szczypka | I pokazaÅam mu cycki | message_1.json |
-| 10:59:57 | Madzia Szczypka | Zrobilam se kolczyki w sutach | message_1.json |
-| 11:00:03 | Radek Salwach | Ja dzisiaj opierdol juÅ¼ dostaÅem Å¼e siÄ nie zbieram a byÅem pierwszy gotowy do wyjÅcia, bo u m... | message_1.json |
-| 11:00:09 | Madzia Szczypka | No i moi bracia nie wiedzieli | message_1.json |
-| 11:05:01 | Radek Salwach | O gustach siÄ nie dyskutuhe | message_1.json |
-| 11:05:10 | Radek Salwach | @Stasiu Przygoda Ty wiedziaÅeÅ? | message_1.json |
-| 11:05:10 | Madzia Szczypka | Teraz juz nie moge | message_1.json |
-| 11:03:45 | Radek Salwach | Ale przez chwilÄ myÅlaÅem | message_1.json |
-| 11:04:04 | Radek Salwach | Å»e Ty jakieÅ potÄÅ¼ne zjednanie z rodzinÄ chcesz zrobiÄ, dogÅÄbne | message_1.json |
-| 11:04:56 | Radek Salwach | Ale wiesz no, w Niemczech popularniejszÄ praktykÄ jest chodzenie rodzinnie nago, w sumie w Polsce ... | message_1.json |
-| 11:05:28 | Madzia Szczypka | Ale Kacper powiedzial ze moge mu pokazac | message_1.json |
-| 11:05:28 | Radek Salwach | Noo o to chodzi | message_1.json |
-| 11:05:33 | Madzia Szczypka | Jak Stasiu wysle cycki Julki | message_1.json |
-| 11:05:17 | Madzia Szczypka | Stasiu wiedziaÅ pierwszy | message_1.json |
-| 11:05:21 | Madzia Szczypka | I Stasiu miaÅ zobaczyc | message_1.json |
-| 11:05:23 | Radek Salwach | WidziaÅeÅ* | message_1.json |
-| 11:03:42 | Madzia Szczypka | Jak to | message_1.json |
-| 11:02:08 | Radek Salwach | Aa | message_1.json |
-| 11:02:12 | Madzia Szczypka | A rodzice mi wytnÄ cycki | message_1.json |
-| 11:02:33 | Madzia Szczypka | +on bedzie co chwile jakies Å¼arty o tym waliÅ | message_1.json |
-| 11:02:02 | Madzia Szczypka | Nie bo to jest kabel | message_1.json |
-| 11:02:04 | Madzia Szczypka | I powie rodzicom | message_1.json |
-| 11:02:07 | Radek Salwach | Czy juÅ¼ raczej liczysz ze jaskÃ³Åki zaÄwierkajÄ gdzie trzeba | message_1.json |
-| 11:03:10 | Radek Salwach | ð | message_1.json |
-| 11:03:34 | Madzia Szczypka | Boje sie zapytac | message_1.json |
-| 11:03:38 | Madzia Szczypka | Ale zapytam | message_1.json |
-| 11:02:46 | Madzia Szczypka | No takze niespodziewanka!!! | message_1.json |
-| 11:02:58 | Radek Salwach | Madzia powiem Ci ze przez chwilÄ miaÅem takiego mindfucka na temat caÅego Twojego Å¼ycia, ale ta ... | message_1.json |
-| 11:03:08 | Radek Salwach | Teraz wszystko jasne i proste ð | message_1.json |
-| 15:18:38 | Krzysztof Antoni AmbroÅ¼y Czekaj | 13 kwietnia, 19:00 Pies najlepszym lekiem? - WykÅad Dogoterapeuty Krzysztofa BoroÅskiego https://w... | message_1.json |
-| 15:19:17 | Krzysztof Antoni AmbroÅ¼y Czekaj | 3 czerwca Gdzie jest terapia rodzin dzisiaj? â FORUM TERAPEUTÃW RODZINNYCH I MÅODZIEÅ»OWYCH (zap... | message_1.json |
-| 19:29:23 | Bartek Rybicki | Ej chciaÅby ktoÅ sobie w heroesy 3 na multi pograÄ na dniach? | message_1.json |
-| 18:01:17 | Ania Michno | Tak, niech wypeÅni formularz: https://forms.office.com/r/6TsVLdhtFM A rekrutacja teÅ¼ juÅ¼ niebawem... | message_1.json |
-| 18:04:34 | Gosia Mizera | DziÄki | message_1.json |
-| 18:19:33 | Gosia Mizera | Hej, caÅkiem gÅupia sprawa, ale koleÅ¼anka chce lecieÄ do Kolonii. Porusza siÄ na wÃ³zku i szuka... | message_1.json |
-| 07:01:47 | Madzia Szczypka | [Video: 1] | message_1.json |
-| 07:01:52 | Madzia Szczypka | A jak tam wasze pobudki | message_1.json |
-| 09:32:11 | Radek Salwach | [Photo: 1] | message_1.json |
-| 19:29:28 | Bartek Rybicki | Tak w kilka osÃ³b | message_1.json |
-| 19:45:30 | Anja Bulanda | Mejbi ja | message_1.json |
-| 21:06:36 | Bartek Rybicki | kox mam juz tez 2-3 osoby wiec powinno styknac | message_1.json |
-| 17:57:04 | Gosia Mizera | Ej jeÅli ktoÅ chce do nzs i nie ma naboru to moÅ¼e tak o? | message_1.json |
-| 20:37:15 | Madzia Szczypka | WesoÅych ÅwiÄt sÄsiedzi!! ð¤ | message_1.json |
-| 20:54:49 | MichaÅ Wiencek | WesoÅych!!! | message_1.json |
-| 10:03:03 | Katarzyna Morawska | Misiaki, smacznego jajka! ð¥° | message_1.json |
-| 20:36:51 | Madzia Szczypka | [Photo: 1] | message_1.json |
-| 20:37:01 | Madzia Szczypka | A mialam nadzieje ze rozliczenie wyslal | message_1.json |
-| 20:37:02 | Madzia Szczypka | Btw | message_1.json |
-| 10:04:33 | Natalia Stachura | [No text content] | message_1.json |
-| 10:45:33 | Zuza Tola | Sama kieÅbasa pewnie xd | message_1.json |
-| 14:58:06 | Ania Michno | Wielkanocny poÅcik!ð£ð°ð¥ https://www.facebook.com/groups/250202975102795/permalink/583377138... | message_1.json |
-| 10:03:09 | Katarzyna Morawska | [Photo: 1] | message_1.json |
-| 10:03:20 | Katarzyna Morawska | Pochwalcie siÄ waszymi ð«¶ð» | message_1.json |
-| 10:03:33 | Marek Rapta | WolaÅ bym nie | message_1.json |
-| 10:24:18 | Julita Bouffette | Ona coÅ Äwiczy myÅlisz poza? | message_1.json |
-| 10:24:26 | Madzia Szczypka | Mysle ze nie | message_1.json |
-| 10:24:32 | Madzia Szczypka | Bo nie jest wyÄwiczonÄ | message_1.json |
-| 10:23:12 | Julita Bouffette | [Photo: 1] | message_1.json |
-| 10:23:29 | Madzia Szczypka | To taka fit figura raczej ale taka nieproporcjonalna do twarzy | message_1.json |
-| 10:23:35 | Madzia Szczypka | WesoÅego jajca | message_1.json |
-| 10:42:08 | MichaÅ Wiencek | Sto lat | message_1.json |
-| 10:43:24 | Stasiu Przygoda | No najlepszego na te ÅwiÄta | message_1.json |
-| 10:43:27 | Stasiu Przygoda | Czy coÅ takiego | message_1.json |
-| 10:24:35 | Madzia Szczypka | Wycwiczona* | message_1.json |
-| 10:24:47 | Madzia Szczypka | I rozciÄgniÄta tez nie | message_1.json |
-| 10:25:25 | Julita Bouffette | SzczÄÅcia, chlania i ruchania | message_1.json |
-| 10:23:05 | Madzia Szczypka | Na jodze jak Äwiczy | message_1.json |
-| 10:18:40 | Julita Bouffette | Ej co siÄ jej staÅo z okiem | message_1.json |
-| 10:19:02 | Madzia Szczypka | Tzn co | message_1.json |
-| 10:21:40 | Julita Bouffette | No jedno ma jakies takie spuchniÄte | message_1.json |
-| 09:32:20 | Radek Salwach | Chyba bÄdzie taste testing | message_1.json |
-| 09:33:00 | Radek Salwach | Zajebjsty poranek, chÅop zablokowaÅ towarÃ³wkÄ od biedry i trÄbili jak popierdoleni | message_1.json |
-| 10:18:32 | Julita Bouffette | [Photo: 1] | message_1.json |
-| 10:22:52 | Madzia Szczypka | AkceptowaÅa siebue jaka jest | message_1.json |
-| 10:22:55 | Julita Bouffette | Przykre xd | message_1.json |
-| 10:23:01 | Madzia Szczypka | Bo ona ogolnie | message_1.json |
-| 10:22:28 | Madzia Szczypka | Ona ma taki ryj spuchniÄty | message_1.json |
-| 10:22:32 | Madzia Szczypka | Jakby miaÅa cos z tarczyca | message_1.json |
-| 10:22:47 | Madzia Szczypka | I sie nie leczyÅa xD | message_1.json |
-| 13:07:00 | MichaÅ Wiencek | Ale sie zjebala | message_1.json |
-| 13:07:07 | Madzia Szczypka | A jest odwrotnie | message_1.json |
-| 13:07:17 | MichaÅ Wiencek | I teraz tylko to do srania sie spuszcza tylko od polowy | message_1.json |
-| 13:06:47 | MichaÅ Wiencek | To u mnie w bielsku w sumie same. Jest | message_1.json |
-| 13:06:56 | MichaÅ Wiencek | W sensie bo ona cala sie opuszczala | message_1.json |
-| 13:06:57 | Madzia Szczypka | I klapÄ opuszczam powoli bo mysle ze ona jebnie | message_1.json |
-| 13:35:08 | Radek Salwach | U mnie na Stachiewicza kran trzeba byÅo na maxa odpalaÄ Å¼eby woda leciaÅa fajnie, a u Ciebie i M... | message_1.json |
-| 13:35:46 | Madzia Szczypka | Tak bo kiedys zona PawÅa powiedziala mu zeby kupiÅ duza umywalke | message_1.json |
-| 13:35:53 | Madzia Szczypka | I dla niego ta byÅa duza | message_1.json |
-| 13:07:26 | MichaÅ Wiencek | I jak sie jebnie caÅym z ta gora to napierdala glosnow. Chuj | message_1.json |
-| 13:29:07 | Stasiu Przygoda | [Photo: 1] | message_1.json |
-| 13:29:11 | Stasiu Przygoda | Ratujcie | message_1.json |
-| 13:06:41 | MichaÅ Wiencek | EJ | message_1.json |
-| 13:05:15 | MichaÅ Wiencek | I jak zapomnÄ | message_1.json |
-| 13:05:25 | MichaÅ Wiencek | To puszczam ja i slychac pierdolniecie na cale mieszkanie | message_1.json |
-| 13:05:26 | MichaÅ Wiencek | XD | message_1.json |
-| 13:05:05 | MichaÅ Wiencek | Bo u nas ta deska | message_1.json |
-| 13:05:07 | MichaÅ Wiencek | Spada sama nie | message_1.json |
-| 13:05:11 | MichaÅ Wiencek | A u mnie w domu nie | message_1.json |
-| 13:06:32 | MichaÅ Wiencek | No ta | message_1.json |
-| 13:06:35 | MichaÅ Wiencek | A XDDDD | message_1.json |
-| 13:06:37 | Madzia Szczypka | I mi sie zawsze pierdoli ktore to ktore | message_1.json |
-| 13:06:18 | Madzia Szczypka | I mnie deska sie sama opuszcza | message_1.json |
-| 13:06:28 | Madzia Szczypka | W sensie jest ta taka nie trzaskajÄca | message_1.json |
-| 13:06:31 | Madzia Szczypka | Ale juz klapa nie | message_1.json |
-| 20:15:19 | Radek Salwach | [Photo: 1] | message_1.json |
-| 20:21:00 | Stasiu Przygoda | Dancing | message_1.json |
-| 20:26:42 | Madzia Szczypka | Queen | message_1.json |
-| 20:12:38 | Stasiu Przygoda | [Video: 1] | message_1.json |
-| 20:15:03 | Radek Salwach | [Photo: 1] | message_1.json |
-| 20:15:12 | Radek Salwach | To akurat trochÄ | message_1.json |
-| 20:49:39 | Stasiu Przygoda | O woow | message_1.json |
-| 20:49:59 | Stasiu Przygoda | Koszyczek PawÅa czy maksia? | message_1.json |
-| 20:54:37 | MichaÅ Wiencek | XDDD | message_1.json |
-| 20:31:23 | Stasiu Przygoda | Of the black | message_1.json |
-| 20:36:40 | Madzia Szczypka | [Photo: 1] | message_1.json |
-| 20:44:26 | Radek Salwach | XD | message_1.json |
-| 20:11:32 | Radek Salwach | NieÅºle zagrali nawet | message_1.json |
-| 14:23:18 | Stasiu Przygoda | [Photo: 1] | message_1.json |
-| 14:23:19 | Stasiu Przygoda | Jak tam u was | message_1.json |
-| 14:29:13 | Radek Salwach | X DD | message_1.json |
-| 14:03:51 | MichaÅ Wiencek | A to dlatego | message_1.json |
-| 14:03:59 | MichaÅ Wiencek | Ta podloga w kiblu zawsze tka mokra jest | message_1.json |
-| 14:04:02 | MichaÅ Wiencek | Jak u nas jestes | message_1.json |
-| 20:03:06 | Madzia Szczypka | [Video: 1] | message_1.json |
-| 20:11:07 | Stasiu Przygoda | [Video: 1] | message_1.json |
-| 20:11:27 | Radek Salwach | WidziaÅem | message_1.json |
-| 14:29:24 | Radek Salwach | Przepraszam, staram siÄ wycieraÄ ale czasem coÅ mi umknue | message_1.json |
-| 19:30:34 | Stasiu Przygoda | ChciaÅbym wam powiedzieÄ ze Mielec wygraÅ 1 mecz w tym roku | message_1.json |
-| 19:30:46 | Stasiu Przygoda | To tyle bye | message_1.json |
-| 11:08:10 | Stasiu Przygoda | takze milego dnia | message_1.json |
-| 11:08:23 | Stasiu Przygoda | jak umre to wiecie przynamniej ze nie bylo mnie w domu | message_1.json |
-| 11:10:40 | Stasiu Przygoda | ej madzia ale skoro juz niektorzy z twojej rodziny widzieli to mi tez pokazesz? :DDDDDDDDDDDDDDDDDDD... | message_1.json |
-| 11:07:34 | Madzia Szczypka | WesoÅych!!! | message_1.json |
-| 11:07:35 | Radek Salwach | Wracam do Å¼ywych | message_1.json |
-| 11:08:04 | Stasiu Przygoda | ja musze ogarnac u siebie i lece do ziomka | message_1.json |
-| 11:17:36 | Madzia Szczypka | You will | message_1.json |
-| 11:28:34 | Radek Salwach | Na to czekaÅem | message_1.json |
-| 11:28:42 | Radek Salwach | MyÅlaÅem czy by moÅ¼e nie przypomnieÄ | message_1.json |
-| 11:11:10 | Madzia Szczypka | Musisz sie przebrac za JulitÄ to tako | message_1.json |
-| 11:12:21 | Stasiu Przygoda | aha..... | message_1.json |
-| 11:14:53 | Julita Bouffette | Ja chcÄ zobaczyÄ | message_1.json |
-| 11:07:22 | Radek Salwach | Dobra wystarczy mi chwilowo chyba tej Przygody, wesoÅych ÅwiÄt ponownie | message_1.json |
-| 11:06:06 | Radek Salwach | Stachu sÅuchaj | message_1.json |
-| 11:06:08 | Stasiu Przygoda | ale nie wyslalem cyckow julki bo | message_1.json |
-| 11:06:10 | Stasiu Przygoda | nie wiedzialem czy ma | message_1.json |
-| 11:05:41 | Radek Salwach | Ee nudy | message_1.json |
-| 11:06:02 | Stasiu Przygoda | tak bylo | message_1.json |
-| 11:06:06 | MichaÅ Wiencek | BÄdziesz jak seweryn | message_1.json |
-| 11:06:24 | Madzia Szczypka | Ale bez towarzyszÄcych | message_1.json |
-| 11:06:27 | Madzia Szczypka | ByÅo | message_1.json |
-| 11:06:36 | Radek Salwach | Kobiety | message_1.json |
-| 11:06:11 | Radek Salwach | XDDD | message_1.json |
-| 11:06:13 | Stasiu Przygoda | wgl cos tam | message_1.json |
-| 11:06:16 | Madzia Szczypka | No i @Julita Bouffette wiedziaÅa i miaÅa ze mna isc | message_1.json |
-| 12:03:37 | Madzia Szczypka | Zeby sie przeraziÅa | message_1.json |
-| 12:03:48 | Madzia Szczypka | I lepiej zareagowaÅa na kolejne kolczyki w chrzÄstkach | message_1.json |
-| 12:03:59 | Madzia Szczypka | Teraz to chyba musze jÄ straszyÄ jedynie ciÄÅ¼Ä | message_1.json |
-| 12:03:25 | Julita Bouffette | Praca naukowa do Hanuszkiewicza | message_1.json |
-| 12:03:30 | Madzia Szczypka | Wiecie ze kiedys tak mÃ³wiÅam mamie | message_1.json |
-| 12:03:34 | Madzia Szczypka | Ze mam kolczyki w sutach | message_1.json |
-| 13:01:16 | Radek Salwach | I powiedziaÅem Å¼e klapa spadÅa jak myÅem rÄce, ale tak pierdolnÄÅem bo nie przyzwyczaiÅem si... | message_1.json |
-| 13:04:46 | Julita Bouffette | Przesada xd | message_1.json |
-| 13:05:01 | MichaÅ Wiencek | A to ja mam tak | message_1.json |
-| 12:16:07 | Julita Bouffette | ð£ | message_1.json |
-| 12:16:11 | Julita Bouffette | MaÅym kurczaczkiem | message_1.json |
-| 13:00:56 | Radek Salwach | Kurwa czaicie ze u mnie w domu klapa od kibla jest taka potÄÅ¼na i trzeba jÄ mocniej podnieÅÄ, i... | message_1.json |
-| 12:03:14 | Madzia Szczypka | Jeszcze brakuje zebym przy Åniadaniu powiedziala ze jestem w ciazy | message_1.json |
-| 11:35:58 | Madzia Szczypka | I jak Maciek usÅyszaÅ o moich sutach | message_1.json |
-| 11:36:23 | Madzia Szczypka | To powiedzial tylko tyle ze zajebiscie, jedna kryminalistka, a jedna na emogeja sie robi i powiedzia... | message_1.json |
-| 11:39:03 | Madzia Szczypka | Ale ciezko znosi XD w chuj | message_1.json |
-| 11:28:50 | Radek Salwach | Ale Przygoda jest niezawodnt | message_1.json |
-| 11:35:40 | Madzia Szczypka | Jeszcze wiecie ja zakomunikowalam bratu ze chce, bratowa wiedziaÅa | message_1.json |
-| 11:35:52 | Madzia Szczypka | Ona sobie zrobiÅa dupna dziare na plecach i na rece | message_1.json |
-| 12:02:51 | Radek Salwach | Magdalena Szczypka: Jak moje suty rozjebaly ÅwiÄta rodzinne | message_1.json |
-| 12:02:55 | Radek Salwach | KsiÄÅ¼kÄ napisz | message_1.json |
-| 12:02:59 | Radek Salwach | TytuÅ juÅ¼ masz | message_1.json |
-| 11:39:46 | MichaÅ Wiencek | Wytatuuj sobie kotka na glowie jeszcze | message_1.json |
-| 11:39:53 | MichaÅ Wiencek | Bedziesz polaczeniem wery i gwiazdzinskiego | message_1.json |
-| 12:02:28 | Radek Salwach | Przesada | message_1.json |

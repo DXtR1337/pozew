@@ -1,138 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-04-12
-# Liczba: 133
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 21:37:10 | Angelika Åuczyk | Prezentacja do mejli | message_1.json |
-| 15:05:33 | Alicja Ewa Dubiel | Hej!!! JuÅ¼ jest odpowiedÅº od Pana Andrzeja Golonki. Generalnie udaÅo siÄ to zorganizowaÄ, pan A... | message_1.json |
-| 21:06:22 | Angelika Åuczyk | To siÄ dzieje jak prÃ³bujÄ pobraÄ | message_1.json |
-| 21:09:31 | Aleksandra Kretek | KtÃ³ry dokument? | message_1.json |
-| 15:18:31 | Natalia Pawlus | ChÄtna ð | message_1.json |
-| 15:41:59 | Oliwia Urban | ChÄtna! | message_1.json |
-| 15:17:16 | Joanna PacÅawska | Ja jestem chÄtna ð | message_1.json |
-| 15:17:24 | Paulina Smuczek | Ja rÃ³wnieÅ¼ jestem chÄtna | message_1.json |
-| 13:36:40 | Monika ChruÅciel | Mi niestety teÅ¼ nie :( | message_1.json |
-| 13:37:50 | Julita Bouffette | https://docs.google.com/document/d/1ET6UVaMtX7kuwADQ-kKbN_OFKI1Hwkxp03wgR1Uqgqk/edit?fbclid=IwAR33P-... | message_1.json |
-| 13:36:21 | Karolina ZarÄbska | Ekran mi sie nie Åaduje xd | message_1.json |
-| 13:36:30 | Karolina ZarÄbska | WyÅlÄ ktos screena? | message_1.json |
-| 15:39:23 | Aleksandra Kretek | w komentarzu koniecznie | message_1.json |
-| 21:06:15 | Angelika Åuczyk | [Photo: 1] | message_1.json |
-| 13:56:27 | Julita Bouffette | Rozmowa wideo zakoÅczyÅa siÄ. | message_1.json |
-| 15:36:45 | Marek Rapta | to kto bierze jaka grupe wpisujemy w komentarzu w arkuszu tak jak w grudniu czy wpisac w jakiejs kom... | message_1.json |
-| 15:46:38 | Oliwia Urban | Oliwia Urban dodaÅa MariÄ WiÅniowskÄ do grupy. | message_1.json |
-| 11:34:04 | Magda Motal | Czy moÅ¼e ona ma jakiÅ inny plan dla nas | message_1.json |
-| 11:34:36 | Sylwia HoÅda | Niby mÃ³wiÅa, Å¼e poda, ale zapomniaÅa o nas | message_1.json |
-| 11:33:08 | Magda Motal | DziÄkujÄ | message_1.json |
-| 11:33:43 | Magda Motal | WÅaÅnie siÄ zastanawiaÅam czy ona nam poda czy mamy po prostu znaleÅºÄ rozdziaÅ w ksiÄÅ¼ce i ... | message_1.json |
-| 11:35:13 | Ewa Kempny | ale poprawcie mnie, bo chaos byÅ | message_1.json |
-| 11:35:46 | Magda Motal | WÅaÅnie ja teÅ¼ nie do koÅca jÄ zrozumiaÅam czy mamy to po prostu wrzuciÄ skoÅczone czy bÄdz... | message_1.json |
-| 11:34:38 | Ewa Kempny | i mielismy do konca opracowac ta tabele...uwaga..(praca w grupach).cos mowiÅa, ze bedziemy prezento... | message_1.json |
-| 11:35:08 | Nadia Materek | O wÅaÅnie | message_1.json |
-| 11:29:30 | Magda Motal | Czy ktoÅ wie co mamy przeczytaÄ na poznawczÄ? | message_1.json |
-| 11:30:22 | Sylwia HoÅda | Z sylabusa wynikaÅoby, Å¼e pamiÄÄ | message_1.json |
-| 15:47:41 | Maria WiÅniowska | chÄtna:) | message_1.json |
-| 09:59:01 | Martyna Gancarczyk | Hej! Jestem w PSSiAP i obecnie trwa rekrutacja do stowarzyszenia, takÅ¼e przesyÅam wam tutaj wiadom... | message_1.json |
-| 11:32:25 | Martyna Gancarczyk | Ja jÄ o to zapytaÅam dzisiaj | message_1.json |
-| 11:32:42 | Martyna Gancarczyk | MoÅ¼e odpisze do jutra | message_1.json |
-| 11:31:47 | Magda Motal | A gdzie moÅ¼na znaleÅºÄ tego sylabusa | message_1.json |
-| 11:32:05 | Sylwia HoÅda | Na teams w plikach, karta kursu | message_1.json |
-| 11:18:25 | Mateusz WiÄcek | Max 50 z czego tylko 6 osob moze byc aktywne - prowadziÄ dialog | message_1.json |
-| 11:18:48 | UÅ¼ytkownik Facebooka | Oooo to dobrze wiedzieÄ ze mnie oszukali ðð | message_1.json |
-| 11:16:44 | Julita Bouffette | Zapraszamy wszystkich ð¥¹ | message_1.json |
-| 11:17:00 | UÅ¼ytkownik Facebooka | Msg ma chyba ograniczenie max 6 osÃ³b na rozmowÄ | message_1.json |
-| 13:30:38 | Aleksandra Kretek | Oki, mamy 15:30 | message_1.json |
-| 13:30:43 | Aleksandra Kretek | Startujemy | message_1.json |
-| 11:19:00 | UÅ¼ytkownik Facebooka | RobiÅam raz zebranie i mi wciskali kit ze nie mogli siÄ doÅÄczyÄ ðð | message_1.json |
-| 12:58:44 | Aleksandra Kretek | Aleksandra zmieniÅ(a) zdjÄcie grupy. | message_1.json |
-| 10:41:24 | Julita Bouffette | TakÅ¼e nie martwcie siÄ | message_1.json |
-| 10:42:12 | Ola CioÅek | A o ktÃ³rej bÄdzie mniej wiÄcej? Bo ja tak zaraz po 16 muszÄ siÄ zmyc | message_1.json |
-| 10:41:08 | Julita Bouffette | Czyli dziÅ spotkanko dla tych ktÃ³rzy mogÄ? | message_1.json |
-| 10:41:16 | Julita Bouffette | BÄdzie i tak podsumowanie | message_1.json |
-| 11:16:34 | Julita Bouffette | Tak dokÅadnie, tutaj na mess | message_1.json |
-| 11:16:36 | Julita Bouffette | O 15:30 | message_1.json |
-| 10:45:54 | Julita Bouffette | To moÅ¼e tak koÅo 15;30 zaczniemy | message_1.json |
-| 11:15:56 | Mateusz WiÄcek | Spotkanie online? | message_1.json |
-| 13:30:51 | Marek Rapta | ð©¸ | message_1.json |
-| 13:32:33 | Aleksandra Kretek | Aleksandra rozpoczÄÅa udostÄpnianie wideo. | message_1.json |
-| 13:32:39 | Wiktoria Trela | Ja poczekam na podsumowanie, bo jestem w pociÄgu a nie mam sÅuchawek. WpisaÅam siÄ na listÄ | message_1.json |
-| 13:31:39 | Aleksandra Kretek | Aleksandra doÅÄczyÅa do poÅÄczenia gÅosowego. | message_1.json |
-| 13:31:47 | Wioletta KsiÄÅ¼ek | Wioletta doÅÄczyÅa do poÅÄczenia gÅosowego. | message_1.json |
-| 13:35:18 | Ola CioÅek | Ola doÅÄczyÅa do rozmowy wideo. | message_1.json |
-| 13:35:23 | Monika ChruÅciel | Monika doÅÄczyÅa do rozmowy wideo. | message_1.json |
-| 13:33:30 | Julita Bouffette | Oki doki | message_1.json |
-| 13:35:08 | Karolina ZarÄbska | Karolina doÅÄczyÅa do rozmowy wideo. | message_1.json |
-| 13:31:27 | Wiktoria Trela | Wiktoria doÅÄczyÅa do poÅÄczenia gÅosowego. | message_1.json |
-| 13:31:30 | Marek Rapta | Marek doÅÄczyÅ do poÅÄczenia gÅosowego. | message_1.json |
-| 13:31:06 | Julita Bouffette | Julita rozpoczÄÅa rozmowÄ. | message_1.json |
-| 13:31:20 | Julita Bouffette | Julita doÅÄczyÅa do poÅÄczenia gÅosowego. | message_1.json |
-| 13:31:35 | Ola CioÅek | Ola doÅÄczyÅa do poÅÄczenia gÅosowego. | message_1.json |
-| 13:31:38 | Monika ChruÅciel | Monika doÅÄczyÅa do poÅÄczenia gÅosowego. | message_1.json |
-| 13:31:31 | Mateusz WiÄcek | Mateusz doÅÄczyÅ do poÅÄczenia gÅosowego. | message_1.json |
-| 13:31:33 | UÅ¼ytkownik Facebooka | Kontakt doÅÄczyÅ do rozmowy. | message_1.json |
-| 11:38:35 | Sylwia HoÅda | Ona miaÅa wysÅaÄ jakiÅ plik, do ktÃ³rego mieliÅmy to wpisaÄ, czego teÅ¼ nie zrobiÅa i na nast... | message_1.json |
-| 16:11:41 | Madzia Szczypka | Dzisiaj | message_1.json |
-| 16:11:44 | Madzia Szczypka | To jest zÅoto | message_1.json |
-| 16:11:37 | Madzia Szczypka | Story* | message_1.json |
-| 16:11:40 | Madzia Szczypka | Gwiazdzinskiego | message_1.json |
-| 16:15:03 | MichaÅ Wiencek | Z drugiej storki | message_1.json |
-| 16:15:04 | MichaÅ Wiencek | XD | message_1.json |
-| 16:11:45 | Madzia Szczypka | XDD | message_1.json |
-| 16:14:59 | MichaÅ Wiencek | Kurwa jak odzobaczyc to zdjecie | message_1.json |
-| 18:15:22 | Marek Rapta | Na moje to juz wczeÅniej musiaÅy byÄ skoro zapisali informacje o tym Å¼e miaÅa | message_1.json |
-| 18:15:49 | Ola CioÅek | PrzeczytaÅam o surykatkach i juÅ¼ chciaÅam doÅÄczyÄ hahah | message_1.json |
-| 18:10:50 | Katarzyna Morawska | Fenkju! | message_1.json |
-| 18:11:11 | Katarzyna Morawska | Wiecie ze wziÄÅy siÄ z Biblii? Sara od Abrahama miaÅa surogatkÄ, dopiero potem jÄ anioÅ zapÅ... | message_1.json |
-| 18:51:36 | Krzysztof Antoni AmbroÅ¼y Czekaj | Studenci Psychologii poszukiwani... w kosmosie    "Drogie KoleÅ¼anki i Koledzy,  w zwiÄzku z planow... | message_1.json |
-| 16:11:34 | Madzia Szczypka | Årody | message_1.json |
-| 18:17:53 | Marek Rapta | No chyba Å¼e rzeczywiÅcie miaÅa surykatke tylko sie jebli w tÅumaczeniu i powstalo cos nowego ð... | message_1.json |
-| 09:57:36 | Krzysztof Antoni AmbroÅ¼y Czekaj | Polskie Stowarzyszenie StudentÃ³w i AbsolwentÃ³w Psychologii rekrutuje! Jest to takie koÅo ponad ko... | message_1.json |
-| 16:15:10 | Radek Salwach | co tam jest | message_1.json |
-| 16:16:19 | MichaÅ Wiencek | XDDDD | message_1.json |
-| 16:16:47 | MichaÅ Wiencek | "Nie ma tam zadnego basenu w ktÃ³rym mozna utopiÄ sima" | message_1.json |
-| 16:16:15 | MichaÅ Wiencek | Imagine ze jakis rektor up | message_1.json |
-| 16:16:17 | MichaÅ Wiencek | To sobie oglada | message_1.json |
-| 16:17:48 | Madzia Szczypka | Mysle ze rektorzy tez grajÄ w simsy | message_1.json |
-| 16:17:54 | Madzia Szczypka | Smieszniej z tym drugim | message_1.json |
-| 16:16:48 | MichaÅ Wiencek | XD | message_1.json |
-| 16:17:43 | Madzia Szczypka | Z tym chuj | message_1.json |
-| 16:15:31 | Radek Salwach | jak on sie nazywaÅ na tym ig | message_1.json |
-| 16:15:34 | Radek Salwach | byczek? | message_1.json |
-| 16:15:10 | Madzia Szczypka | Ta najlepsza | message_1.json |
-| 16:15:25 | Madzia Szczypka | Musisz sam | message_1.json |
-| 16:16:06 | Radek Salwach | Przesada | message_1.json |
-| 16:16:11 | MichaÅ Wiencek | Kurwa ale ta 3 | message_1.json |
-| 16:15:38 | MichaÅ Wiencek | Neuro lifter | message_1.json |
-| 16:16:05 | Radek Salwach | Ja pierdole | message_1.json |
-| 17:33:06 | Anna PÅatek | Bo mogÄ jej na teamsach napisaÄ. Bo z kolei ja zrozumiaÅam, ze bÄdziemy kontynuowaÄ ten temat n... | message_1.json |
-| 17:37:41 | Kamil Kusibab | no lepiej do niej po prostu napisaÄ | message_1.json |
-| 17:31:32 | Kamil Kusibab | ChociaÅ¼ przy niej to Åatwo siÄ pogubiÄ | message_1.json |
-| 17:32:31 | Anna PÅatek | PisaÅ ktoÅ do niej ;)? | message_1.json |
-| 17:39:48 | Kamil Kusibab | dziÄki | message_1.json |
-| 17:44:23 | Anna PÅatek | [Photo: 1] | message_1.json |
-| 17:37:54 | Anna PÅatek | To ja pisze na teamsach | message_1.json |
-| 17:39:39 | Anna PÅatek | NapisaÅam na grupie 3, ale jak odpisze, to wklejÄ tutaj, bo na pewno bÄdzie to samo ;) | message_1.json |
-| 11:43:58 | Magda Motal | Chyba Å¼e nie o to chodzi | message_1.json |
-| 11:44:25 | Magda Motal | [Photo: 1] | message_1.json |
-| 11:40:41 | Ewa Kempny | ten plik jest na teams...(dysk) i chyba tam trzeba wkleic? | message_1.json |
-| 11:43:54 | Magda Motal | DodaÅa prezentacjÄ | message_1.json |
-| 17:31:02 | Kamil Kusibab | [Photo: 1] | message_1.json |
-| 17:31:12 | Kamil Kusibab | Jak siÄ mylÄ, to mnie poprawcie | message_1.json |
-| 11:44:40 | Magda Motal | MoÅ¼e nie wszystkim grupom dodaÅa | message_1.json |
-| 17:31:02 | Kamil Kusibab | MogÄ siÄ srogo myliÄ, a to nie tak Å¼e teraz mamy czytaÄ NÄckÄ po prostu wraz z kartÄ kursu i... | message_1.json |
-| 19:29:03 | Jowita Rozum | Orientuje sie ktoÅ z piszÄcych egzamin zwalniajÄcy z lektoratu czy jeÅli zda sie ten egzamin w p... | message_1.json |
-| 10:55:46 | Angelika Åuczyk | czyli dyÅ¼urÃ³w teÅ¼ nie ma ogÃ³lnie? | message_1.json |
-| 10:56:16 | Katarzyna Morawska | Chyba jie ale nie jestem pewna | message_1.json |
-| 10:50:03 | Edyta Bobak | Monia nie wiem czy uczelnia nie jest zamkniÄta dzisiaj ð | message_1.json |
-| 10:54:29 | Katarzyna Morawska | Tak, pracownicy maja wolne | message_1.json |
-| 18:09:09 | Katarzyna Morawska | BÄdzie ci przeszkadzaÅo jak bÄdÄ w pewnym momencie prezentowaÅa projekt o surogatkach ? | message_1.json |
-| 18:09:37 | Edyta Bobak | Nieeee | message_1.json |
-| 16:10:55 | Katarzyna Morawska | BÄdzie jutro ktoÅ w biurze w okolicach 15-18 ? | message_1.json |
-| 18:06:49 | Edyta Bobak | ðð» | message_1.json |
-| 19:31:26 | Marika Korpikiewicz | [Photo: 1] | message_1.json |
-| 19:32:47 | Jowita Rozum | WÅaÅnie po cichu licze, Å¼e moÅ¼e te podane 20 kwietnia to bÄdÄ kwestiÄ tego czy nie ma sie lep... | message_1.json |
-| 19:30:12 | Marika Korpikiewicz | wyniki chyba beda podane pozniej | message_1.json |
-| 19:30:56 | Marika Korpikiewicz | wiec raczej bedzie trzeba,,, | message_1.json |
-| 19:35:05 | Marika Korpikiewicz | a tak orientacyjnie, ile osob podchodzi do tego egzaminu? | message_1.json |
-| 10:49:27 | Monika ChruÅciel | Jest ktoÅ teraz w biurze? | message_1.json |
-| 19:33:03 | Jowita Rozum | Ale pewnie nie ma co na to liczyÄ | message_1.json |
-| 19:34:51 | PaweÅ TworzydÅo | Ja nie idÄ, szkoda czasu. Jak siÄ nie zda, to wtedy siÄ bÄdÄ martwiÄ :D | message_1.json |

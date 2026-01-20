@@ -1,458 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-04-28
-# Liczba: 453
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 14:37:15 | Agnieszka Baruch | Jak dla mnie rÃ³wnie dobrze mogÅaby mÃ³wiÄ pi chiÅsku | message_1.json |
-| 14:31:10 | Anna PÅatek | Ja pisze te przykÅady z Å¼ycia ktÃ³re podaje, bo reszta jest na slajdach | message_1.json |
-| 14:31:05 | Jowita Rozum | Luz teÅ¼ tak miaÅam ostatnio XD | message_1.json |
-| 14:37:43 | Sylwia HoÅda | Mi jÄ zacina na dodatek | message_1.json |
-| 14:46:14 | PaweÅ Rodak | MyÅlÄ Å¼e nie jestem jedynÄ osobÄ co dziÅ nie da rady | message_1.json |
-| 14:42:18 | Magda Motal | TeÅ¼ | message_1.json |
-| 14:42:10 | PaweÅ Rodak | Jakby ktoÅ miaÅ jakieÅ notatki po wykÅadzie to bardzo bym prosiÅ o podzielenie siÄ | message_1.json |
-| 14:28:03 | Anna PÅatek | Na razie tak | message_1.json |
-| 14:27:55 | Katarzyna Huk | Nie | message_1.json |
-| 14:27:43 | Magda Motal | czy wy nadÄÅ¼acie i rozumiecie co ona mÃ³wi? | message_1.json |
-| 14:28:19 | Magda Motal | uff myÅlaÅam Å¼e jestem sama | message_1.json |
-| 14:31:04 | Sylwia HoÅda | Nie jesteÅ xd | message_1.json |
-| 14:30:43 | Magda Motal | ja prÃ³bowaÅam notowaÄ i nie wiedziaÅam co pisaÄ XD | message_1.json |
-| 14:30:21 | Anna PÅatek | Tutaj zrozumieÄ i nadarzyÄ to jedno. Ale zapamiÄtaÄ to ð | message_1.json |
-| 16:07:00 | Katarzyna Huk | 1 liczymy Årednia dla 1 i 2 zmiennej   2 odejmujemy wynik osoby od Åredniej ? | message_1.json |
-| 16:06:19 | Magda Motal | zapisaÅ ktoÅ pierwsze 2 kroki? | message_1.json |
-| 16:06:04 | Magda Motal | ja siÄ zastanawiam skÄd siÄ 10 wziÄÅo XD | message_1.json |
-| 16:07:09 | Katarzyna Huk | Od | message_1.json |
-| 16:14:59 | Magda Motal | oo | message_1.json |
-| 16:08:28 | Anna PÅatek | Bo jest 10 obserwacji? | message_1.json |
-| 16:07:57 | Magda Motal | dziÄkujÄ!! | message_1.json |
-| 14:49:56 | Magda Motal | MoÅ¼e byÅmy zapytali o jakieÅ przykÅadowe zadania na egzamin, czy bÄdzie pytaÄ stricte o teoriÄ... | message_1.json |
-| 14:47:12 | Martyna Gancarczyk | ogÃ³lnie wykÅady wrzuciÅa jak cos w teamsa | message_1.json |
-| 14:46:15 | PaweÅ Rodak | A to dosyÄ ciÄÅ¼kie tematy | message_1.json |
-| 14:50:43 | Wiktoria MiÅaszewska | Na szczescie powiedziaÅa Å¼e postaraÅa siÄ jak najwiecej informacji wrzucic na slajdy, wiec moÅ¼e... | message_1.json |
-| 16:05:08 | Martyna Gancarczyk | dlaczego 9 | message_1.json |
-| 14:54:01 | Joanna Pietrzyk | ostatnio jak pytaÅam, to zrozumiaÅam jej odpowiedÅº tak, Å¼e to bÄdzie taki bardzo teoretyczny eg... | message_1.json |
-| 14:53:04 | Sylwia HoÅda | PytaliÅmy ostatnio i miaÅam nam coÅ przygotowaÄ na te zajÄcia i zapomniaÅa | message_1.json |
-| 13:31:52 | Joanna Pietrzyk | Jest juÅ¼ wykÅad? | message_1.json |
-| 13:31:44 | Kamil Kusibab | Z naciskiem na âmyâ i âsobieâ | message_1.json |
-| 13:31:43 | Martyna Gancarczyk | starostka sie tym wszystkim zajmie | message_1.json |
-| 13:32:01 | Magda Motal | [Photo: 1] | message_1.json |
-| 13:33:00 | Magda Motal | chyba to na gÃ³rze | message_1.json |
-| 13:32:54 | MaÅgorzata Gajewska | KtÃ³re jest prawidÅowe? | message_1.json |
-| 13:32:42 | Joanna Pietrzyk | A ok, mam,. A czemu sÄ dwa spotkania? | message_1.json |
-| 12:54:08 | Wiktoria Krzyszkowska | ð¤ | message_1.json |
-| 12:51:58 | Magda Motal | albo w folderze literatura jest strzeszczenie | message_1.json |
-| 12:51:57 | Anna PÅatek | A potwierdzam, ja korzystam z tych z dysku | message_1.json |
-| 13:09:16 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
-| 13:31:07 | Magda Motal | i poradzimy sobie | message_1.json |
-| 13:30:57 | Magda Motal | to zapytamy jÄ czy ostatni wykÅad nas obowiÄzuje i czy moÅ¼e przesÅaÄ prezentacje wczeÅniej | message_1.json |
-| 13:12:00 | Martyna Gancarczyk | Tak wiÄc zostawiamy proponowane terminy.  Staram siÄ wychodziÄ z propozycjÄ terminÃ³w duÅ¼o wcze... | message_1.json |
-| 14:01:41 | Kamil Kusibab | Czy wspominaÅa teÅ¼ moÅ¼e coÅ o tych badaniach? | message_1.json |
-| 14:01:29 | Kamil Kusibab | Kochani, upomnijmy siÄ moÅ¼e obte teksty od Czerneckiej, bo tego semestru nie zostaÅo wiele | message_1.json |
-| 13:44:23 | Ania Gancarz | nie, pod koniec jej zapytam o wszystko | message_1.json |
-| 14:07:04 | Martyna Gancarczyk | mÃ³wiÅa ostatnio na ten temat | message_1.json |
-| 14:08:24 | Ewelina Sala | No tylko mÃ³wiÅa, Å¼e zajmie siÄ tym w poprzedniÄ niedzielÄ ð¤·ð»ââ | message_1.json |
-| 14:08:10 | Kamil Kusibab | No okej | message_1.json |
-| 14:07:18 | Martyna Gancarczyk | Mamy byÄ spokojni i czas bÄdzie wydÅuÅ¼ony | message_1.json |
-| 13:37:11 | Åukasz Kalfas | ma ktoÅ kod do tej statystyki? | message_1.json |
-| 13:33:58 | Agnieszka Baruch | Tak, to na gÃ³rze, wÅaÅnie siÄ wÅÄczyÅa | message_1.json |
-| 13:33:09 | Magda Motal | gdzie jest Å¼e JÃ³zefacka zaplanowaÅa | message_1.json |
-| 13:40:11 | Magdalena Kubowicz | qbtyv7y | message_1.json |
-| 13:43:54 | Sylwia HoÅda | Nie | message_1.json |
-| 13:43:13 | Anna PÅatek | Czy byÅy jakieÅ kwestie organizacyjne na poczÄtku;)? | message_1.json |
-| 13:40:26 | Åukasz Kalfas | sÅodka | message_1.json |
-| 16:15:08 | Magda Motal | jezu ma to sens, dziekujÄ | message_1.json |
-| 16:43:43 | Ewa Kempny | Tak, zapisujÄ siÄ. Ale moÅ¼e bÄdÄ teÅ¼ jakieÅ minuty. To moÅ¼e zastanÃ³wmy siÄ na spokojnie. | message_1.json |
-| 16:42:11 | Anna PÅatek | ale jeÅli nikt nie jest przeciwny to moÅ¼emy przyjÄÄ przez aklamacjÄ te zmiane ð? | message_1.json |
-| 16:42:05 | MaÅgorzata Gajewska | A z tego co pamietam to na moodle jest automatyczny zapis nawet w przypadku wyjÅcia ze strony | message_1.json |
-| 16:44:04 | Ewa Kempny | Minusy, sorki ð | message_1.json |
-| 16:46:06 | Magda Motal | a to by siÄ wykluczaÅo | message_1.json |
-| 16:46:02 | Magda Motal | co do tego Å¼e na moodle da siÄ ustawiÄ tryb "uczciwego zdajÄcego" czyli Å¼e nie da siÄ kliknÄÄ... | message_1.json |
-| 16:45:15 | Ewelina Sala | To ja napiszÄ z miesiÄcznym wyprzedzeniem, Å¼e grupa 5 ma o 11:30 Äwiczenia ze statystyki, nie wi... | message_1.json |
-| 16:40:00 | UÅ¼ytkownik Facebooka | [No text content] | message_1.json |
-| 16:39:55 | UÅ¼ytkownik Facebooka | moÅ¼ecie mi potwierdziÄ ktoÅ? | message_1.json |
-| 16:39:54 | Sylwia HoÅda | No, niech niedaj BoÅ¼e tak ustawiÄ i po nas | message_1.json |
-| 16:40:30 | Martyna Gancarczyk | tylko Å¼e na formsach teoretycznie tez tak moÅ¼e | message_1.json |
-| 16:41:24 | Katarzyna Huk | MyÅle ze ona chce znowu mieÄ spokoj i nie zrobi Å¼adnych blokad ani nic | message_1.json |
-| 16:41:16 | Martyna Gancarczyk | zrobiÄ znowu setnÄ ankietÄ co do terminu | message_1.json |
-| 16:40:40 | Martyna Gancarczyk | nie wiem chyba Å¼adna strona nie ma 100% pewnoÅci XD | message_1.json |
-| 16:55:03 | Martyna Gancarczyk | tzn tez zaleÅ¼y wtedy czy sÄ wymieszane pytania czy nie XD | message_1.json |
-| 16:54:43 | Martyna Gancarczyk | da siÄ, kaÅ¼dy robi swoje pierwsze trzy pytania, ale z tym jest duÅ¼o roboty | message_1.json |
-| 16:54:07 | Ewa Kempny | Po prostu wystÄpiÅ nieznany bÅÄd.... | message_1.json |
-| 16:55:47 | Anna PÅatek | SwojÄ droga to ciekawe, ze moÅ¼emy podejÅÄ do egzaminu bez zaliczenia ÄwiczeÅ ð | message_1.json |
-| 16:56:09 | Martyna Gancarczyk | nie mamy Å¼adnej wspÃ³lnej przerwy | message_1.json |
-| 16:56:02 | Katarzyna Huk | Bo to tylko zaliczenie chyba | message_1.json |
-| 16:55:54 | Magda Motal | nie wychodzi nam jakaÅ przerwa wspÃ³lna? | message_1.json |
-| 16:47:42 | Anna PÅatek | Bo moÅ¼e po prostu tu byÅ bÅÄd i jesteÅmy mÄdrzejsi o te lekcje | message_1.json |
-| 16:47:27 | Anna PÅatek | A czy nie jest tak, ze wyrzuciÅo tylko osoby, ktÃ³re czekaÅy do koÅca? Czy nie zapisaÅo egzaminu... | message_1.json |
-| 16:46:43 | Magda Motal | ale no na moodle teÅ¼ nie da siÄ zrobiÄ wszystkich pytaÅ na jednej stronie wiÄc nie bÄdzie siÄ... | message_1.json |
-| 16:49:11 | Katarzyna Huk | Poza tym chyba na wszytskich innych zdalnych kolosach / wejÅciÃ³wkach/ egzaminach nie byÅo takich ... | message_1.json |
-| 16:53:51 | Ewa Kempny | Ja nie czekaÅam do koÅca.... | message_1.json |
-| 16:51:36 | Martyna Gancarczyk | 28 maj i 4 czerwca kaÅ¼da grupa coÅ ma od 8 do 20 | message_1.json |
-| 16:51:18 | Martyna Gancarczyk | Post wrzucony, proszÄ przeczytajcie go w caÅoÅci | message_1.json |
-| 16:26:04 | Magda Motal | [Photo: 1] | message_1.json |
-| 16:25:23 | Magda Motal | jezu nie mogÄ wkleiÄ XD chwila | message_1.json |
-| 16:25:10 | Magda Motal | ja mam skrina z tego | message_1.json |
-| 16:26:53 | Magda Motal | i z tego Åatwiej skojarzyÄ mean - Årednia | message_1.json |
-| 16:34:52 | Martyna Gancarczyk | mega miÅo, Å¼e zakÅada ze wszysxy zdamy | message_1.json |
-| 16:34:21 | Magda Motal | oo czyli 28.05 pierwszy termin by zrobiÅa a 04.06 drugi | message_1.json |
-| 16:30:46 | Martyna Gancarczyk | PiÄknie dziÄkujÄ!! | message_1.json |
-| 16:20:09 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
-| 16:20:05 | Martyna Gancarczyk | Ej a zdÄÅ¼yÅ ktoÅ napisaÄ te zdania | message_1.json |
-| 16:15:09 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
-| 16:20:20 | Martyna Gancarczyk | To "jeÅli..... to.... " | message_1.json |
-| 16:21:54 | Anna PÅatek | LewoskoÅny | message_1.json |
-| 16:21:16 | Anna PÅatek | JeÅli srednia niÅ¼sza niÅ¼ mediana to lewoskrÄtny, a jeÅli srednia wyÅ¼sza niÅ¼ mediana to prawos... | message_1.json |
-| 16:21:09 | Ula PrzewiÄda | [Photo: 1] | message_1.json |
-| 16:38:12 | Anna PÅatek | To moÅ¼e tym razem zapytajmy czy ktoÅ jest przeciw przesuniÄciu? BÄdzie szybciej ð | message_1.json |
-| 16:38:08 | Sylwia HoÅda | CaÅy ostatni temat nas bÄdzie obowiÄzywaÅ, w sobotÄ caÅy dzieÅ jestesmy na uczelni, a wypadaÅ... | message_1.json |
-| 16:38:03 | Katarzyna Huk | Ja bym byÅa za tym np | message_1.json |
-| 16:38:18 | Ewa Kempny | SÅuchajcie, ja wspomniaÅam o tych problemach technicznych. PisaÅam do informatykÃ³w, bo mnie i pa... | message_1.json |
-| 16:39:53 | Martyna Gancarczyk | i ona teÅ¼ musi zrobiÄ dodatkowo dla nas tam "klasÄ" | message_1.json |
-| 16:39:33 | Martyna Gancarczyk | wydaje mi siÄ Å¼e na moodle Åatwiej ustawiÄ coÅ jak blokada wychodzenia ze strony, niemoÅ¼liwoÅ... | message_1.json |
-| 16:39:28 | Ewa Kempny | Formsy sÄ niepewne....to info od informatykÃ³w | message_1.json |
-| 16:35:00 | Magda Motal | to robi nadziejÄ | message_1.json |
-| 16:34:57 | Magda Motal | jeÅli teraz mÃ³wi Å¼e zdamy a na metodologii mÃ³wiÅa Å¼e 70% zdawalnoÅci | message_1.json |
-| 16:34:56 | Martyna Gancarczyk | lÅ¼ej na sercu XD | message_1.json |
-| 16:36:00 | Martyna Gancarczyk | No i na pewno jest zdalnie wiÄc spoko | message_1.json |
-| 16:37:00 | Martyna Gancarczyk | nie idzie XD | message_1.json |
-| 16:36:33 | Martyna Gancarczyk | To siÄ teraz zastanÃ³wmy czy chcemy go tak jak wczeÅniej- 21.05 czy wolimy mieÄ jeszcze tydzieÅ | message_1.json |
-| 16:36:15 | Anna PÅatek | A jak wam idzie nauka na jutrzejsze emocje? | message_1.json |
-| 16:50:30 | Marek Rapta | Kolor zielony pisza na niebiesko | message_1.json |
-| 16:50:22 | Ola CioÅek | Marek nabraÅeÅ mnie w ciÄgu jednego dnia juÅ¼ dwa razy | message_1.json |
-| 16:50:17 | Marek Rapta | Brelok latarka (bez baterii) ok 21 szt | message_1.json |
-| 16:50:30 | Ola CioÅek | Bo serio myÅlaÅam ze pieprz teÅ¼ dostaniemy XDD | message_1.json |
-| 16:51:04 | Marek Rapta | [Photo: 1] | message_1.json |
-| 16:50:57 | Marek Rapta | Przyprawa nad przyprawami sÃ³l z lubczykiem 20 sztuk | message_1.json |
-| 16:50:42 | Marek Rapta | [Photo: 1] | message_1.json |
-| 16:49:34 | Marek Rapta | Odblaski kopalnia.pl ok 100 szt | message_1.json |
-| 16:49:23 | Marek Rapta | [Photo: 1] | message_1.json |
-| 16:49:18 | Marek Rapta | Gniotki kask ok 13 sztuk | message_1.json |
-| 16:49:44 | Marek Rapta | [Photo: 1] | message_1.json |
-| 16:50:09 | Aleksandra Kretek | zielone? | message_1.json |
-| 16:50:00 | Marek Rapta | [Photo: 1] | message_1.json |
-| 16:49:52 | Marek Rapta | DÅugopisy kopalnia niebieskie 50 szt | message_1.json |
-| 10:14:33 | Magda Motal | wszystkie grupy majÄ w sobotÄ | message_1.json |
-| 09:23:21 | UÅ¼ytkownik Facebooka | Ma ktoÅ psychologiÄ emocji w niedziele? | message_1.json |
-| 19:22:54 | Aleksandra Kretek | Kochani! UdostÄpnijcie proszÄ wszÄdzie gdzie siÄ da nasze Wampowe wydarzenie! Na grupach swoich ... | message_1.json |
-| 10:53:25 | Martyna SzyrszeÅ | o ktÃ³rej zaczynamy wykÅad ostatecznie? | message_1.json |
-| 11:56:11 | Ania Gancarz | [Photo: 1] | message_1.json |
-| 11:01:57 | Magda Staszel | Hej, zwalnia siÄ u mnie na mieszkaniu pokÃ³j i szukamy jednej osoby. PokÃ³j bÄdzie dostÄpny pod k... | message_1.json |
-| 10:53:38 | Martyna SzyrszeÅ | i do ktÃ³rej? | message_1.json |
-| 16:51:32 | Aleksandra Kretek | ej, ale super paka, totalnie nietypowa | message_1.json |
-| 16:51:28 | Ola CioÅek | Oooo jednak to nie byÅ Å¼art! | message_1.json |
-| 16:51:18 | Marek Rapta | Przuprawa nad przyprawami sol z kolorowym pieprzem 20 szt | message_1.json |
-| 16:51:45 | Marek Rapta | I to by byÅo na tyle, paczkÄ dostarczÄ do biura w tygodniu wampowym | message_1.json |
-| 16:54:10 | Marek Rapta | ð©¸ | message_1.json |
-| 16:53:52 | Aleksandra Kretek | dziÄkujÄ Ci Marek! | message_1.json |
-| 16:52:20 | Marek Rapta | Mialem nadzieje na sole do kÄpieli haha bo moja kuzynka tam pracuje i czesto przynosi ale cieszmy s... | message_1.json |
-| 13:11:12 | Marek Rapta | SÃ³l | message_1.json |
-| 12:26:41 | Julita Bouffette | Jest pakunek | message_1.json |
-| 12:24:58 | Aleksandra Kretek | Fajne upominki? | message_1.json |
-| 13:11:24 | Marek Rapta | I pieprz xd bo okazuje sie ze w wieliczce tez go kopia xd | message_1.json |
-| 13:24:08 | Aleksandra Kretek | Tak wÅaÅnie siÄ dzieje | message_1.json |
-| 13:21:29 | Ola CioÅek | A pieprz nie roÅnie przypadkiem? | message_1.json |
-| 13:15:09 | Aleksandra Kretek | Åoo, nie wiedziaÅam | message_1.json |
-| 09:10:24 | Aleksandra Kretek | Pewnie, na spokojnie | message_1.json |
-| 07:47:43 | Julita Bouffette | To raczej bez problemu | message_1.json |
-| 07:27:12 | Marek Rapta | Dzis jade po bony na kopalnie, ale wracam do krk dopiero w niedziele po majowce wiec dopiero wtedy m... | message_1.json |
-| 12:07:55 | UÅ¼ytkownik Facebooka | Osoba z Twoich kontaktÃ³w dodaÅa PaulinÄ WÃ³jcik do grupy. | message_1.json |
-| 12:16:01 | Marek Rapta | Haha to dlatego nie chcieli loga pewnie | message_1.json |
-| 12:15:54 | Marek Rapta | Upominki * | message_1.json |
-| 12:08:04 | UÅ¼ytkownik Facebooka | Kontakt opuÅciÅ grupÄ. | message_1.json |
-| 16:48:39 | Marek Rapta | Podsumowanie naszej paczki od kopalni soli | message_1.json |
-| 15:58:43 | Paulina WÃ³jcik | oki | message_1.json |
-| 15:58:14 | Aleksandra Kretek | tylko zaakceptuj zaproszenie i bÄdÄ mogÅa CiÄ dodaÄ | message_1.json |
-| 16:48:43 | Marek Rapta | [Photo: 1] | message_1.json |
-| 16:49:08 | Aleksandra Kretek | ulala | message_1.json |
-| 16:49:05 | Marek Rapta | [Photo: 1] | message_1.json |
-| 16:49:00 | Marek Rapta | Sol spoÅ¼ywcza jodowana 250g 7 sztuk | message_1.json |
-| 13:26:47 | Ola CioÅek | Ja wÅaÅnie powiedziaÅam znajomemu Ooo wiesz o tym? A on Å¼e co ja braÅam XDD | message_1.json |
-| 13:26:07 | Angelika Åuczyk | Noo ja siÄ po prostu tradycyjnie nabraÅam i gdybyÅ nie napisaÅa, Å¼e roÅnie to bym opowiadaÅa ... | message_1.json |
-| 13:25:22 | Ola CioÅek | BoÅ¼e ja naprawdÄ przez chwilÄ byÅam w szoku Å¼e wydobywa siÄ w Wieliczce pieprz XDD chyba siÄ ... | message_1.json |
-| 15:56:06 | Paulina WÃ³jcik | jesli mam byÄ w jakieÅ grupie takiej facebookowej odnoÅnie wampy, to poproszÄ o wrzucenie ponown... | message_1.json |
-| 15:57:16 | Aleksandra Kretek | spoczi <3 | message_1.json |
-| 15:56:23 | Paulina WÃ³jcik | na messengerze jestem | message_1.json |
-| 15:56:19 | Paulina WÃ³jcik | i jakby ktoÅ mÃ³gÅ mnie teÅ¼ wrzuciÄ na grubÄ nzs na fb, to byÅabym wdziÄczna | message_1.json |
-| 11:56:43 | Kamil Kusibab | Dajmy jakÄÅ godzinÄ 12, Å¼eby siÄ wyspaÄ, ale nie stresowaÄ za duÅ¼o wczeÅniej xD | message_1.json |
-| 12:21:00 | Martyna Gancarczyk | macie post na grupie, zagÅosujmy | message_1.json |
-| 12:20:43 | Julka Åypaczewska | Zawsze mozna poprosic czy wysle cala prezentacje wczesniej i nie bedzie problemu z nauka wczesniej | message_1.json |
-| 12:20:17 | Wiktoria MiÅaszewska | Mamy uÅatwienie Å¼e egzamin jest zdalny | message_1.json |
-| 12:21:47 | Martyna Gancarczyk | osobiÅcie nie chce mieÄ nawalone wszystkie egzaminy blisko siebie, tym bardziej Å¼e ten na pewno j... | message_1.json |
-| 12:30:06 | Martyna Gancarczyk | Tak | message_1.json |
-| 12:29:59 | Anna PÅatek | A wykÅad 15,30? BeÅ¼ zmian? | message_1.json |
-| 12:27:23 | Martyna Gancarczyk | macie czas z gÅosowaniem do 15, pÃ³Åºniej juÅ¼ nie ma na co czekaÄ bo wykÅad siÄ zacznie | message_1.json |
-| 12:15:00 | Martyna Gancarczyk | Bi gÅosowaÅo 70 osÃ³b, kaÅ¼dy widziaÅ datÄ i mÃ³gÅ to sprawdziÄ | message_1.json |
-| 12:14:42 | Martyna Gancarczyk | MoÅ¼emy zrobiÄ szybkie gÅosowanie na grupie ile osÃ³b chce w ogÃ³le zmieniÄ ten termin | message_1.json |
-| 12:14:32 | Sylwia HoÅda | Ale nie jest powiedziane na razie, Å¼e ostatnio wykald nas nie obowiÄzuje, bo jak powie, Å¼e nieobo... | message_1.json |
-| 12:17:00 | Anna PÅatek | Ludzie egzamin zdalny. Bez bazy, ale jeÅli bÄdziemy wspÃ³ÅpracowaÄ jak na metodologii to jestem ... | message_1.json |
-| 12:19:42 | Wiktoria MiÅaszewska | Ale sÅuchajcie czasem trzeba sobie poradziÄ z takimi rzeczami.. jak siÄ zacznie wczesniej przyswa... | message_1.json |
-| 12:17:58 | Martyna Gancarczyk | Ja wiedziaÅam o tym, Å¼e koÅczymy statystykÄ 19 maja, kaÅ¼dy mÃ³gÅ to sprawdziÄ we wÅasnym zak... | message_1.json |
-| 12:17:24 | Agnieszka Ciurej | No dobrze i nikt nie dopatrzyl tego, ale chyba kaÅ¼demu jest na rÄkÄ mieÄ czas na przygotowanie, ... | message_1.json |
-| 12:33:00 | MaÅgorzata Gajewska | Bez przerw | message_1.json |
-| 12:32:57 | MaÅgorzata Gajewska | W takim razie do 18:30 | message_1.json |
-| 12:32:41 | Anna PÅatek | Ona nie robi przerw | message_1.json |
-| 12:35:33 | Natalia Bodziony | o dziekuje wam | message_1.json |
-| 12:51:42 | Magda Motal | na dysku od 2 roku sÄ caÅkiem fajne | message_1.json |
-| 12:51:39 | MaÅgorzata Gajewska | SÄ na dysku doÅÄ przystÄpne | message_1.json |
-| 12:51:16 | Wiktoria Krzyszkowska | Ma ktoÅ moÅ¼e notatki z Åosiaka? | message_1.json |
-| 12:30:56 | Natalia Bodziony | do 20? | message_1.json |
-| 12:30:35 | Natalia Bodziony | czyli ile to bedzie trwalo w sumie | message_1.json |
-| 12:30:19 | Martyna Gancarczyk | dzisiaj jeszcze nadrabiamy zalegÅy, pamiÄtajcie | message_1.json |
-| 12:30:56 | Martyna Gancarczyk | dobre pytanie ale nie umiem ci na to odpowiedzieÄ | message_1.json |
-| 12:32:19 | MaÅgorzata Gajewska | Odrabiamy 1,5 godz wiec do 19 | message_1.json |
-| 12:32:17 | Anna PÅatek | Odrabiamy jeden to 18:30 chyba | message_1.json |
-| 12:31:07 | Martyna Gancarczyk | Raczej tak | message_1.json |
-| 12:04:12 | Ania Gancarz | . | message_1.json |
-| 12:02:30 | Sylwia HoÅda | . | message_1.json |
-| 12:01:53 | Ania Gancarz | w sensie jej to chyba obojÄtne, z tego co kojarzÄ | message_1.json |
-| 12:04:36 | Sylwia HoÅda | I mimo to, dalej to jest fatalny pomysÅ | message_1.json |
-| 12:06:38 | MaÅgorzata Gajewska | To jest prawie 3 godzinny wykÅad wiec dawka informacji na pewno bÄdzie spora a chyba kaÅ¼dy z nas ... | message_1.json |
-| 12:04:59 | Sylwia HoÅda | Nie mamy Å¼adnej bazy ani nic, to bÄdzie strzaÅ w kolano | message_1.json |
-| 12:04:58 | MaÅgorzata Gajewska | KaÅ¼dy mÃ³gÅ to sprawdziÄ, jednak teraz okazaÅo siÄ ze jest spora przeszkoda | message_1.json |
-| 11:57:44 | MaÅgorzata Gajewska | Tyle Å¼e mieliÅmy jeszcze przemyÅleÄ ten termin gdyÅ¼ dwa dni wczeÅniej jest doÅÄ dÅugi wykÅ... | message_1.json |
-| 11:57:40 | Ania Gancarz | one siÄ zaczynaja o 13:15 | message_1.json |
-| 11:57:22 | Ania Gancarz | pasujÄ wam godziny 9:00, 21.05., a 28. przed Äwiczeniami z poznawczej? | message_1.json |
-| 11:57:44 | Dorota Szczerba | Mam pytanie, czy wykÅady ze statystyki sÄ obowiÄzkowe? | message_1.json |
-| 12:01:33 | Ania Gancarz | chyba siÄ nie okreÅliÅa jeszcze, poprawcie mnie jeÅli siÄ mylÄ | message_1.json |
-| 11:58:18 | Magda Staszel | A to bÄdzie zdalny egzamin? | message_1.json |
-| 11:58:10 | Ania Gancarz | 10:45 - 13 jest angielski | message_1.json |
-| 12:12:33 | Ania Gancarz | moÅ¼na jej dzisiaj dopytaÄ, ale szczerze wÄtpiÄ w to, Å¼e zgodzi siÄ nam robiÄ drugi termin w c... | message_1.json |
-| 12:11:41 | Ania Gancarz | pisaÅam do niej wczoraj, dwa tygodnie po tym, jak Martyna zaproponowaÅa terminy, nad ktÃ³rymi miel... | message_1.json |
-| 12:11:22 | Sylwia HoÅda | A nawet musimy i zobaczymy co wtedy powie | message_1.json |
-| 12:12:53 | Anna PÅatek | A moÅ¼e najpierw zapytajmy cY te ostatnie tematy mogÄ byÄ na teÅcie mniej istotne? | message_1.json |
-| 12:13:59 | Anna PÅatek | I lepiej napisaÄ wczeÅniej z mniejszej partii materiaÅu niÅ¼ pÃ³Åºniej z caÅoÅci o jeszcze ja w... | message_1.json |
-| 12:13:08 | Anna PÅatek | Bo wydaje mi siÄ, ze i tak musimy to napisaÄ zanim ona wyjedzie | message_1.json |
-| 12:13:07 | Martyna Gancarczyk | ile osÃ³b chce zmieniÄ 1 termin? | message_1.json |
-| 12:09:22 | MaÅgorzata Gajewska | Bo pozostaje sobota po godz 20 do nauki i to wÅaÅciwie tyle | message_1.json |
-| 12:08:37 | MaÅgorzata Gajewska | Dlatego wÅaÅnie mieliÅmy to przemyÅleÄ a nie odrazu pisaÄ z ostatecznÄ informacjÄ | message_1.json |
-| 12:08:01 | Wiktoria MiÅaszewska | Ja myÅle Å¼e skoro tak juÅ¼ zdecydowaliÅmy i  jej napisaliÅmy to musimy spiÄÄ dupe, moÅ¼emy ewe... | message_1.json |
-| 12:09:30 | Wiktoria MiÅaszewska | . | message_1.json |
-| 12:11:10 | Wiktoria MiÅaszewska | MoÅ¼emy i to zasugerowaÄ | message_1.json |
-| 12:10:14 | Sylwia HoÅda | No to w takim razie jak dla mnie z ostatniego tematu w ogÃ³le nie powinno byÄ pytaÅ | message_1.json |
-| 12:09:31 | Agnieszka Ciurej | Najlepiej byÅoby dzisiaj z niÄ o tym pogadaÄ, powiedzieÄ, Å¼e przeoczyliÅmy ten szczegÃ³Å i za... | message_1.json |
-| 16:56:21 | Katarzyna Huk | K1 ma tylko jedne Äwiczenia przez caÅy dzieÅ z poznawczej i nic wiÄcej | message_1.json |
-| 16:16:16 | Radek Salwach | Niee | message_1.json |
-| 16:15:52 | Emilka Kowalczyk | imo tak | message_1.json |
-| 16:15:43 | Damian Piotr Cokot | To jak, skoczyÄ po piÅkÄ do siaty? Jak myÅlicie? | message_1.json |
-| 16:16:19 | Radek Salwach | My weÅºmiemy | message_1.json |
-| 16:17:00 | Julita Bouffette | To kup | message_1.json |
-| 16:16:57 | Julita Bouffette | JeÅli chcemy mieÄ do krk | message_1.json |
-| 16:16:50 | MichaÅ Matczak | Ja biorÄ do kosza piÅkÄ jak coÅ | message_1.json |
-| 15:57:42 | Radek Salwach | 5zÅ nie zbawi | message_1.json |
-| 15:57:38 | Madzia Szczypka | Bo ide i nie wroce | message_1.json |
-| 15:57:34 | Stasiu Przygoda | moze sie przydac | message_1.json |
-| 15:57:44 | Radek Salwach | Nas chyba | message_1.json |
-| 15:58:37 | Madzia Szczypka | Dobra biore | message_1.json |
-| 15:58:31 | Madzia Szczypka | Ale jak juz cos mamy to useless | message_1.json |
-| 15:58:17 | Madzia Szczypka | Chuj ze 5 | message_1.json |
-| 16:26:30 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
-| 16:26:29 | Damian Piotr Cokot | Morda 40 latka | message_1.json |
-| 16:26:14 | Damian Piotr Cokot | [Photo: 1] | message_1.json |
-| 16:26:37 | Damian Piotr Cokot | Kto pali blanta? | message_1.json |
-| 16:26:47 | MichaÅ Matczak | [Photo: 1] | message_1.json |
-| 16:26:44 | Julita Bouffette | DÅ¼onta | message_1.json |
-| 16:26:44 | Emilka Kowalczyk | twÃ³j stary pijany | message_1.json |
-| 16:25:13 | Damian Piotr Cokot | Ooo to niech weÅºmie | message_1.json |
-| 16:17:49 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
-| 16:17:20 | Julita Bouffette | A jeÅli tylko nad Soline pograÄ to Jasiu weÅºmie od kuzyna | message_1.json |
-| 16:25:23 | Damian Piotr Cokot | Bo nie chce mi siÄ jechaÄ dzisiaj do Decathlonu | message_1.json |
-| 16:25:40 | Emilka Kowalczyk | albo jutro kupimy w nowym saczu | message_1.json |
-| 16:25:31 | Emilka Kowalczyk | to weÅºmiemy | message_1.json |
-| 16:25:28 | Emilka Kowalczyk | dobra | message_1.json |
-| 14:58:44 | MichaÅ Matczak | [Photo: 1] | message_1.json |
-| 12:49:11 | MichaÅ Matczak | Zalane z zapasem | message_1.json |
-| 12:49:01 | MichaÅ Matczak | [Photo: 1] | message_1.json |
-| 14:58:58 | MichaÅ Matczak | [Photo: 1] | message_1.json |
-| 14:59:46 | Madzia Szczypka | ð¥µ | message_1.json |
-| 14:59:07 | MichaÅ Matczak | WiÄc jutro full wypas wycieczka | message_1.json |
-| 14:59:00 | MichaÅ Matczak | Umyte teÅ¼ jest | message_1.json |
-| 12:23:43 | Damian Piotr Cokot | Jak coÅ to nie wyÅwietlajÄ siÄ w tym linku wszystkie piosenki | message_1.json |
-| 12:22:57 | Damian Piotr Cokot | Okej jak ktoÅ ma jeszcze propozycje to dawaÄ | message_1.json |
-| 12:22:44 | Damian Piotr Cokot | https://tidal.com/playlist/3ceb5d70-4b01-4fd6-a913-18e181ccfccd | message_1.json |
-| 12:23:54 | Damian Piotr Cokot | Jest juÅ¼ 134 bo twoje tez dodaÅem @Madzia Szczypka | message_1.json |
-| 12:27:07 | Radek Salwach | Ja | message_1.json |
-| 12:25:41 | Damian Piotr Cokot | Kto bÄdzie mil gÅoÅnik? | message_1.json |
-| 12:25:03 | Madzia Szczypka | ð¥° | message_1.json |
-| 15:56:26 | Madzia Szczypka | Tylko plastikowe | message_1.json |
-| 15:56:16 | Madzia Szczypka | Brac? | message_1.json |
-| 15:56:12 | Madzia Szczypka | [Photo: 1] | message_1.json |
-| 15:56:49 | Madzia Szczypka | Za 5 ziko 50 | message_1.json |
-| 15:57:32 | Madzia Szczypka | Czy potrzebne czy nie | message_1.json |
-| 15:57:30 | Stasiu Przygoda | a wez | message_1.json |
-| 15:57:27 | Madzia Szczypka | Szybka akcja | message_1.json |
-| 15:00:11 | MichaÅ Matczak | Na bagaÅ¼e | message_1.json |
-| 15:00:04 | MichaÅ Matczak | Tyle miejsca mamy | message_1.json |
-| 15:00:02 | MichaÅ Matczak | [Photo: 1] | message_1.json |
-| 15:00:48 | Madzia Szczypka | Ez | message_1.json |
-| 15:05:34 | Damian Piotr Cokot | Where wady | message_1.json |
-| 15:05:32 | Damian Piotr Cokot | [Photo: 1] | message_1.json |
-| 15:00:52 | Madzia Szczypka | Najwyzej pod nogi sie cos da | message_1.json |
-| 16:26:48 | Damian Piotr Cokot | Nie chce mi siÄ pisaÄ do kaÅ¼dego z osobna | message_1.json |
-| 09:25:19 | MichaÅ Wiencek | No w sumue od miesiaca sobie zwiedzam szpitale | message_1.json |
-| 08:51:08 | Ania Michno | Oki to czekam na info! CoÅ powaÅ¼nego?ð¥º | message_1.json |
-| 08:00:44 | MichaÅ Wiencek | Bede dawal znac jak wroce na uczelniÄ | message_1.json |
-| 09:25:27 | MichaÅ Wiencek | Teraz miaÅem ropnia w brzuchu xD | message_1.json |
-| 10:51:52 | MichaÅ Wiencek | DziÄkii | message_1.json |
-| 10:28:07 | Ania Michno | O matko, to Å¼yczÄ duÅ¼o zdrÃ³wka!ð¥º | message_1.json |
-| 09:26:05 | MichaÅ Wiencek | I zaraz bede musiaÅ znowu jechac bo mi sie na ranie po zabiegu kolejny zrobiÅ XDDDD | message_1.json |
-| 12:19:31 | UÅ¼ytkownik Facebooka | Kontakt opuÅciÅ grupÄ. | message_1.json |
-| 12:19:26 | UÅ¼ytkownik Facebooka | Osoba z Twoich kontaktÃ³w dodaÅa PaulinÄ WÃ³jcik do grupy. | message_1.json |
-| 12:22:54 | Dorota Szczerba | DziÄkujÄ | message_1.json |
-| 07:06:38 | Ania Michno | Hej MichaÅ! Z przyjemnoÅciÄ chciaÅam przekazaÄ, Å¼e w uznaniu zaangaÅ¼owania w dziaÅalnoÅÄ n... | message_1.json |
-| 08:00:29 | MichaÅ Wiencek | Niestety dopiero co ze szpitala wyszedlem i nie miaÅem jak uczestniczyc :/ | message_1.json |
-| 08:00:08 | MichaÅ Wiencek | Suuuper dziÄki | message_1.json |
-| 07:08:03 | Ania Michno | Niestety nie byÅo CiÄ na gali ale TwÃ³j dyplom czeka w biurze wraz z deklaracjÄ czÅonkowskÄ, kt... | message_1.json |
-| 09:52:24 | MichaÅ Wiencek | Jakbym byl w stwnie to bym pojechaÅ gdzies indziej bo pewnie znowu cos zjebia w tym bielsku jebanym | message_1.json |
-| 09:52:02 | MichaÅ Wiencek | Mam problem z lozka wstac aktualnie xd | message_1.json |
-| 09:51:47 | MichaÅ Wiencek | Do krakowa nie dojade | message_1.json |
-| 13:08:55 | MichaÅ Wiencek | Jednak karetka po mnie jedzie bo zemdlalem jak sje chciaÅem ubraÄ | message_1.json |
-| 13:09:44 | Julita Bouffette | Masakra | message_1.json |
-| 13:09:41 | Julita Bouffette | O kurwa | message_1.json |
-| 13:09:11 | MichaÅ Wiencek | ðð¿ðð¿ðð¿ | message_1.json |
-| 09:29:21 | MichaÅ Wiencek | ð¥³ð¥³ð¥³ð¥³ð¥³ | message_1.json |
-| 09:29:12 | MichaÅ Wiencek | Z bolem gorszym niz 3 ostatnie razy | message_1.json |
-| 09:29:03 | MichaÅ Wiencek | Zgadnijcie kto zaraz 4 raz bedzie jechaÅ do szpitala | message_1.json |
-| 09:41:22 | Stasiu Przygoda | marzenka? | message_1.json |
-| 09:51:19 | Julita Bouffette | A gdzie to, dalej w Bielsku? | message_1.json |
-| 09:50:16 | Stasiu Przygoda | To byÅa dobra odpowiedz? | message_1.json |
-| 09:44:37 | Madzia Szczypka | AÅ | message_1.json |
-| 18:16:13 | Stasiu Przygoda | To musiaÅbyÅ w budynek wjechaÄ | message_1.json |
-| 18:16:08 | Stasiu Przygoda | A to jak chcesz bo ja nigdzie dzisiaj nie wychodzÄ | message_1.json |
-| 18:15:25 | MichaÅ Matczak | JuÅ¼ dzisiaj ciÄ mogÄ przejechaÄ | message_1.json |
-| 18:16:21 | MichaÅ Matczak | No problemo mi amigo | message_1.json |
-| 19:12:16 | Damian Piotr Cokot | WeÅºcie stroje, pÃ³jdziemy mordowaÄ | message_1.json |
-| 18:21:35 | Stasiu Przygoda | I mnie nie wyciÄgniÄcie stamtÄd | message_1.json |
-| 18:21:27 | Stasiu Przygoda | A tak serio to ja i tak siedzÄ za kierowca | message_1.json |
-| 18:01:26 | Madzia Szczypka | Siedze na srodku | message_1.json |
-| 18:00:59 | Damian Piotr Cokot | SiedzÄ z przodu shotgun | message_1.json |
-| 16:26:53 | Damian Piotr Cokot | XD | message_1.json |
-| 18:04:48 | MichaÅ Matczak | SiedzÄ za kierownicÄ | message_1.json |
-| 18:15:20 | MichaÅ Matczak | To po co czekaÄ do jutra | message_1.json |
-| 18:14:57 | Stasiu Przygoda | Ja zajmuje miejsce pod koÅami | message_1.json |
-| 18:14:38 | MichaÅ Matczak | Za mnÄ Stasiu bo jest najmniejszy ðð»ðð»ð¥¹ | message_1.json |
-| 19:16:55 | Emilka Kowalczyk | slay? | message_1.json |
-| 19:14:36 | Damian Piotr Cokot | Ryby | message_1.json |
-| 19:14:35 | Damian Piotr Cokot | To tez moÅ¼na | message_1.json |
-| 19:21:12 | Damian Piotr Cokot | ðð¾ | message_1.json |
-| 12:03:50 | Oliwia WÅodarczyk | nie sÄ | message_1.json |
-| 12:03:38 | Dorota Szczerba | Hej moÅ¼e ktoÅ siÄ orientujÄ, czy wykÅady ze statystyki sÄ obowiÄzkowe? | message_1.json |
-| 19:39:17 | Emilka Kowalczyk | [Photo: 1] | message_1.json |
-| 19:13:00 | Damian Piotr Cokot | WezmÄ tran Å¼eby siÄ nie przeziÄbiÄ XD | message_1.json |
-| 19:12:54 | Radek Salwach | ð | message_1.json |
-| 19:12:36 | Radek Salwach | Mega smart | message_1.json |
-| 19:13:12 | Stasiu Przygoda | Co my mamy mordowaÄ? | message_1.json |
-| 19:13:41 | Stasiu Przygoda | DziÄkuje za wyjaÅnienie | message_1.json |
-| 19:13:20 | Radek Salwach | Mu chodziÅo | message_1.json |
-| 19:13:18 | Radek Salwach | MorsowaÄ | message_1.json |
-| 17:48:54 | Martyna Gancarczyk | no ja jak jÄ pytalam to powiedziaÅa Å¼e formsy ale boje sie ze nas w bambuko wysle | message_1.json |
-| 17:48:50 | Anna PÅatek | Chyba, ze to ktoÅ inny mÃ³wiÅ ð | message_1.json |
-| 17:48:42 | Anna PÅatek | Ona chyba mÃ³wiÅa, Å¼eby sobie zalogowaÄ konto, bi bÄdzie zdalnie, ale jakby ktoÅ miaÅ problemy... | message_1.json |
-| 12:08:46 | UÅ¼ytkownik Facebooka | Osoba z Twoich kontaktÃ³w dodaÅa PaulinÄ WÃ³jcik do grupy. | message_1.json |
-| 14:08:13 | Katarzyna Morawska | Dziecszyny z So Party zrobiÄ nam dekoracje na wampe ! â¤ï¸ð | message_1.json |
-| 12:09:21 | Paulina WÃ³jcik | zmieniam konto, bo miaÅam cyrki z logowaniami, sorki za zamieszanie | message_1.json |
-| 12:08:57 | UÅ¼ytkownik Facebooka | Kontakt opuÅciÅ grupÄ. | message_1.json |
-| 17:47:24 | Magda Staszel | Dopiero zaczÄÅam czytaÄ opracowanie rozdziaÅÃ³w xd | message_1.json |
-| 17:46:18 | Martyna Gancarczyk | jakie macie nastawienie przed jutrzejszym kolosem | message_1.json |
-| 17:07:16 | Martyna Gancarczyk | na razie sprÃ³bujmy przeÅoÅ¼yÄ wykÅad na 5, jak siÄ nie uda to wtedy pomyÅlimy co dalej, bo to ... | message_1.json |
-| 17:47:51 | Martyna Gancarczyk | okeej, podoba mi sie to | message_1.json |
-| 17:48:11 | Magda Staszel | WÅaÅnie miaÅam pytaÄ | message_1.json |
-| 17:48:03 | Martyna Gancarczyk | ma to byc zdalnie prawda | message_1.json |
-| 17:47:54 | Magda Staszel | I mam nadziejÄ Å¼e bÄdzie moÅ¼na Åatwo ÅciÄgaÄ | message_1.json |
-| 15:51:21 | PaweÅ Piotrowski | Mooi drodzy chciaÅbym siÄ dziÅ pochwaliÄ sukcesem dla naszego OU!  DziÅ otrzymaliÅmy wyniki ko... | message_1.json |
-| 15:33:01 | Katarzyna Morawska | Taaak | message_1.json |
-| 15:32:25 | Karolina ZarÄbska | Pino garden? | message_1.json |
-| 15:54:11 | Ania Michno | [No text content] | message_1.json |
-| 16:32:07 | Angelika Åuczyk | W sensie jaki etat | message_1.json |
-| 16:31:59 | Angelika Åuczyk | A na ile godzin? | message_1.json |
-| 15:55:55 | Luiza Socha | Brawo dziewczyny!! ð | message_1.json |
-| 14:50:04 | Katarzyna Morawska | Szuka ktoÅ super pracy? P | message_1.json |
-| 14:28:35 | Katarzyna Morawska | TakÅ¼e szukajÄ juÅ¼ jakichÅ kwiatowych i wiosennych motywÃ³w â¤ï¸ | message_1.json |
-| 14:15:35 | Aleksandra Kretek | Ale super! ðð | message_1.json |
-| 14:50:23 | Ola CioÅek | Od kiedy? | message_1.json |
-| 14:51:54 | Ola CioÅek | Kurde ja szukam czegoÅ ale dopiero od sierpnia ð | message_1.json |
-| 14:51:01 | Katarzyna Morawska | W pino Garden szukajÄ do zespoÅu, premia motywacyjna, procent od utargu i moÅ¼liwoÅÄ poznania ta... | message_1.json |
-| 14:50:27 | Angelika Åuczyk | Na przykÅad? | message_1.json |
-| 16:58:52 | Martyna Gancarczyk | W sensie wykÅad | message_1.json |
-| 16:58:50 | Martyna Gancarczyk | juÅ¼ chyba bym wolaÅa przenieÅÄ statystykÄ na 5 maja | message_1.json |
-| 16:58:41 | Magda Motal | moÅ¼e udaÅoby siÄ napisaÄ na 2 grupy? | message_1.json |
-| 16:59:03 | Martyna Gancarczyk | myÅlÄ Å¼e zirytowaÅaby siÄ o to | message_1.json |
-| 16:59:13 | Sylwia HoÅda | *miÄdzy | message_1.json |
-| 16:59:04 | Sylwia HoÅda | Albo na tygodniu niech 29 a 4.06 | message_1.json |
-| 16:59:04 | Magda Motal | o to jest pomysÅ | message_1.json |
-| 16:57:11 | Katarzyna Huk | Wiem | message_1.json |
-| 16:56:42 | Martyna Gancarczyk | No ale sÄ tez inne grupy | message_1.json |
-| 16:56:33 | Martyna Gancarczyk | [No text content] | message_1.json |
-| 16:57:15 | Martyna Gancarczyk | PamiÄtajmy Å¼e to jest 1 termin a nie 2, kaÅ¼dy musi mieÄ moÅ¼liwoÅÄ podejÅcia do tego | message_1.json |
-| 16:58:09 | Martyna Gancarczyk | wolne mamy tylko piÄtki, ale wiele osÃ³b chce wtedy po godzinie 17 albo wcale nie majÄ moÅ¼liwoÅc... | message_1.json |
-| 16:57:44 | Katarzyna Huk | OdpisaÅam na to po prostu | message_1.json |
-| 16:57:33 | Anna PÅatek | K3 ma statystykÄ od 11:30 | message_1.json |
-| 17:04:10 | Martyna Gancarczyk | moim zdaniem Åatwiej jest przenieÅÄ wykÅad na 5 maja, ale wtedy musi siÄ zgodziÄ JÃ³zefacka A ... | message_1.json |
-| 17:02:19 | Wiktoria MiÅaszewska | Nie No wiem ze raczej nikomu to nie bÄdzie odpowiadaÅo | message_1.json |
-| 17:01:58 | Martyna Gancarczyk | ja np pracujÄ czasami do 20 i zanim dojadÄ do domu i siÄ ogarne to bÄdzie 22 | message_1.json |
-| 17:04:22 | Sylwia HoÅda | MoÅ¼emy sprÃ³bowaÄ | message_1.json |
-| 17:05:51 | Sylwia HoÅda | Bo na tej historii i tak pewnie skoÅczy po godzinie | message_1.json |
-| 17:05:42 | Sylwia HoÅda | Ale po 19 spoko | message_1.json |
-| 17:05:33 | Katarzyna Huk | Przed 15:00 to pewnie tez sporo osob bÄdzie w pracy | message_1.json |
-| 16:59:38 | Magda Motal | z tym siÄ nie uÅoÅ¼ymy bo duÅ¼o ludzi pracuje | message_1.json |
-| 16:59:33 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
-| 16:59:18 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
-| 16:59:48 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
-| 17:01:20 | Wiktoria MiÅaszewska | Pozostaje nam wtedy zrobiÄ po 20 xd | message_1.json |
-| 16:59:56 | Martyna Gancarczyk | tak to wyglÄda, popatrzcie sobie dokÅadnie | message_1.json |
-| 16:59:51 | Magda Motal | w rÃ³Å¼nych godzinach w sensi e | message_1.json |
-| 16:37:11 | Katarzyna Morawska | Nie ma okreÅlonych ram bo to zlecenie | message_1.json |
-| 11:42:41 | Stasiu Przygoda | On bardzo lubi dangerous woman | message_1.json |
-| 11:42:40 | Damian Piotr Cokot | KtÃ³ra piosenka | message_1.json |
-| 11:42:30 | Radek Salwach | Tak | message_1.json |
-| 11:42:54 | Radek Salwach | ZaleÅ¼y od humoru Damianku | message_1.json |
-| 11:43:24 | Emilka Kowalczyk | dla niezapomnianych przeÅ¼yÄ polecam god is a woman | message_1.json |
-| 11:43:05 | Madzia Szczypka | https://youtu.be/wOem06X3uVo | message_1.json |
-| 11:42:56 | Emilka Kowalczyk | god is a woman? | message_1.json |
-| 11:37:28 | Radek Salwach | https://youtube.com/watch?v=BjkrUoGx9d0&feature=share | message_1.json |
-| 11:35:54 | Kacper Fejdych | https://youtube.com/watch?v=InwVstrFZV0&feature=share | message_1.json |
-| 11:34:14 | Stasiu Przygoda | https://youtu.be/sUuVKJ85PA0 | message_1.json |
-| 11:41:57 | Stasiu Przygoda | MyÅle ze te 4 piosenki wystarcza na 4h przejaÅ¼dÅ¼kÄ autem | message_1.json |
-| 11:42:29 | Radek Salwach | ProszÄ taj | message_1.json |
-| 11:42:24 | Stasiu Przygoda | MyÅle ze tak | message_1.json |
-| 11:42:06 | Damian Piotr Cokot | Ariana Grande dla Radka? | message_1.json |
-| 11:58:37 | Radek Salwach | XD | message_1.json |
-| 11:58:21 | Madzia Szczypka | [Video: 1] | message_1.json |
-| 11:58:01 | Radek Salwach | [Video: 1] | message_1.json |
-| 11:58:45 | Radek Salwach | Mamy kompletnie inne tiktoki proponowane chyba | message_1.json |
-| 12:02:57 | Stasiu Przygoda | [Video: 1] | message_1.json |
-| 12:02:01 | Madzia Szczypka | [Video: 1] | message_1.json |
-| 12:00:30 | Stasiu Przygoda | [Video: 1] | message_1.json |
-| 11:54:56 | Madzia Szczypka | WiedziaÅam ze kiedys wykorzystam polubione na tiktoku | message_1.json |
-| 11:53:53 | Damian Piotr Cokot | [No text content] | message_1.json |
-| 11:43:36 | Radek Salwach | Fakty | message_1.json |
-| 11:55:57 | Madzia Szczypka | [Video: 1] | message_1.json |
-| 11:56:42 | Radek Salwach | [Video: 1] | message_1.json |
-| 11:56:33 | Stasiu Przygoda | Moje ulubione to same memy | message_1.json |
-| 11:56:19 | Radek Salwach | Tymczasem moje ulubione | message_1.json |
-| 09:21:03 | MichaÅ Matczak | @Jan Skowronek  wysÅaÅem za domki | message_1.json |
-| 18:38:30 | Ania Michno | Åwietnie!ð¥° | message_1.json |
-| 18:38:15 | Paulina WÃ³jcik | Jest juÅ¼, dziÄkuje bardzo ððð | message_1.json |
-| 09:21:47 | Jan Skowronek | DziÄkuje serdecznie Michale Matczaku | message_1.json |
-| 09:22:40 | MichaÅ Matczak | 668759385 | message_1.json |
-| 09:22:22 | MichaÅ Matczak | Za kieÅbaski ci potem doÅlÄ bo czekam na bliczka od mamy okis? | message_1.json |
-| 09:22:06 | MichaÅ Matczak | @Damian Piotr Cokot @Madzia Szczypka @Stasiu Przygoda @Kacper Fejdych  wyÅlijcie mi te 30 zÅotych?... | message_1.json |
-| 17:18:33 | Katarzyna Morawska | No nie wiem Angelika, nie jestem meganerem. Podejrzewam ze nie chcÄ kogoÅ kto bÄdzie raz w miesiÄ... | message_1.json |
-| 17:17:57 | Angelika Åuczyk | Cczyli moÅ¼na przyjÅÄ raz w miesiÄcu i moÅ¼na 15? XD | message_1.json |
-| 17:17:33 | PaweÅ Piotrowski | Moi drodzy, jeÅ¼eli ktoÅ zamierza zgÅosiÄ siÄ na kandydowanie do zarzÄdu NZS UP to wÅaÅnie wl... | message_1.json |
-| 18:22:47 | Monika ChruÅciel | Mega gratulacje dla Was ðâ¤ï¸ | message_1.json |
-| 18:37:04 | Ania Michno | Daj znaÄ czy dodaÅo | message_1.json |
-| 18:35:43 | Ania Michno | Taaak jasne | message_1.json |
-| 18:35:24 | Paulina WÃ³jcik | Wybaczcie zawracanie gÅowy, ale mam nowe konto i czy mÃ³gÅby mnie ktoÅ wrzuciÄ do grupy nzs na F... | message_1.json |
-| 09:28:24 | Kacper Fejdych | PoszÅo | message_1.json |
-| 09:28:02 | Madzia Szczypka | Done | message_1.json |
-| 09:28:00 | MichaÅ Matczak | Jutro 9.30 u mnie pod domem | message_1.json |
-| 09:54:16 | Stasiu Przygoda | powinno juÅ¼ byÄ @MichaÅ Matczak | message_1.json |
-| 11:33:43 | Kacper Fejdych | https://youtube.com/watch?v=CmtdhCsLzK4&feature=share | message_1.json |
-| 11:31:22 | Damian Piotr Cokot | ProszÄ propozycje piosenek | message_1.json |
-| 11:31:16 | Damian Piotr Cokot | RobiÄ playliste na wyjazd | message_1.json |
-| 09:23:52 | Julita Bouffette | Zabieram projektor | message_1.json |
-| 09:23:03 | MichaÅ Matczak | No problemo mi amigo, wieczorkiem dopiero bÄdÄ to robiÅ | message_1.json |
-| 09:22:45 | Stasiu Przygoda | To daj chwile | message_1.json |
-| 09:24:01 | Julita Bouffette | Ktos da radÄ gÅoÅnik wziÄÄ? | message_1.json |
-| 09:27:40 | Damian Piotr Cokot | Done | message_1.json |
-| 09:27:35 | Damian Piotr Cokot | Ja biorÄ dylemat wagonika i karty | message_1.json |
-| 09:24:08 | MichaÅ Matczak | @Radek Salwach ma | message_1.json |
