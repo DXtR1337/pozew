@@ -1,0 +1,801 @@
+{
+  "participants": [
+    {
+      "name": "Kacper Fejdych"
+    },
+    {
+      "name": "Madzia Szczypka"
+    },
+    {
+      "name": "Anna St\u00c4\u0099pie\u00c5\u0084"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685436719203,
+      "content": "To jak ktos jest w mieszkaniu zeby sie nie wystraszyl",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Anna St\u00c4\u0099pie\u00c5\u0084"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685436706805,
+      "content": "Jak cos to moi rodzice beda u mnie spa\u00c4\u0087 dzisiaj",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Fejdych",
+      "timestamp_ms": 1684761962528,
+      "content": "Posz\u00c5\u0082o",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1684753151774,
+      "content": "Sorki, ju\u00c5\u00bc robi\u00c4\u0099 za tamten i za ten \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684745641858,
+      "content": "21.37 standardowo za neta 660463449 @Anna St\u00c4\u0099pie\u00c5\u0084 za tamten miesiac jeszcze",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682406197483,
+      "content": "To tam 6.25 wychodzi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682406190456,
+      "content": "25 zl za nie da\u00c5\u0082em",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Fejdych",
+      "timestamp_ms": 1682406149905,
+      "content": "Ile??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682404884114,
+      "content": "+ @Kacper Fejdych @Anna St\u00c4\u0099pie\u00c5\u0084 wy mi chyba za te baterie nie przelaliscie jak dobrze patrz\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682404841657,
+      "content": "21.37 za neta do mnie standardowo 660463449",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1681930498933,
+      "content": "W szpitalu nie mia\u00c5\u0082 telefonu i dlatego olewa\u00c5\u0082 \u00f0\u009f\u00a5\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681929938945,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/racistclub_5189413581167155/photos/172237118704453.jpg",
+          "creation_timestamp": 1681929937
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Anna St\u00c4\u0099pie\u00c5\u0084"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681887681584,
+      "content": "\u00c5\u00bbe ja mu tego przelewu nie robie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681887671443,
+      "content": "Od razu mowie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681887596361,
+      "content": "Pisze do Paw\u00c5\u0082a bo to jest przesadaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681660916650,
+      "content": "@Anna St\u00c4\u0099pie\u00c5\u0084 mess",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1681587675644,
+      "content": "Worki s\u00c4\u0085, ale mo\u00c5\u00bcna kupi\u00c4\u0087 wi\u00c4\u0099cej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681581311324,
+      "content": "P\u00c5\u0082yn\u00c3\u00b3w work\u00c3\u00b3w itd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681581304658,
+      "content": "I kto dawno nie kupowa\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681581300441,
+      "content": "Co jest ba mieszkaniu czego nie ma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1681536372661,
+      "content": "Mo\u00c5\u00bce tak si\u00c4\u0099 nauczy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1681536364961,
+      "content": "Olewam go, jak b\u00c4\u0099dzie pisa\u00c5\u0082 albo dzwoni\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1681536349118,
+      "content": "Niech czeka sam tydzie\u00c5\u0084 na przelew",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1681536341132,
+      "content": "W chuju mam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1681536337695,
+      "content": "Chyba mu si\u00c4\u0099 uspokoi\u00c5\u0082a sytuacja finansowa, skoro nie musi placic do 10 :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681491001772,
+      "content": "umowil sie na cos to tak ma byc i tyle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681490991988,
+      "content": "no to ze bedzie robil wiekszy rozpierdol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490961483,
+      "content": "Wysle to wysle xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490955175,
+      "content": "I bedzie odpierdalac bardziej xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490950993,
+      "content": "Tak piszac tylko go wkurwiamy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490946880,
+      "content": "On niestabilny emocjonalnie jest",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490939893,
+      "content": "I co to da jak bedziemy mu tak pisac caly czas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681490899198,
+      "content": "ze prosimy o jak najszybsze rozliczenie, tak jak sie umawialismy do 10, ale wiemy ze do 11 byly swieta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490844220,
+      "content": "Ty chuju chamie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490840745,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490839448,
+      "content": "A co tam mam napisac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681490556837,
+      "content": "a nie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681490555812,
+      "content": "Michal napisz tez cos tam na grupie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490290726,
+      "content": "Zrobie to wy\u00c5\u009ble XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490286099,
+      "content": "XDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490283759,
+      "content": "Ten pawek",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1681490282063,
+      "content": "Ale sie rozchamil",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1681448705404,
+      "content": "przypomnijcie o rozlcizeniu",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Anna St\u00c4\u0099pie\u00c5\u0084"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1681027819017,
+      "content": "Weso\u00c5\u0082ych \u00c5\u009bwi\u00c4\u0085t, s\u00c5\u0082oneczka!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Madzia Szczypka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680987289058,
+      "content": "Weso\u00c5\u0082ych!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680986235933,
+      "content": "Weso\u00c5\u0082ych \u00c5\u009awi\u00c4\u0085t s\u00c4\u0085siedzi!! \u00f0\u009f\u00a4\u0097",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680986222170,
+      "content": "Btw",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680986221097,
+      "content": "A mialam nadzieje ze rozliczenie wyslal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680986211014,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/racistclub_5189413581167155/photos/953720008959230.jpg",
+          "creation_timestamp": 1680986210
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Anna St\u00c4\u0099pie\u00c5\u0084"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680646322995,
+      "content": "To trzeba z nim porozmawia\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680646313961,
+      "content": "\u00c5\u00bbeby pewnie za\u00c5\u0082o\u00c5\u00bcy\u00c4\u0087 umywalk\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680646308377,
+      "content": "Jak b\u00c4\u0099dzie znowu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680637964431,
+      "content": "No troche bsrdzo niefajnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680637949105,
+      "content": "Ostatnio do pokoi bez pytania",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680637878662,
+      "content": "A co dopiero przychodzic bez zapowiedzi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680637871754,
+      "content": "W sensie nie ma prawa sie nawet wpierdalac jak nam wynajmuje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680637855923,
+      "content": "A nie jego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680637850608,
+      "content": "No prawda a na czas wynajmu to nasze mieszkanie jakby",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Fejdych",
+      "timestamp_ms": 1680637830536,
+      "content": "Na szcz\u00c4\u0099\u00c5\u009bcie szybko byl zmierzy\u00c5\u0082 i poszedl",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Fejdych",
+      "timestamp_ms": 1680637820544,
+      "content": "Bo ca\u00c5\u0082y czas samowolk\u00c4\u0099 bedzie odpierdziela\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Fejdych",
+      "timestamp_ms": 1680637806084,
+      "content": "Ze prosimy o informacje jak chce przychodzi\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Fejdych",
+      "timestamp_ms": 1680637790262,
+      "content": "Ej nie odpuszczajcie mu teraz tylko niech go kto\u00c5\u009b tam zjebie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680634852534,
+      "content": "Niech ju\u00c5\u00bc to kupi i z g\u00c5\u0082owy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680634847648,
+      "content": "Okej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Fejdych",
+      "timestamp_ms": 1680634610415,
+      "content": "I mierzy\u00c5\u0082 sobie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Fejdych",
+      "timestamp_ms": 1680634605443,
+      "content": "Dalem mu linijk\u00c4\u0099 z kinderk\u00c3\u00b3w",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Madzia Szczypka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kacper Fejdych",
+      "timestamp_ms": 1680634599207,
+      "content": "Wszedl",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680634454972,
+      "content": "Co za gn\u00c3\u00b3j",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680634452096,
+      "content": "Wtf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680634450228,
+      "content": "XDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1680634440236,
+      "content": "co chcia;",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680634351012,
+      "content": "I za\u00c5\u0082atwi\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680634347201,
+      "content": "Dzwoni\u00c5\u0082 do mieszkania i Kacper wyszed\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680634341298,
+      "content": "On juz by\u00c5\u0082 podobno u nas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680548558953,
+      "content": "Nie zdazylam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680548541673,
+      "content": "Odebrac?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680548427083,
+      "content": "Pawe\u00c5\u0082 b\u00c4\u0099dzie dzwoni\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680310256560,
+      "content": "Ja odebra\u00c5\u0082am zeby miec juz go z g\u00c5\u0082owy i wgl",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680310249970,
+      "content": "Wiadomo \u00c5\u00bce jakby\u00c5\u009b mog\u00c5\u0082a to by\u00c5\u009b odebra\u00c5\u0082a a nie to nie Spoczko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680310232266,
+      "content": "Nie masz za co girl",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680293928348,
+      "content": "Ma by\u00c4\u0087 w niedziele wieczorem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680293921540,
+      "content": "Pogadane",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680293001755,
+      "content": "Mog\u00c4\u0099 do niego zadzownic zaraz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680292997381,
+      "content": "By\u00c5\u0082am w pracy i serio nie mog\u00c5\u0082am odebra\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna St\u00c4\u0099pie\u00c5\u0084",
+      "timestamp_ms": 1680292989543,
+      "content": "Sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290867373,
+      "content": "Powiedzialam ze jak bedziesz mia\u00c5\u0082a chwile wolna to zadzwonisz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290842390,
+      "content": "Ale w skrocie wypytywal sie o Anie i o umywalk\u00c4\u0099 i o to czy jestesmy na mieszkaniu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290659277,
+      "content": "a on No ja tez nie pamietam dobrze wie pani",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290650358,
+      "content": "A ja mu ze kiedys moze tak XDDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290628629,
+      "content": "I mowil ze w koszyczku by\u00c5\u0082a miara krawiecka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290589206,
+      "content": "\u00e2\u0080\u009eIde na d\u00c5\u0082uzszy spacer z psem bo jestem chory problemy ze zdrowiem, nie moge spac to wie Pani moze musze sie zm\u00c4\u0099czy\u00c4\u0087\n-Ok\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290560832,
+      "content": "\u00e2\u0080\u009eJak bedzie \u00c5\u0082adna inna a ta\u00c5\u0084sza to nie bede robi\u00c5\u0082 problemow wiadomo\u00e2\u0080\u009d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Anna St\u00c4\u0099pie\u00c5\u0084"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290550965,
+      "content": "I pyta\u00c5\u0082 kiedy ty jestes w sobote czy niedziele bo on by podszed\u00c5\u0082 i pomierzyl umywalk\u00c4\u0099 i ogarna\u00c5\u0082 co i jak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290530270,
+      "content": "I zawiedziony ze ja odebra\u00c5\u0082am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290526051,
+      "content": "@Anna St\u00c4\u0099pie\u00c5\u0084 Pawe\u00c5\u0082 pyta\u00c5\u0082 o umywalk\u00c4\u0099 i mowil ze chce to ogarnac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290507136,
+      "content": "Co to za olewanie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madzia Szczypka",
+      "timestamp_ms": 1680290502326,
+      "content": "Wiencurek czemu nie do\u00c5\u0082\u00c4\u0085czasz do rozmowy halo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Racist Club",
+  "is_still_participant": true,
+  "thread_path": "inbox/racistclub_5189413581167155",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/437250641717605.jpg",
+    "creation_timestamp": 1663093580
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

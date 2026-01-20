@@ -1,0 +1,14 @@
+﻿# WIADOMOSCI Z DNIA: 2023-04-09
+# Liczba: 9
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 12:11:22 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
+| 12:12:11 | Radek Salwach | ð¤¨ | message_1.json |
+| 08:10:19 | Anna StÄpieÅ | WesoÅych ÅwiÄt, sÅoneczka! | message_1.json |
+| 08:07:32 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 12:41:33 | Julita Bouffette | JesteÅ obrzydliwy | message_1.json |
+| 13:39:03 | Stasiu Przygoda | PoszedÅem dzisiaj do koÅcioÅa | message_1.json |
+| 13:39:14 | Stasiu Przygoda | I akurat kapitan stali Mielec miaÅ chrzciny | message_1.json |
+| 13:11:40 | MichaÅ Wiencek | Dostosowuje siÄ do towarzystwa | message_1.json |
+| 13:19:23 | Julita Bouffette | OczywiÅcie, kiedy wejdziesz miÄdzy wrony zaczniesz krakac tak jak one | message_1.json |

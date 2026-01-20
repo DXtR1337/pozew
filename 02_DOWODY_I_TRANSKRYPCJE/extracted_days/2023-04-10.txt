@@ -1,0 +1,99 @@
+﻿# WIADOMOSCI Z DNIA: 2023-04-10
+# Liczba: 94
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 13:53:50 | Radek Salwach | ð¤¢ð¤® | message_1.json |
+| 13:47:47 | Stasiu Przygoda | Jestem oszoÅomiony i zaskoczony | message_1.json |
+| 13:53:59 | Radek Salwach | Tak mi siÄ chce spaÄ | message_1.json |
+| 13:54:21 | Radek Salwach | A w planszowke graÄ musze | message_1.json |
+| 13:54:11 | Radek Salwach | Å»e nie wytrzynuhe | message_1.json |
+| 13:47:35 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 13:43:11 | Radek Salwach | ð | message_1.json |
+| 13:42:41 | Stasiu Przygoda | Radek ale co to za ekspresywnoÅÄ jaka wczeÅniej nikt nie widziaÅ | message_1.json |
+| 13:44:31 | Stasiu Przygoda | Tataj nagle szok i niedowierzanie | message_1.json |
+| 13:44:56 | Stasiu Przygoda | No powiem ci ze niesamowite | message_1.json |
+| 13:44:51 | Stasiu Przygoda | Teraz nagÅa zmiana emocji | message_1.json |
+| 13:54:59 | Stasiu Przygoda | MoÅ¼esz powiedzieÄ ze | message_1.json |
+| 13:58:03 | Radek Salwach | O hajs to ja w takim stanie bym nie graÅ | message_1.json |
+| 13:57:08 | Stasiu Przygoda | No chyba ze grasz o pieniÄdze | message_1.json |
+| 13:58:21 | Stasiu Przygoda | No to stary kurwa to nic nie zyskasz | message_1.json |
+| 14:01:55 | Radek Salwach | Nie no wiesz, rodzina | message_1.json |
+| 13:58:25 | Stasiu Przygoda | IdÅº spaÄ i tyle | message_1.json |
+| 13:56:51 | Stasiu Przygoda | A gowno musisz | message_1.json |
+| 13:55:22 | Radek Salwach | Nie mogÄ | message_1.json |
+| 13:55:02 | Stasiu Przygoda | Idziesz spac | message_1.json |
+| 13:55:23 | Stasiu Przygoda | Mnie bamba przetrzymuje Å¼ebym nie wstaÅ nigdzie | message_1.json |
+| 13:55:35 | Radek Salwach | Muzzs zagraÄ | message_1.json |
+| 13:55:32 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 12:45:05 | Radek Salwach | ð«¥ | message_1.json |
+| 18:35:22 | Iza Opalska | Serio ? W ÅrodÄ nie na ruterki ? | message_1.json |
+| 17:38:27 | Piotrek Nowak | dziekuje | message_1.json |
+| 18:35:34 | Emilka Kowalczyk | sÄ rektorskie | message_1.json |
+| 18:35:46 | Iza Opalska | Juuhuu | message_1.json |
+| 18:35:35 | Emilka Kowalczyk | w ÅrodÄ | message_1.json |
+| 17:37:42 | Paulina Pietras | Od czwartku o ile dobrze pamiÄtaÅam | message_1.json |
+| 12:39:22 | Kacper Matera | CzeÅÄ, jestem studentem 2 roku i na zaliczenie z psychometrii musze zebraÄ 200 osÃ³b ktÃ³re wypeÅ... | message_1.json |
+| 09:53:40 | Kuba Celij | 12 kwietnia 18:45 (Åroda) Od parkietÃ³w tanecznych do pracy psychologa sportu - spotkanie z Karolin... | message_1.json |
+| 13:01:30 | Kacper Matera | jeÅli ktoÅ miaÅby pytania, uwagi, feedback albo chciaÅ potem dostaÄ wyniki to zapraszam do kont... | message_1.json |
+| 17:36:03 | Piotrek Nowak | ktos wie kiedy zaczynamy zajecia? | message_1.json |
+| 17:35:56 | Piotrek Nowak | dobry wieczor | message_1.json |
+| 06:59:21 | Madzia Szczypka | [Video: 1] | message_1.json |
+| 10:40:29 | Radek Salwach | Stachu nie zachowuj siÄ tak | message_1.json |
+| 10:39:04 | Stasiu Przygoda | Bierz | message_1.json |
+| 12:11:02 | Stasiu Przygoda | To mi go daj | message_1.json |
+| 12:44:59 | Radek Salwach | ð«£ | message_1.json |
+| 12:11:15 | Stasiu Przygoda | Albo weÅº sobie go a hajs mi moÅ¼esz daÄ | message_1.json |
+| 10:29:53 | Julita Bouffette | Ulubiony typ | message_1.json |
+| 07:56:38 | Stasiu Przygoda | A bo to dzisiaj jest | message_1.json |
+| 06:59:47 | MichaÅ Wiencek | X D | message_1.json |
+| 07:56:44 | Stasiu Przygoda | To nie mogÄ wyjÅÄ z pokoju | message_1.json |
+| 10:28:18 | Madzia Szczypka | ð¥µ | message_1.json |
+| 10:27:11 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 19:49:50 | Radek Salwach | JuÅ¼ masz ÅatkÄ do koÅca Å¼ycia Magdaleno | message_1.json |
+| 19:49:47 | Madzia Szczypka | A okeeej | message_1.json |
+| 19:50:01 | Radek Salwach | Nie zdejmiesz jej przez dÅugi czas | message_1.json |
+| 19:50:04 | Madzia Szczypka | Cos tam gadaÅ | message_1.json |
+| 19:50:01 | Madzia Szczypka | No wczoraj | message_1.json |
+| 19:49:43 | Radek Salwach | Å»eby bratu odjebac coÅ takiego, no wiesz | message_1.json |
+| 19:48:11 | Radek Salwach | [No text content] | message_1.json |
+| 19:47:07 | Madzia Szczypka | Tatuaz na dupce? | message_1.json |
+| 19:48:52 | Radek Salwach | Tego to juÅ¼ by mi chyba nie wybaczyÅ nigdy i by zmieniÅ swÃ³j sposÃ³b patrzenia na mnie | message_1.json |
+| 19:49:29 | Radek Salwach | Bo Ty pokazaÅaÅ cyce bratu, no to to byÅa sytuacja pokroju wÅaÅnie Ciebie | message_1.json |
+| 19:49:05 | Madzia Szczypka | CZEMU TO JEST PRZEKROJU MNIE | message_1.json |
+| 19:50:14 | Madzia Szczypka | I mowil ze ja to taki Åobuz | message_1.json |
+| 19:51:07 | MichaÅ Wiencek | Po tej reakcji sie boje | message_1.json |
+| 19:51:00 | Radek Salwach | Nie | message_1.json |
+| 19:51:43 | Madzia Szczypka | [Video: 1] | message_1.json |
+| 20:03:02 | Stasiu Przygoda | suave mente | message_1.json |
+| 20:02:59 | Stasiu Przygoda | pewnie tatuaz na czole | message_1.json |
+| 19:50:55 | MichaÅ Wiencek | Mamy sie baÄ? | message_1.json |
+| 19:50:19 | MichaÅ Wiencek | Kurde czemu usunales | message_1.json |
+| 19:50:17 | Madzia Szczypka | I tak cicho dodaÅ | message_1.json |
+| 19:50:26 | MichaÅ Wiencek | Inni tez chca zobaczyc | message_1.json |
+| 19:50:41 | Radek Salwach | Inni dowiedzÄ siÄ na Å¼ywo | message_1.json |
+| 19:50:30 | Madzia Szczypka | âZ przeklutymi sucioramiâ¦â | message_1.json |
+| 19:46:51 | Radek Salwach | Bo mi by brat nie wybaczyÅ | message_1.json |
+| 14:07:14 | Stasiu Przygoda | A przynajmniej ja tak mam, bo siostry trzymajÄ siÄ same i z mama a tato to zawsze pÃ³Åºno w domciu... | message_1.json |
+| 14:06:52 | Stasiu Przygoda | No u mnie to raczej siÄ samemu siedzi | message_1.json |
+| 19:45:00 | Madzia Szczypka | Chyba | message_1.json |
+| 19:45:08 | Madzia Szczypka | NajgÅupsza rzecz na swiecie | message_1.json |
+| 19:45:02 | Madzia Szczypka | Odjebalam | message_1.json |
+| 14:06:08 | Radek Salwach | Ale to tylko u mnie xo nie | message_1.json |
+| 14:02:56 | Stasiu Przygoda | To chyba tylko u mnie wiÄkszoÅÄ osÃ³b sama siedzi | message_1.json |
+| 14:02:14 | Radek Salwach | SiÄ poÅwiÄcÄ juÅ¼ bo ÅwiÄta to rodzinnie trzeba | message_1.json |
+| 14:04:18 | Radek Salwach | Nie tylko u Ciebie | message_1.json |
+| 14:05:15 | Radek Salwach | Ja na przykÅad Nie mam Å¼adnej pasteryzacji, na ÅwiÄta siedzÄ z rodzinÄ a nie wychodzÄ gdzieÅ | message_1.json |
+| 14:04:33 | Radek Salwach | U mnie jest mega rodzinnie po prostu Å¼e siÄ wszystkie dni spÄdza od rana do nocy z rodzinÄ | message_1.json |
+| 19:45:24 | Radek Salwach | Chyba | message_1.json |
+| 19:46:14 | Madzia Szczypka | Powiedzial ze to dobrze, ale ze on nie lubi No jak mu sie poÅowe uzupeÅnia | message_1.json |
+| 19:46:08 | Radek Salwach | No to nawet git Å¼e mu to powiedziaÅaÅ | message_1.json |
+| 19:46:31 | Madzia Szczypka | Ale kurwa chyba najdurniejsze rozwiniecie rozmowy | message_1.json |
+| 19:46:45 | Radek Salwach | Ja miaÅem plan zrobiÄ coÅ pokroju Ciebie Madzia ale siÄ powstrzymaÅem | message_1.json |
+| 19:46:35 | Madzia Szczypka | Jakie moglam zrobic | message_1.json |
+| 19:46:01 | Madzia Szczypka | No jest | message_1.json |
+| 19:45:38 | Madzia Szczypka | I kupiÅam nam krzyÅ¼Ã³wki do kibla | message_1.json |
+| 19:45:30 | Madzia Szczypka | Czy powiedzenie tacie Kacpra ze zaczerpnÄÅam inspiracji od niego | message_1.json |
+| 19:45:41 | Madzia Szczypka | Jest czyms zÅym | message_1.json |
+| 19:45:55 | Radek Salwach | JeÅli ojciec jest jak Kacper, to nawet dobrze | message_1.json |
+| 19:45:48 | Radek Salwach | ZaleÅ¼y od ojca | message_1.json |

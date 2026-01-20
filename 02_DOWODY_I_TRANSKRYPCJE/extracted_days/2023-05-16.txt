@@ -1,0 +1,214 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-16
+# Liczba: 209
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 16:38:34 | Magda Waga | okrÄgowa komisja rewizyjna | message_1.json |
+| 16:38:42 | Ewelina KapÅon | Potwierdzam ! | message_1.json |
+| 16:38:55 | MaÅgorzata Drozdek | Mamy nowÄ nazwÄ | message_1.json |
+| 16:37:50 | MaÅgorzata Drozdek | UKR xdd | message_1.json |
+| 16:38:18 | Magda CieÅ¼ | KreatywnoÅÄ to nasza mocna strona, do usÅug ð | message_1.json |
+| 16:38:30 | Marek Rapta | no jedna literka jak dla mnie close enough | message_1.json |
+| 16:39:08 | Ewelina KapÅon | Nowych nazw juÅ¼ wystarczy | message_1.json |
+| 16:43:26 | Karolina ZarÄbska | MyÅlÄ Å¼e jak wiÄkszoÅÄ studentÃ³w | message_1.json |
+| 16:43:38 | Karolina ZarÄbska | Natura studenta hehe | message_1.json |
+| 16:44:53 | Maciej Szaszkiewicz | Problem z tym, Å¼e studia byÅy 3 lata temu - byÅ pomysÅ na robienie doktoratu, ale pewna osoba z ... | message_1.json |
+| 16:40:04 | Ewelina KapÅon | JuÅ¼ jednÄ chcÄ xd | message_1.json |
+| 16:41:37 | Ola CioÅek | Przepraszam bardzo ja myÅam ð | message_1.json |
+| 16:42:54 | Maciej Szaszkiewicz | CÃ³Å¼... Nie bÄdÄ kÅamaÅ - w domu zdarza mi siÄ nie myÄ po Åniadaniu, obiedzie i dopiero na w... | message_1.json |
+| 16:33:41 | PaweÅ Piotrowski | myÄ siÄ nauczÄ* | message_1.json |
+| 16:34:15 | Aleksandra Cholak | Nie wiem PaweÅ czy studenci kiedykolwiek siÄ nauczÄ piÄ... Ja rok po studiach dalej nie umiem XD | message_1.json |
+| 16:34:21 | Katarzyna Morawska | Ostatnio widziaÅam oieliszek na karabinku | message_1.json |
+| 16:32:59 | Aleksandra Cholak | Dostali dostÄp do klucza i juÅ¼ | message_1.json |
+| 16:33:14 | Maciej Szaszkiewicz | Åo kurde, moÅ¼e u nas teÅ¼ tak byÅo, albo nowe pokolenia sÄ bardziej poukÅadane | message_1.json |
+| 16:33:34 | PaweÅ Piotrowski | Ja proponujÄ zrealizowaÄ do koÅca nasz plan 10 kubkÃ³w w biurze MAKS i siÄ wszyscy nauczÄ piÄ ... | message_1.json |
+| 16:34:37 | Katarzyna Morawska | Taki przenoÅny ! ð | message_1.json |
+| 16:35:48 | Magda CieÅ¼ | A moÅ¼e tak po prostu te brudne kubki zacznÄ magicznie znikaÄ? ð¤ zobaczymy czy coÅ nam zostani... | message_1.json |
+| 16:36:28 | PaweÅ Piotrowski | oo teÅ¼ ciekawe | message_1.json |
+| 16:37:29 | Marek Rapta | OKR rzuca pomysÅami | message_1.json |
+| 16:34:39 | PaweÅ Piotrowski | bardzo praktyczna rzecz, ale dla nas to raczej te kubeczki | message_1.json |
+| 16:34:51 | PaweÅ Piotrowski | co na wampie byÅy, proporcjonalnie lepsza pojemnoÅÄÂ XD | message_1.json |
+| 16:35:00 | Maciej Szaszkiewicz | [No text content] | message_1.json |
+| 18:05:44 | Paulina WÃ³jcik | https://letmegooglethat.com/?q=jak+si%C4%99+myje+kubek+po+np.+herbatce+z+cukrem+-+bez+cytrynki%3F | message_1.json |
+| 18:05:49 | Paulina WÃ³jcik | dla kaÅ¼dego kubkowego zadymiarza | message_1.json |
+| 18:05:52 | Paulina WÃ³jcik | prosze wejÅÄ w link | message_1.json |
+| 18:03:29 | Paulina WÃ³jcik | ðð | message_1.json |
+| 18:03:43 | Paulina WÃ³jcik | lubie * | message_1.json |
+| 18:05:36 | Paulina WÃ³jcik | mam coÅ dla was w ogÃ³le | message_1.json |
+| 18:06:39 | Ola CioÅek | SIKNE ZARAZ XDDD | message_1.json |
+| 18:07:54 | Paulina WÃ³jcik | na poczÄtek zaczniemy od tutorialu, jak nie pomoÅ¼e - szklo bÄdzie rozbijane | message_1.json |
+| 18:08:39 | Ola CioÅek | DziÄki Bogu Å¼e ty pedagogiki albo resocjalizacji nie studiujesz | message_1.json |
+| 18:09:22 | Juls Cichy | Nie podpowiadaj jej bo jeszcze siÄ tam wybierze | message_1.json |
+| 18:06:57 | Paulina WÃ³jcik | ððð | message_1.json |
+| 18:06:58 | MaÅgorzata Drozdek | Jestem za | message_1.json |
+| 18:07:07 | MaÅgorzata Drozdek | MogÄ pomÃ³c rozbijaÄ | message_1.json |
+| 16:47:43 | Maciej Szaszkiewicz | To prawda - akurat w biurze staraÅem siÄ tego pilnowaÄ. Niestety miaÅem teÅ¼ pÃ³Åºno zajÄcia w ... | message_1.json |
+| 17:24:23 | Ola CioÅek | Jak coÅ to papierki po czymÅ z tego co wiem teÅ¼ wyrzucamy do kosza âºï¸ taka moja maÅa sugesti... | message_1.json |
+| 18:00:40 | Paulina WÃ³jcik | ja mam pomysÅ na brudne kubki | message_1.json |
+| 16:45:39 | Magda Waga | ja teÅ¼, ale jak jestem w biurze to jakoÅ dajÄ radÄ zrobiÄ sobie spacer i umyÄ kubek, Å¼eby nie... | message_1.json |
+| 16:45:50 | Magda Waga | bo jak jestem w domu to przeszkadza tylko mi hehe | message_1.json |
+| 16:47:13 | Karolina ZarÄbska | Na nastÄpnym mentoringu chyba bÄdzie wspÃ³lne mycie kubkÃ³w XD | message_1.json |
+| 18:00:49 | Paulina WÃ³jcik | bo ten temat stale powraca | message_1.json |
+| 18:01:23 | Marek Rapta | Brak kubkow w biurze niech kazdy sobie sam przynosi swÃ³j | message_1.json |
+| 18:02:06 | Ola CioÅek | WiedziaÅam Å¼e to bÄdzie jedyny dobry pomysÅ | message_1.json |
+| 18:03:17 | Paulina WÃ³jcik | do usÅug  ja swojÄ drogÄ musze chyba zaczÄÄ bywaÄ w biurze bo ciÄgle jest afera kubkowa a ja ... | message_1.json |
+| 18:01:04 | Ola CioÅek | Oho wyczuwam coÅ genialnego | message_1.json |
+| 18:01:19 | Paulina WÃ³jcik | bÄdÄ je rozbijaÄ pod gabinetem rektora  albo nie bÄdzie w czym piÄ albo mnie wyrzuci | message_1.json |
+| 18:01:22 | Paulina WÃ³jcik | pick one | message_1.json |
+| 15:10:05 | UÅ¼ytkownik Facebooka | [No text content] | message_1.json |
+| 15:10:34 | Martyna Gancarczyk | juz chyba nie akceptujÄ wiÄcej osÃ³b do tego ostatniego co byÅ :/ | message_1.json |
+| 15:11:05 | UÅ¼ytkownik Facebooka | No wÅaÅnie na tym byÅam | message_1.json |
+| 13:53:48 | MaÅgorzata Gajewska | MÃ³wiÅa ze musi byÄ badanie stacjonarne | message_1.json |
+| 15:09:08 | UÅ¼ytkownik Facebooka | ja byÅam na uj pare dni temu | message_1.json |
+| 15:09:55 | UÅ¼ytkownik Facebooka | I zapisaÅam siÄ przez fb | message_1.json |
+| 17:01:16 | Martyna Karbownik | Martyna zmieniÅa motyw na Rodzicielstwo ðªº | message_1.json |
+| 07:21:56 | Katarzyna Morawska | BÄdzie ktoÅ w biurze za 20 minut ? | message_1.json |
+| 07:23:08 | Marek Rapta | MoÅ¼liwe Å¼e ja | message_1.json |
+| 07:23:33 | Katarzyna Morawska | Potrzebuje pewniaka hah bo muszÄ wbiec zostawiÄ rzeczy i wybiec bo i tak jestem juz spÃ³Åºniona | message_1.json |
+| 17:04:49 | Martyna Gancarczyk | co do badaÅ- znalazÅam takie na UJ, dla rodzicÃ³w dzieci 18-24 miesiÄcznych | message_1.json |
+| 17:04:50 | Martyna Gancarczyk | https://forms.office.com/pages/responsepage.aspx?id=6yYO676_0keekOvSQm2866ih5eMAq0pPg0wApbr2VAJUQU40... | message_1.json |
+| 17:04:56 | Martyna Gancarczyk | moÅ¼e ktoÅ bÄdzie zainteresowany | message_1.json |
+| 09:34:06 | MaÅgosia Pieczonka | Dzisiaj zrobiÄ, bo wczoraj siÄ nie wyrobiÅam z 2 rzeczami | message_1.json |
+| 09:35:30 | Joanna PacÅawska | Jest literÃ³wka w sÅowie Sensorium | message_1.json |
+| 10:10:35 | MaÅgosia Pieczonka | dzieki, dobrze ze jeszcze nie wydrukowaÅam tych plakatÃ³w XD | message_1.json |
+| 09:32:17 | Paulina Smuczek | @MaÅgosia Pieczonka moÅ¼e zrobiÅabyÅ wydarzenie na FB | message_1.json |
+| 09:32:47 | Joanna PacÅawska | MoÅ¼na teÅ¼ do starostÃ³w wysÅaÄ Å¼eby udostÄpnili na grupie roku plakat | message_1.json |
+| 09:34:01 | Paulina Smuczek | My ewentualnie moÅ¼emy wysÅaÄ na grupÄ rocznika | message_1.json |
+| 10:14:52 | MaÅgosia Pieczonka | [Photo: 1] | message_1.json |
+| 13:39:23 | Martyna Gancarczyk | czy wiadomo coÅ w kontekÅcie badaÅ u Ganczarek/Czerneckiej? | message_1.json |
+| 13:49:02 | MaÅgorzata Gajewska | Albo moÅ¼e ktoÅ ma informacje na temat innych badaÅ na innych uczelniach? | message_1.json |
+| 13:53:34 | Martyna Gancarczyk | A wiecie moÅ¼e czy u Ganczarek moÅ¼e to byÄ badanie online? ð¬ | message_1.json |
+| 10:14:57 | MaÅgosia Pieczonka | teraz jest dobrze | message_1.json |
+| 18:56:39 | MaÅgosia Pieczonka | https://fb.me/e/13blC3bWO | message_1.json |
+| 18:56:54 | MaÅgosia Pieczonka | powstaÅo wydarzenie takÅ¼e moÅ¼ecie przesyÅaÄ na grupy swojego roku | message_1.json |
+| 16:06:58 | Maciej Szaszkiewicz | Przynajmniej jedna rzecz nie zmienia siÄ w naszym OU od pokoleÅ xD | message_1.json |
+| 16:12:37 | Salvador RafaÅ Romero | NajwyÅ¼ej wprowadÅºcie twardszÄ reguÅÄ, Å¼e warunkiem skorzystania z kubka jest jego umycie przed... | message_1.json |
+| 16:13:22 | Karolina ZarÄbska | MoÅ¼na wprowadziÄ teÅ¼ zapisywanie sie kto korzysta z kubka przy braniu? | message_1.json |
+| 15:46:21 | Magda CieÅ¼ | DokÅadnie! Poza tym halo, duÅ¼o przyjemniej spÄdza siÄ czas w czystym biurze. Serio, wychodzÄc p... | message_1.json |
+| 15:57:06 | Ewelina KapÅon | Ja przypominam Å¼e kupiÅam duÅ¼y pÅyn do mycia naczyÅ wiÄc nie ma Å¼adnych wymÃ³wek, a pamiÄtaj... | message_1.json |
+| 15:58:12 | Ewelina KapÅon | Zaginiony klucz oraz nieumyte kubki to nieodÅÄczne problemy naszego NZSu | message_1.json |
+| 16:14:10 | PaweÅ Piotrowski | Znaczy... generalnie to tak jest, przed opuszczeniem biura powinnien byÄ kubek umyty | message_1.json |
+| 16:25:32 | Maciej Szaszkiewicz | Tak w sumie z OlÄ to chyba pamiÄtamy, Å¼e temat kubkÃ³w wracaÅ na kaÅ¼dym, albo prawie kaÅ¼dym sp... | message_1.json |
+| 16:31:32 | Magda CieÅ¼ | Ostatnio bardzo dobrze szÅo, w biurze byÅo czysto ð i trwaÅo to od marcowego zebrania, wiÄc d... | message_1.json |
+| 16:32:48 | Aleksandra Cholak | TO PEWNIE CI NOWI CZÅONKOWIE CO DOSTALI CZLONKOSTWA NIEDAWNO, TAKIE Z NICH ANCYMONY | message_1.json |
+| 16:15:01 | Aleksandra Cholak | [Photo: 1] | message_1.json |
+| 16:17:24 | Aleksandra Cholak | Ja proponujÄ wprowadziÄ zasadÄ kto nie myje kubkÃ³w ten trÄba | message_1.json |
+| 16:17:34 | Aleksandra Cholak | Nikt nie chce byÄ trÄba | message_1.json |
+| 10:40:49 | Edyta Bobak | jestem | message_1.json |
+| 12:36:59 | Julita Bouffette | Jest ktoÅ w biurze? | message_1.json |
+| 12:38:42 | Ola CioÅek | Tak, caÅa gromadka | message_1.json |
+| 07:23:55 | Katarzyna Morawska | I nie wiem czy znaczÄÄ z kursu chociaÅ¼ bardzo bym chciaÅa | message_1.json |
+| 07:24:47 | Katarzyna Morawska | A mam jajka ð¥º | message_1.json |
+| 10:40:34 | Emilka Matera | Jest ktoÅ w biurze ? | message_1.json |
+| 12:42:12 | Katarzyna Morawska | moi drodzy xd | message_1.json |
+| 12:48:54 | Katarzyna Morawska | ooo piszÄ priv ! <3 | message_1.json |
+| 14:32:18 | Ola CioÅek | OgÃ³lnie piszÄ tylko Å¼e z @Mateusz MarciÅski umyliÅmy sporo kubkÃ³w zostawionych w biurze. Nam z... | message_1.json |
+| 15:40:15 | Edyta Bobak | To prawda,to Å¼e siÄ zmieniÅ zarzÄd to nie oznacza, Å¼e nie mamy dbaÄ o wspÃ³lny porzÄdek, bard... | message_1.json |
+| 12:42:26 | Katarzyna Morawska | wiecie czy jest jakaÅ stronka z passive voice ktÃ³ra mi przerobi zdanie od strzaÅa? XD | message_1.json |
+| 12:42:27 | Katarzyna Morawska | :) | message_1.json |
+| 12:48:43 | Kasia Bulzacka | Stronki nie znam ale polecam siÄ do pomocy jakby taka ciÄ interesowaÅa | message_1.json |
+| 18:09:27 | Paulina WÃ³jcik | argument siÅy to teÅ¼ argument | message_1.json |
+| 18:05:32 | Piotrek Nowak | dziÄki | message_1.json |
+| 18:07:21 | Darina Vasilevich | SprawdzaÅa obecnoÅÄ? | message_1.json |
+| 18:08:22 | Piotrek Nowak | jeszcze nie | message_1.json |
+| 18:04:19 | Iza Opalska | Masz kamerkÄ | message_1.json |
+| 18:05:01 | Stefan TrzaskuÅ | @Piotrek Nowak | message_1.json |
+| 18:05:21 | Piotrek Nowak | hahahahah | message_1.json |
+| 18:08:26 | Piotrek Nowak | po prezentacji bedzie | message_1.json |
+| 18:15:22 | Sebastian Kutaj | ona dzwoni ty mÃ³wisz | message_1.json |
+| 18:15:38 | Zuza ZiÄba | Mam nadzieje ze nie bÄdziecie siedzieÄ dÅuÅ¼ej przez ta prezentacje | message_1.json |
+| 18:15:53 | Zuza ZiÄba | CoÅ jej siÄ ujebaÅo i musiaÅam wam to przedstawiÄ | message_1.json |
+| 18:14:47 | Paulina Pietras | WspÃ³Åtworzenie? A ona co niby robiÅa? xd | message_1.json |
+| 18:15:09 | Sebastian Kutaj | daÅa temat do zrobienia | message_1.json |
+| 18:15:10 | Sebastian Kutaj | :D | message_1.json |
+| 16:34:51 | Szymek Kot | A po co jestem jej potrzebny | message_1.json |
+| 16:35:07 | Emilka Kowalczyk | chyba masz za duÅ¼o nb | message_1.json |
+| 16:35:13 | Emilka Kowalczyk | ale postawiÅa przy tobie znak zapytania | message_1.json |
+| 16:33:52 | Emilka Kowalczyk | tak | message_1.json |
+| 16:33:54 | Emilka Kowalczyk | @Szymek Kot | message_1.json |
+| 16:34:01 | Emilka Kowalczyk | tez masz do niej siÄ odezwaÄ | message_1.json |
+| 16:35:36 | Szymek Kot | Aha dobra dziÄki | message_1.json |
+| 17:05:26 | Radek Salwach | WygraÅ 5 czerwca | message_1.json |
+| 17:05:44 | Radek Salwach | Definitywnie chcemy ten termin na zaliczenie neuro? | message_1.json |
+| 18:04:16 | Iza Opalska | @Piotrek Nowak | message_1.json |
+| 16:35:53 | Emilka Kowalczyk | bo rozdaje zaliczenia teraz | message_1.json |
+| 16:47:47 | Radek Salwach | oj byÅa prÄdkoÅÄ | message_1.json |
+| 17:05:20 | Radek Salwach | [Photo: 1] | message_1.json |
+| 15:27:05 | Radek Salwach | w filmach jest w 3 czÄÅci tylko i na chwilÄ w sumie | message_1.json |
+| 15:27:12 | Madzia Szczypka | A to ona nie byÅa jakas jebnieta? | message_1.json |
+| 15:27:19 | Radek Salwach | byÅa lekko | message_1.json |
+| 15:26:07 | Madzia Szczypka | Kto to byÅ w Harrym | message_1.json |
+| 15:26:36 | Radek Salwach | Sybilla Trelawney | message_1.json |
+| 15:26:56 | Radek Salwach | uczyÅa wrÃ³Å¼biarstwa i sama przepowiedziaÅa tÄ oficjalnÄ przepowiedniÄ o Harrym | message_1.json |
+| 15:27:27 | Radek Salwach | ale to dlatego Å¼e wszystko wiedziaÅa | message_1.json |
+| 15:00:33 | Madzia Szczypka | czy bedzie polaczenie z pracy naukowej? | message_1.json |
+| 15:01:05 | Madzia Szczypka | ej dobra patrzylam na zle dni | message_1.json |
+| 15:01:08 | Madzia Szczypka | nie bylo pytania | message_1.json |
+| 15:28:01 | Radek Salwach | i nie byÅa w stanie udÅºwignÄÄ tego tyle, przepowiedziaÅa teÅ¼ ze Pettigrew siÄ pojedna z Volde... | message_1.json |
+| 16:34:25 | Radek Salwach | brawo WiÄcuÅ ze wszedÅeÅ zamiast mieÄ wywalone i nie wchodziÄ | message_1.json |
+| 16:35:10 | MichaÅ Wiencek | Nie wiedziaÅem w sumie czy mam o obecnosci dalej sie staraÄ czy nie XDDD | message_1.json |
+| 18:16:17 | Sebastian Kutaj | stad wychodze | message_1.json |
+| 18:16:34 | Zuza ZiÄba | Wpisuje dzisiaj zaliczenia wiec wyjebane | message_1.json |
+| 09:10:10 | Radek Salwach | SpÃ³Åºnie siÄ | message_1.json |
+| 18:15:54 | Zuza ZiÄba | XD | message_1.json |
+| 18:16:02 | Sebastian Kutaj | nie no luzik | message_1.json |
+| 18:16:16 | Sebastian Kutaj | ja i tak po sprawdzaniu obecnosci | message_1.json |
+| 09:10:15 | Radek Salwach | @Stasiu Przygoda zajmij mi miejsce | message_1.json |
+| 09:18:12 | Stasiu Przygoda | Zaraz bede | message_1.json |
+| 10:05:34 | Stasiu Przygoda | Dostane zaraz migreny przez te dyskusje | message_1.json |
+| 15:25:58 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 09:11:37 | Stasiu Przygoda | Jak dojdÄ tam to spoko | message_1.json |
+| 09:14:01 | Julita Bouffette | Ja jestem juÅ¼ na uczelni | message_1.json |
+| 09:18:10 | Stasiu Przygoda | Ja pod biprostalem | message_1.json |
+| 11:57:57 | Anja Bulanda | ð | message_1.json |
+| 13:08:10 | Emilka Kowalczyk | warsztaty juÅ¼ sÄ | message_1.json |
+| 13:08:14 | Emilka Kowalczyk | on teams | message_1.json |
+| 11:47:46 | Julia Chrzan | [Photo: 1] | message_1.json |
+| 11:57:43 | Radek Salwach | Pierdole nie wracam | message_1.json |
+| 11:57:44 | Radek Salwach | Co on mÃ³wi | message_1.json |
+| 13:08:15 | Emilka Kowalczyk | jak coÅ | message_1.json |
+| 14:14:44 | Anja Bulanda | W czwartek teÅ¼ nie mamy zajÄÄ nie? | message_1.json |
+| 14:15:33 | Anja Bulanda | Czwartek i piÄtek? | message_1.json |
+| 14:16:03 | Julia Chrzan | W czwartek mamy | message_1.json |
+| 13:31:16 | Maria Zguda | Hejka, ma ktoÅ moÅ¼e zapisane zagadnienia, ktÃ³re podawaÅ Urbaniak w zeszÅym tygodniu? | message_1.json |
+| 14:09:16 | Paulina Pietras | Ja mam mniej wiÄcej | message_1.json |
+| 14:09:23 | Paulina Pietras | Tylko pÃ³Åºniej bÄdÄ mogÅa wysÅaÄ | message_1.json |
+| 18:17:07 | Paulina WÃ³jcik | matko bosko bejbosko, co to sie staÅo | message_1.json |
+| 18:17:13 | Paulina WÃ³jcik | [Photo: 1] | message_1.json |
+| 18:18:26 | Wioletta KsiÄÅ¼ek | Przyznaj sie, ile wyÅwietleÅ nabiÅaÅ | message_1.json |
+| 18:10:18 | Ola CioÅek | Ale na te wkurwiajÄce dzieci.... ð¤ | message_1.json |
+| 18:11:37 | PaweÅ Piotrowski | ale dawno tego nie widziaÅem XDD | message_1.json |
+| 18:17:01 | Paulina WÃ³jcik | dobra, teraz powaÅ¼ny temat | message_1.json |
+| 18:18:39 | Paulina WÃ³jcik | nic nie powiem bez adwokata | message_1.json |
+| 13:42:51 | Maria Zguda | [Photo: 1] | message_1.json |
+| 13:43:27 | Maria Zguda | Mamy jeszcze miejsca na ogarnianie wykÅadÃ³w | message_1.json |
+| 13:44:37 | Maria Zguda | https://docs.google.com/spreadsheets/d/1TkZlBQMv6jw6TOz_Hyy8uXXUqQ9BSGu46VYoRct4MXA/edit?usp=sharing | message_1.json |
+| 18:19:09 | Ola CioÅek | Wiola jest tutaj, kto wie moÅ¼e bÄdzie adwokatem XDD | message_1.json |
+| 18:19:20 | Paulina WÃ³jcik | rÄka boska niech jÄ broni, to siÄ nie opÅaci | message_1.json |
+| 18:19:49 | Wioletta KsiÄÅ¼ek | Wolnego | message_1.json |
+| 16:27:58 | Anja Bulanda | ???? XDDD | message_1.json |
+| 16:28:19 | Emilka Kowalczyk | XDDDDDDDDD | message_1.json |
+| 16:28:23 | Emilka Kowalczyk | no idealnie | message_1.json |
+| 16:27:46 | Emilka Kowalczyk | XDDDD | message_1.json |
+| 16:27:53 | Julia Chrzan | XD | message_1.json |
+| 16:27:55 | Emilka Kowalczyk | proszÄ mi powiedzieÄ czym jest emocja | message_1.json |
+| 16:28:27 | Emilka Kowalczyk | zal | message_1.json |
+| 16:29:59 | Emilka Kowalczyk | HAHAHA | message_1.json |
+| 16:31:20 | Emilka Kowalczyk | no i es | message_1.json |
+| 16:33:35 | Amelia Bodziony | Ta z mono? | message_1.json |
+| 16:28:37 | Julia Chrzan | Hahhahaha xD | message_1.json |
+| 16:29:07 | Emilka Kowalczyk | XDDD | message_1.json |
+| 16:29:58 | Emilka Kowalczyk | zmotywujcie pana bartlomieja bo juÅ¼ wiecie jak to siÄ robi | message_1.json |
+| 16:22:31 | Emilka Kowalczyk | no przesÅodka | message_1.json |
+| 16:22:38 | Anja Bulanda | ð | message_1.json |
+| 16:22:38 | Wiktoria KÅymiÅska | Szkoda mi jej | message_1.json |
+| 14:16:35 | Anja Bulanda | Wszystkie? | message_1.json |
+| 16:19:43 | Emilka Kowalczyk | bardzo fajnie jej siÄ prowadziÅo z nami zajÄcia xDD | message_1.json |
+| 16:22:21 | Julia Chrzan | Ej cute jest xD | message_1.json |
+| 16:25:42 | Emilka Kowalczyk | @Amelia Bodziony typiarka prosi o kontakt | message_1.json |
+| 16:26:45 | Emilka Kowalczyk | Åwietne pytanie | message_1.json |
+| 16:26:50 | Emilka Kowalczyk | nie wyÅapaÅam tego | message_1.json |
+| 16:26:53 | Anja Bulanda | Ja nie wysylalam a daÅa mi zaliczenie | message_1.json |
+| 16:25:48 | Emilka Kowalczyk | ð¤ð¤ð¤ | message_1.json |
+| 16:26:35 | Radek Salwach | jej trzeba na maila prezki jeszcze wysyÅaÄ? | message_1.json |
+| 16:26:43 | Emilka Kowalczyk | no wÅaÅnie | message_1.json |

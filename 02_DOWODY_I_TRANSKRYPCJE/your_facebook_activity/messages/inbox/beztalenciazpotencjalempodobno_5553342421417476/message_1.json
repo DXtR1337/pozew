@@ -1,0 +1,631 @@
+{
+  "participants": [
+    {
+      "name": "Aleksandra Cholak"
+    },
+    {
+      "name": "Estera Mo\u00c5\u00bcd\u00c5\u00bce\u00c5\u0084"
+    },
+    {
+      "name": "Ma\u00c5\u0082gorzata Drozdek"
+    },
+    {
+      "name": "Bar\u00c5\u0082omiej Greiner"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Ma\u00c5\u0082gosia Pieczonka"
+    },
+    {
+      "name": "Paulina W\u00c3\u00b3jcik"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1685613389598,
+      "content": "@Aleksandra Kloc dla Ciebie te\u00c5\u00bc wszystkiego najlepszego z okazji dnia dziecka \u00f0\u009f\u0098\u009b",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1685612316994,
+      "content": "Dzi\u00c4\u0099kujemy \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina W\u00c3\u00b3jcik",
+      "timestamp_ms": 1685599677325,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/beztalenciazpotencjalempodobno_5553342421417476/gifs/738251544716130.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1685599622873,
+      "content": "Dzieci moje drogie wszystkiego najlepszego z okazji waszego dnia \u00f0\u009f\u0098\u0085\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0092\u0090",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ma\u00c5\u0082gosia Pieczonka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina W\u00c3\u00b3jcik"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bar\u00c5\u0082omiej Greiner",
+      "timestamp_ms": 1684142966065,
+      "content": "L \u00f0\u009f\u0098\u0081",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1684132589080,
+      "content": "Te\u00c5\u00bc chc\u00c4\u0099 S",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gosia Pieczonka",
+      "timestamp_ms": 1684131640370,
+      "content": "S",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684130491007,
+      "content": "M",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1684116358187,
+      "content": "M\u00c4\u0099skie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1684116353946,
+      "content": "Damskie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1684116348757,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/beztalenciazpotencjalempodobno_5553342421417476/photos/1671506319987649.png",
+          "creation_timestamp": 1684116348
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1684116342862,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/beztalenciazpotencjalempodobno_5553342421417476/photos/6109105382515705.png",
+          "creation_timestamp": 1684116342
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1684116332458,
+      "content": "Misie kolorowe podeslijcie mi prosz\u00c4\u0099 swoje rozmiary na bluzy @Ma\u00c5\u0082gosia Pieczonka @Ma\u00c5\u0082gorzata Drozdek @Bar\u00c5\u0082omiej Greiner @Micha\u00c5\u0082 Wiencek",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1683975551966,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/beztalenciazpotencjalempodobno_5553342421417476/gifs/776087323924598.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683974436780,
+      "content": "Ja dalej w szpitalu xd",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1683972485312,
+      "content": "Zdrowiej \u00f0\u009f\u00ab\u00b6",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ma\u00c5\u0082gosia Pieczonka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gosia Pieczonka",
+      "timestamp_ms": 1683972289952,
+      "content": "Mnie nie b\u00c4\u0099dzie bo zle si\u00c4\u0099 czuje i stwierdzi\u00c5\u0082am \u00c5\u00bce lepiej posiedz\u00c4\u0099 w domku \u00f0\u009f\u0098\u009e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1683970221279,
+      "content": "Bo ju\u00c5\u00bc pierwsze g\u00c5\u0082osowania si\u00c4\u0099 zacz\u00c4\u0099\u00c5\u0082y wi\u00c4\u0099c was omin\u00c4\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bar\u00c5\u0082omiej Greiner",
+      "timestamp_ms": 1683970194844,
+      "content": "Tak, ja b\u00c4\u0099d\u00c4\u0099 pot\u00c4\u0099\u00c5\u00bcnie sp\u00c3\u00b3\u00c5\u00baniony ale bede.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1683970162780,
+      "content": "@Micha\u00c5\u0082 Wiencek @Bar\u00c5\u0082omiej Greiner @Ma\u00c5\u0082gosia Pieczonka b\u00c4\u0099dziecie na wzc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulina \u00c5\u00bbwirek",
+      "timestamp_ms": 1683000755590,
+      "content": "Paulina \u00c5\u00bbwirek opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682684371935,
+      "content": "Kontakt opu\u00c5\u009bci\u00c5\u0082 grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682684366956,
+      "content": "Osoba z Twoich kontakt\u00c3\u00b3w doda\u00c5\u0082a Paulin\u00c4\u0099 W\u00c3\u00b3jcik do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682621989721,
+      "content": "Hahaha \u00f0\u009f\u0098\u0082\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682621973825,
+      "content": "Haha kocham",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682621970883,
+      "content": "Czuj\u00c4\u0099 si\u00c4\u0099 jak matka, prawda",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bar\u00c5\u0082omiej Greiner"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1682621945443,
+      "content": "Ja chce Oli podzi\u00c4\u0099kowa\u00c4\u0087 za mentorowanie nam, ze zawsze wszystko jasne by\u00c5\u0082o i mega nas pilnowa\u00c5\u0082as z zadaniami, tak\u00c5\u00bce @Aleksandra jestes matka naszego sukcesu \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0098",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Bar\u00c5\u0082omiej Greiner"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1682621005353,
+      "content": "Oczywi\u00c5\u009bcie \u00c5\u00bce my \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bar\u00c5\u0082omiej Greiner",
+      "timestamp_ms": 1682620575344,
+      "content": "W duchu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bar\u00c5\u0082omiej Greiner",
+      "timestamp_ms": 1682620571994,
+      "content": "My",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682620567351,
+      "content": "\u00c5\u00bbelusie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682620561433,
+      "content": "Kto wygra\u00c5\u0082?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682620550941,
+      "content": "No to spoko i tak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682620529134,
+      "content": "Wi\u00c4\u0099c nie uda\u00c5\u0082o si\u00c4\u0099 wygra\u00c4\u0087 ale uwa\u00c5\u00bcam \u00c5\u00bce jeste\u00c5\u009bcie super i dla mnie wygrali\u00c5\u009bcie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682620505944,
+      "content": "A no i zdobyli\u00c5\u009bmy drugie miejsce og\u00c3\u00b3lnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682620460417,
+      "content": "Dzieki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682620453202,
+      "content": "No chcialem w chuj byc ale no niestety xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682620452995,
+      "content": "Micha\u00c5\u0082 \u00c5\u00bcycz\u00c4\u0099 w takim razie du\u00c5\u00bco zdrowia dbaj o siebie",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682620447392,
+      "content": "Oo fajnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682620427064,
+      "content": "Dosta\u00c5\u0082e\u00c5\u009b cz\u00c5\u0082onkostwo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682620405370,
+      "content": "Ojeju",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682620404451,
+      "content": "Jak tam gala",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682620399243,
+      "content": "Przepraszam ze caly miesiac prawie w szpitalach spedzilem i dzisiaj wyszed\u00c5\u0082em dopiero xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682618611152,
+      "content": "Wiem wiem ale ja musz\u00c4\u0099 20:30 wyj\u00c5\u009b\u00c4\u0087 wi\u00c4\u0099c wola\u00c5\u0082am napisa\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1682618560357,
+      "content": "Gosia ma przyj\u00c5\u009b\u00c4\u0087 tylko przez zer\u00c3\u00b3wk\u00c4\u0099 si\u00c4\u0099 sp\u00c3\u00b3\u00c5\u00bani",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682618345817,
+      "content": "@Micha\u00c5\u0082 Wiencek wpierdol za nieobecno\u00c5\u009b\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1682618315000,
+      "content": "@Ma\u00c5\u0082gosia trzymam kciuki za zer\u00c3\u00b3wk\u00c4\u0099 i gratuluj\u00c4\u0099 czlonkostwa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ma\u00c5\u0082gosia Pieczonka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681930560041,
+      "content": "Czekam z niecierpliwo\u00c5\u009bci\u00c4\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681930510433,
+      "content": "Oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1681930499869,
+      "content": "Powiem ci osobi\u00c5\u009bcie bo a\u00c5\u00bc mi to przez klawiatur\u00c4\u0099 nie przejdzie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681930415265,
+      "content": "A kt\u00c3\u00b3ra to taka xd?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1681930286068,
+      "content": "A ja b\u00c4\u0099d\u00c4\u0099, mam nadzieje ze jedna walni\u00c4\u0099ta baba si\u00c4\u0099 opami\u00c4\u0099ta z odrabianiem zaj\u00c4\u0099\u00c4\u0087 i zd\u00c4\u0085\u00c5\u00bc\u00c4\u0099 \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gosia Pieczonka",
+      "timestamp_ms": 1681924868235,
+      "content": "b\u00c4\u0099d\u00c4\u0099, ale chyba si\u00c4\u0099 sp\u00c3\u00b3\u00c5\u00bani\u00c4\u0099, bo pisze wtedy zer\u00c3\u00b3wke i nwm ile mi zejdzie",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bar\u00c5\u0082omiej Greiner",
+      "timestamp_ms": 1681923900885,
+      "content": "Ja te\u00c5\u00bc si\u00c4\u0099\u00c2\u00a0pojawi\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1681923367925,
+      "content": "B\u00c4\u0099d\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1681923067460,
+      "content": "Mam nadziej\u00c4\u0099 \u00c5\u00bce ze wszystkimi :3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1681923059960,
+      "content": "Z kim si\u00c4\u0099 widz\u00c4\u0099 na gali?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aleksandra Cholak",
+      "timestamp_ms": 1681923052032,
+      "content": "https://www.facebook.com/groups/250202975102795/permalink/5866248686831501/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1681802630747,
+      "content": "Ju\u00c5\u00bc jutro spotkanie z profilerem, nie mo\u00c5\u00bce Was zabrakn\u00c4\u0085\u00c4\u0087 ;)\nhttps://www.facebook.com/events/121401490853606/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "U\u00c5\u00bcytkownik Facebooka",
+      "timestamp_ms": 1680510493928,
+      "content": "Cze\u00c5\u009b\u00c4\u0087,\nKo\u00c5\u0082o Naukowe FollowUP serdecznie zaprasza na spotkanie z profilerem kryminalnym - Janem Go\u00c5\u0082\u00c4\u0099biowskim. Spotkanie odb\u00c4\u0099dzie si\u00c4\u0099 19 kwietnia o godzinie 16:30 w sali 111N. Zapoznajcie si\u00c4\u0099 prosz\u00c4\u0099 z opisem, gdzie znajduj\u00c4\u0085 si\u00c4\u0099 wszelkie szczeg\u00c3\u00b3\u00c5\u0082y i przyjd\u00c5\u00bacie, bo naprawd\u00c4\u0099 b\u00c4\u0099dzie warto!\nLink do wydarzenia: \nhttps://www.facebook.com/events/121401490853606/?ref=newsfeed",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aleksandra Cholak"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beztalencia Z POTENCJA\u00c5\u0081EM(podobno)",
+  "is_still_participant": true,
+  "thread_path": "inbox/beztalenciazpotencjalempodobno_5553342421417476",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/678626523606987.jpg",
+    "creation_timestamp": 1669424978
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

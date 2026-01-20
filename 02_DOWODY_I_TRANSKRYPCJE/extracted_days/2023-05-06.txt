@@ -1,0 +1,85 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-06
+# Liczba: 80
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 15:43:23 | Martyna Gancarczyk | 15:00-16:30  K1 | message_1.json |
+| 15:43:09 | Oliwia WÅodarczyk | k4 | message_1.json |
+| 15:43:41 | PaweÅ Rodak | A mogÄ prosiÄ o kod do k1? | message_1.json |
+| 15:45:56 | Martyna Gancarczyk | nie kojarzÄ Å¼eby mÃ³wiÅa o pisaniu do niej w tej sprawie, ja bym na lekcji normalnie powiedziaÅa | message_1.json |
+| 15:44:00 | PaweÅ Rodak | I trzeba jÄ poinformowaÄ Å¼e siÄ bÄdzie w tej gr? | message_1.json |
+| 11:30:51 | Anna PÅatek | Okej bo ja wÅaÅnie nie dostaÅam ;) | message_1.json |
+| 11:30:26 | Patryk Balicki | ZostaÅo jej parÄ maili na ktÃ³re musi odpowiedzieÄ | message_1.json |
+| 15:42:23 | PaweÅ Rodak | W jakich godzinach jutro macie poznawcza gk1 lub 4 ? | message_1.json |
+| 15:43:06 | Oliwia WÅodarczyk | k | message_1.json |
+| 15:43:04 | Oliwia WÅodarczyk | 16:45 | message_1.json |
+| 17:31:46 | Agnieszka Olszewska | [No text content] | message_1.json |
+| 07:08:16 | Krzysztof Antoni AmbroÅ¼y Czekaj | Krzysztof Antoni AmbroÅ¼y Czekaj dodaÅ AnetÄ LimanÃ³wkÄ do grupy. | message_1.json |
+| 17:47:48 | Krzysztof Antoni AmbroÅ¼y Czekaj | [No text content] | message_1.json |
+| 17:48:20 | Krzysztof Antoni AmbroÅ¼y Czekaj | 9.05, wtorek, 18:00 Dyskusje Jungowskie - tym razem: WielogÅos w psychice https://www.facebook.com/... | message_1.json |
+| 17:48:15 | Krzysztof Antoni AmbroÅ¼y Czekaj | DziejÄ siÄ rzeczy | message_1.json |
+| 15:51:46 | PaweÅ Rodak | To jak ktoÅ inny ma kod to prosiÅbym | message_1.json |
+| 15:46:19 | Martyna Gancarczyk | a kodu nie dam bo nie wiem jak go teraz daÄ i nie zapisaÅam go | message_1.json |
+| 18:59:47 | Anna PÅatek | Pytanie- nie mogÄ znaleÅºÄ, kiedy jest sesja wrzeÅniowa? PamiÄta ktoÅ? | message_1.json |
+| 19:01:06 | Anna PÅatek | DziÄkuje â¤ï¸ | message_1.json |
+| 19:00:34 | Klaudia SzymaÅska | [Photo: 1] | message_1.json |
+| 08:53:14 | Weronika Kucharska | Lista jest u mnie z przodu zostawiÄ jÄ po przerwie, jakby ktoÅ potrzebowaÅ | message_1.json |
+| 08:53:01 | Wiktoria MiÅaszewska | PamiÄta ktoÅ ile mniej wiÄcej stron mamy napisac tego streszczenia? | message_1.json |
+| 09:01:44 | Katarzyna Huk | Jedna A4? | message_1.json |
+| 09:04:30 | Dorota Szczerba | A mÃ³gÅby ktoÅ proszÄ przypomnieÄ formÄ i zasady zaliczenia historii myÅli psychologicznej? | message_1.json |
+| 09:02:48 | Joanna Joanna | tak, max 1 A4 | message_1.json |
+| 07:40:10 | Sylwia Å»uchowicz | 110 N | message_1.json |
+| 07:39:16 | Dorota Szczerba | W ktÃ³rej sali jest wykÅad? | message_1.json |
+| 08:13:24 | Kamil Kusibab | Czernecka zaczÄÅa wysyÅaÄ teksty na teamsie | message_1.json |
+| 08:50:47 | Anna PÅatek | Jak siÄ da to proszÄ nie oddajcie jej przed przerwa | message_1.json |
+| 08:16:18 | Martyna Gancarczyk | podajcie listÄ do tyÅu | message_1.json |
+| 09:24:59 | Anna PÅatek | Masz ja? | message_1.json |
+| 09:08:48 | Sylwia HoÅda | Znaczy o osobie albo nurcie waÅ¼nym dla nas teÅ¼ i dlaczego wybraliÅmy ten | message_1.json |
+| 11:28:59 | Katarzyna Huk | Streszczeniu artykuÅÃ³w z mÃ³zgowych przedÅuÅ¼one do koÅca czerwca | message_1.json |
+| 11:30:16 | Patryk Balicki | Jeszcze nie | message_1.json |
+| 11:30:03 | Anna PÅatek | A dostali juÅ¼ wszyscy? | message_1.json |
+| 09:06:56 | Kamil Kusibab | a wÅaÅciwie podaÅ jakÄÅ konkretnÄ definicjÄ takiej osoby? | message_1.json |
+| 09:05:20 | Anna PÅatek | Trzeba napisaÄ esej na okoÅo 3 strony o wybranej osobie waÅ¼nej dla hmp | message_1.json |
+| 09:07:15 | Dorota Szczerba | A do kiedy mamy to wysÅaÄ i gdzie ? | message_1.json |
+| 09:08:06 | Dorota Szczerba | DziÄkujÄ bardzo | message_1.json |
+| 09:07:40 | Gabriela WÃ³jcikiewicz | Do 15 czerwca, pewnie przez maila do niego | message_1.json |
+| 09:57:19 | Madzia Szczypka | SÄsiada ;) | message_1.json |
+| 09:57:12 | MichaÅ Wiencek | Interdyscyplinarny | message_1.json |
+| 09:57:24 | Madzia Szczypka | Sasiady* | message_1.json |
+| 09:58:00 | MichaÅ Wiencek | Bo ostatnio tego u ciebie brakowalo | message_1.json |
+| 09:57:55 | MichaÅ Wiencek | Jeszcze sklep z bateriami do piecykow otworz | message_1.json |
+| 09:56:30 | MichaÅ Wiencek | Pralnia u stacha | message_1.json |
+| 09:54:37 | Stasiu Przygoda | Eeeee No mogÄ ci wypraÄ XDDDD | message_1.json |
+| 09:56:46 | Stasiu Przygoda | Wczoraj byÅa apteka | message_1.json |
+| 09:57:06 | MichaÅ Wiencek | Widac ze kognitywistyke studiujesz | message_1.json |
+| 09:56:57 | MichaÅ Wiencek | Jebany | message_1.json |
+| 22:35:13 | Radek Salwach | Zajebiscie ale jutro jeszcze lepiej | message_1.json |
+| 22:32:46 | Stasiu Przygoda | Jak spÄdzacie noc? | message_1.json |
+| 22:35:30 | Radek Salwach | Gram w star warsy i lego jutro i mam chillerÄ i essÄ | message_1.json |
+| 22:38:06 | Stasiu Przygoda | Ja siÄ bÄdÄ Åwietnie bawiÅ grajÄc w heroesy 3 i w isaaca bo w nic innego nie bÄdÄ w stanie z... | message_1.json |
+| 22:35:33 | Radek Salwach | ð | message_1.json |
+| 10:00:34 | Stasiu Przygoda | Wiec uznaje ten towar za ciÄÅ¼ki do zdobycia | message_1.json |
+| 10:00:19 | Stasiu Przygoda | Nie tylko u mnie tego brakowaÅo | message_1.json |
+| 15:00:22 | Stasiu Przygoda | Jak ktoÅ chce siÄ spotkac dzisiaj to moÅ¼na u mnie po 20 | message_1.json |
+| 22:32:41 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 15:00:25 | Stasiu Przygoda | Bo Julka wychodzi | message_1.json |
+| 18:04:50 | Maciek Radecki | Maciek Radecki dodaÅ DariÄ RÃ³Å¼aÅskÄ do grupy. | message_1.json |
+| 17:48:58 | Krzysztof Antoni AmbroÅ¼y Czekaj | 10.05, Åroda, 18:30  SeksualnoÅÄ a jÄzyk. Jak jÄzyk ksztaÅtuje naszÄ seksualnoÅÄ i odwrotni... | message_1.json |
+| 11:33:10 | Radek Salwach | Dobry, w ten sobotni poranek przypominam o poniedziaÅkowym zadaniu na zaliczenie na matmÄ, tak jak... | message_1.json |
+| 11:34:36 | Maria Zguda | A co byÅo? | message_1.json |
+| 11:34:14 | Sebastian Kutaj | a to zadanie to nie za tydzieÅ? | message_1.json |
+| 17:48:39 | Krzysztof Antoni AmbroÅ¼y Czekaj | 8.05, poniedziaÅek, 18:30 CzytajÄ Deleza, twÃ³rcÄ schizoanalizy, kliniki La Borde https://www.fac... | message_1.json |
+| 17:48:31 | Krzysztof Antoni AmbroÅ¼y Czekaj | 13.05, sobota-niedziela, 18:00 Warsztaty Od czucia do taÅca, de facto: wprowadzenie do choreoterapi... | message_1.json |
+| 17:48:44 | Krzysztof Antoni AmbroÅ¼y Czekaj | 9.05, wtorek, 18:00 Logoterapia: Jak Media i Big Pharma oddziaÅujÄ na zjawisko depresji i myÅli s... | message_1.json |
+| 17:48:56 | Krzysztof Antoni AmbroÅ¼y Czekaj | 12.05, piÄtek, 20:00 KsiÄÅ¼niczka i ziarnko grochu. Psychoanalityczne refleksje nad szaleÅstwem h... | message_1.json |
+| 17:48:48 | Krzysztof Antoni AmbroÅ¼y Czekaj | 12.05, piÄtek, 10:00 Konferencja PsychorÃ³Å¼noÅci https://www.facebook.com/events/1102007237176472 | message_1.json |
+| 11:55:59 | Julita Bouffette | Za tydzieÅ | message_1.json |
+| 11:45:14 | Daria Berkowicz | A ktoÅ wie jak to zrobiÄ? I to w koÅcu jest na za tydzieÅ czy jak | message_1.json |
+| 09:52:40 | Radek Salwach | @Stasiu Przygoda | message_1.json |
+| 09:53:40 | Radek Salwach | A jestem w stanie coÅ fac za to | message_1.json |
+| 09:53:34 | Radek Salwach | Masz pralkÄ na wypoÅ¼yczenie? Bo mi siÄ koÅczÄ rzeczy juÅ¼ dosÅownie, i muszÄ wypoÅ¼yczyÄ | message_1.json |
+| 11:36:53 | Julia Chrzan | PamiÄta ktoÅ jak to zrobiÄ? ð | message_1.json |
+| 11:36:02 | Julita Bouffette | Faktycznie, coÅ mÃ³wiÅ, Å¼e 15maja nie ma go | message_1.json |
+| 11:40:51 | Justyna Sarota | z tego co pamiÄtam to wykazaÄ czemu wynik to 1/4 | message_1.json |
+| 11:41:02 | Justyna Sarota | . | message_1.json |
+| 11:40:51 | Justyna Sarota | [Photo: 1] | message_1.json |

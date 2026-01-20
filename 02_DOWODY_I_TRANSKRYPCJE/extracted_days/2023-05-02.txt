@@ -1,0 +1,246 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-02
+# Liczba: 241
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 08:58:08 | Ania Michno | Spokojnie jak coÅ! UsunÄÅam osoby, ktÃ³re, po konsultacji, na razie odpuszczajÄ dalsze dziaÅani... | message_1.json |
+| 09:10:17 | Paulina Kasprzak | @Juls a nie mÃ³wiÅam Å¼e bÄdÄ czystki? XD | message_1.json |
+| 09:27:24 | Ania Michno | a jak Wasza majÃ³weczka? co porabiacie ciekawego?ð | message_1.json |
+| 08:56:13 | Ania Michno | Ania Michno usunÄÅa uÅ¼ytkownika Paulina Å»wirek z grupy. | message_1.json |
+| 08:55:46 | Ania Michno | Ania Michno usunÄÅa uÅ¼ytkownika Kamil Kaletka z grupy. | message_1.json |
+| 08:55:54 | Ania Michno | Ania Michno usunÄÅa uÅ¼ytkownika Maks Parys z grupy. | message_1.json |
+| 08:56:06 | Ania Michno | Ania Michno usunÄÅa uÅ¼ytkownika Oliwia Burzy z grupy. | message_1.json |
+| 09:28:30 | Paulina Kasprzak | Pozdrowienia z Czech! ð«¡â¤ï¸ | message_1.json |
+| 09:38:27 | Aleksandra Cholak | [Photo: 4] | message_1.json |
+| 09:38:34 | Aleksandra Cholak | Ja pozdrawiam ze SÅowenii | message_1.json |
+| 09:38:56 | Aleksandra Cholak | [Photo: 1] | message_1.json |
+| 09:35:54 | Ania Michno | Czy tylko HRowa tym razem wyjÄtkowo nie podrÃ³Å¼uje? A przynajmniej jak na razie! | message_1.json |
+| 09:28:45 | Paulina Kasprzak | [Photo: 3] | message_1.json |
+| 09:30:07 | Ewelina KapÅon | Ja standardowo Aniu xd z Podkarpacia haha | message_1.json |
+| 09:32:40 | Ola CioÅek | Ja w wiecznej podrÃ³Å¼y ð aktualnie jadÄ z WrocÅawia do Krakowa a potem na Podkarpacie | message_1.json |
+| 13:52:10 | Anna PÅatek | No ale jeÅli nam zrobi z mÃ³zgowych i poznawczej w rym profitami, gdzie nie moÅ¼esz steony zmieniÄ | message_1.json |
+| 13:52:34 | Martyna Gancarczyk | No trxeba siÄ nauczyÄ | message_1.json |
+| 13:53:03 | Anna PÅatek | No wÅaÅnie to kwestia zdalne czy stacjonarne niewiele zmienia ;) i dokÅadnie- trzeba siÄ nauczyÄ... | message_1.json |
+| 13:51:51 | Martyna Gancarczyk | No ale wydÅuÅ¼enie o 2 dni a o tydzieÅ to caÅkowicie co innego | message_1.json |
+| 13:50:56 | Martyna Gancarczyk | nie mamy zbyt duÅ¼o wyjÅcia | message_1.json |
+| 13:51:25 | Anna PÅatek | Czyli jedyne wyjÅcie to poprosiÄ o wydÅuÅ¼enie sesji | message_1.json |
+| 13:51:28 | Martyna Gancarczyk | PamiÄtajcie Å¼e jest szansa na zdalne i z emocji jest baza pytaÅ | message_1.json |
+| 13:54:40 | Martyna Gancarczyk | tak, wiÄc raczej nie ma co tak wybieraÄ i szukaÄ tych terminÃ³w tylko poznaÄ je jak najszybciej ... | message_1.json |
+| 19:52:25 | Joanna Krk | JeÅli bÄdziemy mieÄ zdalnie to moÅ¼na egzamin zdawaÄ na telefonie a korzystaÄ z komputera np i ... | message_1.json |
+| 20:05:49 | Martyna Gancarczyk | I tak info jeszcze nie ma w tym temacie, ma byÄ to pÃ³Åºniej ogÅoszone | message_1.json |
+| 08:55:37 | Ania Michno | Ania Michno usunÄÅa uÅ¼ytkownika BartÅomiej Kasprzyk z grupy. | message_1.json |
+| 16:49:14 | Magda Staszel | A to tylko wykÅad czy zajÄcia teÅ¼ bÄdÄ znane? | message_1.json |
+| 16:36:54 | Åukasz Kucharski | Nie jestem pewny ile nas jest na roku ale wydaje mi siÄ Å¼e jest przegÅosowane jest 42 do 12 | message_1.json |
+| 16:37:00 | Åukasz Kucharski | [Photo: 1] | message_1.json |
+| 16:46:04 | Martyna Gancarczyk | spokojnie juÅ¼ jest email wysÅany | message_1.json |
+| 11:13:08 | MaÅgorzata Drozdek | @Nikola Chudyka pochwal siÄ zdjÄciami z GdaÅska xdd | message_1.json |
+| 11:20:45 | Nikola Chudyka | [Photo: 4] | message_1.json |
+| 11:20:49 | Nikola Chudyka | kocham gdansk | message_1.json |
+| 11:11:51 | MaÅgorzata Drozdek | M.in w sÄdzie rejonowym xdd | message_1.json |
+| 11:10:30 | Ewelina KapÅon | To nie jest z rancza? | message_1.json |
+| 11:10:42 | Ewelina KapÅon | Tam byÅo coÅ ze RadzyÅ xd | message_1.json |
+| 11:11:45 | MaÅgorzata Drozdek | Tak u mnie nagrywali niektÃ³re odcinki xd | message_1.json |
+| 11:20:49 | Nikola Chudyka | [Video: 1] | message_1.json |
+| 12:19:18 | Julia Tabaka | ByÅam, ale na jeden dzieÅ haha | message_1.json |
+| 12:20:06 | Ola CioÅek | Skubana, szybko siÄ przemieszczasz A ja 3 godziny wojewÃ³dztwa do wojewÃ³dztwa ð | message_1.json |
+| 12:22:46 | Aleksandra Cholak | Ja za kilka godzin pozdrowie was z Chorwacji ð¤£ | message_1.json |
+| 12:18:15 | Ola CioÅek | A ty nie byÅaÅ co dopiero we WÅoszech? Hahah | message_1.json |
+| 11:20:59 | Nikola Chudyka | i gyrosa z gdynii polecam | message_1.json |
+| 12:11:22 | Julia Tabaka | RÃ³wnieÅ¼ pozdrawiam z SÅoweniið¥° | message_1.json |
+| 12:15:02 | Julia Tabaka | [Photo: 4] | message_1.json |
+| 09:45:29 | Edyta Bobak | Ahri teÅ¼ Was pozdrawiaâ¤ï¸ | message_1.json |
+| 10:05:27 | Magda Waga | [Photo: 4] | message_1.json |
+| 10:05:45 | Magda Waga | przesyÅam piÄkne widoki z ostatnich dnið | message_1.json |
+| 09:45:17 | Edyta Bobak | [Photo: 1] | message_1.json |
+| 09:39:07 | Aleksandra Cholak | Jest reprezentacja NZS UP xd | message_1.json |
+| 09:41:50 | Klaudia KozioÅ | [Photo: 1] | message_1.json |
+| 09:42:11 | Klaudia KozioÅ | Pozdrawiam z naszych Polskich Taterâ¤ï¸ | message_1.json |
+| 11:01:18 | Weronika Maciuszek | [Photo: 1] | message_1.json |
+| 11:10:02 | MaÅgorzata Drozdek | A ja z Radzynia Podlaskiego | message_1.json |
+| 11:10:05 | MaÅgorzata Drozdek | [Video: 1] | message_1.json |
+| 11:10:08 | MaÅgorzata Drozdek | Pozdrawiam ð«¶ | message_1.json |
+| 11:09:53 | MaÅgorzata Drozdek | [Photo: 2] | message_1.json |
+| 11:01:26 | Weronika Maciuszek | Pozdrowionka ze Starego SÄcza ð¥° | message_1.json |
+| 11:04:21 | Magda CieÅ¼ | [Photo: 1] | message_1.json |
+| 11:04:23 | Magda CieÅ¼ | I z Nowego! Haha | message_1.json |
+| 13:01:40 | Kamil Kusibab | A na zaliczenie z ÄwiczeÅ ze statystyki bÄdziemy robiÄ tylko te praktyczne Äwiczenie czy coÅ j... | message_1.json |
+| 13:22:49 | Magda Motal | A nie lepiej bÄdzie (jeÅli siÄ da) zrobiÄ emocje po Årodku bo mamy bazÄ | message_1.json |
+| 13:22:56 | Magda Motal | I wtedy mamy 2 tygodnie miÄdzy trudnymi | message_1.json |
+| 13:00:21 | Martyna Gancarczyk | A z poznawczej 18.06 | message_1.json |
+| 12:59:35 | Martyna Gancarczyk | 25.06 poznawcza | message_1.json |
+| 12:59:38 | Martyna Gancarczyk | 30.06 mÃ³zgowe | message_1.json |
+| 13:00:15 | Martyna Gancarczyk | Z mÃ³zgowych ostatni wykÅad jest 17.06 | message_1.json |
+| 13:23:08 | Magda Motal | Jeszcze coÅ na zajÄciach bÄdzie | message_1.json |
+| 13:36:27 | Sylwia HoÅda | No myÅlÄ, Å¼e warto jej zapytaÄ | message_1.json |
+| 13:36:48 | Anna PÅatek | Ewentualnie moÅ¼emy mieÄ najpierw Czernecka jeÅli siÄ nie zgodzi, a pÃ³Åºniej poznawcza, bo chyba... | message_1.json |
+| 13:37:34 | Sylwia HoÅda | TeÅ¼ jest to jakaÅ opcja lepsza niÅ¼ wszystko na raz | message_1.json |
+| 13:35:30 | Magda Motal | To musimy oficjalnie ustalaÄ czy daÅoby siÄ indywidualnie z CzerneckÄ | message_1.json |
+| 13:23:25 | Magda Motal | MÃ³wiÅ Å¼e bÄdÄ zadania takie jak te na ktÃ³rych Äwiczymy | message_1.json |
+| 13:30:24 | Sylwia HoÅda | A nie chcemy przedÅuÅ¼yÄ tej sesji? Bo to by nam bardzo pomogÅo i daÄ na sam koniec te mÃ³zgowe | message_1.json |
+| 13:30:39 | Sylwia HoÅda | Ta babka od poznawczej mÃ³wiÅa, Å¼e moÅ¼na tak zrobiÄ | message_1.json |
+| 12:55:45 | Magda Motal | Poza nie pamiÄtam czy ustaliliÅmy coÅ jeszcze | message_1.json |
+| 12:55:51 | Magda Motal | Poza tym* | message_1.json |
+| 12:56:12 | Magda Motal | Esej z historii do poÅowy czerwca | message_1.json |
+| 12:55:20 | Magda Motal | [Photo: 1] | message_1.json |
+| 20:12:03 | Ania Michno | PÃ³ki co idziemy grupkÄ 29 osÃ³b!! I bileciki juÅ¼ mam kupione od dawna wiÄc siÄ nie martwcieð¥° | message_1.json |
+| 20:54:04 | Julia Rozalia MaÅek | Julia Rozalia MaÅek opuÅciÅ(a) grupÄ. | message_1.json |
+| 12:39:47 | Wiktoria Krzyszkowska | Znamy juÅ¼ jakieÅ terminy egzaminÃ³w/zaliczeÅ? | message_1.json |
+| 12:56:23 | Martyna Gancarczyk | Nie ustaliliÅmy wiÄcej, ale dobrze byÅoby ustaliÄ juÅ¼ te dwa pozostaÅe | message_1.json |
+| 12:58:27 | Magda Motal | A kiedy mamy ostatni wykÅad z emocji | message_1.json |
+| 12:59:16 | Martyna Gancarczyk | Chyba 16.06 | message_1.json |
+| 12:59:23 | Martyna Gancarczyk | MoglibyÅmy emocje miec 18.06 | message_1.json |
+| 12:58:11 | Martyna Gancarczyk | A emocje szybciej, bo to bÄdzie z bazy i bÄdziemy mogli siÄ skupiÄ na czymÅ innym | message_1.json |
+| 12:56:39 | Martyna Gancarczyk | Jeszcze lektorat dla niektÃ³rych na ostatnich zajÄciach ale to chyba na moodle znowu xd | message_1.json |
+| 12:57:37 | Anna PÅatek | Statystyka kolokwium to chodzi o to praktyczne zaliczenie? | message_1.json |
+| 12:57:47 | Martyna Gancarczyk | To myÅlÄ, Å¼e lepiej mÃ³zgowe miec jak najpÃ³Åºniej co nie? | message_1.json |
+| 13:48:16 | Martyna Gancarczyk | UkÅada nowe egzaminy | message_1.json |
+| 13:48:46 | Anna PÅatek | Poznawcza to samo? | message_1.json |
+| 13:49:10 | Martyna Gancarczyk | Poznawcza jest z ksiÄÅ¼ka, nie sÅyszaÅam zeby byla vaza | message_1.json |
+| 13:48:06 | Martyna Gancarczyk | Ona co roku to zmienia | message_1.json |
+| 13:47:25 | Magda Staszel | A kiedy majÄ ogÅosiÄ o zdalnej sesji? | message_1.json |
+| 13:47:50 | Anna PÅatek | [Photo: 1] | message_1.json |
+| 13:48:00 | Anna PÅatek | To pierwsze to nie baza ð³? | message_1.json |
+| 13:49:11 | Martyna Gancarczyk | Baza | message_1.json |
+| 13:49:58 | Sylwia HoÅda | Tylko 17/18 piszemy chyba kolosa z mÃ³zgowych i to teÅ¼ bÄdzie ciÄÅ¼kie | message_1.json |
+| 13:50:13 | Martyna Gancarczyk | MyÅlÄ ze to raczej tylko mozna sie wzorowac ale nie da tego samego | message_1.json |
+| 13:50:49 | Martyna Gancarczyk | no jakby ja mÃ³wiÅam na poczÄtku tego semestru Å¼eby nie robiÄ takich duÅ¼ych przerw weekendowych... | message_1.json |
+| 13:49:57 | Anna PÅatek | To faktycznie dupa | message_1.json |
+| 13:49:40 | Anna PÅatek | [Photo: 1] | message_1.json |
+| 13:49:46 | Anna PÅatek | Tutaj tez jest baza jakby z poprawki | message_1.json |
+| 13:49:52 | Anna PÅatek | Ale jeÅli tez zmienia caÅy egzamin | message_1.json |
+| 13:44:42 | Martyna Gancarczyk | A mÃ³zgowe 1/2 lipca | message_1.json |
+| 13:45:03 | Martyna Gancarczyk | mÃ³wiÄ lipca, bo 30 czerwiec to piÄtek a jeden/dwa dni wiÄcej moÅ¼e nam pomÃ³c | message_1.json |
+| 13:45:22 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
+| 13:44:34 | Martyna Gancarczyk | Emocje na Årodku, czyli 24/25 | message_1.json |
+| 13:42:04 | Martyna Gancarczyk | Babka z poznawczej nie chce mieÄ przed sesjÄ egzaminu | message_1.json |
+| 13:43:46 | Martyna Gancarczyk | Poznawcza wykÅady koÅczÄ nam siÄ 10 czerwca | message_1.json |
+| 13:44:20 | Martyna Gancarczyk | WiÄc moÅ¼na poprosiÄ Å¼eby byÅo to szybciej, tj 17/18 czerwca | message_1.json |
+| 13:45:34 | Anna PÅatek | A ewentualnie, gdyby Czernecka siÄ nie zgodziÅa, to poznawcza nie moÅ¼e byÄ w lipcu, a mÃ³zgowe n... | message_1.json |
+| 13:46:51 | Martyna Gancarczyk | dlatego wedÅug mnie lepiej zeby pierwsze byÅy emocje Å¼eby to z gÅowy byÅo | message_1.json |
+| 13:46:57 | Martyna Gancarczyk | A pÃ³Åºniej najciÄÅ¼sze | message_1.json |
+| 13:47:08 | Martyna Gancarczyk | Nie ma baz z poznawczej i mÃ³zgowych | message_1.json |
+| 13:46:37 | Anna PÅatek | Bo pytanie na ile one zmieniajÄ bazÄ | message_1.json |
+| 13:45:39 | Martyna Gancarczyk | Ostatni wykÅad z mÃ³zgowych jest 11, bÄdziemy mieÄ duÅ¼o czasu na naukÄ | message_1.json |
+| 13:45:59 | Martyna Gancarczyk | kurcze trzeva pomyÅleÄ, bo ja mÃ³zgowych np sie bojÄ XD | message_1.json |
+| 13:46:15 | Anna PÅatek | Ja siÄ boje teg i tego xD | message_1.json |
+| 12:27:24 | Magda CieÅ¼ | Ale wy jesteÅcie mobilni ð± | message_1.json |
+| 20:24:10 | MichaÅ Wiencek | Ka pierdole XD | message_1.json |
+| 20:24:15 | MichaÅ Wiencek | Tyle czasu | message_1.json |
+| 20:24:19 | MichaÅ Wiencek | Z jebanym ropniem | message_1.json |
+| 20:24:07 | Radek Salwach | Ale drugiego dnia juÅ¼ jak widziaÅem Å¼e idÄ dalej za poczekalniÄ to juÅ¼ czuÅem Å¼e bÄdzie git... | message_1.json |
+| 20:22:12 | Radek Salwach | I w szpitalu pamiÄtam Å¼e zasypiaÅem z 7 razy w poczekalni i siÄ budziÅem jak mi telefon z rÄki... | message_1.json |
+| 20:22:22 | MichaÅ Wiencek | A dÅugo czekales? | message_1.json |
+| 20:23:32 | Radek Salwach | Jednego dnia to 12h, i wrÃ³ciÅem do eomu bo uznaÅem Å¼e to pierdole, drugiego dnia tak z 5h | message_1.json |
+| 20:24:20 | MichaÅ Wiencek | Czekac | message_1.json |
+| 20:25:14 | MichaÅ Wiencek | Tylko miejscowe miales? | message_1.json |
+| 20:25:17 | MichaÅ Wiencek | AÅa | message_1.json |
+| 20:25:21 | Radek Salwach | Yes | message_1.json |
+| 20:25:05 | MichaÅ Wiencek | PrzecieÅ¼ z takimi rzeczami od razu wyzszy priorytet powinni ludzie miec zeby chociaz tne przeciwbol... | message_1.json |
+| 20:24:26 | MichaÅ Wiencek | Tylko w polsce | message_1.json |
+| 20:24:41 | Radek Salwach | A jak mi go wycinali na znieczuleniu to taki bÃ³l byÅ w cholerne teÅ¼, ale ja sobie wmawialem wtedy... | message_1.json |
+| 20:24:54 | Radek Salwach | I jakoÅ poszÅo | message_1.json |
+| 20:20:00 | MichaÅ Wiencek | +pod skora mialem rozlane | message_1.json |
+| 20:20:19 | MichaÅ Wiencek | Ale kurde wyobrazam to sobie | message_1.json |
+| 20:20:27 | MichaÅ Wiencek | Jaki bÃ³l musiales miec ja jebie | message_1.json |
+| 20:19:54 | MichaÅ Wiencek | Tersz byl wiekszy | message_1.json |
+| 20:19:27 | MichaÅ Wiencek | Ja jebie | message_1.json |
+| 20:19:34 | MichaÅ Wiencek | No ropnie sa przejebane | message_1.json |
+| 20:19:50 | MichaÅ Wiencek | No u mnie ten ropien miaÅ ostatnio 9x5x3 cm | message_1.json |
+| 20:20:36 | MichaÅ Wiencek | Jeszcze tak na migdalku | message_1.json |
+| 20:22:09 | MichaÅ Wiencek | Totalnie wiem co czujesz | message_1.json |
+| 20:22:11 | MichaÅ Wiencek | Czules | message_1.json |
+| 20:22:12 | MichaÅ Wiencek | Masakra | message_1.json |
+| 20:22:05 | MichaÅ Wiencek | Ja pierdole | message_1.json |
+| 20:20:44 | MichaÅ Wiencek | ð¨ | message_1.json |
+| 20:21:19 | Radek Salwach | No stary to byÅo tak chujowe, miaÅem takie spuchniÄte Å¼e nie mogÅem normalnie mÃ³wiÄ, szczÄko... | message_1.json |
+| 20:21:47 | Radek Salwach | Slina mi siÄ zbieraÅa przez to co chwilÄ a przy poÅykaniu bÃ³l taki przepotÄÅ¼ny, spaÄ teÅ¼ si... | message_1.json |
+| 20:30:02 | MichaÅ Wiencek | Najpierw to musze mocno wyzdrowiec zeby wgl myslec o wixapolu | message_1.json |
+| 20:30:24 | MichaÅ Wiencek | Jeszcze czeka mnie glodowka dopÃ³ki mi drena nie sciagna | message_1.json |
+| 20:30:42 | MichaÅ Wiencek | A juz od piÄtku nie jem xd | message_1.json |
+| 20:29:47 | MichaÅ Wiencek | ChciaÅbym zeby tak bylo | message_1.json |
+| 20:28:47 | MichaÅ Wiencek | PowrÃ³t do normalnej psychiki jak stad wyjde kiedyÅ bÄdzie trwaÅ dlugo u mnie chyba xd | message_1.json |
+| 20:29:20 | Radek Salwach | E tam gadasz, dwa wixapole i Ci wrÃ³ci, posÅuchasz Hanuszkiewicza i bÄdzie git | message_1.json |
+| 20:29:43 | MichaÅ Wiencek | Haha | message_1.json |
+| 20:30:59 | MichaÅ Wiencek | Dostaje tylko jakies drinki proteinowe po ktÃ³rych mi sie rzygac chce | message_1.json |
+| 20:37:14 | MichaÅ Wiencek | Zebym mÃ³gÅ jesc XD | message_1.json |
+| 20:37:35 | MichaÅ Wiencek | To teraz kisiel to najwiekszy rarytas jest | message_1.json |
+| 20:37:36 | MichaÅ Wiencek | Na swiecie | message_1.json |
+| 20:37:10 | MichaÅ Wiencek | UdaÅo mi sie jedynie kisiel wyzebrac | message_1.json |
+| 20:33:12 | Radek Salwach | WspÃ³ÅczujÄ Ci, ja byÅem taki gÅodny i prÃ³bowaÅem zjeÅÄ cokolwiek jak miaÅem, i jadÅem zia... | message_1.json |
+| 20:33:39 | Radek Salwach | Dla rozluÅºnienia kupowaÅem sÅodki sok i wpieprzaÅem Å¼eby i nie powiarowaÄ przez takie braki | message_1.json |
+| 20:37:03 | MichaÅ Wiencek | No ja niestety nie moge nic | message_1.json |
+| 20:26:06 | Radek Salwach | No bÃ³l mega ale jak sobie wmÃ³wisz Å¼e ten bÃ³l jest lepszy to jakoÅ jest gites | message_1.json |
+| 20:26:14 | MichaÅ Wiencek | Nigdy nie pÅakaÅem tyle czasu bez przerwy | message_1.json |
+| 20:26:26 | MichaÅ Wiencek | No ta | message_1.json |
+| 20:26:04 | MichaÅ Wiencek | No sami widzieliscie xd | message_1.json |
+| 20:25:28 | MichaÅ Wiencek | To prawie jak to moje wpierdalanie rurki na zywca | message_1.json |
+| 20:25:45 | MichaÅ Wiencek | Dobrze ze przy tych mi dali to ogÃ³lne chociaz XD | message_1.json |
+| 20:26:00 | MichaÅ Wiencek | Ale no to co sie dziaÅo po tym znieczuleniu bylo bardzo nieprzyjemne | message_1.json |
+| 20:26:30 | MichaÅ Wiencek | Jak wiesz ze to chwila | message_1.json |
+| 20:28:05 | Radek Salwach | Noo wtedy wariujesz w cholerne | message_1.json |
+| 20:28:07 | Radek Salwach | CholerÄ | message_1.json |
+| 20:28:30 | MichaÅ Wiencek | No ja juz chyba zwariowalem | message_1.json |
+| 20:27:45 | MichaÅ Wiencek | Ta nieswiadomosc jest najgorsza | message_1.json |
+| 20:26:37 | MichaÅ Wiencek | I ze to ci pomoze | message_1.json |
+| 20:26:44 | MichaÅ Wiencek | To ten vol nawet przyjemny jest | message_1.json |
+| 20:27:38 | MichaÅ Wiencek | Najgorzej jak masz bol przewlekly co nie wiesz dokladnie ile bÄdzie trwaÅ i kiedy wrocisz do zdrow... | message_1.json |
+| 14:03:04 | Karina Szczepara | Hejkaðð | message_1.json |
+| 14:06:40 | Gabriela WÃ³jcikiewicz | ð | message_1.json |
+| 14:22:06 | Agnieszka Serwinowska | hej wszystkim! | message_1.json |
+| 13:46:18 | Vanessa Malczewska | Hejka | message_1.json |
+| 13:32:05 | Karolina ZarÄbska | [Photo: 4] | message_1.json |
+| 13:34:02 | Zuzanna KlekociÅska | Hej! ð | message_1.json |
+| 13:34:35 | Paulina Chudek | czeÅÄ wszystkimð | message_1.json |
+| 15:02:14 | Marek Rapta | Pepiki | message_1.json |
+| 04:12:35 | Paulina Å»wirek | Paulina Å»wirek opuÅciÅ(a) grupÄ. | message_1.json |
+| 20:04:23 | MichaÅ Wiencek | Kocham ten szpitsl | message_1.json |
+| 20:04:45 | MichaÅ Wiencek | Po operacji poprosilem o psychologa bo mialem najwiekszy dolek psychiczny w Å¼yciu | message_1.json |
+| 20:01:49 | Ania Michno | [Photo: 1] | message_1.json |
+| 17:46:56 | Julia Adamczyk | Åapcie teÅ¼ kilka zdjÄÄ ode mnie z PKSu - nie jest ich jakoÅ duÅ¼o i nie sÄ jakieÅ idealne ale... | message_1.json |
+| 18:33:35 | Iza Opalska | Hejkaa | message_1.json |
+| 20:01:28 | Ania Michno | 10.05 na godzinÄ 19 idziemy do teatru na spektakl Zimowla, jak sÄ osoby, ktÃ³re jeszcze sÄ chÄtn... | message_1.json |
+| 13:20:43 | Aleksandra Chanowska | Hej ð | message_1.json |
+| 13:21:43 | Ewa PrzyÅudzka | Hejka â¤ï¸ | message_1.json |
+| 13:21:49 | Katarzyna Morawska | CzeÅÄ wam bÄbelki! ð¸ | message_1.json |
+| 13:20:39 | Norbert Koszyk | Hejoooâ¤ï¸ | message_1.json |
+| 13:19:36 | Ania Michno | Ania Michno dodaÅa Piotrka Walczaka i 16 innych uÅ¼ytkownikÃ³w do grupy. | message_1.json |
+| 13:19:52 | Ania Michno | W tym majÃ³wkowym klimacie powitajmy pierwszÄ turÄ nowych sympatykÃ³w NZS UP!! Hejka wszystkimð¥° | message_1.json |
+| 13:20:31 | Emilka Kowalczyk | Hejka!! â¤ï¸ | message_1.json |
+| 13:22:13 | Ewelina KapÅon | Witajcie Kochani â¤ï¸ | message_1.json |
+| 13:26:46 | Zuzanna GÅubczyk | Hej | message_1.json |
+| 13:28:44 | Magda CieÅ¼ | Witamy! â¤ï¸ | message_1.json |
+| 13:32:04 | Karolina ZarÄbska | Pozdrawiamy z WÄgier c: | message_1.json |
+| 13:26:06 | Magdalena Kuzera | CzeÅÄ!ð¦ | message_1.json |
+| 13:22:15 | Zuza ZiÄba | Hej wszystkim ðâ¤ï¸ | message_1.json |
+| 13:22:50 | Piotrek Walczak | Siemanko ð§ââï¸ | message_1.json |
+| 13:24:15 | Ania Michno | WysyÅajcie kochani proÅbÄ o doÅÄczenie do Naszej grupki na fb to Was dodam! Tutaj link: https:/... | message_1.json |
+| 20:17:08 | MichaÅ Wiencek | Mam 2 takie rury grube w brzuchu | message_1.json |
+| 20:17:18 | Radek Salwach | O Cie chuj | message_1.json |
+| 20:17:26 | MichaÅ Wiencek | I jedna z nich jeszcze jest wbita przez ta rane co miaÅem po tym wczesniejszym drenie | message_1.json |
+| 20:17:00 | MichaÅ Wiencek | [Photo: 2] | message_1.json |
+| 20:16:33 | MichaÅ Wiencek | Bo niee czuje sie jakbym miaÅ umrzec zaraz | message_1.json |
+| 20:16:38 | MichaÅ Wiencek | Po prostu ten dren ci mi zamontowali | message_1.json |
+| 20:16:45 | MichaÅ Wiencek | Taki bolesny jest | message_1.json |
+| 20:17:40 | MichaÅ Wiencek | I dlatego to tak boli bo juz sama ta rana w sobie byla w chuj bolesna | message_1.json |
+| 20:19:04 | MichaÅ Wiencek | Pierdolca strasznego dostaje juz | message_1.json |
+| 20:19:12 | Radek Salwach | WiÄc ciÄÅ¼ko mi sobie wyobraÅ¼aÄ jak musi byÄ u Ciebie | message_1.json |
+| 20:19:19 | MichaÅ Wiencek | Pies mnie dzisiaj odwiedzil to chociaz jakikolwiek kontakt z ludzmi miaÅem przez chwile | message_1.json |
+| 20:18:59 | Radek Salwach | Ja jak miaÅem ropniaka okoÅomigdaÅkowego to musiaÅem za kaÅ¼dym przeÅkniÄciem Åliny czyli tak... | message_1.json |
+| 20:17:50 | MichaÅ Wiencek | + mam naciecie 3cm ÅwieÅ¼e zszyte | message_1.json |
+| 20:18:11 | Radek Salwach | Jo CieÅ¼ pierdola Wiencur | message_1.json |
+| 20:18:56 | MichaÅ Wiencek | No jest lipa | message_1.json |
+| 20:08:36 | Radek Salwach | WykoÅczÄ CiÄ niedÅugo chyba | message_1.json |
+| 20:15:17 | MichaÅ Wiencek | No jest bardzo ciÄÅ¼ko | message_1.json |
+| 20:15:28 | MichaÅ Wiencek | Od operacji nie jestem w stanie wstac z lozka nawet | message_1.json |
+| 20:08:27 | Radek Salwach | Ja pierdole stary co oni Ci tam robiÄ w tym szpitalu | message_1.json |
+| 20:04:48 | MichaÅ Wiencek | Nikt nie przyszedl | message_1.json |
+| 20:05:09 | MichaÅ Wiencek | Dzisiaj lekarz powiedziaÅ ze sÅyszaÅ ze prosiÅem o psychologa i ze dzisiaj do mnie przyjdzie ja ... | message_1.json |
+| 20:05:16 | MichaÅ Wiencek | I w koÅcu nawet dzisiaj nie przyszedl xd | message_1.json |
+| 20:15:34 | MichaÅ Wiencek | Dzisiaj prÃ³bowaÅem usiÄÅÄ | message_1.json |
+| 20:16:12 | Radek Salwach | Albo co Ci zrobiÄ zeby byÅo lepiej | message_1.json |
+| 20:16:15 | Radek Salwach | Czy chuja Ci powiedzÄ | message_1.json |
+| 20:16:26 | MichaÅ Wiencek | W sensie jeÅli chodzi o ten ropieÅ to poprawiÅo sie chyba | message_1.json |
+| 20:15:59 | Radek Salwach | Mega chujowo, masz jakieÅ prognozy Å¼eby Ci siÄ to polepszaÅo | message_1.json |
+| 20:15:46 | MichaÅ Wiencek | To musialem od razu pielegniarke wzywac zeby mi przeciwbolowy dala | message_1.json |
+| 20:15:50 | MichaÅ Wiencek | Taki bol gl | message_1.json |
+| 20:15:53 | MichaÅ Wiencek | :( | message_1.json |

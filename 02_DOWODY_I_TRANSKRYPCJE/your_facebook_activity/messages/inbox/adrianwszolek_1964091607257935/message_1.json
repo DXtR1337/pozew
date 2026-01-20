@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Adrian Wszo\u00c5\u0082ek"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684587758507,
+      "content": "Mi\u00c5\u0082ego i powodzenia w szukaniu!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Adrian Wszo\u00c5\u0082ek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adrian Wszo\u00c5\u0082ek",
+      "timestamp_ms": 1684587735169,
+      "content": "trzymaj sie milego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adrian Wszo\u00c5\u0082ek",
+      "timestamp_ms": 1684587735113,
+      "content": "dzieki za infi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adrian Wszo\u00c5\u0082ek",
+      "timestamp_ms": 1684587735099,
+      "content": "kurde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684587697137,
+      "content": "Mo\u00c5\u00bcecie teraz dzwoni\u00c4\u0087 do siebie i wysy\u00c5\u0082a\u00c4\u0087 wiadomo\u00c5\u009bci oraz wy\u00c5\u009bwietla\u00c4\u0087 dane, takie jak status aktywno\u00c5\u009bci oraz informacje o przeczytaniu wiadomo\u00c5\u009bci.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1684587696854,
+      "content": "Ju\u00c5\u00bc sprzedany",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adrian Wszo\u00c5\u0082ek",
+      "timestamp_ms": 1684587104465,
+      "content": "aktualny bilet?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adrian Wszo\u00c5\u0082ek",
+      "timestamp_ms": 1684587100133,
+      "content": "siema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adrian Wszo\u00c5\u0082ek",
+  "is_still_participant": true,
+  "thread_path": "inbox/adrianwszolek_1964091607257935",
+  "magic_words": [
+    
+  ]
+}

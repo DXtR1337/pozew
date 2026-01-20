@@ -1,0 +1,127 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-12
+# Liczba: 122
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 16:17:30 | Madzia Szczypka | A minÄliÅmy sie | message_1.json |
+| 16:16:40 | Julita Bouffette | A co zrobili | message_1.json |
+| 16:16:34 | Julita Bouffette | MogliÅmy iÅÄ na to z jachem | message_1.json |
+| 16:17:37 | Madzia Szczypka | No ja ide drzec morde | message_1.json |
+| 16:18:10 | Madzia Szczypka | Moze kupicie bilety jeszcze! | message_1.json |
+| 16:18:06 | Julita Bouffette | Nie jest zleeee, ja jestem winna | message_1.json |
+| 16:17:45 | Madzia Szczypka | KIEDY POWIEM SOBIE DOOOOOSC | message_1.json |
+| 16:16:27 | Julita Bouffette | Kurwa kocham ChyliÅska | message_1.json |
+| 16:15:31 | Madzia Szczypka | PO KEBABA | message_1.json |
+| 16:15:29 | Madzia Szczypka | WY SWIRUSY | message_1.json |
+| 16:14:22 | Radek Salwach | @Madzia Szczypka gdzie idziesz | message_1.json |
+| 16:15:41 | Madzia Szczypka | Sobie i fejdychowi | message_1.json |
+| 16:16:12 | Madzia Szczypka | ChyliÅskiej | message_1.json |
+| 16:16:05 | Madzia Szczypka | Okiego | message_1.json |
+| 16:15:49 | Madzia Szczypka | Bo idziemy zaraz na koncert | message_1.json |
+| 16:19:09 | Madzia Szczypka | Przedwczoraj na ueku byÅo silent disco | message_1.json |
+| 16:19:06 | Julita Bouffette | To chodÅºmy razem wtedy | message_1.json |
+| 16:19:05 | MichaÅ Wiencek | Ale no | message_1.json |
+| 16:19:11 | MichaÅ Wiencek | Bede chuba bilet sprzedawaÅ XD | message_1.json |
+| 16:19:28 | Julita Bouffette | No wÅaÅnie i Madagaskar leciaÅ | message_1.json |
+| 16:19:19 | Madzia Szczypka | I w sluchawkach odpierdalali | message_1.json |
+| 16:19:17 | Julita Bouffette | Kurwa gdzie ten kukon | message_1.json |
+| 16:19:04 | MichaÅ Wiencek | Ja na kukona mialem isc 20 | message_1.json |
+| 16:18:27 | Madzia Szczypka | To mowcie | message_1.json |
+| 16:18:26 | Madzia Szczypka | Ej jak bedziecie szli na jakies juwe wydarzenia | message_1.json |
+| 16:18:14 | Madzia Szczypka | O 20:20 jest | message_1.json |
+| 16:18:36 | Madzia Szczypka | Bo ja nie wszystkie zdÄÅ¼am wyÅapaÄ | message_1.json |
+| 16:18:54 | Madzia Szczypka | No na to bilety chce kupic | message_1.json |
+| 16:18:52 | Julita Bouffette | No wÅaÅnie nie wiem co siÄ jeszcze bÄdzie dziaÅo | message_1.json |
+| 16:18:43 | Julita Bouffette | Za tydzieÅ na tych braci figo | message_1.json |
+| 14:47:41 | MichaÅ Wiencek | Typowo xd | message_1.json |
+| 07:24:48 | Ania Michno | Uwaga uwaga, chwila atencji dla Naszego OU! Reagujcie i komentujecie w kogo nie ma to siÄ dodajcie ... | message_1.json |
+| 16:47:11 | Joanna Pietrzyk | dobra, dziaÅa, chyba wpisaÅam maÅe a, sorry za zamieszanie ð | message_1.json |
+| 16:45:19 | Joanna Pietrzyk | tak :- | message_1.json |
+| 10:54:05 | Ola CioÅek | Kochani czy ktoÅ robiÅ ankietÄ do pracy i mi pomoÅ¼e? bo ja jestem technicznÄ amebÄ niestety ha... | message_1.json |
+| 13:21:43 | Magda Waga | [Photo: 1] | message_1.json |
+| 13:21:40 | Magda Waga | z przyjemnoÅciÄ przekazujÄ, Å¼e oficjalnie nawiÄzaliÅmy wspÃ³ÅpracÄ z Klubem Pod Jaszczuramið... | message_1.json |
+| 11:49:16 | Angelika Chomicka | Napisz do mnie na priv ð | message_1.json |
+| 16:38:45 | Martyna Gancarczyk | A wpisalas to co jest nazwÄ grupy? | message_1.json |
+| 13:28:45 | Paulina Smuczek | MoÅ¼e zrÃ³bmy tak Å¼e zareagujemy na terminy ktÃ³re nam lepiej pasujÄ | message_1.json |
+| 13:26:09 | MaÅgosia Pieczonka | Hejj, przepraszam Å¼e przez taki dÅugi czas siÄ nie odzywaÅam z zwiÄzku z tym projektem. MiaÅam... | message_1.json |
+| 17:19:18 | Karolina Michalec | Karolina Michalec dodaÅa Wojciecha Wojciechowskiego do grupy. | message_1.json |
+| 13:28:53 | Paulina Smuczek | 22 maja o 14 | message_1.json |
+| 16:38:44 | Nadia Materek | jest takie jak w nazwie grupy | message_1.json |
+| 16:37:55 | Joanna Pietrzyk | zmieniaÅ ktoÅ hasÅo do maila grupowego? | message_1.json |
+| 13:29:03 | Paulina Smuczek | 26 maja o 18 | message_1.json |
+| 11:59:46 | Radek Salwach | Przejebane stary, chyba nigdy Cie nie wypuszcza stamtÄd juÅ¼ | message_1.json |
+| 06:59:42 | MichaÅ Wiencek | Tydzien zamkniÄty w malym pokoiku bez moÅ¼liwoÅci wyjÅcia xd | message_1.json |
+| 06:58:55 | MichaÅ Wiencek | A miaÅem wyjÅÄ koko weekendu jakoÅ xd | message_1.json |
+| 11:59:47 | Radek Salwach | ;/ | message_1.json |
+| 13:22:49 | Radek Salwach | XD | message_1.json |
+| 13:22:46 | Radek Salwach | @MichaÅ Wiencek | message_1.json |
+| 13:22:44 | Radek Salwach | [Photo: 1] | message_1.json |
+| 06:58:42 | MichaÅ Wiencek | Przez ta bakterie obsrana | message_1.json |
+| 14:06:39 | Damian Piotr Cokot | O nie | message_1.json |
+| 14:06:25 | Sebastian Kutaj | zrobiÅ juÅ¼ ktoÅ zadanie z matematyki??? | message_1.json |
+| 19:41:38 | Dominik Lech | W ostatnim czasie pojawiÅ siÄ problem z funkcjonowaniem Centrum Seniora na ul. OlszaÅskiej 5 w Kr... | message_1.json |
+| 14:06:41 | Anja Bulanda | DziÄki za przypomnienie xDDD | message_1.json |
+| 06:58:35 | MichaÅ Wiencek | Zajebiscie lekarz mi powiedziaÅ ze minimum tydzieÅ bÄdÄ tu jeszcze siedziaÅ | message_1.json |
+| 14:07:23 | Damian Piotr Cokot | To wiele wyjaÅnia teraz | message_1.json |
+| 14:07:12 | Damian Piotr Cokot | To z tego powodu nie mogÄ siÄ zrelaksowaÄ | message_1.json |
+| 21:31:52 | Madzia Szczypka | PrzygniotÅo mnie z 10 ludzi po pogo | message_1.json |
+| 21:31:39 | Radek Salwach | ð | message_1.json |
+| 21:31:37 | Radek Salwach | Bo na 99% zrobiÅaÅ coÅ pokroju Å¼e nie zauwaÅ¼yÅaÅ Åawki i siÄ wydupcyÅaÅ | message_1.json |
+| 21:31:59 | Madzia Szczypka | I nie moglam wyjsc bo wszyscy na moich nogach | message_1.json |
+| 21:32:15 | Madzia Szczypka | I Åzy do oczy napÅynÄÅy same | message_1.json |
+| 21:32:09 | Madzia Szczypka | I sÅyszaÅam tylko jak mi noga chrupnela | message_1.json |
+| 21:32:01 | Radek Salwach | To wspÃ³ÅczujÄ mega | message_1.json |
+| 21:31:23 | Radek Salwach | Ale pochwal siÄ co zrobiÅaÅ | message_1.json |
+| 21:22:11 | Madzia Szczypka | Zgadnijcie | message_1.json |
+| 17:54:01 | Madzia Szczypka | [Video: 1] | message_1.json |
+| 16:56:25 | MichaÅ Wiencek | Ze jeszcze mnie juwenalia cale omijajÄ CD | message_1.json |
+| 21:22:13 | Madzia Szczypka | Kto jest na sorze | message_1.json |
+| 21:29:19 | Radek Salwach | DuÅ¼o zdrÃ³wka od Matczaka, wspÃ³Åczujemy | message_1.json |
+| 21:22:32 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 21:22:15 | Madzia Szczypka | W Krakowie | message_1.json |
+| 21:33:26 | Madzia Szczypka | I do bolta | message_1.json |
+| 21:33:23 | Madzia Szczypka | Kacper mnie wtedy na barana | message_1.json |
+| 21:33:14 | Madzia Szczypka | Beka jak gips bede miec | message_1.json |
+| 21:33:49 | Radek Salwach | A na uczelni o kulach | message_1.json |
+| 21:53:58 | Stasiu Przygoda | Ta co na pogo chodzi i siÄ napierdala z innymi | message_1.json |
+| 21:34:06 | Madzia Szczypka | Oby nie byÅo jebanego gipsu | message_1.json |
+| 21:34:01 | Madzia Szczypka | Zwolnienie lekarskie myk | message_1.json |
+| 21:33:09 | Madzia Szczypka | No na Narutowicza jestesmy | message_1.json |
+| 21:32:42 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 21:32:27 | Radek Salwach | ;/// | message_1.json |
+| 21:32:21 | Madzia Szczypka | I musielismy wyjsc z koncertow | message_1.json |
+| 21:32:49 | Radek Salwach | Chujowo mega Madzia, szpital siÄ nam na tej grupie robi | message_1.json |
+| 21:33:00 | Madzia Szczypka | XDDD | message_1.json |
+| 21:32:58 | Madzia Szczypka | Normalna kostka vs ta | message_1.json |
+| 21:32:54 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 16:56:16 | MichaÅ Wiencek | Ja jebie ale mam bÃ³l dupy | message_1.json |
+| 16:21:58 | Julita Bouffette | Ile bilet | message_1.json |
+| 16:21:19 | Madzia Szczypka | Z babami od nas | message_1.json |
+| 16:21:04 | Madzia Szczypka | Emilka tez idzie podobno | message_1.json |
+| 16:23:55 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 16:24:41 | Madzia Szczypka | Na ueku | message_1.json |
+| 16:24:28 | Julita Bouffette | A gdzie Madziu macie ten koncert | message_1.json |
+| 16:24:00 | Madzia Szczypka | Kebab z Åososiem | message_1.json |
+| 16:20:56 | Madzia Szczypka | Ja ide jeszcze na kizo i tam tych | message_1.json |
+| 16:19:43 | Julita Bouffette | Co siÄ jeszcze bÄdzie dziaÄ | message_1.json |
+| 16:19:35 | Madzia Szczypka | To wczoraj | message_1.json |
+| 16:19:32 | MichaÅ Wiencek | Politechnika strefa | message_1.json |
+| 16:19:46 | Madzia Szczypka | No musimy poobczajac i pochodzic | message_1.json |
+| 16:20:09 | Julita Bouffette | Ja np nastÄpny weekend raczej wgl nie idÄ do pracy, | message_1.json |
+| 16:20:04 | Madzia Szczypka | Ja zawsze przegapie jakiss | message_1.json |
+| 16:19:57 | Madzia Szczypka | Najgorsze jest to ze nie wszystkie sie da obczaic | message_1.json |
+| 16:48:23 | Madzia Szczypka | Pierdol kukona | message_1.json |
+| 16:48:19 | Madzia Szczypka | Julita | message_1.json |
+| 16:48:13 | Madzia Szczypka | patusiara wysÅaÅa zaÅÄcznik. | message_1.json |
+| 16:48:26 | Madzia Szczypka | Cho na lady punk | message_1.json |
+| 16:48:39 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 16:48:36 | Madzia Szczypka | I nocnego kochanka | message_1.json |
+| 16:48:32 | Madzia Szczypka | Myslowitz | message_1.json |
+| 16:35:44 | MichaÅ Wiencek | Okejj | message_1.json |
+| 16:25:23 | MichaÅ Wiencek | JakbyÅ chciala to moge ci swoj za 40 odprzedac | message_1.json |
+| 16:25:13 | Julita Bouffette | PodeÅlij linka | message_1.json |
+| 16:24:52 | MichaÅ Wiencek | Po 60 jest teraz | message_1.json |
+| 16:25:38 | Madzia Szczypka | Ale maÅo | message_1.json |
+| 16:33:42 | Julita Bouffette | Dam ci znaÄ | message_1.json |
+| 16:25:53 | MichaÅ Wiencek | https://www.kupbilecik.pl/imprezy/98747/krakow/juwenalia+krakowskie/?utm_source=link&utm_medium=f5ae... | message_1.json |
+| 16:25:46 | Madzia Szczypka | My za Okiego 70 dawaliÅmy | message_1.json |

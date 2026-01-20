@@ -1,0 +1,313 @@
+﻿# WIADOMOSCI Z DNIA: 2023-05-21
+# Liczba: 308
+
+| Godz | Nadawca | Tresc | Watek |
+|:-----|:--------|:------|:------|
+| 14:30:28 | Marcelina Francuz | Hejka! W Instytucie Psychologii UJ prowadzone sÄ badanie EEG i poszukiwane sÄ osoby chÄtne do wzi... | message_1.json |
+| 12:27:04 | Dominik Lech | 19.05 poniedziaÅek 11:20  Zapraszam serdecznie na spotkanie z cyklu 10 spotkaÅ 10 psychologÃ³w. Na... | message_1.json |
+| 18:38:25 | Kacper Drewniak | ady ogarnij sobie w tym pokoju swoim troche | message_1.json |
+| 18:38:20 | Kacper Drewniak | ty prezes | message_1.json |
+| 11:46:46 | Krzysztof Antoni AmbroÅ¼y Czekaj | 27.05, sobota, 9:30  Konferencja Seksuologiczna PTSF UJ CM (darmowa)  https://www.facebook.com/event... | message_1.json |
+| 16:35:10 | Emilka Kowalczyk | a trzeba bhc przez caÅy ten czas? | message_1.json |
+| 16:34:20 | Marek Rapta | Wybiera sie ktos dzis na miasteczko? | message_1.json |
+| 16:35:18 | Emilka Kowalczyk | czy coÅ takiego | message_1.json |
+| 16:35:15 | Emilka Kowalczyk | czy wlansie moÅ¼na rano do poÅudnia? | message_1.json |
+| 18:47:25 | MichaÅ Wiencek | ? XD | message_1.json |
+| 18:48:10 | Kacper Drewniak | a ty w szpitalu teraz nie ? | message_1.json |
+| 18:48:10 | MichaÅ Wiencek | Bo mnie tam nie ma | message_1.json |
+| 18:48:14 | MichaÅ Wiencek | Ta | message_1.json |
+| 18:48:13 | MichaÅ Wiencek | Od 2 miesiecy prawie xX | message_1.json |
+| 18:48:07 | MichaÅ Wiencek | No pokÃ³j nieogarniety | message_1.json |
+| 18:47:34 | Kacper Drewniak | a odwiedzalem madzie | message_1.json |
+| 18:47:26 | MichaÅ Wiencek | Co jest | message_1.json |
+| 18:48:01 | MichaÅ Wiencek | Aaa no spoko | message_1.json |
+| 18:47:46 | Kacper Drewniak | i pokazali gdzie mieszkasz ale nie wchodziÅem | message_1.json |
+| 08:13:30 | Paulina WÃ³jcik | czyli nie byÅam jedyna... | message_1.json |
+| 08:10:07 | Aleksandra Cholak | ð¥² | message_1.json |
+| 10:26:45 | Edyta Bobak | Hejkaa,kilka dni temu samorzÄd wpadÅ do Nas z propozycjÄ spotkania siÄ na wspÃ³lnym evencie.W ty... | message_1.json |
+| 09:39:07 | Gosia Mizera | Mam pytanie do Was  Jest tutaj ktoÅ kto natknÄÅ siÄ kiedyÅ i miaÅ stycznoÅÄ ze stopniami zag... | message_1.json |
+| 08:10:00 | Aleksandra Cholak | PrzysiÄgam Å¼e caÅy czas czytam sÅowo "filutek" Åºle i zachodze w gÅowÄ czemu piszecie tu o gen... | message_1.json |
+| 16:32:12 | Marika Korpikiewicz | oki | message_1.json |
+| 16:29:52 | Wiktoria MiÅaszewska | Chyba nie | message_1.json |
+| 20:21:56 | Magda Staszel | Brat moje przyjaciÃ³Åki robi badanie do pracy magisterskiej. JakbyÅcie uzupeÅnili byÅabym wdziÄ... | message_1.json |
+| 20:21:17 | Magda Staszel | https://forms.gle/xmrbi7iTqaHFhUSc8 | message_1.json |
+| 10:28:16 | Edyta Bobak | Wiadomo, kaÅ¼dy ma swoje zajÄcia wiÄc nie spÄdzimy tam caÅego dnia ale to wasza jedna z nieliczn... | message_1.json |
+| 16:06:06 | PaweÅ Piotrowski | przepraszam 8-18 | message_1.json |
+| 16:05:13 | PaweÅ Piotrowski | GdzieÅ od 8 i pÃ³Åºniej caÅy dzieÅ do wieczora, ale szczegÃ³lnie pomoc potrzebna jest rano tak pe... | message_1.json |
+| 16:07:17 | Karolina ZarÄbska | Karolina Grzesiak mi napisaÅa Å¼e mamy byÄ wczeÅniej Å¼eby nas przeszkolili | message_1.json |
+| 16:06:40 | Karolina ZarÄbska | 7.30-18 | message_1.json |
+| 16:00:05 | Angelika Åuczyk | A w jakich godzinach? | message_1.json |
+| 15:24:51 | Karolina ZarÄbska | Ja jestem chÄtna wstÄpnie | message_1.json |
+| 15:22:10 | PaweÅ Piotrowski | Moi drodzy, jedna konferencja za nami, a tu juÅ¼ szukajÄ ludzi do kolejnej!  Generalnie nasza krajo... | message_1.json |
+| 15:28:52 | Marek Rapta | Niestety poniedziaÅek ani wtorek mi nie odpowiada | message_1.json |
+| 15:27:52 | PaweÅ Piotrowski | @PaweÅ BiaÅy @Marek Rapta @BarÅomiej Greiner a wy moÅ¼e? :D | message_1.json |
+| 18:48:23 | Kacper Drewniak | i co jakie przewidywania ? | message_1.json |
+| 18:57:01 | Kacper Drewniak | o kurde co ty gadasz | message_1.json |
+| 18:56:59 | MichaÅ Wiencek | Bo mi sie zwiÄkszyÅ tylko stan zapalny w jelitach | message_1.json |
+| 18:57:14 | MichaÅ Wiencek | I lipa | message_1.json |
+| 18:57:12 | MichaÅ Wiencek | I pÃ³Åºniej sie zakazenie od tego zrobilo | message_1.json |
+| 18:56:52 | MichaÅ Wiencek | Te ropnie od zÅego leczenia sie zrobily na samym poczatku jak byÅem | message_1.json |
+| 18:56:27 | Kacper Drewniak | ajaj | message_1.json |
+| 18:56:22 | MichaÅ Wiencek | Jak to mnie wzielo akurat | message_1.json |
+| 18:56:39 | Kacper Drewniak | kiedy wyÅazisz ? | message_1.json |
+| 18:56:29 | Kacper Drewniak | chujwoizna | message_1.json |
+| 18:57:25 | Kacper Drewniak | kurwa chujowo | message_1.json |
+| 18:58:11 | Kacper Drewniak | no dÅugo | message_1.json |
+| 18:57:58 | MichaÅ Wiencek | Noo juz pierdolca dostaje | message_1.json |
+| 18:58:15 | Kacper Drewniak | chyba bym ocipiaÅ | message_1.json |
+| 18:58:12 | Kacper Drewniak | 2 miesiÄce | message_1.json |
+| 18:57:46 | MichaÅ Wiencek | Jak nie bedzie komplikacji juz zadnych | message_1.json |
+| 18:57:39 | MichaÅ Wiencek | W tym tygodniu | message_1.json |
+| 18:57:32 | MichaÅ Wiencek | Mam wrazenie ze jakbym w ogole do tego szpitala za 1 razem nie pojechaÅ to by byÅo kilka dni i po ... | message_1.json |
+| 18:57:46 | Kacper Drewniak | ee to spoko | message_1.json |
+| 18:57:40 | MichaÅ Wiencek | Jakos | message_1.json |
+| 18:49:00 | Kacper Drewniak | a co ci dokaldnie jest ? | message_1.json |
+| 18:49:00 | MichaÅ Wiencek | Nie polecam wojewÃ³dzkiego XDDD | message_1.json |
+| 18:50:10 | MichaÅ Wiencek | No i tydzien pÃ³Åºniej trafiÅem na chirurgie z ropniem w brzuchu xD | message_1.json |
+| 18:49:54 | MichaÅ Wiencek | Najpierw zaostrzenie crohna mialem, no standard nie ale po 2 latach przerwy to wolaÅem isc sie zbad... | message_1.json |
+| 18:48:57 | Kacper Drewniak | chujowizna | message_1.json |
+| 18:48:42 | MichaÅ Wiencek | Ogolnie to jakby szpital nie zjebal mi zdrowia kilka razy tutaj | message_1.json |
+| 18:48:32 | MichaÅ Wiencek | Wychodze do kilku dni max | message_1.json |
+| 18:48:55 | Kacper Drewniak | ajajjj | message_1.json |
+| 18:48:49 | MichaÅ Wiencek | To bym wyszedl po tygodniu pewnie | message_1.json |
+| 18:51:05 | MichaÅ Wiencek | I pÃ³Åºniej przez10 dni tu byÅem z rura w brzuchu i mi go saczyli, ale zle leki na rane mi dali ona... | message_1.json |
+| 18:54:19 | Kacper Drewniak | to od czego to masz chujowe jedzenie ? | message_1.json |
+| 18:54:12 | Kacper Drewniak | kurwa ropnie aÅa | message_1.json |
+| 18:56:17 | MichaÅ Wiencek | Bo u starych bylem | message_1.json |
+| 18:56:13 | MichaÅ Wiencek | Bielskim | message_1.json |
+| 18:54:09 | Kacper Drewniak | czy krakowskim | message_1.json |
+| 18:52:04 | MichaÅ Wiencek | Ale juz powinno byc git jak znowu cos sie nie odjebie XD | message_1.json |
+| 18:51:52 | MichaÅ Wiencek | I tersz prawie miesiac tu siedze bo znowu ropnia mialem i na dobitke jeszcze sie zakazilem jakas bak... | message_1.json |
+| 18:54:07 | Kacper Drewniak | a to w wojewodzkim bielskim lezysz ? | message_1.json |
+| 18:53:04 | MichaÅ Wiencek | Ale ten wojewodzki to zamknac powinni | message_1.json |
+| 15:00:02 | Katarzyna Huk | Bo on mÃ³wi ze ustaliÅ z reszta grup ze 24 mamy zerowy | message_1.json |
+| 14:59:42 | Katarzyna Huk | A nie 24.06 zerowy i 1 lipca pierwszy termin  Bo to bÄdzie egzmian z mÃ³zgowych | message_1.json |
+| 15:00:06 | Katarzyna Huk | Xd | message_1.json |
+| 15:00:05 | Martyna Gancarczyk | ZrÃ³bmy 11.06 zerowy a 24.06 pierwszy termin | message_1.json |
+| 14:59:28 | Katarzyna Huk | Czy inne grupy chciaÅyby przyjechaÄ szybciej np 11.06 (tak jak byÅo ustalone) na kolosa z logiki | message_1.json |
+| 13:23:45 | Magda Motal | I rozwiÄzaÅ do niego | message_1.json |
+| 13:23:42 | Magda Motal | I wymyÅlenie problemu | message_1.json |
+| 14:41:37 | Gabriela Åapuszek | Czy ktoÅ tez nadal nie dostaÅ artykuÅu z mÃ³zgowych? | message_1.json |
+| 13:23:53 | Kamil Kusibab | WyÅmienicie | message_1.json |
+| 15:00:25 | Martyna Gancarczyk | PrzecieÅ¼ to chujowe roxwiazanie | message_1.json |
+| 15:01:45 | Martyna Gancarczyk | Nie dawajmy sobie wszystkiego na ostatmie 2 tygodnie | message_1.json |
+| 15:01:37 | Martyna Gancarczyk | No i fainie | message_1.json |
+| 15:08:49 | Katarzyna Huk | . Czy wiÄkszoÅÄ siÄ zgadza??? | message_1.json |
+| 15:01:56 | Martyna Gancarczyk | Lepiej to miec z gÅowy ludzie | message_1.json |
+| 15:01:07 | Anna PÅatek | Super | message_1.json |
+| 15:00:35 | Anna PÅatek | Ja siÄ chwile spÃ³ÅºniÅam i nie sÅyszaÅam. Tego 11.06 byÅmy mieli przyjechaÄ stacjonarnie tak? | message_1.json |
+| 15:00:33 | Martyna Gancarczyk | BÄdzie za duzo w jddnym terminie | message_1.json |
+| 15:00:44 | Martyna Gancarczyk | Ale to zerÃ³wka | message_1.json |
+| 15:00:41 | Martyna Gancarczyk | tak | message_1.json |
+| 09:29:37 | Nadia Materek | MiaÅ ktoÅ z was nieobecnoÅÄ na logice? | message_1.json |
+| 07:10:23 | Magda Motal | L4 ma w niedzielÄ 8-11:15 | message_1.json |
+| 09:29:59 | Nadia Materek | I musiaÅaÅ odrabiaÄ? | message_1.json |
+| 09:29:48 | Edyta Lemiech | ja | message_1.json |
+| 07:09:36 | Magda Motal | Na teamsie | message_1.json |
+| 06:48:06 | Katarzyna Huk | L2 8-11:15 | message_1.json |
+| 06:47:22 | Joanna Joanna | hej , w przyszla sob egzamin ze statystyki ma byc o 18:30? GL03 ma do 18:15 cwiczenia ze statystyki.... | message_1.json |
+| 07:09:32 | Magda Motal | MÃ³wiÅa Å¼e wyÅle nam nagrany | message_1.json |
+| 06:56:31 | Oliwia WÅodarczyk | ej a my przekÅadaliÅmy wykÅad z emocji 27? | message_1.json |
+| 09:30:00 | Edyta Lemiech | mÃ³wiÅ Å¼e mieÄ jednÄ | message_1.json |
+| 13:23:26 | Magda Motal | Nie | message_1.json |
+| 13:23:19 | Kamil Kusibab | A jest dziÅ wejÅciÃ³wka? | message_1.json |
+| 13:23:37 | Magda Motal | RozwiÄzywanie jakichÅ zagadek XD | message_1.json |
+| 13:23:32 | Magda Motal | Tylko praca w grupach | message_1.json |
+| 13:22:46 | Katarzyna Huk | Kolos z ÄwiczeÅ z poznawczej powiedziaÅa nam Å¼e zdalnie | message_1.json |
+| 09:30:14 | Edyta Lemiech | na samym poczÄtku | message_1.json |
+| 09:30:08 | Edyta Lemiech | mÃ³wiÅ Å¼e moÅ¼na mieÄ jednÄ* | message_1.json |
+| 09:30:23 | Nadia Materek | Jasne, dziÄki wielkie | message_1.json |
+| 09:30:21 | Edyta Lemiech | wiÄc nawet nie pytaÅam | message_1.json |
+| 15:12:42 | Magda Motal | Problem jest taki Å¼e GK3 ma przed logikÄ jeszcze mÃ³zgowe zdalnie | message_1.json |
+| 15:37:22 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
+| 15:36:51 | Martyna Gancarczyk | czyli k1 ma 17.06 | message_1.json |
+| 15:39:15 | Martyna Gancarczyk | nie wiem, nie rozmawiaÅam z niÄ o tym xd Natomiast Czernecka powiedziaÅa, Å¼e moÅ¼e siÄ odbyÄ k... | message_1.json |
+| 15:38:40 | Magda Staszel | I teÅ¼ stacjonarnie? | message_1.json |
+| 15:36:38 | Martyna Gancarczyk | na ostatnich | message_1.json |
+| 15:23:35 | Martyna Gancarczyk | WiÄc serio lepiej to mieÄ szybko z gÅowy, szczegÃ³lnie, Å¼e 11.06 to tylko zerÃ³wka i nie mamy ni... | message_1.json |
+| 15:23:01 | Martyna Gancarczyk | On siÄ z nami mocno kÅÃ³ciÅ bo on nie chce za nic zdalnego kolosa | message_1.json |
+| 15:28:45 | Magda Motal | Ona coÅ mÃ³wiÅa Å¼e na przedostatnich zajÄciach bÄdzie kolos | message_1.json |
+| 15:28:34 | Magda Motal | A mÃ³zgowe? | message_1.json |
+| 16:22:28 | Magda Staszel | A jakbyÅmy jeszcze raz napisali do rektora z proÅbÄ o zdalna sesje? PatrzÄc na to Å¼e jak zajÄc... | message_1.json |
+| 16:25:11 | Martyna Gancarczyk | moÅ¼e zamiast robiÄ sobie wciÄÅ¼ nadziejÄ to lepiej zacznijcie siÄ uczyÄ do tych egzaminÃ³w | message_1.json |
+| 16:24:37 | Ewelina Haraf | O tym wÅaÅnie pisalam | message_1.json |
+| 16:27:23 | Marika Korpikiewicz | jak juz o sesji; mamy jeszcze jakies zerÃ³wki poza logikÄ? | message_1.json |
+| 16:25:19 | Martyna Gancarczyk | jak bÄdzie zdalna sesja to na prwno nam powiedzÄ | message_1.json |
+| 16:24:36 | Martyna Gancarczyk | ale goÅÄ z logiki i tak zrobi to stacjonarnie, niewaÅ¼ne kiedy to bÄdzie | message_1.json |
+| 16:23:46 | Ewelina Haraf | W sensie ze ten argument moze byc slaby ;p | message_1.json |
+| 16:23:22 | Ewelina Haraf | Potem egzaminy juz nie sa wtedy co zajecia. Z logiki to z kolei zaliczenie tak formalnie | message_1.json |
+| 16:24:20 | MaÅgorzata Gajewska | Nie mamy argumentÃ³w po prostu | message_1.json |
+| 16:23:59 | MaÅgorzata Gajewska | Nie ma podstaw aby prosiÄ o zdalnÄ sesje, zniesiono juÅ¼ stan epidemii a igrzyska koÅczÄ siÄ z ... | message_1.json |
+| 15:13:19 | Edyta Lemiech | a rozwaÅ¼amy opcjÄ zdalnego kolokwium z logiki? | message_1.json |
+| 15:13:15 | Sylwia HoÅda | Ale my dzisiaj na poznawczej jechaliÅmy na logikÄ | message_1.json |
+| 15:13:23 | Katarzyna Huk | Jeszcze dzieÅ przed poznawcza | message_1.json |
+| 15:13:23 | Sylwia HoÅda | A na mÃ³zgowych tylko wykÅad robi | message_1.json |
+| 15:13:14 | Katarzyna Huk | Ale wolimy jechaÄ na nich nawet byle nie pisaÄ w sesji tej logiki xd | message_1.json |
+| 15:12:49 | Sylwia HoÅda | K1 | message_1.json |
+| 15:12:47 | Sylwia HoÅda | My teÅ¼ | message_1.json |
+| 15:13:06 | Magda Motal | W sensie, godzinowo | message_1.json |
+| 15:13:00 | Magda Motal | WiÄc jeÅli by siÄ daÅo to przesunÄÄ na przykÅad to byÅoby ideolo | message_1.json |
+| 15:13:26 | Ewelina Haraf | Nie | message_1.json |
+| 15:15:18 | Edyta Lemiech | dziÄki za odpowiedÅº dziewczyny! | message_1.json |
+| 15:15:04 | Edyta Lemiech | jeszcze tak off top, czy udaÅo nam siÄ ogarnÄÄ to pismo od rektora w sprawie zdalnych zajÄÄ w ... | message_1.json |
+| 15:22:46 | Katarzyna Huk | Ale ofc nie ma chyba nic | message_1.json |
+| 15:22:37 | Katarzyna Huk | Nie  Ale on juÅ¼ Np nam mÃ³wiÅ ze 02.06 mamy zdalnie zajÄcia itd   I fudali tez wiec chyba przyjel... | message_1.json |
+| 15:15:02 | Magda Motal | Nakazu** XD | message_1.json |
+| 15:14:17 | Magda Motal | Bo potrzebuje na to zgody z gÃ³ry | message_1.json |
+| 15:14:10 | Magda Motal | On siÄ nie zgodzi | message_1.json |
+| 15:14:45 | Wiktoria MiÅaszewska | JuÅ¼ nam to powiedziaÅ | message_1.json |
+| 15:14:40 | Wiktoria MiÅaszewska | Nie zrobi zdalnie kolosa | message_1.json |
+| 13:17:17 | Julita Bouffette | Ok grandpa | message_1.json |
+| 13:09:36 | Stasiu Przygoda | masz byc na 20 i ani minuty spozneinia | message_1.json |
+| 13:20:41 | Radek Salwach | ale mamy Angielski i MatmÄ | message_1.json |
+| 13:20:31 | Madzia Szczypka | 22 maj nie ma nic w planie ð | message_1.json |
+| 13:09:30 | Stasiu Przygoda | nie | message_1.json |
+| 12:51:04 | Stasiu Przygoda | noooo spoko | message_1.json |
+| 12:50:49 | Radek Salwach | peeewnie | message_1.json |
+| 13:07:36 | Julita Bouffette | To napiszÄ | message_1.json |
+| 13:07:32 | Julita Bouffette | Jakby siÄ coÅ przedÅuÅ¼yÅo z transportem, bo wracamy autem z kasiny | message_1.json |
+| 13:20:49 | Radek Salwach | he he ;DDD | message_1.json |
+| 13:22:38 | Madzia Szczypka | @Radek Salwach | message_1.json |
+| 13:22:05 | MichaÅ Wiencek | ð¥³ | message_1.json |
+| 13:22:49 | Madzia Szczypka | A ten zgrzyt to co to jest | message_1.json |
+| 13:22:44 | Madzia Szczypka | [Photo: 1] | message_1.json |
+| 13:21:59 | MichaÅ Wiencek | Wystarczy | message_1.json |
+| 13:21:30 | MichaÅ Wiencek | Czyli w sumie nic nie ma | message_1.json |
+| 13:21:16 | Madzia Szczypka | Ty to umiesz w monecie sprowadzic na ziemie, jak stary | message_1.json |
+| 13:21:51 | Madzia Szczypka | Czyli tylko ty | message_1.json |
+| 13:21:44 | MichaÅ Wiencek | Dla tych co angielskiego nie maja | message_1.json |
+| 12:47:39 | Stasiu Przygoda | poprosi sie krauza zeby | message_1.json |
+| 12:47:34 | Stasiu Przygoda | mi zostanie jedno do zaliczenia | message_1.json |
+| 12:47:44 | Stasiu Przygoda | i tyle | message_1.json |
+| 12:47:43 | Stasiu Przygoda | jakas prezke zrobic zamiast | message_1.json |
+| 12:47:33 | MichaÅ Wiencek | ciekawe jak to ogarne XD | message_1.json |
+| 12:47:16 | Radek Salwach | wtorek 17:00 idziesz z nami | message_1.json |
+| 12:47:09 | Madzia Szczypka | wy juz macie pozaliczane? | message_1.json |
+| 12:47:20 | MichaÅ Wiencek | ja mam 3 do zaliczenia xd | message_1.json |
+| 12:47:19 | Radek Salwach | odrabiaÄ u Pacholca | message_1.json |
+| 12:47:45 | Madzia Szczypka | hmm | message_1.json |
+| 12:50:21 | Madzia Szczypka | o niech mi siura pucujÄ | message_1.json |
+| 12:50:11 | Madzia Szczypka | +pokaze im zaswiadczenie o kostce | message_1.json |
+| 12:50:38 | Julita Bouffette | @Stasiu Przygoda @Radek Salwach pasuje ta 20okolo? ZbiÃ³rka pod jubilatem? | message_1.json |
+| 12:50:24 | Madzia Szczypka | i* | message_1.json |
+| 12:49:47 | Madzia Szczypka | to jest plan | message_1.json |
+| 12:48:01 | Madzia Szczypka | ale mamy warsztaty pracy | message_1.json |
+| 12:47:50 | Stasiu Przygoda | niech sie pierdoli | message_1.json |
+| 12:49:30 | Madzia Szczypka | pojde we wtorek na joge o 11:00 i w czwartek na wf i w piatek na joge | message_1.json |
+| 12:48:08 | Madzia Szczypka | so dupsko bo moja prace omawia | message_1.json |
+| 13:22:58 | Julita Bouffette | No wÅaÅnie | message_1.json |
+| 18:18:28 | Stasiu Przygoda | Ja zaraz bÄdÄ | message_1.json |
+| 18:13:31 | Radek Salwach | Ok | message_1.json |
+| 18:18:57 | Julita Bouffette | Lol | message_1.json |
+| 18:18:49 | Stasiu Przygoda | JadÄ w autobusie z jakaÅ laska ktÃ³ra ma elfie uszy i koszulke z naruto | message_1.json |
+| 18:13:28 | Julita Bouffette | Jeszcze 15min | message_1.json |
+| 18:12:00 | Radek Salwach | Gdzie jesteÅcie | message_1.json |
+| 16:33:18 | Julita Bouffette | Okii | message_1.json |
+| 18:13:23 | Julita Bouffette | StÃ³j przy jubilacie | message_1.json |
+| 18:12:12 | Radek Salwach | Ja juÅ¼ na Wawelu was szukam | message_1.json |
+| 18:19:01 | Radek Salwach | Bo Maginificon byÅ chyba dzisiaj | message_1.json |
+| 18:24:38 | Julita Bouffette | ChwilkÄ po 30 | message_1.json |
+| 18:24:35 | Julita Bouffette | Ja bÄdÄ zaraz ogÃ³lnie | message_1.json |
+| 18:30:03 | Julita Bouffette | Oki | message_1.json |
+| 18:28:25 | Stasiu Przygoda | [Photo: 1] | message_1.json |
+| 18:23:51 | Stasiu Przygoda | Gdzie mam staÄ pod jubilatem | message_1.json |
+| 18:20:02 | Stasiu Przygoda | Ou | message_1.json |
+| 18:19:06 | Radek Salwach | Czy jakoÅ trn siÄ to nazywaÅo | message_1.json |
+| 18:20:30 | Stasiu Przygoda | Dlaczego oni wyszli z domu | message_1.json |
+| 18:20:11 | Stasiu Przygoda | To duÅ¼o wyjaÅnia w takim wypadku | message_1.json |
+| 13:31:40 | Radek Salwach | bedzie na 9:45 Sarosiek | message_1.json |
+| 13:31:14 | Stasiu Przygoda | gadalismy z sarosiek i chyba bedzie na 9 | message_1.json |
+| 13:32:17 | Madzia Szczypka | I czy moge zamiast na pierwsze zajecia isc odrobic joge | message_1.json |
+| 13:32:09 | Madzia Szczypka | Ciekawe jaki jest ten typ | message_1.json |
+| 13:30:32 | Julita Bouffette | No a co z tym | message_1.json |
+| 13:23:34 | Radek Salwach | ktoÅ musi mÃ³wiÄ prawdÄ | message_1.json |
+| 13:23:11 | Radek Salwach | Angielski nie jest nigdy wpisany a na Matmie mÃ³wiÅ ze jeszce 2 spotkania ma zapisane | message_1.json |
+| 13:30:07 | Madzia Szczypka | patusiara ustawiÅa nick uÅ¼ytkownika Radek Salwach jako Papi. | message_1.json |
+| 13:29:57 | Julita Bouffette | Jak to ma wyglÄdaÄ | message_1.json |
+| 13:32:53 | Madzia Szczypka | Chyba ze w srode do pacholca | message_1.json |
+| 13:35:51 | Madzia Szczypka | Zapytam sie Piotrka | message_1.json |
+| 13:35:43 | Madzia Szczypka | Chuj jednak pacholec jest tylko we wtorki | message_1.json |
+| 16:30:59 | Radek Salwach | Ja bÄdÄ dzieci tak 20/30 po na tym Jubilacie | message_1.json |
+| 15:01:40 | MichaÅ Wiencek | https://www.facebook.com/groups/msagh/permalink/2441078786052098/ | message_1.json |
+| 13:34:36 | Madzia Szczypka | To trzeba napisac do niego | message_1.json |
+| 13:33:50 | Stasiu Przygoda | ooooooo | message_1.json |
+| 13:33:36 | Madzia Szczypka | ten uniwersytet krakowski psuje mi taktykÄ | message_1.json |
+| 13:34:12 | Stasiu Przygoda | to pojde we wtorek i w srode | message_1.json |
+| 13:34:05 | Stasiu Przygoda | musze isc dwa razy odrobic wf | message_1.json |
+| 17:01:09 | Monika WiÅniewska | Na ostatnich jest kolos wiÄc konspekty chyba na przedostatnie | message_1.json |
+| 16:56:25 | PaweÅ TworzydÅo | Bo w sumie za tydzieÅ to nie sÄ nasze ostatnie Äwiczenia | message_1.json |
+| 17:11:42 | Monika WiÅniewska | Aa to w sumie teÅ¼ moÅ¼liwe XD | message_1.json |
+| 17:08:09 | Sylwia Å»uchowicz | A kolos nie jest na przedostatnich 04.06? | message_1.json |
+| 16:56:16 | PaweÅ TworzydÅo | SÅuchajcie, a te konspekty to nie bÄdÄ czasem na pÃ³Åºniejszych zajÄciach? | message_1.json |
+| 16:21:24 | Jasiek Wikar | Ja teÅ¼ sÅyszaÅem coÅ takiego | message_1.json |
+| 16:21:15 | Oliwia WÅodarczyk | bo moÅ¼e zle usÅyszaÅam | message_1.json |
+| 16:21:54 | Jasiek Wikar | Ale wolaÅbym siÄ przesÅyszeÄ ð¬ | message_1.json |
+| 16:21:47 | PaweÅ TworzydÅo | No to grubo, sporo mamy tego na przyszÅy tydzieÅ... | message_1.json |
+| 20:22:51 | Dorota Szczerba | Kolos na 100% jest 04.06 ale nie wiem czy to sÄ przed ostatnie zajÄcia | message_1.json |
+| 15:04:12 | Dorota Szczerba | ð¤¦ð½ââ | message_1.json |
+| 15:04:10 | Dorota Szczerba | I zaplanowaÅam, Å¼ycie po poznawczej | message_1.json |
+| 16:21:19 | Magda Staszel | ZapytaÄ na grupie czy nie moÅ¼na jeszcze raz poprosiÄ rektora o zdalne? | message_1.json |
+| 15:09:12 | Gabriela WÃ³jcikiewicz | Dobra to moÅ¼emy w tygodniu sie usÅyszeÄ | message_1.json |
+| 15:03:56 | Dorota Szczerba | Ej bo ja zapomniaÅam, Å¼e mieliÅmy dziÅ robiÄ ten projekt | message_1.json |
+| 23:28:31 | Paulina Pietras | Czy ktoÅ wie czemu na jutro nie mamy wpisanych Å¼adnych zajÄÄ? | message_1.json |
+| 20:33:14 | Oliwia Julia Serafin | Przedostatnie zajÄcia sÄ 04.06, a ostatnie 18.06 | message_1.json |
+| 23:30:56 | Justyna Sarota | Raczej nie. Hanuszkiewicz siÄ umawiaÅ z paroma osobami na jutro, wiÄc jeÅ¼eli on siÄ nie pomyliÅ... | message_1.json |
+| 23:28:48 | Paulina Pietras | Mamy wolne? | message_1.json |
+| 19:00:23 | Kacper Drewniak | dawja cynka jak wyjdziesz | message_1.json |
+| 19:00:21 | Kacper Drewniak | dobra WiecuÅ ja uciekam | message_1.json |
+| 19:02:52 | MichaÅ Wiencek | Spoko spoko | message_1.json |
+| 19:00:26 | Kacper Drewniak | zbijemy sie na piwo jakieÅ | message_1.json |
+| 18:58:55 | MichaÅ Wiencek | Jedyny plus ze nie musze sie uzerac z dziadami starymi w sali | message_1.json |
+| 18:58:26 | MichaÅ Wiencek | Jeszcze ostatnie 10 dni | message_1.json |
+| 18:58:22 | MichaÅ Wiencek | No ta XD | message_1.json |
+| 18:58:35 | MichaÅ Wiencek | To nawet siÄ do bufetu przejsc nie mgoe XDDDD | message_1.json |
+| 18:58:28 | MichaÅ Wiencek | W izolatce | message_1.json |
+| 19:03:01 | Kacper Drewniak | i wracaj do zdrowia szybko | message_1.json |
+| 16:20:11 | Monika WiÅniewska | Kojarzycie do kiedy mamy jej wysÅaÄ te konspekty? | message_1.json |
+| 19:03:24 | MichaÅ Wiencek | Oo no to git | message_1.json |
+| 16:21:08 | Oliwia WÅodarczyk | a ona teraz nie mÃ³wiÅa ze coÅ na nastepne zajÄcia? | message_1.json |
+| 16:20:34 | PaweÅ TworzydÅo | Nie, nawet nie pamiÄtamy jaki temat wybraliÅmy | message_1.json |
+| 19:03:16 | Kacper Drewniak | ale pewnie bede w krakowie to sie zÅapiemy | message_1.json |
+| 19:03:03 | MichaÅ Wiencek | Dopiero | message_1.json |
+| 19:03:01 | MichaÅ Wiencek | Ale no piwo to pewnie gdzies w wakacje | message_1.json |
+| 19:03:10 | Kacper Drewniak | to jak doÅ¼yje hahah | message_1.json |
+| 19:03:07 | MichaÅ Wiencek | DziÄki | message_1.json |
+| 16:24:27 | Magda Staszel | Czyli chujnia xd | message_1.json |
+| 12:45:44 | Julita Bouffette | No wÅaÅnie | message_1.json |
+| 12:45:26 | Stasiu Przygoda | tak sie przejsc i sie zrelaksowac przed rozpoczeciem kolejnego tygodnia | message_1.json |
+| 12:45:59 | Julita Bouffette | @Radek Salwach ? | message_1.json |
+| 12:45:45 | Julita Bouffette | Nad WiseÅke | message_1.json |
+| 12:45:06 | Stasiu Przygoda | no ja bym wyszedl wlasnie | message_1.json |
+| 12:42:54 | Madzia Szczypka | No wlasnie ja chyba nie ide bo ogarnelam ile do roboty bedzie i do pisania | message_1.json |
+| 12:42:33 | Julita Bouffette | Bo moÅ¼e z jaÅkiem wrÃ³cimy na wieczÃ³r | message_1.json |
+| 12:43:11 | Madzia Szczypka | Zeby ogarnac rzeczy na tydzien | message_1.json |
+| 12:43:06 | Madzia Szczypka | A i tak na wieczor juz chcialam byc | message_1.json |
+| 12:46:04 | Radek Salwach | ale wieczorem w sensie? | message_1.json |
+| 12:46:42 | Radek Salwach | dobra to spoko, fine by me | message_1.json |
+| 12:46:37 | Radek Salwach | bo teraz chillujÄ w lidze z ziomkiem i nie ma opcji zebym wychodziÅ pÃ³ki co | message_1.json |
+| 12:47:02 | Madzia Szczypka | kurwa to jeszcze wfy trzeba bedzie ogarnac | message_1.json |
+| 12:46:42 | Madzia Szczypka | od przyszlego tygodnia mamy zdalne nie? | message_1.json |
+| 12:46:37 | Julita Bouffette | KoÅo 20np | message_1.json |
+| 12:46:15 | Julita Bouffette | Ja ostatnio nie mam prawie czasu | message_1.json |
+| 12:46:08 | Julita Bouffette | Bo ogÃ³lnie dawno nie wyszliÅmy tak Basic | message_1.json |
+| 12:46:33 | Julita Bouffette | Tak | message_1.json |
+| 12:46:22 | Julita Bouffette | I ten tydzieÅ teÅ¼ bÄdzie speed | message_1.json |
+| 10:44:25 | Madzia Szczypka | Jak nie bedziemy biegac i skakaÄ to tak | message_1.json |
+| 10:43:54 | Stasiu Przygoda | A ty wgl moÅ¼esz siÄ ruszaÄ? | message_1.json |
+| 10:44:31 | Madzia Szczypka | Ale nie zapierdalam | message_1.json |
+| 10:44:28 | Madzia Szczypka | Juz chodze | message_1.json |
+| 10:43:40 | Madzia Szczypka | @Julita Bouffette @Stanley Adventure | message_1.json |
+| 09:00:58 | Madzia Szczypka | Nad wiseÅke albo gdzies usiasc na jakas kawke piwo | message_1.json |
+| 09:00:41 | Madzia Szczypka | Idziemy dzisiaj gdzies? | message_1.json |
+| 10:39:17 | MichaÅ Wiencek | ð£ | message_1.json |
+| 10:38:40 | Radek Salwach | Sounds good | message_1.json |
+| 10:44:38 | Stasiu Przygoda | Kurde akurat to chciaÅem Å¼ebyÅmy robili | message_1.json |
+| 12:26:35 | Julita Bouffette | JuÅ¼ zapierdalam skarbie | message_1.json |
+| 12:26:10 | Stasiu Przygoda | To wyjdÅº | message_1.json |
+| 12:42:23 | Julita Bouffette | Ej a o ktÃ³rej idziecie | message_1.json |
+| 12:33:28 | Stasiu Przygoda | Supcio | message_1.json |
+| 12:15:05 | Madzia Szczypka | [No text content] | message_1.json |
+| 10:46:27 | Madzia Szczypka | Oki | message_1.json |
+| 10:44:57 | Stasiu Przygoda | A tak serio to spoko ale muszÄ obiad ugotowaÄ najpierw | message_1.json |
+| 11:56:23 | Julita Bouffette | Ja dziÅ na komunii jestem mistiki | message_1.json |
+| 10:46:29 | Madzia Szczypka | Cool | message_1.json |

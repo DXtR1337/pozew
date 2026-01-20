@@ -1,0 +1,331 @@
+{
+  "participants": [
+    {
+      "name": "Justyna Sarota"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685042998576,
+      "content": "Chcia\u00c5\u0082abym si\u00c4\u0099 czu\u00c4\u0087 tym zaskoczona aleee",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685042967573,
+      "content": "Dzi\u00c4\u0099ki wielkie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685042962399,
+      "content": "Aktualny szpital to jest zart gdzie ordynator sam mowi ze nie wiedza co rovia XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00ab\u00a0",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685042947166,
+      "content": "Jak trafie pod odpowiednia opieke to b\u00c4\u0099dzie git",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685042938574,
+      "content": "Byle do przodu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685042930888,
+      "content": "Jest jak jest",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685042039500,
+      "content": "Nie wiem za bardzo co jeszcze powiedzie\u00c4\u0087 opr\u00c3\u00b3cz \u00c5\u00bcyczenia ci, by\u00c5\u009b wraca\u00c5\u0082 jak najszybciej do zdrowia. Jakie\u00c5\u009b poga\u00c5\u0084skie czary-mary w imi\u00c4\u0099 zdrowia zrobi\u00c4\u0099 czy co\u00c5\u009b w tym stylu, nie znam si\u00c4\u0099 na tym ale si\u00c4\u0099 poznam. No i jakby\u00c5\u009b czego\u00c5\u009b potrzebowa\u00c5\u0082 ode mnie to dawaj zna\u00c4\u0087, spr\u00c3\u00b3buj\u00c4\u0099 co\u00c5\u009b ogarn\u00c4\u0085\u00c4\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685041949615,
+      "content": "Damn...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685041948125,
+      "content": "No i mam nadziej\u00c4\u0099, \u00c5\u00bce nie b\u00c4\u0099dziesz mie\u00c4\u0087 z tym wi\u00c4\u0099cej \u00c5\u00bcadnych akcji ani powik\u00c5\u0082a\u00c5\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685041859908,
+      "content": "Ale nie no, szczerze to cholernie wsp\u00c3\u00b3\u00c5\u0082czuj\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685041766794,
+      "content": "Chocia\u00c5\u00bc to s\u00c5\u0082aby dob\u00c3\u00b3r s\u00c5\u0082\u00c3\u00b3w",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685041761767,
+      "content": "Kurwa g\u00c3\u00b3wno straszne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685041758483,
+      "content": "A\u00c5\u00bc sobie wyszuka\u00c5\u0082am co to wszystko jest by sobie lepiej zwizualizowa\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685041583405,
+      "content": "W sensie mam polaczone jelito z rana xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685041574690,
+      "content": "Tak w skrocie xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685041569249,
+      "content": "I leci mi gowno przez brzuch",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685041561884,
+      "content": "Mi sie przetoka zrobila",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685041555024,
+      "content": "A teraz w ranie po drenie po ostatnim ropniu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685041542189,
+      "content": "Mia\u00c5\u0082em 2 razy ropnia na jelicir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685036844951,
+      "content": "Co si\u00c4\u0099 dzieje, \u00c5\u00bce potrzebujesz *kolejnej* operacji? \u00f0\u009f\u0098\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685036803548,
+      "content": "I mean wiedzia\u00c5\u0082am tyle, \u00c5\u00bce jeste\u00c5\u009b w szpitalu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685036775336,
+      "content": "O chuuuj, to ja nie my\u00c5\u009bla\u00c5\u0082am, \u00c5\u00bce jest a\u00c5\u00bc tak powa\u00c5\u00bcnie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685028793529,
+      "content": "Bo na rszie tylko szukam innego szpitala i czekam na operacje kolejna XD",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685028770240,
+      "content": "Spokooo dzi\u00c4\u0099ki, oby sie uda\u00c5\u0082o wyzdrowiec do tego czasu XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685022656586,
+      "content": "To jak co\u00c5\u009b to 22, 23, 27, 28 mamy marzanne, a oko\u00c5\u0082o 14 b\u00c4\u0099dziemy mie\u00c4\u0087 ruterke, bo potrzebujemy j\u00c4\u0085 zaliczy\u00c4\u0087 przed ustnymi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685017586819,
+      "content": "No jeszcze by brakowa\u00c5\u0082o by\u00c5\u009b to robi\u00c5\u0082 z\u00c5\u0082o\u00c5\u009bliwie XDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685017501572,
+      "content": "XDDDDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685017499682,
+      "content": "Ale nie wychodzi",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685017496656,
+      "content": "No staram sie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685017490224,
+      "content": "Okej dzieki, bede pisa\u00c5\u0082 jak cos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685008817660,
+      "content": "No i zdrowiej, bo ngl troch\u00c4\u0099 czu\u00c4\u0087, \u00c5\u00bce ci\u00c4\u0099 nie ma d\u00c5\u0082u\u00c5\u00bcej ni\u00c5\u00bc zazwyczaj i sadge",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685008785921,
+      "content": "No to spoko, jak co\u00c5\u009b to mam troch\u00c4\u0099 notatek z Urbaniaka i Skowronka, wi\u00c4\u0099c gdyby\u00c5\u009b potrzebowa\u00c5\u0082 to te\u00c5\u00bc na luzie mog\u00c4\u0099 poda\u00c4\u0087 \u00f0\u009f\u00a4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1685008543735,
+      "content": "Dzi\u00c4\u0099ki wielkie, ale z nagran to i tak duzo nie wyciagne, ja raczej i tak zawsze z notatwk itd sie ucz\u00c4\u0099 wi\u00c4\u0099c se ogarne z tegi",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justyna Sarota"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685007379573,
+      "content": "Zak\u00c5\u0082adam, \u00c5\u00bce b\u00c4\u0099dziesz mie\u00c4\u0087 wystarczaj\u00c4\u0085co ci\u00c4\u0099\u00c5\u00bcko skoro lecisz na dwa kierunki, wi\u00c4\u0099c jakby\u00c5\u009b potrzebowa\u00c5\u0082 z kogni nagra\u00c5\u0084 z czego\u00c5\u009b to daj zna\u00c4\u0087 i ogarn\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685007324238,
+      "content": "Ostatnio si\u00c4\u0099 w nich opu\u00c5\u009bci\u00c5\u0082am, bo mentalnie nie wyrabiam i one mnie tylko m\u00c4\u0099czy\u00c5\u0082y, ale z wi\u00c4\u0099kszo\u00c5\u009bci zaj\u00c4\u0099\u00c4\u0087 mam niesprawdzone przy sobie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685007285969,
+      "content": "Par\u00c4\u0099 dni temu si\u00c4\u0099 dowiedzia\u00c5\u0082am, \u00c5\u00bce u ciebie krucho i chcia\u00c5\u0082am zapyta\u00c4\u0087 czy potrzebujesz nagrania z jakich\u00c5\u009b konkretnych przedmiot\u00c3\u00b3w",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justyna Sarota",
+      "timestamp_ms": 1685007255300,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Justyna Sarota",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/justynasarota_2980103692251120",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Krzysztof Siwek"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683545721485,
+      "content": "Oo dzieki Krzysiek",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Krzysztof Siwek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krzysztof Siwek",
+      "timestamp_ms": 1683544305731,
+      "content": "ayy wszystkiego najlepszego stary",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Krzysztof Siwek",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/krzysztofsiwek_1705583969803611",
+  "magic_words": [
+    
+  ]
+}

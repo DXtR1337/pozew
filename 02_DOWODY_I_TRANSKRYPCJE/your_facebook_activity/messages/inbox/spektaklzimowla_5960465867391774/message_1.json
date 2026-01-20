@@ -1,0 +1,1428 @@
+{
+  "participants": [
+    {
+      "name": "Natalia Stachura"
+    },
+    {
+      "name": "Marek Rapta"
+    },
+    {
+      "name": "Kacper Kubaszewski"
+    },
+    {
+      "name": "Aleksandra Szczur"
+    },
+    {
+      "name": "Angelika Chomicka"
+    },
+    {
+      "name": "Magda Waga"
+    },
+    {
+      "name": "Katarzyna Morawska"
+    },
+    {
+      "name": "Monika Chru\u00c5\u009bciel"
+    },
+    {
+      "name": "Paulina Sowa"
+    },
+    {
+      "name": "Ania Michno"
+    },
+    {
+      "name": "Zuza Ma\u00c5\u0082ek"
+    },
+    {
+      "name": "Karina Szczepara"
+    },
+    {
+      "name": "Wiktoria Trela"
+    },
+    {
+      "name": "Konrad Bachowski"
+    },
+    {
+      "name": "Julita Bouffette"
+    },
+    {
+      "name": "Justyna Marci\u00c5\u0084czak"
+    },
+    {
+      "name": "Paulina Smolec"
+    },
+    {
+      "name": "Emilka Matera"
+    },
+    {
+      "name": "Weronika Maciuszek"
+    },
+    {
+      "name": "Ewa Przy\u00c5\u0082udzka"
+    },
+    {
+      "name": "Magda Cie\u00c5\u00bc"
+    },
+    {
+      "name": "Ma\u00c5\u0082gorzata Drozdek"
+    },
+    {
+      "name": "Ola Cio\u00c5\u0082ek"
+    },
+    {
+      "name": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+    },
+    {
+      "name": "Edyta Bobak"
+    },
+    {
+      "name": "Bar\u00c5\u0082omiej Greiner"
+    },
+    {
+      "name": "Zuza Tola"
+    },
+    {
+      "name": "Micha\u00c5\u0082 Wiencek"
+    },
+    {
+      "name": "Kinga Pregler"
+    },
+    {
+      "name": "Klaudia Niew\u00c4\u0099g\u00c5\u0082owska"
+    },
+    {
+      "name": "Ma\u00c5\u0082gosia Pieczonka"
+    },
+    {
+      "name": "Julia Tabaka"
+    },
+    {
+      "name": "Julia Rozalia Ma\u00c5\u0082ek"
+    },
+    {
+      "name": "Gabriela W\u00c3\u00b3jcikiewicz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683737950999,
+      "content": "Czekam na sp\u00c3\u00b3\u00c5\u00banionych przed wej\u00c5\u009bciem z biletami",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika Chomicka",
+      "timestamp_ms": 1683737314037,
+      "content": "XD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika Chomicka",
+      "timestamp_ms": 1683737310756,
+      "content": "My ju\u00c5\u00bc prawie jeste\u00c5\u009bmy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika Chomicka",
+      "timestamp_ms": 1683737303196,
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wiktoria Trela",
+      "timestamp_ms": 1683736750662,
+      "content": "Ja na 19 b\u00c4\u0099d\u00c4\u0099 :(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika Maciuszek",
+      "timestamp_ms": 1683736609428,
+      "content": "Ja mo\u00c5\u00bce z minutk\u00c4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wiktoria Trela",
+      "timestamp_ms": 1683736580036,
+      "content": "Ja te\u00c5\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kinga Pregler",
+      "timestamp_ms": 1683736344116,
+      "content": "I ja \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Rozalia Ma\u00c5\u0082ek",
+      "timestamp_ms": 1683736341943,
+      "content": "Ja i @Zuza Ma\u00c5\u0082ek r\u00c3\u00b3wnie\u00c5\u00bc \u00f0\u009f\u0098\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Stachura",
+      "timestamp_ms": 1683736287413,
+      "content": "My",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683736098853,
+      "content": "Czy kto\u00c5\u009b ju\u00c5\u00bc wie \u00c5\u00bce si\u00c4\u0099 sp\u00c3\u00b3\u00c5\u00bani na 18:40?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683729661900,
+      "content": "Bo b\u00c4\u0099dziesz t\u00c4\u0099skni\u00c5\u0082 od razu za starym",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kinga Pregler"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683729642397,
+      "content": "Zapytamy w teatrze moze ci pozycza jakis porzadny sceniczny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683729619435,
+      "content": "Ej bo makija\u00c5\u00bc mi si\u00c4\u0099 rozma\u00c5\u00bce",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Marek Rapta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683729618611,
+      "content": "Nie martw sie ja b\u00c4\u0099d\u00c4\u0099 p\u00c5\u0082aka\u00c5\u0082 jak przyjdzie nowy haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ania Michno"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Waga",
+      "timestamp_ms": 1683729589759,
+      "content": "Pani Aniuuu",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a5\u00b9",
+          "actor": "Ania Michno"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683729568825,
+      "content": "Ja Ci dam si\u00c4\u0099 \u00c5\u009bmia\u00c4\u0087.....",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kinga Pregler"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683729553570,
+      "content": "Aaaaniiaaaa beeedzie p\u00c5\u0082aaaakaa\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683729521653,
+      "content": "Ostatnia integracja za czas\u00c3\u00b3w obecnego zarz\u00c4\u0085du wi\u00c4\u0099c bardzo sentymentalnie \u00f0\u009f\u00a5\u00ba mam nadziej\u00c4\u0099 \u00c5\u00bce przyjdziecie licznie!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Marek Rapta"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683729231329,
+      "content": "A to bez problemu, soczkiem si\u00c4\u0099 te\u00c5\u00bc stukniemy\u00f0\u009f\u0098\u0086",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kinga Pregler"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1683729079225,
+      "content": "Ja na jedzonka, bo dzisiaj alkoholu pi\u00c4\u0087 nie mog\u00c4\u0099 \u00f0\u009f\u0098\u009b",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ania Michno"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683729008338,
+      "content": "S\u00c5\u0082uchajcie zrobi\u00c5\u0082am Nam rezerwacje po spektaklu do beer housa, wi\u00c4\u0099c mam nadziej\u00c4\u0099, \u00c5\u00bce b\u00c4\u0099dziecie mieli ochot\u00c4\u0099 po i\u00c5\u009b\u00c4\u0087 na jakie\u00c5\u009b pi\u00c4\u0087ko/jedzonko\u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Waga"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Katarzyna Morawska"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Justyna Marci\u00c5\u0084czak"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ewa Przy\u00c5\u0082udzka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Cie\u00c5\u00bc"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Kinga Pregler"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ma\u00c5\u0082gosia Pieczonka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683728410322,
+      "content": "Marek Rapta doda\u00c5\u0082 Zuz\u00c4\u0099 Ma\u00c5\u0082ek i Juli\u00c4\u0099 Rozali\u00c4\u0085 Ma\u00c5\u0082ek do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683722544793,
+      "content": "ktos jeszcze?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683722542271,
+      "content": "okejos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika Maciuszek",
+      "timestamp_ms": 1683722533139,
+      "content": "Nooo to ja chetnie ten 2 bilet! Ju\u00c5\u00bc ci przelewam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683722511411,
+      "content": "wi\u00c4\u0099c mog\u00c4\u0099 dokupi\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683722494850,
+      "content": "no jad\u00c4\u0099 dzi\u00c5\u009b jeszcze po 2 bilety przed, bo si\u00c4\u0099 pojawi\u00c5\u0082y osoby",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika Maciuszek",
+      "timestamp_ms": 1683722449880,
+      "content": "@Ania Maszczak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weronika Maciuszek",
+      "timestamp_ms": 1683722434242,
+      "content": "Jest jeszcze miejsce jedno ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683708900313,
+      "content": "Ania Michno doda\u00c5\u0082a Wiktori\u00c4\u0099 Lorenc do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1683636152629,
+      "content": "Marek ustawi\u00c5\u0082 szybk\u00c4\u0085 reakcj\u00c4\u0099 jako \u00f0\u009f\u0090\u00a7.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela W\u00c3\u00b3jcikiewicz",
+      "timestamp_ms": 1683636051079,
+      "content": "Gabriela W\u00c3\u00b3jcikiewicz doda\u00c5\u0082a King\u00c4\u0099 Ded\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683636042458,
+      "content": "O niechc\u00c4\u0085cy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Angelika Chomicka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683636037485,
+      "content": "Pami\u00c4\u0099tajcie, \u00c5\u00bce jest to scena mos na ul. Rajskiej 12 i mo\u00c5\u00bce spotkamy si\u00c4\u0099 wcze\u00c5\u009bniej \u00c5\u00bceby na spokojnie wej\u00c5\u009b\u00c4\u0087 i zaj\u00c4\u0085\u00c4\u0087 miejsce tak 18:40?\u00f0\u009f\u0098\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bf",
+          "actor": "Angelika Chomicka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Waga"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ewa Przy\u00c5\u0082udzka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Edyta Bobak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Kinga Pregler"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gosia Pieczonka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683636030257,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/spektaklzimowla_5960465867391774/photos/3510092872540936.png",
+          "creation_timestamp": 1683636029
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julita Bouffette",
+      "timestamp_ms": 1683625177372,
+      "content": "O 19",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuza Tola",
+      "timestamp_ms": 1683625155115,
+      "content": "A o kt\u00c3\u00b3rej to jest ? Bo mi si\u00c4\u0099 chyba zwolni\u00c5\u0082 wieczor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1683622780153,
+      "content": "Jakby ktos mia\u00c5\u0082 kogo\u00c5\u009b kto by chcia\u00c5\u0082 i\u00c5\u009b\u00c4\u0087 jeszcze to chetnie oddam swoj bilet bo nie bede w stanie isc jednak :( a szkoda zeby sie zmarnowa\u00c5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683583133087,
+      "content": "Micha\u00c5\u0082 Wiencek\nAngela Chomicka\nGabi W\u00c3\u00b3jcikiewicz \nWiola Ksi\u00c4\u0085\u00c5\u00bcek\nKinga Pregler\nKonrad Bachowski\nMaga Waga\nMonia Chru\u00c5\u009bciel\nOla Szczur\nEmilka Matera\nElizka Kurczyna\nOla Cio\u00c5\u0082ek x3\nWerka Maciuszek\nJulka Tabaka\nWika Trela\nPaula Smolec\nJustyna Marci\u00c5\u0084czak\nGosia Drozdek x2\nMadzia Cie\u00c5\u00bc\nPaula Majka\nEdi Bobak\nGosia Pieczonka x2\nBartek Greiner\nNatka Stachura x2\nKarina Szczepara\nEwa Przy\u00c5\u0082udzka\nMarek Rapta\nJulitka Bouffette x2\nAnia Maszczak",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Aleksandra Szczur"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Waga"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Monika Chru\u00c5\u009bciel"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Eliza Kurczyna"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009f",
+          "actor": "Karina Szczepara"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0096\u00a4",
+          "actor": "Wiktoria Trela"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0096",
+          "actor": "Emilka Matera"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika Maciuszek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ewa Przy\u00c5\u0082udzka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Cie\u00c5\u00bc"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Edyta Bobak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Kinga Pregler"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ma\u00c5\u0082gosia Pieczonka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Tabaka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683583130213,
+      "content": "Na dobranoc przesy\u00c5\u0082am info, \u00c5\u00bce idziemy w \u00c5\u009brod\u00c4\u0099 do teatru grupk\u00c4\u0085 35 os\u00c3\u00b3b\u00f0\u009f\u00a5\u00b0 poni\u00c5\u00bcej lista \u00c5\u00bceby\u00c5\u009bcie mieli jasno\u00c5\u009b\u00c4\u0087 kto co i jak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ewa Przy\u00c5\u0082udzka",
+      "timestamp_ms": 1683124990732,
+      "content": "Ja ju\u00c5\u00bc te\u00c5\u00bc zrobi\u00c5\u0082am \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ania Michno"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiza Socha",
+      "timestamp_ms": 1683118182119,
+      "content": "Luiza Socha opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karina Szczepara",
+      "timestamp_ms": 1683118150337,
+      "content": "Jasne ju\u00c5\u00bc ci zrobi\u00c5\u0082am blika\u00f0\u009f\u0092\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ania Michno"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Stachura",
+      "timestamp_ms": 1683116930299,
+      "content": "To ja chce dwa bilety \u00e2\u0098\u00ba\u00ef\u00b8\u008f zaraz zrobi\u00c4\u0099 bliczka na 60zl",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ania Michno"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683116817998,
+      "content": "Do Was dziewczyny to samo info\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683116790869,
+      "content": "Ania Michno doda\u00c5\u0082a Karin\u00c4\u0099 Szczepar\u00c4\u0099 i Ew\u00c4\u0099 Przy\u00c5\u0082udzk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Stachura",
+      "timestamp_ms": 1683112665486,
+      "content": "To dopytam i dam zna\u00c4\u0087 \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ania Michno"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683112658258,
+      "content": "Nope",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Stachura",
+      "timestamp_ms": 1683112652835,
+      "content": "A czy trzeba by\u00c4\u0087 studentem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683112599595,
+      "content": "Natka daj zna\u00c4\u0087 czy chcesz jeszcze kogo\u00c5\u009b wzi\u00c4\u0085\u00c4\u0087 i tu jest numer do bliczka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683112476388,
+      "content": "Ania Michno doda\u00c5\u0082a Natali\u00c4\u0099 Stachur\u00c4\u0099 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Rozalia Ma\u00c5\u0082ek",
+      "timestamp_ms": 1683060844602,
+      "content": "Julia Rozalia Ma\u00c5\u0082ek opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1683058323772,
+      "content": "P\u00c3\u00b3ki co idziemy grupk\u00c4\u0085 29 os\u00c3\u00b3b!! I bileciki ju\u00c5\u00bc mam kupione od dawna wi\u00c4\u0099c si\u00c4\u0099 nie martwcie\u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Szczur"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Angelika Chomicka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Waga"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Eliza Kurczyna"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0096\u00a4",
+          "actor": "Wiktoria Trela"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Emilka Matera"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Weronika Maciuszek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Cie\u00c5\u00bc"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Edyta Bobak"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Kinga Pregler"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Tabaka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682354892117,
+      "content": "Tak, super",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Katarzyna Morawska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682354883774,
+      "content": "To chce dwa! To zrobi\u00c4\u0099 ci bliczka jak sko\u00c5\u0084cz\u00c4\u0099 zaj\u00c4\u0099cia \u00f0\u009f\u0092\u009c 60zl tak?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682354869452,
+      "content": "Mo\u00c5\u00bcesz 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682354864073,
+      "content": "Mog\u00c4\u0099 2 ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682354861000,
+      "content": "To poprosz\u00c4\u0099 2 !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682354859523,
+      "content": "11 czwartek sii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682354848104,
+      "content": "To daj znaka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682354845589,
+      "content": "To mog\u00c4\u0099 albo Ci przekaza\u00c4\u0087 kupon albo kupi\u00c4\u0087 Ci od razu bilety jak ju\u00c5\u00bc tam b\u00c4\u0099d\u00c4\u0099 bo to trzeba tak w kasie \u00c5\u00bceby zni\u00c5\u00bcka by\u00c5\u0082a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682354817380,
+      "content": "To czwartek co nie ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682354797567,
+      "content": "Na 11 bym chcia\u00c5\u0082a w takim razie je\u00c5\u00bceli to nie problem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682354653807,
+      "content": "Bo mog\u00c4\u0099 przekaza\u00c4\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682354649435,
+      "content": "Chcesz Kasia ten kuponik?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682354628435,
+      "content": "To ja niestety musz\u00c4\u0099 zrezygnowa\u00c4\u0087 ;/",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682354535696,
+      "content": "Podbijam podbijam\u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682320506034,
+      "content": "39102028920000510206753232",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682320483622,
+      "content": "502282255",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682320466980,
+      "content": "Jutro b\u00c4\u0099d\u00c4\u0099 kupowa\u00c4\u0087 bilety wi\u00c4\u0099c osoby kt\u00c3\u00b3re id\u00c4\u0085 10.05 mo\u00c5\u00bcecie mi przesy\u00c5\u0082a\u00c4\u0087 po 30 z\u00c5\u0082 za osob\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aleksandra Szczur"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bf",
+          "actor": "Angelika Chomicka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kinga Pregler"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682320427276,
+      "content": "Dzie\u00c5\u0084 dobry!! Mamy termin 10.05 o 19\u00f0\u009f\u008e\u00ad\nJeszcze raz daje zna\u00c4\u0087, \u00c5\u00bce kto wtedy nie mo\u00c5\u00bce, niech si\u00c4\u0099 zg\u00c5\u0082asza to przeka\u00c5\u00bce kupony i mo\u00c5\u00bcna sobie wybra\u00c4\u0087 inny dzie\u00c5\u0084 \u00f0\u009f\u0091\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Aleksandra Szczur"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Cie\u00c5\u00bc"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Edyta Bobak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Kinga Pregler"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micha\u00c5\u0082 Wiencek",
+      "timestamp_ms": 1682318522790,
+      "content": "Doda\u00c5\u0082e\u00c5\u009b Gabriel\u00c4\u0099 W\u00c3\u00b3jcikiewicz do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marek Rapta",
+      "timestamp_ms": 1682268871078,
+      "content": "Marek Rapta doda\u00c5\u0082 Juli\u00c4\u0099 Rozali\u00c4\u0085 Ma\u00c5\u0082ek do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kinga Kwa\u00c5\u009bniewska",
+      "timestamp_ms": 1682265050339,
+      "content": "Kinga Kwa\u00c5\u009bniewska opu\u00c5\u009bci\u00c5\u0082(a) grup\u00c4\u0099.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682264265893,
+      "content": "Ma wi\u00c4\u0099kszo\u00c5\u009b\u00c4\u0087 ale jak kto\u00c5\u009b nie mo\u00c5\u00bce wtedy to mog\u00c4\u0099 te\u00c5\u00bc przekaza\u00c4\u0087 kupony",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Katarzyna Morawska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Zuza Tola"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katarzyna Morawska",
+      "timestamp_ms": 1682264111607,
+      "content": "Czyli 10 wygra\u00c5\u0082 gak?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682263917766,
+      "content": "Ola Cio\u00c5\u0082ek doda\u00c5\u0082a Kacpra Kubaszewskiego do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ola Cio\u00c5\u0082ek",
+      "timestamp_ms": 1682263561708,
+      "content": "Ola Cio\u00c5\u0082ek doda\u00c5\u0082a Angelik\u00c4\u0099 Puzio do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Magda Waga",
+      "timestamp_ms": 1682263394083,
+      "content": "Magda Waga doda\u00c5\u0082a Aleksandr\u00c4\u0099 Szczur do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gosia Pieczonka",
+      "timestamp_ms": 1682262835090,
+      "content": "Ma\u00c5\u0082gosia Pieczonka doda\u00c5\u0082a King\u00c4\u0099 Kwa\u00c5\u009bniewsk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1682262680694,
+      "content": "Bo jest ch\u00c4\u0099tna na spektakl \u00f0\u009f\u0098\u008e",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Niew\u00c4\u0099g\u00c5\u0082owska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1682262666590,
+      "content": "To ja dodaj\u00c4\u0099 znajom\u00c4\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ania Michno"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Klaudia Niew\u00c4\u0099g\u00c5\u0082owska"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma\u00c5\u0082gorzata Drozdek",
+      "timestamp_ms": 1682262653822,
+      "content": "Ma\u00c5\u0082gorzata Drozdek doda\u00c5\u0082a Klaudi\u00c4\u0099 Niew\u00c4\u0099g\u00c5\u0082owsk\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682262410699,
+      "content": "a kupon\u00c3\u00b3w mamy sporo, wi\u00c4\u0099c mo\u00c5\u00bcecie te\u00c5\u00bc doda\u00c4\u0087 znajomych, kt\u00c3\u00b3rzy byliby ch\u00c4\u0099tni <3",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Kinga Pregler"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682262391368,
+      "content": "kto jeszcze nie odda\u00c5\u0082 g\u00c5\u0082osu na pasuj\u00c4\u0085cy mu termin to reagujcie powy\u00c5\u00bcej, bo do wtorku chcia\u00c5\u0082abym klepn\u00c4\u0085\u00c4\u0087 te bilety, \u00c5\u00bceby miejsc nie zabrak\u00c5\u0082o\u00f0\u009f\u0098\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika Chomicka",
+      "timestamp_ms": 1682254720248,
+      "content": "Angelika Chomicka doda\u00c5\u0082a Konrada Bachowskiego do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682188251041,
+      "content": "Ania Michno doda\u00c5\u0082a Justyn\u00c4\u0099 Marci\u00c5\u0084czak do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika Chomicka",
+      "timestamp_ms": 1682186560898,
+      "content": "Bartek te\u00c5\u00bc chcia\u00c5\u0082 jak co\u00c5\u009b\u00f0\u009f\u00a4\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelika Chomicka",
+      "timestamp_ms": 1682186484852,
+      "content": "Angelika Chomicka doda\u00c5\u0082a Bar\u00c5\u0082omieja Greiner do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682184661586,
+      "content": "Ania Michno doda\u00c5\u0082a Paulin\u00c4\u0099 Sow\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682177137273,
+      "content": "Ania Michno doda\u00c5\u0082a Magd\u00c4\u0099 Wag\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682176263153,
+      "content": "Ania Michno doda\u00c5\u0082a Juli\u00c4\u0099 Tabak\u00c4\u0085 do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682176207935,
+      "content": "Ania Michno doda\u00c5\u0082a Ma\u00c5\u0082gorzat\u00c4\u0099 Drozdek do grupy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682175878966,
+      "content": "To mamy dwa terminy do wyboru",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682175867783,
+      "content": "O faktycznie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiza Socha",
+      "timestamp_ms": 1682175852754,
+      "content": "Tutaj s\u00c4\u0085 juwe uek",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682175826119,
+      "content": "13 odpada bo wtedy jest walne zgromadzenie cz\u00c5\u0082onk\u00c3\u00b3w \u00f0\u009f\u0098\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Weronika Maciuszek"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682175810259,
+      "content": "12.05 o 19",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Konrad Bachowski"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682175801097,
+      "content": "11.05 o 19",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marek Rapta"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bf",
+          "actor": "Angelika Chomicka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Waga"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Katarzyna Morawska"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Luiza Socha"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Wiktoria Trela"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Konrad Bachowski"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Cie\u00c5\u00bc"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Zuza Tola"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kinga Pregler"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julia Tabaka"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682175791716,
+      "content": "10.05 o 19",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Angelika Puzio"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kacper Kubaszewski"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aleksandra Szczur"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bf",
+          "actor": "Angelika Chomicka"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Waga"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Monika Chru\u00c5\u009bciel"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Sowa"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Eliza Kurczyna"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Wiktoria Trela"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julita Bouffette"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Emilka Matera"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Weronika Maciuszek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Magda Cie\u00c5\u00bc"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gorzata Drozdek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ola Cio\u00c5\u0082ek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u009d",
+          "actor": "Wioletta Ksi\u00c4\u0085\u00c5\u00bcek"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Edyta Bobak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Bar\u00c5\u0082omiej Greiner"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Micha\u00c5\u0082 Wiencek"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kinga Pregler"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ma\u00c5\u0082gosia Pieczonka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0099",
+          "actor": "Gabriela W\u00c3\u00b3jcikiewicz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682175756598,
+      "content": "hejeczka! Jeste\u00c5\u009bcie zainteresowani wsp\u00c3\u00b3lnym wyj\u00c5\u009bciem do teatru wi\u00c4\u0099c wybierzmy teraz termin \u00f0\u009f\u00a5\u00b0 reagujcie prosz\u00c4\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulina Smolec"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Edyta Bobak"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Bar\u00c5\u0082omiej Greiner"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ania Michno",
+      "timestamp_ms": 1682175682383,
+      "content": "Ania nada\u00c5\u0082(a) grupie nazw\u00c4\u0099 spektakl Zimowla\u00f0\u009f\u008e\u00ad.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "spektakl Zimowla\u00f0\u009f\u008e\u00ad",
+  "is_still_participant": true,
+  "thread_path": "inbox/spektaklzimowla_5960465867391774",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
