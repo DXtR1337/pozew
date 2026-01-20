@@ -1,167 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-05-13
-# Liczba: 162
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 22:51:25 | Ewa PrzyÅudzka | Polska 81 punktÃ³w XDDDD | message_1.json |
-| 22:51:27 | Mateusz MarciÅski | Mnie to wÅochy dziwiÄ xD | message_1.json |
-| 22:50:59 | Juls Cichy | Ja jestem w szoku, Å¼e tak wiele osÃ³b faktycznie gÅosowaÅo na Szwecje patrzÄc na to, Å¼e piosenk... | message_1.json |
-| 22:49:30 | Ewa PrzyÅudzka | Zapraszam do dyskusji XD | message_1.json |
-| 22:50:02 | Juls Cichy | AleÅ¼ nie wiem o co ci chodzi | message_1.json |
-| 22:54:16 | Juls Cichy | Z BlankÄ bardziej wydaje mi siÄ kwestia tego Å¼e BEJBA staÅo siÄ memem | message_1.json |
-| 22:54:27 | Mateusz MarciÅski | A to to na pewno | message_1.json |
-| 22:53:56 | MaÅgosia Pieczonka | Izraelowi sporo daÅa pozycja startowa tak pod koniec daleko od faworytÃ³w | message_1.json |
-| 22:52:27 | Ewa PrzyÅudzka | GoÅciu jest hot. DosÅownie kiedy byÅ jego wystÄp gadaÅam z bestie i ona do mnie: ale on jest ho... | message_1.json |
-| 22:52:50 | Ewa PrzyÅudzka | MyÅlÄ Å¼e podobnie byÅo z Blanka i z Izraelem tbh | message_1.json |
-| 22:47:46 | Katarzyna Morawska | Dawaj !!! | message_1.json |
-| 22:47:47 | Juls Cichy | GÅosy jury | message_1.json |
-| 22:47:40 | Juls Cichy | Jakby ktoÅ byÅ ciekawy wynikÃ³w eurowizyjnych | message_1.json |
-| 20:57:00 | PaweÅ Piotrowski | [Photo: 1] | message_1.json |
-| 20:57:09 | PaweÅ Piotrowski | Dwa typy ludzi na imprezach xD | message_1.json |
-| 22:49:17 | Paulina Kasprzak | Juls nie pij wiÄcej â¤ï¸ | message_1.json |
-| 22:49:24 | Ewa PrzyÅudzka | Kontrowersyjna opinia ale AzerbejdÅ¼an i Izrael powinni byÄ usuniÄci tak samo jak Rosja a osoba kt... | message_1.json |
-| 22:48:31 | Mateusz MarciÅski | 12 to sweden bÄdzie mi siÄ po nocach ÅniÄ | message_1.json |
-| 22:47:51 | Juls Cichy | [Photo: 1] | message_1.json |
-| 22:48:02 | Juls Cichy | Teraz jeszcze televotes, ale Szwecja jest na baaaardzo duÅ¼ym prowadzeniu | message_1.json |
-| 14:51:07 | Damian Piotr Cokot | Nie wiem na ile jest to legitne info, ale Åmieszy XD | message_1.json |
-| 14:51:11 | Sebastian Kutaj | UK | message_1.json |
-| 14:47:36 | Damian Piotr Cokot | [Photo: 1] | message_1.json |
-| 16:38:43 | Joanna Kaczor | DokÅadnie tak, a jako organizatorka chciaÅam jeszcze dodaÄ, Å¼e kaÅ¼dy kto chce przyjÅÄ musi wy... | message_1.json |
-| 21:07:24 | Janek Åacny | CzeÅÄ Janek! Jutro jest dla mnie dzieÅ - jak wiesz od 4 lat pracujÄ nad Empatify i nad tym, Å¼eb... | message_1.json |
-| 15:20:03 | Krzysztof Siwek | A propos zadania z majcy | message_1.json |
-| 15:20:08 | Krzysztof Siwek | Ktokolwiek to zrobiÅ? XD | message_1.json |
-| 15:13:05 | Anja Bulanda | United Kingdom | message_1.json |
-| 14:51:30 | Sebastian Kutaj | takie biedne ok | message_1.json |
-| 14:52:03 | Sebastian Kutaj | to wszystko dlatego ze zadania z majcy nie potrafimy zrobic? | message_1.json |
-| 22:56:45 | Mateusz MarciÅski | Nie jest Åºle | message_1.json |
-| 23:03:14 | Ewa PrzyÅudzka | Okej, i'm not mad just disappointed | message_1.json |
-| 22:56:39 | Katarzyna Morawska | ðªð» | message_1.json |
-| 22:56:18 | Juls Cichy | Oficjalnie Polska na 19 miejscu w finale | message_1.json |
-| 22:56:30 | Juls Cichy | 19 z 26 | message_1.json |
-| 08:08:14 | Karolina FÄfrowicz | Karolina FÄfrowicz dodaÅa Jana KocioÅka do grupy. | message_1.json |
-| 13:49:44 | Krzysztof Antoni AmbroÅ¼y Czekaj | 26 maja, piÄtek, 17:00 Psychoteka, spotkanie z filmem  GoÅÄ specjalny: dr Piotr Passowicz  https:... | message_1.json |
-| 23:17:03 | Mateusz MarciÅski | [Photo: 1] | message_1.json |
-| 23:04:58 | Mateusz MarciÅski | Blanka juÅ¼ na lotnisku pewnie | message_1.json |
-| 23:08:14 | Ewa PrzyÅudzka | Co do Polski, wiecie jak to mÃ³wiÄ: raz siÄ przegrywa, a raz siÄ przegrywa | message_1.json |
-| 20:56:51 | PaweÅ Piotrowski | [Photo: 1] | message_1.json |
-| 08:42:18 | Karolina ZarÄbska | Ja chyba teÅ¼  tak z 2 min | message_1.json |
-| 08:59:35 | Salvador RafaÅ Romero | TeÅ¼ kilka minut w rezerwie potrzebujÄ | message_1.json |
-| 08:40:56 | Edyta Bobak | Hahah okii | message_1.json |
-| 08:40:45 | Angelika Chomicka | [Photo: 1] | message_1.json |
-| 08:40:51 | Angelika Chomicka | OgÅaszam, Å¼e siÄ spÃ³ÅºniÄ chwilÄ | message_1.json |
-| 16:28:48 | PaweÅ Piotrowski | [Photo: 1] | message_1.json |
-| 16:28:50 | PaweÅ Piotrowski | ð¸ | message_1.json |
-| 16:28:44 | PaweÅ Piotrowski | Moi drodzy, przesyÅam listÄ zniÅ¼ek i zapraszam do JaszczurÃ³w na godzinÄ 19 | message_1.json |
-| 09:02:18 | Aleksandra Cholak | Biegne | message_1.json |
-| 09:27:58 | Marek Rapta | [Photo: 1] | message_1.json |
-| 17:51:34 | MaÅgosia Pieczonka | Oki nie ma sprawy w takim razie czy jest ktoÅ chÄtny siÄ tym zajÄÄ? | message_1.json |
-| 05:33:30 | Paulina WÃ³jcik | https://www.uj.edu.pl/wiadomosci/-/journal_content/56_INSTANCE_d82lKZvhit4m/10172/153488743?fbclid=I... | message_1.json |
-| 17:49:49 | Alicja Ewa Dubiel | Wiesz co niestety nie jestem w stanie - ostatnio u mnie siÄ za duÅ¼o dzieje w zwiÄzku z czym miaÅ... | message_1.json |
-| 17:38:03 | MaÅgosia Pieczonka | Hejka, widzÄ Å¼e 7 osÃ³b jest zainteresowanych spotkaniem takÅ¼e poproszÄ je o wymyÅlenie i wysÅ... | message_1.json |
-| 17:39:12 | MaÅgosia Pieczonka | @Alicja Dubiel czy nadal byÅabyÅ w stanie przygotowaÄ plakaty i wydarzenie na fb? | message_1.json |
-| 07:35:50 | Wiktoria Trela | Whaaaaat | message_1.json |
-| 08:32:38 | PaweÅ Piotrowski | Moi drodzy przypominam Å¼e za 30 minut otwieramy obrady i bardzo proszÄ o obecnoÅÄ | message_1.json |
-| 07:01:59 | Marek Rapta | Nas przynajmniej nie bijÄ na miasteczku ð¤·ââï¸ | message_1.json |
-| 05:34:53 | Paulina WÃ³jcik | Rozpoczynamy dymy z Popielem  zaczÄÅy sie artykuÅy w internecie i komentarze odnoÅnie zmiany naz... | message_1.json |
-| 05:45:40 | Magda CieÅ¼ | DzieÅ dobry!! â¤ï¸  JuÅ¼ dzisiaj o 11 widzimy siÄ na WZC, jeÅli ktoÅ bÄdzie uczestniczyÅ po ... | message_1.json |
-| 19:43:10 | Paulina WÃ³jcik | ð¥¹ð¥¹ð¥¹ | message_1.json |
-| 19:47:41 | Ola CioÅek | KtoÅ siÄ orientuje w ktÃ³rym kraju wspÃ³ÅtworzyÅ Tribbs piosenkÄ? | message_1.json |
-| 19:43:04 | Paulina WÃ³jcik | PRAWDZIWI FANOWIE CZEKAJÄ NA PIERWSZÄ BEJBE | message_1.json |
-| 19:42:35 | MaÅgorzata Drozdek | Nie wiem czy dalsza czÄÅÄ tekstu jest znana xdd | message_1.json |
-| 19:42:37 | Katarzyna Morawska | [Video: 1] | message_1.json |
-| 20:29:53 | Katarzyna Morawska | [Photo: 1] | message_1.json |
-| 20:29:59 | Katarzyna Morawska | ChodÅºcie ! | message_1.json |
-| 20:05:09 | Gosia Mizera | ð¸ | message_1.json |
-| 19:48:52 | Mateusz MarciÅski | Szwajcaria | message_1.json |
-| 19:49:07 | Mateusz MarciÅski | No ogÃ³lnie to z 6 ale tylko Szwajcaria go zaprosiÅa xD | message_1.json |
-| 17:08:04 | Edyta Bobak | Carrefour | message_1.json |
-| 17:38:32 | PaweÅ Piotrowski | Jak tam ludziki, kto do nas doÅÄcza?? :D | message_1.json |
-| 17:07:48 | Karolina ZarÄbska | A wy gdzie | message_1.json |
-| 16:52:04 | PaweÅ Piotrowski | Dawajcie znaÄ jak bÄdziecie nadchodziÄ wyjdÄ z opaseczkami! | message_1.json |
-| 17:07:45 | Karolina ZarÄbska | Jestem | message_1.json |
-| 19:42:18 | MaÅgorzata Drozdek | How else to phrase it? | message_1.json |
-| 19:42:23 | Edyta Bobak | Impreza siÄ rozkrÄca, wszystkich zapraszamy do JaszczurÃ³w â¤ï¸â¤ï¸â¤ï¸ | message_1.json |
-| 19:41:01 | Aleksandra Cholak | Its kajna krejza | message_1.json |
-| 18:34:32 | Angelika Åuczyk | Ja w pracy :( | message_1.json |
-| 19:36:58 | Paulina WÃ³jcik | Pozdrawiam wszystkie bejby ð¥¹ | message_1.json |
-| 15:49:28 | Madzia Szczypka | GorÄcej? | message_1.json |
-| 15:49:32 | Madzia Szczypka | A to nie bedzie odwrotnie | message_1.json |
-| 15:49:14 | Radek Salwach | Madzia wÅÃ³Å¼ sobie to do gorÄcej wody z solÄ, zejdzie Ci opuchlizna jak masz ogromne | message_1.json |
-| 15:47:44 | Madzia Szczypka | Where kostka | message_1.json |
-| 15:48:55 | Madzia Szczypka | Mam kostke jak stare babsko | message_1.json |
-| 15:50:56 | Radek Salwach | Jak masz w gorÄcej wodzie z solÄ to opuchlizna zostaje tam razem w wodzie, jak chcesz to Ci wezmÄ... | message_1.json |
-| 15:51:07 | Radek Salwach | Bo mi to polecaÅ fizjoterapeuta i kolega z medycyny | message_1.json |
-| 15:50:37 | Radek Salwach | Niee | message_1.json |
-| 15:49:37 | Madzia Szczypka | Ze ja to musze chÅodziÄ | message_1.json |
-| 15:50:15 | Madzia Szczypka | Nie dosc ze mi sie dupa w spodnie przestaje miesci to jeszcze stopa w buty | message_1.json |
-| 07:13:40 | Madzia Szczypka | A Oki nic tylko zachÄcaÅ do rozpierdolu | message_1.json |
-| 07:14:11 | Madzia Szczypka | Moze tez nie widziaÅ bo to sam poczatek ale xD | message_1.json |
-| 07:13:03 | Madzia Szczypka | Powinny byc strefy dla takich idiotÃ³w | message_1.json |
-| 07:12:51 | Madzia Szczypka | I 200 metrow przez ludzi trzeba byÅo sie cisnac | message_1.json |
-| 07:12:54 | Madzia Szczypka | Pojebane | message_1.json |
-| 07:29:46 | Julita Bouffette | Bo teÅ¼ bym kurwa popÅynÄÅa tam | message_1.json |
-| 15:47:36 | Madzia Szczypka | [Photo: 1] | message_1.json |
-| 07:29:36 | Julita Bouffette | Ja zawsze unikam pogo | message_1.json |
-| 07:17:35 | Stasiu Przygoda | To dÅugo siÄ pobawiliscie | message_1.json |
-| 07:18:04 | Madzia Szczypka | Na ChyliÅskiej przynajmniej bylismy | message_1.json |
-| 16:39:14 | MichaÅ Wiencek | Jak na leosi | message_1.json |
-| 16:47:57 | Julita Bouffette | StaliÅmy z boku, okeej | message_1.json |
-| 15:58:23 | Madzia Szczypka | XD | message_1.json |
-| 15:58:18 | Madzia Szczypka | Postaram sie | message_1.json |
-| 15:58:22 | Madzia Szczypka | Najwyzej bedziemy sie znieczulac | message_1.json |
-| 18:10:43 | Julita Bouffette | [Photo: 3] | message_1.json |
-| 18:10:50 | Julita Bouffette | Takie wydarzenia | message_1.json |
-| 16:49:59 | Julita Bouffette | Mnie nie | message_1.json |
-| 16:48:33 | MichaÅ Wiencek | No po tym jak keite zdeptali XDDD | message_1.json |
-| 16:48:40 | MichaÅ Wiencek | Nie pamiÄtam czy cb teÅ¼ wtedy | message_1.json |
-| 15:52:26 | Madzia Szczypka | Ja jak sobie dobrze stanÄ jest sztos | message_1.json |
-| 15:52:31 | Madzia Szczypka | Poza tym ze chodze jak menel | message_1.json |
-| 15:52:19 | Madzia Szczypka | Kurcze to sprobuje to zrobic jutro bo zaraz spadam z domu | message_1.json |
-| 15:51:25 | Radek Salwach | Ale obiecuje Ci to bo na sylwestrze tez tak robiÅem, Å¼e siniaka na piszczelu zimnym, ale kostkÄ g... | message_1.json |
-| 15:52:12 | Radek Salwach | Ja nie mogÅem schodziÄ ze schodÃ³w a po kilku razach (przyspieszony kurs leczenia na sylwestra) by... | message_1.json |
-| 15:55:57 | Madzia Szczypka | Thank you buddy | message_1.json |
-| 15:57:36 | Radek Salwach | Kuruj siÄ dziecko ð | message_1.json |
-| 15:55:53 | Madzia Szczypka | Dobra will try | message_1.json |
-| 15:53:00 | Radek Salwach | SprÃ³buj sobie potrzymaÄ tak 30 minut, w misce z gorÄca wodÄ + solÄ i potem zobacz jak wstaniesz... | message_1.json |
-| 15:53:03 | Radek Salwach | Jaka bÄdzie rÃ³Å¼nica | message_1.json |
-| 07:12:29 | Madzia Szczypka | Noge tez mam zdarta XD a Kacper pachwinÄ naciÄgniÄta | message_1.json |
-| 10:04:49 | MaÅgosia Pieczonka | Mnie nie bÄdzie bo zle siÄ czuje i stwierdziÅam Å¼e lepiej posiedzÄ w domku ð | message_1.json |
-| 10:08:05 | Aleksandra Cholak | Zdrowiej ð«¶ | message_1.json |
-| 09:30:21 | Aleksandra Cholak | Bo juÅ¼ pierwsze gÅosowania siÄ zaczÄÅy wiÄc was ominÄ | message_1.json |
-| 09:29:22 | Aleksandra Cholak | @MichaÅ Wiencek @BarÅomiej Greiner @MaÅgosia Pieczonka bÄdziecie na wzc? | message_1.json |
-| 09:29:54 | BarÅomiej Greiner | Tak, ja bÄdÄ potÄÅ¼nie spÃ³Åºniony ale bede. | message_1.json |
-| 07:08:16 | Madzia Szczypka | SkrÄcona | message_1.json |
-| 07:08:46 | Madzia Szczypka | Soo nie tak zle tylko chodze jak menel i mnie boli w kurwe | message_1.json |
-| 07:07:56 | Julita Bouffette | I jak tam Madziu | message_1.json |
-| 10:40:36 | MichaÅ Wiencek | Ja dalej w szpitalu xd | message_1.json |
-| 10:59:11 | Aleksandra Cholak | [No text content] | message_1.json |
-| 15:22:12 | Anja Bulanda | ? | message_1.json |
-| 15:32:40 | Magdalena AdrabiÅska | . | message_1.json |
-| 15:22:07 | Anja Bulanda | PrzypomniaÅ by ktoÅ jeszcze raz co to w koÅcu bylo | message_1.json |
-| 15:20:14 | Krzysztof Siwek | Bo nawet nie wiem jak siÄ zabraÄ do tego | message_1.json |
-| 15:21:08 | Wiktoria KÅymiÅska | Ja utknÄÅam na poprzednim jeszcze | message_1.json |
-| 16:34:20 | Damian Piotr Cokot | â¤ï¸ | message_1.json |
-| 18:04:25 | Radek Salwach | A propos zadania z majcy, to przypominam Å¼e przyjmuje w pliku, nie w formie zdjÄÄ, messengerem al... | message_1.json |
-| 16:34:07 | Justyna Sarota | https://youtu.be/qcVgrwXFT2w | message_1.json |
-| 16:31:48 | Damian Piotr Cokot | Jest gdzieÅ nagrany ten ostatni wykÅad? | message_1.json |
-| 16:32:05 | Damian Piotr Cokot | z majcy? | message_1.json |
-| 07:11:06 | Julita Bouffette | Ja jebie | message_1.json |
-| 07:11:15 | Madzia Szczypka | My wyszlismy po 20 sekundach jak wszedÅ | message_1.json |
-| 07:11:06 | Madzia Szczypka | Totalnie nic | message_1.json |
-| 07:11:01 | Julita Bouffette | Bo zwykle artysta pomaga | message_1.json |
-| 07:11:05 | Julita Bouffette | Jak widzi | message_1.json |
-| 07:11:47 | Madzia Szczypka | Nawet wgl jak szÅy laski z atakiem | message_1.json |
-| 07:12:14 | Madzia Szczypka | ChÅopaki je trzymali one caÅe sie trzÄsÅy i pÅakaÅy i ludzie nie mieli jak zrobic im miejsca d... | message_1.json |
-| 07:11:36 | Madzia Szczypka | I po pogo tak sie kurwa pchali na siebie i ludzie spadali jak fala | message_1.json |
-| 07:11:21 | Madzia Szczypka | Bo powiedzial robcie koÅa | message_1.json |
-| 07:11:24 | Madzia Szczypka | I wszyscy pogo | message_1.json |
-| 07:09:09 | Madzia Szczypka | Taka kurwa dzicz | message_1.json |
-| 07:09:18 | Madzia Szczypka | 2 laski ataku paniki dostaÅy z przodu | message_1.json |
-| 07:09:01 | Julita Bouffette | ZwierzÄta na koncertach | message_1.json |
-| 07:08:53 | Julita Bouffette | Omg, wspÃ³ÅczujÄ | message_1.json |
-| 07:08:59 | Madzia Szczypka | Ale mam uciskowe bandaÅ¼e i jest lepiej bo mi tak nie lata | message_1.json |
-| 07:10:04 | Madzia Szczypka | A ja sÅyszaÅam tylko jak Mo chrupnelo i ludzie leÅ¼eli na mnie XD | message_1.json |
-| 07:10:54 | Julita Bouffette | No wÅaÅnie siÄ zastanawiaÅam | message_1.json |
-| 07:09:51 | Madzia Szczypka | Okropne | message_1.json |
-| 07:09:36 | Madzia Szczypka | Oki wgl nie reagowaÅ jak krzyczeli i sam zachÄcaÅ do robienia kÃ³Åek | message_1.json |
-| 07:09:41 | Madzia Szczypka | A na przod wszyscy sie cisnÄli | message_1.json |

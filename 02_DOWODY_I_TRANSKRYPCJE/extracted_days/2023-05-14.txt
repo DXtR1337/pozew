@@ -1,192 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-05-14
-# Liczba: 187
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 13:10:25 | MaÅgorzata Drozdek | Nie widziaÅam | message_1.json |
-| 13:10:36 | Katarzyna Morawska | W drodze do mojego domku jest | message_1.json |
-| 13:10:18 | Magda Waga | rzepiara alertð¨ | message_1.json |
-| 06:08:04 | Katarzyna Morawska | @PaweÅ Piotrowski ð | message_1.json |
-| 13:10:07 | Magda Waga | czy widzieliÅcie gdzieÅ w krakowie pole rzepaku? | message_1.json |
-| 13:10:41 | Katarzyna Morawska | [Video: 1] | message_1.json |
-| 14:04:04 | Ania Michno | Ania Michno dodaÅa EdytÄ Bobak jako administratora grupy. | message_1.json |
-| 14:04:19 | Ania Michno | Ania Michno dodaÅa EmilkÄ MaterÄ jako administratora grupy. | message_1.json |
-| 13:44:31 | Patrycja Ryba | Chyba jest koÅo opactwa w TyÅcu | message_1.json |
-| 13:10:44 | Marek Rapta | https://krakow.naszemiasto.pl/tag/pola-rzepaku-pod-krakowem | message_1.json |
-| 13:15:20 | Magda Waga | caramba chciaÅabym dotrzeÄ autobusem | message_1.json |
-| 06:07:59 | Katarzyna Morawska | [Photo: 1] | message_1.json |
-| 20:26:59 | Oliwia WÅodarczyk | aaa dobra | message_1.json |
-| 20:27:01 | Martyna Gancarczyk | Bo babka nie zgadza sie na wczeÅniejszy egzamin niz 10 | message_1.json |
-| 20:26:44 | Martyna Gancarczyk | DokÅadnie, dziÄki temu bÄdziemy mieÄ czas na egzamin z emocji | message_1.json |
-| 20:26:15 | Wiktoria MiÅaszewska | Nie No chodzi o to Å¼eby jeden lektorat trwaÅ dluzej a drugi krÃ³cej | message_1.json |
-| 20:26:35 | Wiktoria MiÅaszewska | A suma zostaje taka sama | message_1.json |
-| 20:27:36 | Oliwia WÅodarczyk | nie zwauwazylan, ze to wiÄcej czasu jest tego 17 | message_1.json |
-| 02:58:31 | Angelika Åuczyk | [Photo: 1] | message_1.json |
-| 02:58:33 | Angelika Åuczyk | Albo dwa? | message_1.json |
-| 02:58:25 | Angelika Åuczyk | KtoÅ moÅ¼e potrzebuje ulgowy bilet na gibbsa? | message_1.json |
-| 20:27:38 | Dorota Szczerba | To ma sens XD Sorry za zamieszanie | message_1.json |
-| 20:27:41 | Oliwia WÅodarczyk | to dobra jest git | message_1.json |
-| 17:57:08 | Gabriela WÃ³jcikiewicz | myÅlaÅam Å¼e bÄdÄ siÄ martwiÄ siÄ jak dopomni - ewentualnie moÅ¼na siÄ dopytaÄ w niedzielÄ | message_1.json |
-| 20:13:21 | Dorota Szczerba | Ja myÅlÄ, Å¼e zapyta na jakich zajÄciach CiÄ nie byÅo i wyÅle Ci linka do formularza google z ... | message_1.json |
-| 17:55:48 | Oliwia WÅodarczyk | wÅaÅnie wiemm, ale sie troche cykam, ze nagle jej odwali i bedzie zmieniac pytania albo nwm jakies... | message_1.json |
-| 17:53:58 | Oliwia WÅodarczyk | i myslisz o jej odrabianiu moze?XDD | message_1.json |
-| 17:54:27 | Gabriela WÃ³jcikiewicz | szczerze to wÄtpiÄ Å¼e bÄdzie taka potrzeba patrzÄc na poziom tych zajÄÄ XD | message_1.json |
-| 20:14:23 | Dorota Szczerba | PrzecieÅ¼ ona ich nie zmieniaÅa dla Å¼adnej z grup i udawaÅa, Å¼e nie widzi, Å¼e ostatniej grupie ... | message_1.json |
-| 16:44:02 | Oliwia Sobalska | Jaki wykres xdd | message_1.json |
-| 16:44:04 | Justyna Sarota | wykres chyba jest obowiÄzkowy do zrobienia | message_1.json |
-| 16:43:28 | Damian Piotr Cokot | Ej mordeczki a ten wykres teÅ¼ zrobiliÅcie? | message_1.json |
-| 21:36:41 | Gabriela WÃ³jcikiewicz | TeÅ¼ mi sie tak wydaje | message_1.json |
-| 13:28:52 | Marta Kruk | ð | message_1.json |
-| 17:53:35 | Gabriela WÃ³jcikiewicz | ja nie pisaÅam jednej | message_1.json |
-| 17:41:15 | Piotrek Walczak | mam z okna wspaniaÅy widok ð«£ | message_1.json |
-| 17:44:14 | Oliwia WÅodarczyk | czy ktos z was moze zgÅosiÅ sie do zrobienia tego streszczenia na mÃ³zgowe? | message_1.json |
-| 17:40:59 | Piotrek Walczak | OczywiÅcie ze sÄ | message_1.json |
-| 16:53:21 | Weronika ZieliÅska | SÄ jakieÅ w KocmyrzÃ³w Luborzycy w Goszczy I jest tam autobus jak coÅ ð | message_1.json |
-| 17:34:44 | Justyna Kluska | KiedyÅ byÅy niedaleko zielonek ale czy wciÄÅ¼ sÄ to nie mam pojÄcia ð¤·ð½ââï¸ | message_1.json |
-| 17:44:58 | Oliwia WÅodarczyk | i czy moze ktos tez siÄ orientuje czy poznawcza w niedziele jest zdalnie? | message_1.json |
-| 17:51:13 | Oliwia WÅodarczyk | boze przesadaa, ja czaje, Å¼e daÅa wiÄcej czasu, ale w czerwcu juÅ¼ jest zapierdol | message_1.json |
-| 17:51:45 | Oliwia WÅodarczyk | ej dobra to jeszcze jedno szybkie pytanie, czy ktos nie pisaÅ jakiejÅ wejÅciowki na poznawczej? | message_1.json |
-| 17:48:37 | Monika WiÅniewska | Ja np wciÄÅ¼ nie dostaÅam od niej artykuÅu ð | message_1.json |
-| 17:45:31 | Oliwia WÅodarczyk | bo mam pytanie ile macie stron tego artykuÅu | message_1.json |
-| 17:46:02 | Oliwia WÅodarczyk | bo ja nwm jak z 12 stron artykuÅu naukowego ma mi wyjÅÄ okoÅo 1 strona streszczeniaXDD | message_1.json |
-| 20:25:23 | Dorota Szczerba | WÅaÅnie przed zmianÄ lektorat miaÅby siÄ koÅczyÄ o 13, a po zmianie teÅ¼ o 13. WedÅug tego c... | message_1.json |
-| 12:45:11 | Martyna Gancarczyk | tak, ale kolosy mamy przed sesjÄ wiÄc nie wiem dlaczego wÄtpliwoÅci co do przedÅuÅ¼enia sesji o... | message_1.json |
-| 19:59:05 | Ania Gancarz | dodaÅam ankietÄ na grupie, wiÄc przeczytajcie uwaÅ¼nie i dajcie odpowiedÅº | message_1.json |
-| 12:44:02 | MaÅgorzata Gajewska | Ale za to jest duÅ¼a szansa na zdalne kolokwia co juÅ¼ jest duÅ¼ym uÅatwieniem ale tak czy tak nauc... | message_1.json |
-| 12:43:30 | Martyna Gancarczyk | nie ma czego siÄ baÄ, z emocji mamy bazÄ | message_1.json |
-| 12:43:42 | Martyna Gancarczyk | I zostajÄ nam tylko 2 przedmioty do ogarniÄcia | message_1.json |
-| 20:05:07 | Sylwia HoÅda | [No text content] | message_1.json |
-| 20:13:06 | Anna PÅatek | SÅuchajcie a co z kolosem z logiki? Bo chyba ten kolos bÄdzie w czasie zdalnych. A pytanie jak siÄ... | message_1.json |
-| 20:14:12 | Martyna Gancarczyk | Zanim Wawrzyniakowi coÅ siÄ powie to trzeba najpierw ogarnÄÄ pismo od rektora | message_1.json |
-| 20:12:34 | Martyna Gancarczyk | jednak pisanie osobno kaÅ¼dy egzamin bÄdzie nam na rÄkÄ niÅ¼ 2 w jeden weekend | message_1.json |
-| 20:10:19 | MaÅgorzata Gajewska | Pytanie czy prowadzÄcy lektoratu siÄ zgodzi bo moÅ¼e mieÄ inne zajÄcia w tym czasie | message_1.json |
-| 20:11:57 | Martyna Gancarczyk | warto sprÃ³bowaÄ | message_1.json |
-| 12:43:21 | Martyna Gancarczyk | Tylko ze statystyki mamy zdalny egzamin | message_1.json |
-| 11:50:00 | Ania Gancarz | hi, nie pisaÅ nikt z was do rektora o przedÅuÅ¼enie sesji jeszcze, no nie? | message_1.json |
-| 12:38:10 | Joanna Krk | PrzedÅuÅ¼enie sesji wiÄÅ¼e siÄ z terminem po igrzyskach i co za tym idzie pewnym egzaminem stacjo... | message_1.json |
-| 09:42:07 | Martyna Gancarczyk | siemka czy ktos moze znalazl te fragmenty i mÃ³gÅby mi podesÅaÄ numery stron? | message_1.json |
-| 18:48:01 | Marek Tokarz | Marek Tokarz opuÅciÅ(a) grupÄ. | message_1.json |
-| 09:41:53 | Martyna Gancarczyk | [Photo: 1] | message_1.json |
-| 12:39:26 | Martyna Gancarczyk | Pani z mÃ³zgowych powiedziaÅa Å¼e mamy mieÄ egzamin stacjonarny, a to jest nasz ostatni i jedyny e... | message_1.json |
-| 12:43:09 | Martyna Gancarczyk | zdalna bÄdzie cudem a wÄtpiÄ Å¼e siÄ uda | message_1.json |
-| 12:43:16 | Ania Gancarz | nope | message_1.json |
-| 12:42:18 | Magda Staszel | Czyli nie ma co liczyÄ na zdalnÄ? | message_1.json |
-| 12:40:29 | MaÅgorzata Gajewska | Z pogÅosek, ktÃ³re krÄÅ¼Ä sesja bÄdzie stacjonarnie gdyÅ¼ stan epidemii zostaÅ niedawno zniesio... | message_1.json |
-| 12:41:49 | Ania Gancarz | poza tym pÃ³ki co i tak egzaminy stacjonarne sÄ pewne, kaÅ¼dy wykÅadowca nam mÃ³wi, Å¼e zrobi zdal... | message_1.json |
-| 20:17:54 | Anna PÅatek | Nie wiem, ale tak myÅle gÅoÅno | message_1.json |
-| 20:18:21 | Martyna Gancarczyk | chyba nie, zdaje mi siÄ Å¼e mÃ³wiÅ Å¼e w maÅych grupach to ma byÄ a nie jak na filozofii | message_1.json |
-| 20:17:54 | Martyna Gancarczyk | zrobimy ankietÄ na dniach i sie kaÅ¼dy bÄdzie mÃ³gÅ zastanowiÄ | message_1.json |
-| 20:17:28 | Anna PÅatek | No ma byÄ teoria tez, Np co to tautologia. | message_1.json |
-| 20:17:46 | Anna PÅatek | No tak, ale wtedy moÅ¼emy siÄ z nim umÃ³wiÄ w jakiÅ dzieÅ na aule wszyscu razem | message_1.json |
-| 20:18:25 | Martyna Gancarczyk | ale moÅ¼e siÄ mylÄ | message_1.json |
-| 20:24:49 | Oliwia WÅodarczyk | tego 18 | message_1.json |
-| 20:25:07 | Oliwia WÅodarczyk | mÃ³zgowe k4 juÅ¼ | message_1.json |
-| 20:24:46 | Oliwia WÅodarczyk | a o 13:15 mÃ³zgowe | message_1.json |
-| 20:24:37 | Oliwia WÅodarczyk | [Photo: 1] | message_1.json |
-| 20:24:42 | Oliwia WÅodarczyk | l6 ma lektorat 2,5h | message_1.json |
-| 20:17:15 | Jowita Rozum | Tylko Å¼e ciÄÅ¼ko by to byÅo zrobiÄ stacjonarnie ze wzglÄdu na inne zajÄcia | message_1.json |
-| 20:16:08 | Anna PÅatek | Wiec pytanie czy ewentualnie jednak nie poszlibyÅmy go napisaÄ stacjonarnie xD | message_1.json |
-| 20:16:24 | Dorota Szczerba | Ej nie, nam ostatnio mÃ³wiÅ, Å¼e jak bÄdÄ zajÄcia zdalnie to zrobi zdalny, tylko wtedy bÄdÄ gÅ... | message_1.json |
-| 20:15:15 | Anna PÅatek | Szczerze mÃ³wiÄc to tez u niego sobie Årednio wyobraÅ¼am xD | message_1.json |
-| 20:14:25 | Martyna Gancarczyk | Wydaje mi siÄ Å¼e bez tego nic nie zdziaÅamy | message_1.json |
-| 20:14:39 | Martyna Gancarczyk | A on mÃ³wiÅ Å¼e nie widzi kolosa zdalnie | message_1.json |
-| 20:16:27 | Martyna Gancarczyk | noo ja myÅlÄ Å¼e byÅby testportal, kamerki itd wiÄc jeszcze wiÄcej stresu niÅ¼ to warte xd a to... | message_1.json |
-| 20:17:06 | Wiktoria MiÅaszewska | Kamerki w liczbie mnogiej | message_1.json |
-| 20:17:15 | Dorota Szczerba | W sensie zaznaczyÅ, Å¼e wolaÅ by stacjonarnie, ale nie wyklucza zdalnej wersji | message_1.json |
-| 20:17:01 | Sylwia HoÅda | Ale on caÅy czas mÃ³wiÅ, Å¼e bÄdÄ praktyczne pytania, w sensie, Å¼eby coÅ rozwiÄzaÄ a nie tak... | message_1.json |
-| 20:16:53 | Edyta Lemiech | nam teÅ¼ coÅ podobnego powiedziaÅ | message_1.json |
-| 20:16:58 | Anna PÅatek | Wpadnie o tym samym myÅle. Ze ogÃ³lnie bÄdzie trudniej | message_1.json |
-| 16:44:16 | Justyna Sarota | ale dw, nie musi byÄ dokÅadny, tylko taki do zobrazowania | message_1.json |
-| 16:45:09 | Radek Salwach | Pewnie wtedy bÄdÄ zbieraÅ wszystko i wysyÅaÅ | message_1.json |
-| 17:23:37 | MichaÅ Wiencek | Kk | message_1.json |
-| 16:45:02 | Radek Salwach | Do jakiejÅ 22/23 | message_1.json |
-| 16:41:05 | MichaÅ Wiencek | Do ktorej ci mamt to zadanie wyslac | message_1.json |
-| 16:41:09 | MichaÅ Wiencek | @Radek Salwach ? | message_1.json |
-| 17:26:18 | Stasiu Przygoda | Za duÅ¼o tego przepisywania | message_1.json |
-| 17:32:31 | MichaÅ Wiencek | To juz wgl | message_1.json |
-| 17:32:40 | MichaÅ Wiencek | Pojebalo tego matemaksa kognitywnego | message_1.json |
-| 17:32:29 | MichaÅ Wiencek | A wyobraz sobie jakbys to jeszcze sam musiaÅ zrobic | message_1.json |
-| 17:32:17 | MichaÅ Wiencek | No pojebane | message_1.json |
-| 17:32:19 | MichaÅ Wiencek | Tyle przepisywania | message_1.json |
-| 16:08:38 | Radek Salwach | No ona i jej przedmiot to taki Å¼art trochÄ | message_1.json |
-| 16:06:57 | MichaÅ Wiencek | Napisze do niej | message_1.json |
-| 16:07:04 | MichaÅ Wiencek | Czy mkge to jakoÅ to inaczej | message_1.json |
-| 16:06:57 | Radek Salwach | Ja jestem u niej na kartce a na teamie nie | message_1.json |
-| 16:06:46 | Radek Salwach | A Ty jesteÅ | message_1.json |
-| 16:06:55 | MichaÅ Wiencek | No wiem jestem na ten wtorke | message_1.json |
-| 16:07:06 | MichaÅ Wiencek | Saliczyc | message_1.json |
-| 16:07:50 | MichaÅ Wiencek | I spie | message_1.json |
-| 16:07:57 | MichaÅ Wiencek | Po tym antybiotyku mocarnym xd | message_1.json |
-| 16:07:49 | MichaÅ Wiencek | Jeszcze jak tersz zdycham z bolu calymi dniam8 | message_1.json |
-| 16:07:16 | MichaÅ Wiencek | Bo nie usmiecha mi sie robic prezki w szpitslu pod kroplowka | message_1.json |
-| 16:07:28 | MichaÅ Wiencek | Z odwiedzinami pielegniarek w trakcie | message_1.json |
-| 19:47:22 | MichaÅ Wiencek | Bo bez cpania sie nie da takich rzeczy robiÄ | message_1.json |
-| 19:47:47 | Radek Salwach | SÄ rzeczy niezmiene | message_1.json |
-| 19:47:12 | MichaÅ Wiencek | Bo czekam na zastrzyk z morfina | message_1.json |
-| 19:43:01 | Radek Salwach | BÄdÄ czekaÅ dziecko, no worries | message_1.json |
-| 19:46:58 | MichaÅ Wiencek | Ja teÅ¼ jakos tak | message_1.json |
-| 19:54:00 | MichaÅ Wiencek | Nigdy tyle nie cpalem co w tym szpitalu | message_1.json |
-| 19:57:13 | MichaÅ Wiencek | Czulem sie juz zajebiscie, dali mi ten antybiotyk i tak mnie zmiotlo ze pierwszy dzieÅ i noc caly r... | message_1.json |
-| 20:00:16 | Stasiu Przygoda | skrajnosc w skrajnosc | message_1.json |
-| 19:56:41 | MichaÅ Wiencek | Szczegolnie teraz po tym antybiotyku silnym | message_1.json |
-| 19:54:59 | MichaÅ Wiencek | Codziennie twarde narkotyki wlatuja | message_1.json |
-| 19:56:33 | MichaÅ Wiencek | Ja mam zestaw przeciwbolowy jak ludzie z nowotworami xd | message_1.json |
-| 19:42:57 | Madzia Szczypka | [Photo: 1] | message_1.json |
-| 18:27:46 | Radek Salwach | XD | message_1.json |
-| 18:28:09 | Madzia Szczypka | Zazdro | message_1.json |
-| 18:27:45 | Radek Salwach | W Maczku | message_1.json |
-| 17:38:20 | Stasiu Przygoda | Nie jestem w stanie wyobraziÄ sobie takich katorg | message_1.json |
-| 18:27:43 | Radek Salwach | BuddÄ spotkaliÅmy z Matczakiem | message_1.json |
-| 18:28:18 | Madzia Szczypka | BuÅa ojebana | message_1.json |
-| 19:42:45 | Madzia Szczypka | Wysle ci do 23 | message_1.json |
-| 19:42:50 | Madzia Szczypka | Bo potrzebuje biurko | message_1.json |
-| 18:28:43 | Madzia Szczypka | XDDD | message_1.json |
-| 18:28:33 | Radek Salwach | Robimy mu zdjÄcia auta a on do Matczaka: Co tam mordo nagrywasz swojÄ przyszÅÄ furÄ? | message_1.json |
-| 18:28:38 | Radek Salwach | Budda to szef | message_1.json |
-| 16:06:43 | Radek Salwach | Tylko mnie nie ma w rozpisce Wiencek | message_1.json |
-| 22:44:01 | Bogusia Ptak | Mam nadzieje ze na urodziny w szpitalu nie byles | message_1.json |
-| 22:44:19 | Bogusia Ptak | I btw powiem ci co jedna baba u nas zeobila | message_1.json |
-| 22:43:51 | Bogusia Ptak | Wgl spÃ³Åºnione wszystkiego najlepszegooð¥³ zdania sesyjki | message_1.json |
-| 22:42:08 | Bogusia Ptak | Co z tego ze deszcz padaÅ, w garaÅ¼u siedzieliÅmy i byÅo supi | message_1.json |
-| 22:42:09 | Bogusia Ptak | XD | message_1.json |
-| 22:44:44 | Bogusia Ptak | WybraÅa sb swoich ulubieÅcÃ³w z caÅego roku i oni nie musza pisaÄ egzaminu XD | message_1.json |
-| 14:22:44 | Stasiu Przygoda | Dobre pytanie | message_1.json |
-| 14:22:57 | Stasiu Przygoda | Jak ktoÅ to bÄdzie miaÅ to proszÄ siÄ pochwaliÄ na forum | message_1.json |
-| 14:15:19 | MichaÅ Wiencek | Ma kfos to zadanie z matmy zrobione? | message_1.json |
-| 22:45:13 | Bogusia Ptak | Ofc jak siÄ domyÅlasz nie ma mnie wÅrÃ³d nich XDD | message_1.json |
-| 22:45:25 | Bogusia Ptak | To caÅe cool up | message_1.json |
-| 22:41:44 | Bogusia Ptak | Zeobilam grilla z rodzinka | message_1.json |
-| 22:37:35 | Bogusia Ptak | MoÅ¼e im siÄ nie opÅaca wracaÄ, ja mam w miare blisko | message_1.json |
-| 22:38:08 | Bogusia Ptak | Coo dzizas maria co ty tak chorujesz | message_1.json |
-| 16:48:18 | Justyna Sarota | sam profesjonalniejszych nie robiÅ, wiÄc raczej tak | message_1.json |
-| 16:44:24 | Justyna Sarota | sam nam dokÅadnych nie rysowaÅ | message_1.json |
-| 16:47:10 | Damian Piotr Cokot | OdrÄcznie bÄdzie git? | message_1.json |
-| 22:39:16 | Bogusia Ptak | O niee teraz to wszytsko nadrabiaÄ [*] | message_1.json |
-| 22:41:18 | Bogusia Ptak | W pracy byÅam | message_1.json |
-| 22:41:25 | Bogusia Ptak | Potem na wesele pojechaÅam | message_1.json |
-| 22:41:14 | Bogusia Ptak | A powiem ci ze nawet spoko | message_1.json |
-| 22:40:09 | Bogusia Ptak | Ja sobie powiedziaÅam ze nawet jak bÄdÄ mieÄ 40 stopni gorÄczki to i tak pojde na te zajÄcia b... | message_1.json |
-| 22:40:28 | Bogusia Ptak | Na szczÄÅcie na razie byÅam na wsyztskich tam gdzie muszÄ mieÄ sto pro obecnoÅci | message_1.json |
-| 15:59:17 | MichaÅ Wiencek | Nie wywolywala mnie ostatnoo? | message_1.json |
-| 16:00:47 | MichaÅ Wiencek | A kto mial w tamtym tygodniu??? | message_1.json |
-| 15:59:12 | MichaÅ Wiencek | ? | message_1.json |
-| 15:59:05 | MichaÅ Wiencek | Czyli jak ja mialem byc 16.05 | message_1.json |
-| 15:59:11 | MichaÅ Wiencek | To mam za tydzieÅ ta | message_1.json |
-| 16:01:07 | Stasiu Przygoda | Idzie chyba wgl rozpiski | message_1.json |
-| 16:03:37 | MichaÅ Wiencek | Kurwa ostatnie zajÄcia sa w ten wtoeek xd | message_1.json |
-| 16:06:37 | Radek Salwach | Idk mam wyjebane w niÄ, ja oddawaÅem krew wiÄc mam prawo robiÄ nastÄpnym rwzem | message_1.json |
-| 16:02:04 | MichaÅ Wiencek | To mzoe inaczej isc | message_1.json |
-| 16:01:19 | Stasiu Przygoda | Bo lelito miaÅ przecieÅ¼ pÃ³Åºniej | message_1.json |
-| 16:02:01 | MichaÅ Wiencek | Tylko u nas w grupie wiecej osÃ³b jest | message_1.json |
-| 15:58:33 | Radek Salwach | WiÄc jestem w ten wtorek i bÄdÄ random temat przedstawiaÅ | message_1.json |
-| 15:55:49 | MichaÅ Wiencek | Czy u rzeszutek | message_1.json |
-| 15:55:58 | MichaÅ Wiencek | Te prezki ida zgodnie z rozpiska? | message_1.json |
-| 15:55:45 | MichaÅ Wiencek | Sie | message_1.json |
-| 14:24:37 | Radek Salwach | [Photo: 3] | message_1.json |
-| 15:55:45 | MichaÅ Wiencek | Ej orientujecie | message_1.json |
-| 15:56:04 | MichaÅ Wiencek | Czy jakosndo tylu jest | message_1.json |
-| 15:57:42 | Radek Salwach | No ja miaÅem mieÄ  tamten wtorek | message_1.json |
-| 15:57:59 | Radek Salwach | Tylko nie miaÅem bo kurwa idk gdzie ja na rozpisce jestem | message_1.json |
-| 15:56:47 | MichaÅ Wiencek | I chyba miales miec jakos jak ja ta prezke | message_1.json |
-| 15:56:14 | MichaÅ Wiencek | Bo jak ja mam miec w ten wtorek to musze do jiej napisac ze nie dam rady xd | message_1.json |
-| 15:56:35 | MichaÅ Wiencek | @Radek Salwach gÅÃ³wnie pytanie do cb bo ze mna w grupie jesteÅ | message_1.json |

@@ -1,158 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-04-01
-# Liczba: 153
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 09:55:44 | Natalia Stachura | Nieee | message_1.json |
-| 09:55:46 | Natalia Stachura | Nie Åmieje siÄ | message_1.json |
-| 09:51:33 | Katarzyna Morawska | Musisz mi pokazaÄ ! | message_1.json |
-| 09:55:31 | Katarzyna Morawska | Natalia nie Åmiej siÄ ! | message_1.json |
-| 09:55:50 | Natalia Stachura | To byÅo przypadkiem | message_1.json |
-| 12:14:47 | Magda CieÅ¼ | Pozdrawiamy z Trzech Koron!! | message_1.json |
-| 12:14:52 | Magda CieÅ¼ | â¤ï¸ | message_1.json |
-| 09:55:52 | Natalia Stachura | Serio xD | message_1.json |
-| 12:14:34 | Magda CieÅ¼ | [Video: 1] | message_1.json |
-| 09:43:23 | Luiza Socha | Mamy w IP Kasia | message_1.json |
-| 09:14:54 | Ania Michno | My juÅ¼ na rajdzie a jednoczeÅnie startujemy z wyzwaniem superformy!!ðï¸ SzczegÃ³Åy na relacji... | message_1.json |
-| 09:14:59 | Ania Michno | [Photo: 1] | message_1.json |
-| 16:43:10 | Magda Motal | Super, dziÄkujÄ | message_1.json |
-| 19:04:53 | Ania Gancarz | ktÃ³raÅ grupa ma jutro Äwiczenia z emocji i motywacji? | message_1.json |
-| 09:28:39 | Magda CieÅ¼ | ZachÄcam do udziaÅu, klikajcie w naklejkÄ i oddawajcie swoje fotki! â¤ï¸ | message_1.json |
-| 09:32:48 | Katarzyna Morawska | Czym to siÄ liczy? Tylko zegarkiem? | message_1.json |
-| 09:43:16 | Luiza Socha | W telefonie chyba tez sÄ | message_1.json |
-| 09:28:49 | Magda CieÅ¼ | Dodawajcie hah* | message_1.json |
-| 09:29:17 | Magda CieÅ¼ | Nie zapomnijcie oznaczyÄ nzsu ð«¢ udanego weekendu! | message_1.json |
-| 16:58:48 | Seweryn Harvey Howell | Mamy juz jakies terminy kolosow? | message_1.json |
-| 16:59:01 | Seweryn Harvey Howell | I ogolnie kiedy macie ogolny i z kim | message_1.json |
-| 12:44:45 | Damian Piotr Cokot | Od kiedy sÄ zdalne? Wie ktoÅ moÅ¼e? | message_1.json |
-| 12:44:55 | Radek Salwach | 29 maj | message_1.json |
-| 16:59:06 | Seweryn Harvey Howell | Bo musze nadrobic wf XDD | message_1.json |
-| 16:59:37 | Seweryn Harvey Howell | Ale macie jakis wf?? | message_1.json |
-| 16:59:42 | Seweryn Harvey Howell | :-0 | message_1.json |
-| 16:59:21 | Radek Salwach | OgÃ³lny zostaÅ rozwiÄzany | message_1.json |
-| 16:59:25 | Oliwia Sobalska | RozwiÄzaÅ nam grupÄ heh | message_1.json |
-| 12:45:51 | Natasza Rodziewicz | [Photo: 1] | message_1.json |
-| 17:51:27 | Magda CieÅ¼ | [Photo: 1] | message_1.json |
-| 17:53:00 | Magda CieÅ¼ | CaÅuski od zarzÄdu prosto z Kasiny! | message_1.json |
-| 13:00:19 | Katarzyna Morawska | Bejbaaaaaa | message_1.json |
-| 13:00:21 | Katarzyna Morawska | PiÄkni! | message_1.json |
-| 18:39:22 | PaweÅ Piotrowski | [Photo: 1] | message_1.json |
-| 00:32:59 | Maciek Radecki | [Photo: 1] | message_1.json |
-| 00:33:15 | Maciek Radecki | Miejsca nie znam, ale brzmi jak bardzo waÅ¼ny i potrzebny temat | message_1.json |
-| 18:39:38 | PaweÅ Piotrowski | Wieczerza NZS'u w trakcie :D | message_1.json |
-| 18:43:16 | Angelika Chomicka | Muahaha | message_1.json |
-| 15:31:44 | Joanna Joanna | Czy byÅy jakies ustalenia, ze ktos konkretny siÄ zajmuje tego typu sytuacjami w tym semestrze? Czy... | message_1.json |
-| 15:35:02 | Martyna Gancarczyk | Nikt nie wspominaÅ o tym, ze historia myÅli ma byc zdalnie | message_1.json |
-| 15:30:44 | Joanna Joanna | 21go kwietnia nie mamy zdalnie?? | message_1.json |
-| 15:30:57 | Joanna Joanna | Trzeba napisaÄ do tego pana ð | message_1.json |
-| 15:35:05 | Joanna Joanna | 16go czerwca(tez piatek) ten sam problem | message_1.json |
-| 15:35:27 | Joanna Joanna | Szczegolnie, ze o godz 15 | message_1.json |
-| 15:38:52 | Magda Motal | Opiekun roku mÃ³wiÅ Å¼e nie da siÄ tego tak zaÅatwiÄ Å¼eby kaÅ¼dy piÄtek byÅ zdalnie i ostatec... | message_1.json |
-| 15:35:15 | Martyna Gancarczyk | tylko mowa byla o statystyce i lektoracie | message_1.json |
-| 15:35:16 | Joanna Joanna | To sÄ piÄtki, a w piÄtki miaÅy byc wykÅady zdalnie | message_1.json |
-| 15:30:35 | Joanna Joanna | [Photo: 1] | message_1.json |
-| 00:50:56 | Madzia Szczypka | Ja odebraÅam zeby miec juz go z gÅowy i wgl | message_1.json |
-| 11:19:02 | Ewa Kempny | Czy ktÃ³raÅ grupa ma dzisiaj po poÅudniu Äwiczenia z psychologii emocji ? | message_1.json |
-| 00:50:32 | Madzia Szczypka | Nie masz za co girl | message_1.json |
-| 00:50:49 | Madzia Szczypka | Wiadomo Å¼e jakbyÅ mogÅa to byÅ odebraÅa a nie to nie Spoczko | message_1.json |
-| 11:20:21 | Nadia Materek | GK03 ma od 16:45 do 18:15 | message_1.json |
-| 11:22:27 | Katarzyna Huk | K01 15-16:30 | message_1.json |
-| 11:22:56 | Katarzyna Huk | 350 | message_1.json |
-| 11:21:27 | Ewa Kempny | DziÄkujÄ ð¼ | message_1.json |
-| 11:21:50 | Ewa Kempny | A w ktÃ³rej sali? | message_1.json |
-| 15:43:16 | Magda Motal | [Photo: 1] | message_1.json |
-| 15:43:33 | Magda Motal | Pewnie niektÃ³rzy majÄ jeszcze nie zaktualizowany plan | message_1.json |
-| 15:42:36 | Joanna Joanna | Oki, to kto pisze do ziomka? | message_1.json |
-| 15:43:13 | Magda Motal | Jest normalnie dla gk03 | message_1.json |
-| 15:43:40 | Nadia Materek | To moÅ¼e ja indywidualnie mam przyspieszone XD | message_1.json |
-| 16:42:48 | Magda Motal | MÃ³wiÅa czy przesyÅa prezentacjÄ? | message_1.json |
-| 16:42:57 | Sylwia HoÅda | Tak, przesyÅa | message_1.json |
-| 15:52:32 | Joanna Joanna | ð¤ | message_1.json |
-| 16:27:05 | Joanna Joanna | To ja napiszÄ | message_1.json |
-| 15:41:55 | Magda Motal | Czy jednak siÄ uda | message_1.json |
-| 15:39:28 | Martyna Gancarczyk | Zdalnie mamy tylko statystyke i lektoraty | message_1.json |
-| 15:40:09 | Ania Gancarz | tak byÅo, nawet sprawdzaÅam dokÅadnie w starych wiadomoÅciach | message_1.json |
-| 15:39:07 | Magda Motal | Chyba Å¼e coÅ pomyliÅam, niech mnie ktoÅ poprawi jeÅli Åºle mÃ³wiÄ XDD | message_1.json |
-| 15:39:15 | Martyna Gancarczyk | zgadzam siÄ | message_1.json |
-| 15:41:10 | Nadia Materek | [Photo: 1] | message_1.json |
-| 15:41:49 | Magda Motal | I lepiej nie pytaÄ | message_1.json |
-| 15:41:55 | Martyna Gancarczyk | Czernecka mÃ³wiÅa ze nie przewiduje zdalnie | message_1.json |
-| 15:41:18 | Nadia Materek | Ja bym siÄ nad tym zastanowiÅa | message_1.json |
-| 15:41:44 | Magda Motal | Imo warto sprÃ³bowaÄ, za dwa tygodnie mamy w sobotÄ i siÄ dowiemy czy to jest typ osoby jak Wawrz... | message_1.json |
-| 16:59:57 | Oliwia Sobalska | Nie, trzeba szukaÄ sobie grupy Å¼eby siÄ dopisaÄ | message_1.json |
-| 09:23:08 | Radek Salwach | Damn | message_1.json |
-| 09:23:12 | Radek Salwach | Grubo widzÄ | message_1.json |
-| 09:21:55 | Stasiu Przygoda | po to sie na mecze chodzi | message_1.json |
-| 09:22:38 | Stasiu Przygoda | chyba nie chcesz powiedziec ze wolisz patrzec jak ponad 20 osob sobie biegnie za jakims flakiem zami... | message_1.json |
-| 09:23:30 | MichaÅ Wiencek | Ja niestety zajÄcia mam wtedy xd | message_1.json |
-| 09:29:11 | Julita Bouffette | No ja siÄ takich rzeczy ogÃ³lnie boje | message_1.json |
-| 09:29:16 | Julita Bouffette | Ale Å¼eÅcie mnie namÃ³wili | message_1.json |
-| 09:27:47 | Radek Salwach | Tylko uwaÅ¼aj Stachu bo teÅ¼ bÄdÄ, zebys rykoszetem nie dostaÅ ð | message_1.json |
-| 09:28:24 | Stasiu Przygoda | to moze nie lec full berserk tylko uwazaj na swoich | message_1.json |
-| 09:21:50 | Stasiu Przygoda | ale co daj spokoj | message_1.json |
-| 09:19:12 | Madzia Szczypka | Dobra mozemy isc | message_1.json |
-| 09:19:13 | Julita Bouffette | O 15 chyba | message_1.json |
-| 09:19:07 | Julita Bouffette | Cracovia ÅÃ³dÅº Widzew | message_1.json |
-| 09:19:08 | Madzia Szczypka | O ktorej | message_1.json |
-| 09:19:24 | Julita Bouffette | Na Cracovii | message_1.json |
-| 09:20:23 | Stasiu Przygoda | ja ide ale jak bedziemy sie napierdalac z kibolami | message_1.json |
-| 09:21:32 | Julita Bouffette | Daj spokÃ³j | message_1.json |
-| 09:19:37 | Madzia Szczypka | Okej | message_1.json |
-| 09:19:46 | Madzia Szczypka | dam znac | message_1.json |
-| 09:41:26 | Stasiu Przygoda | To wypierdalaj tym bardziej nie bÄdÄ | message_1.json |
-| 09:46:31 | Radek Salwach | [Photo: 1] | message_1.json |
-| 09:39:46 | Radek Salwach | Masz kurwa byÄ | message_1.json |
-| 09:41:17 | Stasiu Przygoda | O ty kurwa bÄdziesz przeklinaÄ do mnie teraz | message_1.json |
-| 09:47:23 | Madzia Szczypka | Same w chuj | message_1.json |
-| 09:47:53 | Madzia Szczypka | A potrm teatr | message_1.json |
-| 09:49:54 | Radek Salwach | [Photo: 1] | message_1.json |
-| 09:47:47 | Madzia Szczypka | Idziemy na obiad z moimi rodzicami | message_1.json |
-| 09:47:50 | Madzia Szczypka | Jedzenie za free | message_1.json |
-| 09:39:18 | Stasiu Przygoda | Ja jeszcze zobacze | message_1.json |
-| 09:31:01 | Radek Salwach | Ani Tarnowianie | message_1.json |
-| 09:31:09 | Radek Salwach | Ani Kasiniany | message_1.json |
-| 09:29:24 | Julita Bouffette | Gnoje zafajdane | message_1.json |
-| 09:30:51 | Radek Salwach | Mielczanie nie sÄ moi | message_1.json |
-| 09:34:28 | Julita Bouffette | XDDDDDD | message_1.json |
-| 09:38:41 | Radek Salwach | Boisko 14 @Stasiu Przygoda @MichaÅ Wiencek | message_1.json |
-| 09:38:52 | Radek Salwach | @Madzia Szczypka | message_1.json |
-| 09:34:28 | Julita Bouffette | Tarnowianie zawsze robiÄ gnÃ³j | message_1.json |
-| 09:37:07 | Radek Salwach | WrocÅaw i GÅogÃ³w zrobiÄ taki tam burdel | message_1.json |
-| 17:09:09 | Daria Berkowicz | Ale z tego co goÅciu pisaÅ to moÅ¼emy tylko na ogÃ³lny siÄ zapisaÄ | message_1.json |
-| 17:09:16 | Daria Berkowicz | MÃ³wiÅ* | message_1.json |
-| 17:06:20 | Radek Salwach | Zapraszam na nogÄ czwartek 12:30-14, dalej jest duÅ¼o miejsc | message_1.json |
-| 17:07:45 | Radek Salwach | Bo mi jÄ rozwiÄÅ¼Ä i teÅ¼ bÄdÄ musiaÅ szukaÄ | message_1.json |
-| 17:09:46 | Radek Salwach | Mantorski taki mÄdry? | message_1.json |
-| 17:11:47 | Radek Salwach | Krauz mÃ³wi Å¼e miejsca sÄ i Å¼eby ktoÅ przychodziÅ, wiÄc pewnie nawet zaÅatwi jeÅli trzeba | message_1.json |
-| 17:12:25 | Oliwia Sobalska | Krauz mi pisaÅ Å¼e Kurde wlasnoe nie ma xd | message_1.json |
-| 17:10:01 | Anja Bulanda | bez sensu XD | message_1.json |
-| 17:11:04 | Anja Bulanda | a ile was bylo na liscie? | message_1.json |
-| 17:03:57 | Daria Berkowicz | Nie moÅ¼emy | message_1.json |
-| 17:00:13 | Seweryn Harvey Howell | Powalone | message_1.json |
-| 17:00:30 | Oliwia Sobalska | Zebys wiedziaÅa, pisaÅam do 4 i w Å¼adnej nie ma miejsca | message_1.json |
-| 17:00:02 | Oliwia Sobalska | Z innego kierunku | message_1.json |
-| 17:00:10 | Seweryn Harvey Howell | Damn | message_1.json |
-| 17:00:48 | Seweryn Harvey Howell | Wiedzial* | message_1.json |
-| 17:01:16 | Oliwia Sobalska | Za maÅo osÃ³b podobno | message_1.json |
-| 17:01:34 | Anja Bulanda | a jak by bylo gdzies miejsce w sportach do wyboru to mozecie sie zapisac nie? | message_1.json |
-| 17:00:53 | Seweryn Harvey Howell | Bruh | message_1.json |
-| 17:01:03 | Seweryn Harvey Howell | Czemu w ogole zostala rozwiazana, wiadomo? | message_1.json |
-| 09:18:31 | Julita Bouffette | Szczudi | message_1.json |
-| 09:18:40 | Julita Bouffette | I Jasiek | message_1.json |
-| 09:18:25 | Julita Bouffette | Bo zostaÅam namÃ³wiona | message_1.json |
-| 09:18:29 | Julita Bouffette | @Stasiu Przygoda idzie | message_1.json |
-| 09:18:52 | Madzia Szczypka | [Sticker] | message_1.json |
-| 09:19:02 | Julita Bouffette | Chuj wie | message_1.json |
-| 09:19:04 | Madzia Szczypka | Gdzie | message_1.json |
-| 09:18:56 | Madzia Szczypka | Jaki mecz | message_1.json |
-| 09:18:56 | Julita Bouffette | @Madzia Szczypka chce mieÄ twoje wsparcie | message_1.json |
-| 09:18:20 | Julita Bouffette | Idziecie jutro na mecz | message_1.json |
-| 17:27:24 | Radek Salwach | Kiedy niby | message_1.json |
-| 17:27:49 | Oliwia Sobalska | W zeszÅym tygodniu | message_1.json |
-| 17:12:25 | Oliwia Sobalska | WÅaÅnie | message_1.json |
-| 17:12:43 | Oliwia Sobalska | Przynajmniej na ogÃ³lnym z nim | message_1.json |
-| 17:27:57 | Radek Salwach | W czwartek pÅacze  Å¼e to zaraz rozwiÄzane bÄdzie bo ludzi nie ma | message_1.json |
-| 17:30:34 | Radek Salwach | W kaÅ¼dym razie jak nie macie to siÄ zapytajcie go czy moÅ¼ecie na nogÄ do niego przyjÅÄ proszÄ... | message_1.json |
-| 20:14:44 | Maria Zguda | On tak napisaÅ, ale ÅmiaÅo siÄ zapisujcie jak nie ma miejsc | message_1.json |
-| 17:28:13 | Oliwia Sobalska | No ciekawe ciekawe | message_1.json |
-| 17:30:09 | Radek Salwach | To widzÄ dwubiegunÃ³wka jakaÅ jest | message_1.json |

@@ -1,230 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-04-19
-# Liczba: 225
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 20:40:01 | Ania Michno | Jestem chÄtna!! | message_1.json |
-| 20:44:16 | PaweÅ Piotrowski | @Aleksandra Janiga  a 4 siÄ juÅ¼ na tÅum kwalifikuje? XD | message_1.json |
-| 20:44:58 | Aleksandra Janiga | No sam sobie odpowiedz XDDD | message_1.json |
-| 20:39:48 | Julita Bouffette | Dla tych ktÃ³rzy nie zdÄÅ¼yli, moÅ¼na zaÅoÅ¼yÄ wÅasnÄ rodzinkÄ ð | message_1.json |
-| 20:35:41 | Aleksandra Janiga | Pablo, No 3 osoby to jeszcze nie tÅum.. ðð XDD | message_1.json |
-| 20:36:25 | Maksymilian Jaczewski | jak takie tÅumy bÄdÄ na PKSie... | message_1.json |
-| 20:36:33 | Maksymilian Jaczewski | to ja nie wiem co my zrobimy! | message_1.json |
-| 22:00:41 | Julita Bouffette | Jak weszÅam w to, to mi pokazaÅo Å¼e 19,99 zÅ na 3msc XD | message_1.json |
-| 22:00:47 | Julita Bouffette | Nie wiem czy coÅ Åºle zrobiÅam | message_1.json |
-| 22:01:07 | Maksymilian Jaczewski | A to nie dla nowych uÅ¼ytkownikÃ³w? | message_1.json |
-| 21:48:04 | Luiza Socha | [Photo: 1] | message_1.json |
-| 20:45:26 | Aleksandra Janiga | O to siÄ nie martw  Sama wiem, ze 5 osÃ³b na pewno przyjdzie. Wiec juÅ¼ tÅoczno!! XDDDD | message_1.json |
-| 20:48:08 | Julita Bouffette | KtoÅ jeszcze? | message_1.json |
-| 20:48:42 | Julia Tabaka | Ja | message_1.json |
-| 19:43:00 | PaweÅ Piotrowski | Spokojnie moi drodzy, co roku przed WZC takie czystki ;) | message_1.json |
-| 19:43:18 | UÅ¼ytkownik Facebooka | ð¤­ðð | message_1.json |
-| 19:48:25 | PaweÅ Piotrowski | PaweÅ Piotrowski usunÄÅ uÅ¼ytkownika Natalia Å»elasko z grupy. | message_1.json |
-| 19:42:52 | UÅ¼ytkownik Facebooka | nie odzywaj sie bo bÄdziesz nastÄpna | message_1.json |
-| 19:36:46 | MaÅgorzata Drozdek | ByÅo bardzo ciekawie â¤ï¸ | message_1.json |
-| 19:37:05 | Ania Michno | Ania Michno usunÄÅa uÅ¼ytkownika Kamila JÄdryjas z grupy. | message_1.json |
-| 19:41:27 | Paulina Kasprzak | Jezu jakie czystki XD | message_1.json |
-| 20:33:12 | Julita Bouffette | ChÄtna rÃ³wnieÅ¼! | message_1.json |
-| 20:33:14 | Patrycja Ryba | NapisaÅam | message_1.json |
-| 20:34:49 | PaweÅ Piotrowski | Ale tÅumu | message_1.json |
-| 20:32:42 | Maksymilian Jaczewski | priv | message_1.json |
-| 19:50:39 | PaweÅ Piotrowski | PaweÅ Piotrowski usunÄÅ uÅ¼ytkownika Natalie Mountain z grupy. | message_1.json |
-| 19:50:57 | PaweÅ Piotrowski | PaweÅ Piotrowski usunÄÅ uÅ¼ytkownika Julia MichaÅek z grupy. | message_1.json |
-| 20:31:39 | Magda Waga | czy ktoÅ chciaÅby doÅÄczyÄ do rodziny spotify? potrzebujÄ jeszcze 2 osÃ³b, Å¼eby wyszÅo 5zÅ ... | message_1.json |
-| 21:07:26 | Radek Salwach | W takim razie niech Cokot za Ciebie odpowiada i zorganizuje Ci dojazd ððð | message_1.json |
-| 21:07:35 | MichaÅ Matczak | JuÅ¼ to zrobiÅ | message_1.json |
-| 21:07:39 | Radek Salwach | Spoko | message_1.json |
-| 21:07:21 | Damian Piotr Cokot | SÅucham? | message_1.json |
-| 21:07:02 | MichaÅ Matczak | Nie nie | message_1.json |
-| 21:07:06 | MichaÅ Matczak | Od @Damian Piotr Cokot | message_1.json |
-| 21:07:11 | MichaÅ Matczak | Ty tam chuja zrobiÅeÅ | message_1.json |
-| 21:08:00 | Radek Salwach | XD | message_1.json |
-| 21:08:07 | Damian Piotr Cokot | Seen Radku | message_1.json |
-| 21:08:10 | Julita Bouffette | XDDD | message_1.json |
-| 21:07:52 | Damian Piotr Cokot | Ale kiedy to zostaÅo ustalone niby | message_1.json |
-| 21:07:39 | MichaÅ Matczak | Jedziemy moim autem | message_1.json |
-| 21:07:46 | MichaÅ Matczak | Ty teÅ¼ prowadzisz? | message_1.json |
-| 21:07:47 | Radek Salwach | [No text content] | message_1.json |
-| 21:03:42 | MichaÅ Matczak | Siemanooo | message_1.json |
-| 21:04:10 | MichaÅ Matczak | WypadÅo na mnie, przykro mi | message_1.json |
-| 21:04:11 | MichaÅ Matczak | XDD | message_1.json |
-| 21:03:33 | Radek Salwach | Radek Salwach dodaÅ MichaÅa Matczaka do grupy. | message_1.json |
-| 22:01:21 | Maksymilian Jaczewski | Bo zwykle te promki tak dziaÅajÄ | message_1.json |
-| 22:01:22 | Luiza Socha | Niestety nie wiem, tylko podrzuciÅam info | message_1.json |
-| 22:32:36 | BarÅomiej Greiner | tak, to jest tylko na nowe konta | message_1.json |
-| 21:05:08 | MichaÅ Matczak | TÄskniÅas? | message_1.json |
-| 21:05:14 | Radek Salwach | Stop it | message_1.json |
-| 21:06:40 | Radek Salwach | Ja go ogarnÄÅem jakby co, to ode mnie chÅop | message_1.json |
-| 21:05:04 | MichaÅ Matczak | Hell yea | message_1.json |
-| 21:04:50 | Damian Piotr Cokot | [No text content] | message_1.json |
-| 21:04:59 | Julita Bouffette | Hell no | message_1.json |
-| 21:05:00 | Julita Bouffette | XD | message_1.json |
-| 13:27:15 | Gosia Mizera | Hej, organizujemy konkurs na felieton dla studentÃ³w kierunkÃ³w okoÅo medycznych, gdy ktoÅ chciaÅ... | message_1.json |
-| 13:27:24 | Gosia Mizera | https://opieka.farm/konkurs-z-nagrodami-kwadrans-studencki/ | message_1.json |
-| 14:51:06 | Ania Michno | OgÅoszonko od HR-owej! https://www.facebook.com/groups/250202975102795/permalink/5866248686831501/?... | message_1.json |
-| 08:49:19 | Natalia Stachura | Hej kochani! ð ChciaÅabym Was serdecznie zaprosiÄ na trwajÄcy cykl Q&A w ramach Programu rozwo... | message_1.json |
-| 05:43:18 | Ania Michno | Na czym ta pomoc miaÅaby polegaÄ? Daj znaÄ i przekaÅ¼e info u siebie na pedagogiceð | message_1.json |
-| 06:15:20 | Juls Cichy | Hejka, czy ktoÅ planuje byÄ w biurze okoÅo 9:30? | message_1.json |
-| 07:37:21 | Juls Cichy | Klucz jest u nas przy DKMS na 1szym piÄtrze | message_1.json |
-| 14:57:28 | Ania Michno | mam juÅ¼ dwie chÄtne osoby, dam Ci znaÄ na priv | message_1.json |
-| 14:57:41 | Angelika Åuczyk | Super ð | message_1.json |
-| 15:46:41 | Paulina Kasprzak | Przepraszam teraz zauwaÅ¼yÅam! Jasne spytam i moÅ¼e Å¼e i ja jestem chÄtna ðâ¤ï¸ | message_1.json |
-| 14:52:53 | Angelika Åuczyk | DziÄkujÄ ð¥° | message_1.json |
-| 14:52:27 | Angelika Åuczyk | Z tego co zrozumiaÅam to trzeba bÄdzie siÄ zajÄÄ dzieÄmi z niepeÅnosprawnoÅciami przez ten c... | message_1.json |
-| 14:52:42 | Angelika Åuczyk | "PrzypilnowaÄ" ich | message_1.json |
-| 14:52:46 | Ania Michno | oki to juz przekazuje | message_1.json |
-| 13:18:03 | MaÅgorzata Drozdek | Vouchery wczucone ð | message_1.json |
-| 13:18:11 | MaÅgorzata Drozdek | Wrzucone* | message_1.json |
-| 13:18:18 | MaÅgorzata Drozdek | Jezus jak ja piszÄ xdd | message_1.json |
-| 12:34:16 | Angelika Åuczyk | [Photo: 1] | message_1.json |
-| 09:02:25 | Angelika Åuczyk | [Photo: 1] | message_1.json |
-| 09:45:28 | Aleksandra Kretek | [Photo: 1] | message_1.json |
-| 09:45:41 | Aleksandra Kretek | Tutaj na razie dajemy wampowe rzeczy | message_1.json |
-| 07:01:21 | Madzia Szczypka | Å»e ja mu tego przelewu nie robie | message_1.json |
-| 18:45:38 | Madzia Szczypka | [Photo: 1] | message_1.json |
-| 18:54:58 | Anna StÄpieÅ | W szpitalu nie miaÅ telefonu i dlatego olewaÅ ð¥º | message_1.json |
-| 07:01:11 | Madzia Szczypka | Od razu mowie | message_1.json |
-| 13:20:00 | Aleksandra Kretek | dziÄki <3 | message_1.json |
-| 23:47:33 | Aleksandra Kretek | Do odebrania: 1. Sabrosa Dance Studio - Rondo Mogilskie 1 (6 karnetÃ³w) 2. Cytat cafe Krk - Miodowa ... | message_1.json |
-| 06:59:56 | Madzia Szczypka | Pisze do PawÅa bo to jest przesadaaa | message_1.json |
-| 16:55:45 | Katarzyna Morawska | Razem z chÅopakami, WrocÅaw i Warszawa ð | message_1.json |
-| 17:06:48 | Magda CieÅ¼ | No przecieÅ¼ bÄdzie najlepsze szkolenie z projektÃ³w Kasia, no haloâ¦ | message_1.json |
-| 17:32:26 | PaweÅ Piotrowski | [Photo: 1] | message_1.json |
-| 16:55:32 | Katarzyna Morawska | Natalka pisaÅa wyÅ¼ej ð | message_1.json |
-| 16:41:57 | Katarzyna Morawska | Bawcie siÄ dobrze, uczcie pilnie ! ðð | message_1.json |
-| 16:54:27 | Edyta Bobak | Zapraszamy Kasia <3 | message_1.json |
-| 16:55:06 | Katarzyna Morawska | ProwadzÄ dziÅ q&a o byciu przewodniczÄcym na OU ð | message_1.json |
-| 19:36:13 | Ania Michno | Ania Michno usunÄÅa uÅ¼ytkownika Hubert Krejpcio z grupy. | message_1.json |
-| 19:36:21 | Ania Michno | Ania Michno usunÄÅa uÅ¼ytkownika Julia PawÅowska z grupy. | message_1.json |
-| 19:36:45 | Ania Michno | Ania Michno usunÄÅa uÅ¼ytkownika Madzia Witek z grupy. | message_1.json |
-| 17:54:42 | UÅ¼ytkownik Facebooka | DziÄkujÄ kaÅ¼demu NZS'iakowi, ktÃ³ry znalazÅ dziÅ czas! https://www.facebook.com/kolo.naukowe.fo... | message_1.json |
-| 17:32:38 | PaweÅ Piotrowski | A szkolonko z projektÃ³w w biurze ;) | message_1.json |
-| 17:34:29 | Paulina Kasprzak | Paczka DKMS sÅuÅ¼y XD | message_1.json |
-| 17:41:07 | PaweÅ Piotrowski | Niestety nie zakupiÅem jeszcze statywu do projektora ð | message_1.json |
-| 16:32:46 | Ewelina KapÅon | Co tam? Bo ja mam | message_1.json |
-| 16:32:51 | Angelika Chomicka | Ja teÅ¼ | message_1.json |
-| 16:40:00 | Katarzyna Morawska | Czy jest ktoÅ w biurze moÅ¼e? | message_1.json |
-| 16:25:40 | Strojek Ania | KtoÅ moÅ¼e korzysta | message_1.json |
-| 16:17:52 | Paulina Kasprzak | @Angelika napisaÅam Ci na pv | message_1.json |
-| 16:17:54 | Paulina Kasprzak | :3 | message_1.json |
-| 16:25:37 | Strojek Ania | hej mam pytanie do osÃ³b ktÃ³re korzystajÄ z stypendium rektora zajmÄ minutke | message_1.json |
-| 16:40:59 | Katarzyna Morawska | A to w biurze jest? | message_1.json |
-| 16:41:04 | Katarzyna Morawska | Okej to nie idÄ ð | message_1.json |
-| 16:41:04 | Ewelina KapÅon | Tak | message_1.json |
-| 16:40:47 | Marek Rapta | Za 20 min bÄdzie szkolenie w biurze ð | message_1.json |
-| 16:40:05 | Katarzyna Morawska | Albo bedxie za 20 minut ? | message_1.json |
-| 16:40:33 | Ewelina KapÅon | Jestem | message_1.json |
-| 16:40:37 | Ewelina KapÅon | ChodÅº | message_1.json |
-| 21:12:11 | MichaÅ Matczak | [Video: 1] | message_1.json |
-| 09:24:48 | Madzia Szczypka | Zabij | message_1.json |
-| 09:25:18 | Stasiu Przygoda | Naaaah | message_1.json |
-| 09:28:42 | Stasiu Przygoda | Aha jeszcze skowronek nagrywa coÅ dosÅownie na wejÅciu do matmy | message_1.json |
-| 09:24:38 | Stasiu Przygoda | JacyÅ ludzie sÄ pod nasza sala wiec muszÄ siÄ ewakuowaÄ | message_1.json |
-| 09:05:53 | Madzia Szczypka | Oczywiscie sie spoznie | message_1.json |
-| 09:22:54 | Stasiu Przygoda | Wyjebane ona tez siÄ spÃ³Åºnia | message_1.json |
-| 09:23:33 | Madzia Szczypka | ð | message_1.json |
-| 09:30:06 | Madzia Szczypka | Git | message_1.json |
-| 09:30:11 | Madzia Szczypka | Ja juz nie pamietam co gdzie mamy | message_1.json |
-| 13:29:19 | Stasiu Przygoda | ChodÅºmy na piwo | message_1.json |
-| 09:29:46 | Stasiu Przygoda | Ta | message_1.json |
-| 09:29:04 | Stasiu Przygoda | I jakieÅ przedszkole siÄ kurwa robi w tym up | message_1.json |
-| 09:29:20 | Madzia Szczypka | Jakby wczesniej nie byÅo | message_1.json |
-| 09:29:30 | Madzia Szczypka | A sala 214? | message_1.json |
-| 16:50:59 | Aleksandra Cholak | Z kim siÄ widzÄ na gali? | message_1.json |
-| 16:51:07 | Aleksandra Cholak | Mam nadziejÄ Å¼e ze wszystkimi :3 | message_1.json |
-| 16:56:07 | MaÅgorzata Drozdek | BÄdÄ | message_1.json |
-| 16:50:52 | Aleksandra Cholak | https://www.facebook.com/groups/250202975102795/permalink/5866248686831501/ | message_1.json |
-| 20:14:24 | Paulina Pietras | A czy ktoÅ moÅ¼e z okazji zdalnych planuje siÄ pozbyÄ na czerwiec jakiegoÅ pokoju/mieszkania dla... | message_1.json |
-| 20:15:56 | Paulina Pietras | Albo chociaÅ¼ dla jednej osoby ðð» | message_1.json |
-| 20:16:17 | Paulina Pietras | Bo ja mam out z akademika przez te jebane igrzyska i szukam czegoÅ na ten jeden miesiÄc | message_1.json |
-| 18:54:59 | UÅ¼ytkownik Facebooka | Powiem ci osobiÅcie bo aÅ¼ mi to przez klawiaturÄ nie przejdzie | message_1.json |
-| 18:55:10 | MaÅgorzata Drozdek | Oki | message_1.json |
-| 18:56:00 | MaÅgorzata Drozdek | Czekam z niecierpliwoÅciÄ | message_1.json |
-| 18:53:35 | MaÅgorzata Drozdek | A ktÃ³ra to taka xd? | message_1.json |
-| 17:05:00 | BarÅomiej Greiner | Ja teÅ¼ siÄÂ pojawiÄ | message_1.json |
-| 17:21:08 | MaÅgosia Pieczonka | bÄdÄ, ale chyba siÄ spÃ³ÅºniÄ, bo pisze wtedy zerÃ³wke i nwm ile mi zejdzie | message_1.json |
-| 18:51:26 | UÅ¼ytkownik Facebooka | A ja bÄdÄ, mam nadzieje ze jedna walniÄta baba siÄ opamiÄta z odrabianiem zajÄÄ i zdÄÅ¼Ä ð... | message_1.json |
-| 14:30:20 | Stasiu Przygoda | Jaka dzisiaj | message_1.json |
-| 14:30:34 | Radek Salwach | no dzisiaj | message_1.json |
-| 14:30:35 | Stasiu Przygoda | Nic nie byÅo dzisiaj | message_1.json |
-| 14:26:02 | Julita Bouffette | Agh | message_1.json |
-| 14:18:59 | Madzia Szczypka | Wiec to jutro | message_1.json |
-| 14:25:58 | Julita Bouffette | No to jutro | message_1.json |
-| 14:25:58 | Julita Bouffette | Ms | message_1.json |
-| 14:32:26 | Stasiu Przygoda | Jakby siÃ³str nie byÅo to spoko | message_1.json |
-| 14:44:19 | Radek Salwach | no niech juÅ¼ tak bÄdzie | message_1.json |
-| 20:44:13 | Madzia Szczypka | [Video: 1] | message_1.json |
-| 14:32:01 | Julita Bouffette | XD | message_1.json |
-| 14:30:40 | Radek Salwach | mÃ³wiÅeÅ wczoraj Å¼e coÅ ktos | message_1.json |
-| 14:30:46 | Stasiu Przygoda | CoÅ ktoÅ kiedyÅ | message_1.json |
-| 14:31:05 | Stasiu Przygoda | KtÃ³re z tych sÅÃ³w to dzisiaj | message_1.json |
-| 13:42:58 | Julita Bouffette | ChodÅºcie na miasteczko | message_1.json |
-| 13:43:14 | Julita Bouffette | Planujemy z @Radek | message_1.json |
-| 13:58:10 | Stasiu Przygoda | Kiedy wy to zdÄÅ¼yliÅcie zaplanowaÄ | message_1.json |
-| 13:32:21 | Stasiu Przygoda | Czy jak jej tam byÅo | message_1.json |
-| 13:30:37 | Madzia Szczypka | Jutro mozemy | message_1.json |
-| 13:32:13 | Stasiu Przygoda | Dobra | message_1.json |
-| 13:32:15 | Stasiu Przygoda | Po marzence | message_1.json |
-| 14:18:30 | Julita Bouffette | To widzimy siÄ za miesiÄc w czwartek | message_1.json |
-| 14:18:36 | Julita Bouffette | Czemu dzisss | message_1.json |
-| 14:18:57 | Madzia Szczypka | Eeee poÅowka czeka tez na mnie | message_1.json |
-| 14:18:02 | Radek Salwach | Stachu a Ty dalej zapraszasz na tÄ poÅÃ³wkÄ do siebie dzisiaj? | message_1.json |
-| 14:03:15 | Julita Bouffette | Jeszcze goÅÄb do ciebie leci Stasiu | message_1.json |
-| 14:11:51 | Stasiu Przygoda | A rozumiem bo mam taka zasadÄ ze do momentu aÅ¼ nie zobacze zaproszenia to nie wychodzÄ | message_1.json |
-| 14:11:55 | Stasiu Przygoda | Wiec poczekam na goÅÄbia | message_1.json |
-| 19:51:48 | Magda Motal | Tam sÄ do wstawienia rzeczy typu strona ksiÄÅ¼ki ð | message_1.json |
-| 19:53:21 | Joanna Pietrzyk | ona niech wrÃ³ci do tematu uwaga, a my wrÃ³Ämy do tematu zmiany prowadzÄcego ð¤£ | message_1.json |
-| 19:56:59 | Magda Motal | Z jednej strony pociesza mnie to Å¼e ona ma tak chujowe podejÅcie, bo nie bÄdzie mogÅa od nas duÅ... | message_1.json |
-| 19:51:37 | Magda Motal | [Photo: 1] | message_1.json |
-| 19:49:40 | Magda Motal | [Photo: 1] | message_1.json |
-| 19:49:43 | Magda Motal | Wracamy do tematu uwaga?? | message_1.json |
-| 19:50:35 | Magda Motal | Nie wytrzymam z tÄ kobietÄ | message_1.json |
-| 21:08:31 | Magda Motal | Prawdopodobnie tak | message_1.json |
-| 21:09:10 | Magda Motal | Czy ta tabela to sÄ te "indywidualne zadania" | message_1.json |
-| 21:09:14 | PaweÅ Rodak | Zrobi uwagÄ 2 raz a tu jeszcze pewnie z 10 innych tematÃ³w do omÃ³wienia a potem Ganczarek, Å¼e to ... | message_1.json |
-| 21:04:44 | PaweÅ Rodak | Czy jej chodzi o wejÅciÃ³wkÄ? | message_1.json |
-| 19:57:35 | Magda Motal | WiÄc jest lekki bÃ³l dupy Å¼e ona nie umie uczyÄ | message_1.json |
-| 19:58:46 | Joanna Pietrzyk | nic dodaÄ, nic ujÄÄ | message_1.json |
-| 21:04:34 | PaweÅ Rodak | Jakie kolokwium na nastÄpnych zajÄciach? | message_1.json |
-| 16:30:04 | Maciek Radecki | [No text content] | message_1.json |
-| 16:31:47 | Maciek Radecki | Niestety potÄÅ¼ne opÅaty | message_1.json |
-| 16:31:55 | Maciek Radecki | Najmniej z 880 zÅ (sic!) | message_1.json |
-| 16:29:47 | Maciek Radecki | https://facebook.com/events/s/vi-edycja-letniej-szko%C5%82y-psych/764927271841760/ | message_1.json |
-| 21:26:36 | Damian Piotr Cokot | U Maji na kwadracie | message_1.json |
-| 21:27:24 | Radek Salwach | To jest ktoÅ kogo znam jak gra w gierki w komputer ð¤ | message_1.json |
-| 14:12:50 | Krzysztof Antoni AmbroÅ¼y Czekaj | 22.04, TA sobota, 18:00  PsychoSynteza Impreza Integracyjna (psychologie z co najmniej 5 uczelni i 3... | message_1.json |
-| 14:59:22 | Anna PÅatek | Who knows | message_1.json |
-| 19:29:06 | Magda Motal | Ciekawe czy przynajmniej te zadania bÄdzie weryfikowaÄ | message_1.json |
-| 19:42:11 | Ewelina Sala | UtworzyÅa jakieÅ zadanie do wykonania na teamsie | message_1.json |
-| 14:57:23 | Nadia Materek | Co ona ma ze sÅowem zajawka | message_1.json |
-| 14:43:25 | Natasza Rodziewicz | [Photo: 1] | message_1.json |
-| 14:46:26 | Anna PÅatek | Czyli musimy jej chyba wysÅaÄ listÄ kto na ktÃ³ra grupÄ idzie od nas? | message_1.json |
-| 14:47:08 | Wiktoria MiÅaszewska | Chyba tak | message_1.json |
-| 11:17:11 | Sebastian Kutaj | kamil Ålimak | message_1.json |
-| 11:20:13 | Radek Salwach | WszedÅem do jakiegoÅ pÃ³Å sekretariatu | message_1.json |
-| 11:20:15 | Radek Salwach | DziÄki za info | message_1.json |
-| 11:17:05 | Sebastian Kutaj | 121 | message_1.json |
-| 11:12:03 | Radek Salwach | DziÄki | message_1.json |
-| 11:16:07 | Emilka Kowalczyk | 121 | message_1.json |
-| 11:17:03 | Sebastian Kutaj | od tyÅu napisaÅaÅ | message_1.json |
-| 19:21:50 | Emilka Kowalczyk | chyba | message_1.json |
-| 19:22:02 | Damian Piotr Cokot | Å»al pl | message_1.json |
-| 19:33:02 | Wiktoria KÅymiÅska | PÃ³Åºno | message_1.json |
-| 19:21:50 | Daria Berkowicz | 29 z tego co kojarzÄ | message_1.json |
-| 19:21:32 | Damian Piotr Cokot | Od kiedy sÄ zdalne pamiÄta ktoÅ moÅ¼e? | message_1.json |
-| 19:21:35 | Damian Piotr Cokot | ð¥º | message_1.json |
-| 19:21:48 | Emilka Kowalczyk | 29.05 | message_1.json |
-| 21:10:04 | PaweÅ Rodak | A jaki jest zakres kolosa z emocji i motywacji? | message_1.json |
-| 21:10:07 | PaweÅ Rodak | Tak off top poznawczej | message_1.json |
-| 21:10:46 | Magda Motal | Ja w ogÃ³le nie sÅyszaÅam jak mÃ³wiÅa o tym Å¼e jest kolos wiÄc trochÄ siÄ zdziwiÅam jak tu o... | message_1.json |
-| 21:09:57 | Magda Motal | PÅakaÄ siÄ chce z bezradnoÅci | message_1.json |
-| 21:09:14 | Magda Motal | Czy jej o coÅ innego chodzi | message_1.json |
-| 21:09:18 | Anna PÅatek | Chyba, ze mamy jakieÅ kolokwium tylko zapomniaÅa nam powiedzieÄ xD | message_1.json |
-| 21:09:25 | PaweÅ Rodak | No nic, moÅ¼e bÄdziemy mieÄ szczÄÅcie do kogoÅ innego | message_1.json |
-| 11:11:36 | Radek Salwach | Siema w jakiej sali Router | message_1.json |
-| 11:11:40 | Radek Salwach | Ma grupa z 13:15 | message_1.json |
-| 11:11:59 | Kasia Bulzacka | 102 | message_1.json |
-| 21:19:53 | Ewelina Sala | PodaÅa sylabus na teams w ktÃ³rejÅ zakÅadce (w pdf jest chyba) i tam jest wszystko rozpisane jaki... | message_1.json |
-| 21:11:41 | PaweÅ Rodak | No mi Ania mÃ³wiÅa ale nie dotarÅem do mitycznego zakresu materiaÅu wiÄc pytam Å¼eby nie zakuwaÄ... | message_1.json |
-| 21:12:10 | PaweÅ Rodak | Ja kojarzÄ Å¼e mieliÅmy pisaÄ z poszczegÃ³lnych rozdziaÅÃ³w literatury ale w bliÅ¼ej niesprecyzo... | message_1.json |
-| 21:16:30 | Anna PÅatek | Na emocje mamy zakres z Losiaka rozdziaÅy 1,4,6 | message_1.json |

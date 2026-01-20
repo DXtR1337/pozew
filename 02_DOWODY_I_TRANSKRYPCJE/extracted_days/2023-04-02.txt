@@ -1,239 +1,0 @@
-﻿# WIADOMOSCI Z DNIA: 2023-04-02
-# Liczba: 234
-
-| Godz | Nadawca | Tresc | Watek |
-|:-----|:--------|:------|:------|
-| 13:41:34 | MaÅgorzata Gajewska | I jak? | message_1.json |
-| 13:41:55 | Marika Korpikiewicz | nadal nic | message_1.json |
-| 13:50:03 | Joanna JabÅoÅska | Joanna JabÅoÅska opuÅciÅ(a) grupÄ. | message_1.json |
-| 13:25:05 | Martyna Gancarczyk | mose nie bedziecie miec hak zobaczyka nasze puste kartki | message_1.json |
-| 13:24:50 | Adrianna Koza | xdddd | message_1.json |
-| 13:24:53 | Adrianna Koza | good | message_1.json |
-| 13:24:54 | Kamil Kusibab | Mam nadziejÄ, Å¼e siÄ jej zapomniaÅo | message_1.json |
-| 14:43:23 | Joanna Krk | Albo moÅ¼e jeÅli ktoÅ jeszcze ma z niÄ dziÅ zajÄcia pogada z niÄ o tym 16 i 30 kwietnia, czy b... | message_1.json |
-| 14:43:51 | Magdalena Kubowicz | jak jest fankÄ to wszystkie dawajcie do koÅca roku zdalnie | message_1.json |
-| 14:44:42 | Joanna Krk | MoÅ¼e ktoÅ ja o to zapytaÄ? Czy by zezwoliÅa na zdalne?ð | message_1.json |
-| 14:42:05 | Joanna Krk | WidzÄ ze podobnie u nas w grupie jest 16 kwietnia ze mamy zajÄcia tylko z niÄ, powiedziaÅa ze je... | message_1.json |
-| 14:34:34 | Kamil Kusibab | Nie zrobiÅa XD | message_1.json |
-| 14:39:35 | Joanna Krk | Heja, RozmawiaÅam z babeczka od poznawczej, zgodziÅa siÄ Å¼ebyÅmy w niedziele 30 marca mieli zaj... | message_1.json |
-| 14:39:58 | Joanna Krk | *Kwietnia | message_1.json |
-| 13:24:48 | Kamil Kusibab | Aha XD dobrze wiedzieÄ | message_1.json |
-| 13:15:27 | Marika Korpikiewicz | do tych tabelek | message_1.json |
-| 13:15:54 | Jowita Rozum | Jakich tabelek | message_1.json |
-| 13:17:51 | Marika Korpikiewicz | na cwiczeniach robimy tabele z funkcjami uwagi | message_1.json |
-| 13:15:20 | Marika Korpikiewicz | rozdziela nas na grupy | message_1.json |
-| 13:13:58 | Marika Korpikiewicz | k2 | message_1.json |
-| 13:14:43 | Joanna Pietrzyk | i jak siÄ macie? daÅa Wam te same pytania? | message_1.json |
-| 13:15:15 | Marika Korpikiewicz | poki co nic nam nie dala | message_1.json |
-| 13:23:34 | Kamil Kusibab | Czy poprzedniej grupie zrobiÅa wejÅciÃ³wkÄ na poczÄtku zajÄÄ? | message_1.json |
-| 13:24:28 | MaÅgorzata Gajewska | Tak | message_1.json |
-| 13:24:33 | MaÅgorzata Gajewska | Odrazu po wejÅciu | message_1.json |
-| 13:18:25 | Marika Korpikiewicz | nie z pamieci | message_1.json |
-| 13:17:56 | Marika Korpikiewicz | nw czy do rze opisalam | message_1.json |
-| 13:18:14 | Marika Korpikiewicz | ale dzieki sie po 2 osoby i no np 2 grupki zajmuja sie opisem podzielnosci uwagi | message_1.json |
-| 13:18:22 | Marika Korpikiewicz | na podstawie ksiazki | message_1.json |
-| 07:56:01 | Ewelina KapÅon | O to jest klucz do sukcesu | message_1.json |
-| 07:56:32 | Katarzyna Morawska | Nie No serio, jak ktoÅ nie chce wydawaÄ masy hajsu na korki to robiÄ przez godzinÄ pare zadaÅ a... | message_1.json |
-| 07:58:12 | Ewelina KapÅon | Ja polecam stronkÄ szalone liczby | message_1.json |
-| 07:55:35 | Katarzyna Morawska | SÅuchajcie ja mam jeden niezawodny sposÃ³b i robiÄ go z moimi uczniami na korkach. Powtarzanie mat... | message_1.json |
-| 17:02:12 | Weronika Kucharska | Podobno w innym instytucie jak niestacjonarni zapytali swojego dyrektora o sesjÄ zdalnÄ to powiedz... | message_1.json |
-| 07:53:25 | Klaudia KozioÅ | Hejka, ma ktoÅ z was kogoÅ fajnego do polecenia kto udziela korkÃ³w z matmy do matury? moÅ¼e byÄ ... | message_1.json |
-| 07:54:33 | Ewelina KapÅon | Ja osobiÅcie polecam matemaksa wykupiÄ i te filmiki przerabiaÄ | message_1.json |
-| 16:45:13 | BarÅomiej Greiner | Mam jednego geniusza co dobrze tÅumaczy, studiowaÅ matmÄ na UW, mogÄ do niego zagadaÄ | message_1.json |
-| 16:56:58 | Sylwia Klocek | Ja udzielam, akurat mam kilku maturzystÃ³w i gÅÃ³wnie arkusze robimy juÅ¼, ale podstawa i online | message_1.json |
-| 21:08:04 | Vero CiaÅowicz | https://www.facebook.com/szkolapikwadrat  Tu natomiast uczy mÃ³j nauczyciel z liceum, ktÃ³ry nauczyÅ... | message_1.json |
-| 16:40:56 | Magda CieÅ¼ | Ja mam koleÅ¼ankÄ, ktÃ³ra daje korki z matmy, moÅ¼e by jeszcze miaÅa wolne terminy   Jej profil na... | message_1.json |
-| 07:58:25 | Paulina Kasprzak | Ja dziÄki temu zdaÅam matmÄ na 84% a na prÃ³bnych miaÅam po 40 lub 50 ðð | message_1.json |
-| 07:59:14 | Ewelina KapÅon | Tam sÄ wszystkie matury wÅaÅnie z matmy i odpowiedzi i wyjaÅnienie do kaÅ¼dego zadania, Å¼e jak ... | message_1.json |
-| 12:09:55 | Klaudia KozioÅ | dyrektorka ode mnie z pracy szuka kogoÅ dla cÃ³rki, bo jej teraz jakaÅ dziewczyna zrezygnowaÅa, a... | message_1.json |
-| 14:57:26 | Martyna Gancarczyk | Logike | message_1.json |
-| 14:47:01 | Edyta Lemiech | [No text content] | message_1.json |
-| 14:47:06 | Oliwia WÅodarczyk | to l6 ma tego 30 kwietnia statystykÄ, a pÃ³Åºniej po niej poznawcza | message_1.json |
-| 14:47:11 | Magda Motal | ZnajdowaÅ ktoÅ myszkÄ? XDD | message_1.json |
-| 14:46:50 | Magda Motal | Jaka grupa miaÅa dziÅ statystykÄ prÃ³cz gl4 | message_1.json |
-| 14:44:55 | Nadia Materek | GK03 ma 16 logikÄ, wiÄc nie wiem czy jest sens robienia zdalnych | message_1.json |
-| 14:44:57 | Dorota Szczerba | A to byÅo jakoÅ wczeÅniej ustalone? | message_1.json |
-| 14:45:18 | Dorota Szczerba | Bo my na mamy teraz statystykÄ i do poznawczej bÄdziemy mieÄ 15 min przerwy | message_1.json |
-| 14:47:55 | Magda Motal | XDDDD | message_1.json |
-| 14:48:17 | Magda Motal | Gdzie bym mogÅa jÄ odebraÄ | message_1.json |
-| 14:57:24 | Martyna Gancarczyk | 16 kwietnia jest lektorat tez + moja grupa ma logioe | message_1.json |
-| 14:47:54 | Magda Motal | TAK | message_1.json |
-| 14:47:16 | Oliwia WÅodarczyk | i w igole mamy pare takich zjazdÃ³w | message_1.json |
-| 14:47:40 | Dorota Szczerba | [Photo: 1] | message_1.json |
-| 14:47:50 | Dorota Szczerba | Taka? | message_1.json |
-| 13:11:40 | Joanna Pietrzyk | Czy ktoÅ ma teraz poznawczÄ? | message_1.json |
-| 11:30:18 | Martyna Gancarczyk | Tyle tylko | message_1.json |
-| 11:30:40 | Wiktoria MiÅaszewska | [Photo: 1] | message_1.json |
-| 11:31:08 | Klaudia SzymaÅska | [Photo: 1] | message_1.json |
-| 11:30:11 | Edyta Lemiech | co tam jest o tym | message_1.json |
-| 11:27:28 | Ewelina Haraf | Pomozecie? | message_1.json |
-| 11:30:06 | Martyna Gancarczyk | I wymien odruchy oczne | message_1.json |
-| 11:30:11 | Martyna Gancarczyk | Help XD | message_1.json |
-| 11:33:18 | Karol Dziuba | Tak | message_1.json |
-| 11:33:20 | MaÅgorzata Gajewska | ZapomniaÅam laptopa | message_1.json |
-| 11:33:25 | MaÅgorzata Gajewska | *zapomniala | message_1.json |
-| 11:33:06 | Jowita Rozum | MÃ³wiÅa coÅ dlaczego tak? Za dobrze nam poszÅo ostatnio? xd | message_1.json |
-| 11:31:15 | Wiktoria MiÅaszewska | Odruch aptokinetyczny | message_1.json |
-| 11:32:25 | Ewelina Haraf | Juz poð | message_1.json |
-| 11:32:46 | Anna PÅatek | To sÄ 3 pytania otwarte ð³ | message_1.json |
-| 11:26:10 | Ewelina Haraf | 5 funkcji uwagi | message_1.json |
-| 09:11:31 | Nadia Materek | no ja wÅaÅnie dziÅ wykonaÅam skok na glÄbokÄ wodÄ i teraz nie wiem, czy on coÅ wspominaÅ, i... | message_1.json |
-| 09:12:33 | Ewa Kempny | Ja wczoraj pytaÅam o jednÄ i powiedziaÅ mi Å¼e kaÅ¼da nieobecnoÅÄ trzeba u niego odpracowaÄ. N... | message_1.json |
-| 09:13:05 | Nadia Materek | cholibeczka, dziÄkujÄ za odpowiedÅº! | message_1.json |
-| 09:09:46 | Oliwia Julia Serafin | KusiÅo mnie, Å¼eby sprawdziÄ to w praktyce ð | message_1.json |
-| 05:38:06 | Ewa Kempny | Hej, w ktÃ³rej sali jest dzisiaj o 8.00 ststystyka? | message_1.json |
-| 05:38:42 | Magda Motal | 518 | message_1.json |
-| 09:07:13 | Nadia Materek | kochani, wiecie ile moÅ¼na mieÄ nieobecnoÅci na statystyce z Prajznerem? | message_1.json |
-| 11:25:18 | Martyna Gancarczyk | podobno na kartkach ale jeszcze nie weszlam do klasy | message_1.json |
-| 11:25:21 | Martyna Gancarczyk | I nie wiem czy wchodzic XD | message_1.json |
-| 11:25:42 | Ewelina Haraf | Ruchy kadrujaxe oka | message_1.json |
-| 09:14:24 | Edyta Lemiech | wysyÅajcie | message_1.json |
-| 09:14:01 | Kamil Kusibab | Kochani, ktÃ³rzy majÄ dzisiaj poznawczÄ przed 16.30, Å¼yczÄ Wam powodzenia na wejÅciÃ³wce i dajc... | message_1.json |
-| 09:14:10 | Kamil Kusibab | I CO byÅo | message_1.json |
-| 09:14:15 | Martyna Gancarczyk | wyÅlemy ss to bÄdziecie pomagaÄ heh | message_1.json |
-| 11:40:25 | Martyna Gancarczyk | OgÃ³lnie doÅÄ patrzyla sie w swoj telefon | message_1.json |
-| 11:42:24 | Adrianna Koza | o prosze | message_1.json |
-| 11:42:25 | Adrianna Koza | xd | message_1.json |
-| 11:38:15 | Joanna Joanna | W poszukiwaniu bodÅºcÃ³w okreÅlonego typu | message_1.json |
-| 11:37:55 | Joanna Joanna | Nie wiem, moze koncentracja uwagi | message_1.json |
-| 11:37:58 | Martyna Gancarczyk | No ja ciagle sciagam | message_1.json |
-| 11:37:59 | Martyna Gancarczyk | XDD | message_1.json |
-| 11:52:51 | Jasiek Wikar | Sorki jakiÅ lag mi siÄ zrobiÄ xdd | message_1.json |
-| 12:48:31 | Ewelina Haraf | Kolejna grupa ma poznawcza w sali 316 | message_1.json |
-| 12:48:41 | Ewelina Haraf | I zawsze jux tak bedzie | message_1.json |
-| 11:52:18 | Jasiek Wikar | ð¤ | message_1.json |
-| 11:42:33 | Adrianna Koza | ej to tez czuwajcie bo nam pewnie da cos innego | message_1.json |
-| 11:42:35 | Jasiek Wikar | ð¤ | message_1.json |
-| 11:52:12 | Jasiek Wikar | ð¤ | message_1.json |
-| 11:37:52 | Magda Motal | A daÅo siÄ ÅciÄgaÄ czy raczej nie | message_1.json |
-| 11:35:34 | Martyna Gancarczyk | Jeszcze cos? | message_1.json |
-| 11:35:53 | Joanna Joanna | PodzielnoÅÄ uwagi - zdolnoÅÄ do koncentracji uwagi na kilku ÅºrÃ³dÅach informacji lub jednoczes... | message_1.json |
-| 11:36:06 | Joanna Joanna | Przerzutnosc uwagi, | message_1.json |
-| 11:34:16 | Joanna Joanna | Zapobieganie negatywnym skutkom przeladowania systemu poznawczego przez nadmiar danych | message_1.json |
-| 11:33:26 | Ewelina Haraf | Zapomniala laptopa bo sie zle czuje | message_1.json |
-| 11:33:33 | Ewelina Haraf | I pogoda nie sprzyja ;) | message_1.json |
-| 11:33:51 | Joanna Joanna | Selekcja, | message_1.json |
-| 11:37:27 | Sylwia HoÅda | DyktowaÅa | message_1.json |
-| 11:37:38 | Magda Motal | To jest moÅ¼liwoÅÄ Å¼e dostaniemy coÅ innego | message_1.json |
-| 11:37:38 | Nadia Materek | O cholibka | message_1.json |
-| 11:37:20 | Magda Motal | A ona to dyktowaÅa czy miaÅa na kartkach przygotowane | message_1.json |
-| 11:36:18 | Joanna Joanna | To zdolnosc uwagi do przelaczania sie miedzy dwoma zadaniami | message_1.json |
-| 11:36:33 | Joanna Joanna | ObsÅugiwanymi przez rÃ³Å¼ne procesy przetwarzania informacji | message_1.json |
-| 11:36:38 | Martyna Gancarczyk | I Ostatnie? | message_1.json |
-| 21:58:48 | MichaÅ Wiencek | Kurde nawet mi priorytey sredni dali xd | message_1.json |
-| 22:00:34 | Radek Salwach | Ti nie taj Åºle | message_1.json |
-| 22:00:48 | Radek Salwach | Ja na Narutowicza mam tylko z sorem historie | message_1.json |
-| 21:58:05 | MichaÅ Wiencek | I zyc | message_1.json |
-| 21:57:52 | MichaÅ Wiencek | Juz mnie badaja | message_1.json |
-| 21:58:00 | MichaÅ Wiencek | Tak mnie brzuch nakurwia | message_1.json |
-| 21:58:02 | MichaÅ Wiencek | Ze chodzic nie moge | message_1.json |
-| 22:05:02 | Radek Salwach | Jedna jak byÅem z MartÄ i MatÄ i jedna hak sam | message_1.json |
-| 22:05:49 | Radek Salwach | Marcie pÄkÅ Kufel w rÄce i jechaliÅmy Å¼eby szwy jej naÅoÅ¼yli i bylo szybko i dobrze i miÅo | message_1.json |
-| 22:05:55 | MichaÅ Wiencek | Dawaj obie | message_1.json |
-| 22:04:30 | Radek Salwach | Mam 2 historie | message_1.json |
-| 22:04:05 | MichaÅ Wiencek | Mozesz opowiedziec his5orie z narutowicza | message_1.json |
-| 22:04:05 | MichaÅ Wiencek | Chetnie poslucham | message_1.json |
-| 22:04:20 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
-| 21:57:49 | Radek Salwach | A co Ci jest | message_1.json |
-| 16:28:34 | Radek Salwach | Å»e to chuj | message_1.json |
-| 20:45:34 | Stasiu Przygoda | MoÅ¼na umieraÄ | message_1.json |
-| 20:45:37 | Stasiu Przygoda | Julka nie wrÃ³ciÅa | message_1.json |
-| 16:28:32 | Radek Salwach | Pkp jest tak disgusting | message_1.json |
-| 16:22:44 | Stasiu Przygoda | Ale myÅlaÅem ze radek juÅ¼ pojechaÅ a tu nagle go glaszczesz | message_1.json |
-| 16:23:20 | Radek Salwach | JadÄ wÅaÅnie | message_1.json |
-| 16:23:56 | Radek Salwach | Taki Åcisk Å¼e musiaÅem szukaÄ miejsca stojÄcego bo pozajmowane nawet stojÄce | message_1.json |
-| 21:57:25 | MichaÅ Wiencek | W Bielsku | message_1.json |
-| 21:57:28 | Radek Salwach | Aa | message_1.json |
-| 21:57:45 | Radek Salwach | Szykuje siÄ chujowa noc | message_1.json |
-| 21:57:17 | Radek Salwach | Narutowicza? | message_1.json |
-| 21:57:01 | MichaÅ Wiencek | Sor pozdrawua | message_1.json |
-| 21:57:02 | MichaÅ Wiencek | ðððððð | message_1.json |
-| 21:57:03 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
-| 22:36:37 | MichaÅ Wiencek | CiÄÅ¼ko o atrakcje | message_1.json |
-| 22:36:51 | MichaÅ Wiencek | Dobre leki przeciwbolowe dostalem | message_1.json |
-| 22:36:51 | MichaÅ Wiencek | Ze jeszcze bardziej mnie napierdala | message_1.json |
-| 22:36:37 | MichaÅ Wiencek | No na korytarzu w szpitalu | message_1.json |
-| 22:35:24 | Radek Salwach | Ja myÅlaÅem Å¼e Bielsko to wÅaÅnie takie miasto Å¼e jak Ciebie nie ma to burmistrz zamyka wszyst... | message_1.json |
-| 22:36:37 | MichaÅ Wiencek | SÅucham jak sie wyzyea | message_1.json |
-| 22:36:37 | MichaÅ Wiencek | Z pigulami xd | message_1.json |
-| 11:38:22 | Krzysztof Siwek | czyli mamy w tym tygodniu? | message_1.json |
-| 11:38:23 | Krzysztof Siwek | bruh | message_1.json |
-| 11:44:23 | Oliwia Sobalska | Nie wiem juÅ¼ serio xd | message_1.json |
-| 11:38:13 | Krzysztof Siwek | ej bo w WU pokazuje we wtorek WPN xd | message_1.json |
-| 22:36:51 | MichaÅ Wiencek | Xd | message_1.json |
-| 22:36:51 | MichaÅ Wiencek | Moze tak byc | message_1.json |
-| 22:36:51 | MichaÅ Wiencek | Nie wiem co sie dzieje jak mnje nie ma | message_1.json |
-| 22:34:52 | Radek Salwach | A co w Bielsku 0 atrakcji? | message_1.json |
-| 22:13:48 | MichaÅ Wiencek | Przejebabe xd | message_1.json |
-| 22:13:49 | MichaÅ Wiencek | Mnie juz pod kroplowke podlaczyli | message_1.json |
-| 22:13:49 | MichaÅ Wiencek | Kurwa tu jakis gosc na sorz3 | message_1.json |
-| 22:13:48 | MichaÅ Wiencek | Kurwa 10h | message_1.json |
-| 22:06:29 | Radek Salwach | Druga to jak miaÅem ropniaka okoÅomigdaÅkowego i byÅem sam, tuÅ¼ po znanym nam kinie WiÄcuÄ | message_1.json |
-| 22:07:17 | Radek Salwach | I wtedy byÅem raz z jakieÅ 8-10h i popierdolilem i pojechaÅem do domu, najgorsze 2 dni mojego Å¼y... | message_1.json |
-| 22:07:37 | Radek Salwach | A za drugim razem tak z 3h czekaÅem jakoÅ | message_1.json |
-| 22:31:40 | Radek Salwach | Ja pierdole jaki zawodnik | message_1.json |
-| 22:31:54 | Radek Salwach | Dobrze ze na wytrzeÅºwiaÅkÄ go nie wziÄli | message_1.json |
-| 22:33:11 | MichaÅ Wiencek | Wez chociaz mam cor obic | message_1.json |
-| 22:13:50 | MichaÅ Wiencek | XDDDD | message_1.json |
-| 22:13:49 | MichaÅ Wiencek | Z 5 promilami | message_1.json |
-| 22:13:50 | MichaÅ Wiencek | Lezy | message_1.json |
-| 22:13:50 | MichaÅ Wiencek | I ÅÃ³Å¼ko zaszczal | message_1.json |
-| 16:22:15 | Stasiu Przygoda | Ale Åadna | message_1.json |
-| 16:21:12 | Ula PrzewiÄda | Ja XD | message_1.json |
-| 16:21:45 | Ula PrzewiÄda | ZostawiÅaÅ w sali czy masz ze sobÄ | message_1.json |
-| 16:22:05 | Julia Nowak | Ja mam | message_1.json |
-| 16:21:00 | Nadia Materek | Nie zostawiÅ ktoÅ? | message_1.json |
-| 17:11:55 | Oliwia WÅodarczyk | Oliwia ustawiÅa nick uÅ¼ytkownika Dorota Szczerba jako dorota diler. | message_1.json |
-| 17:12:33 | Dorota Szczerba | Polecam siÄ na przyszÅoÅÄ XD | message_1.json |
-| 16:20:57 | Nadia Materek | [Photo: 1] | message_1.json |
-| 14:42:15 | Anja Bulanda | PrzeÅlÄ ci zaraz | message_1.json |
-| 14:42:25 | Wiktoria KÅymiÅska | i ta druga | message_1.json |
-| 14:42:45 | Wiktoria KÅymiÅska | tÄ mam | message_1.json |
-| 14:41:58 | Anja Bulanda | Ta ksiÄÅ¼kÄ Åosiaka? | message_1.json |
-| 16:22:06 | Julia Nowak | Jestem na dole | message_1.json |
-| 16:22:16 | Ula PrzewiÄda | Gdzie | message_1.json |
-| 14:41:18 | Wiktoria KÅymiÅska | ma ktoÅ pdf na mono emocji? | message_1.json |
-| 17:11:16 | Martyna SzyrszeÅ | bÅagam | message_1.json |
-| 16:18:13 | Dorota Szczerba | Na grupie pisali, Å¼e 316 | message_1.json |
-| 16:18:44 | Klaudia SzymaÅska | oki | message_1.json |
-| 16:39:34 | Monika WiÅniewska | To jesteÅcie za tym Å¼eby zapytaÄ? | message_1.json |
-| 16:16:39 | Klaudia SzymaÅska | mamy w 443a? | message_1.json |
-| 18:41:23 | Alicja Kurowska | Hejo, jutro o 18:00 siÄ szykuje wernisaÅ¼ prac neurorÃ³Å¼norodnych artystÃ³w na Pedagogicznym, bÄd... | message_1.json |
-| 18:41:34 | Alicja Kurowska | [Photo: 1] | message_1.json |
-| 13:00:13 | Martyna SzyrszeÅ | [No text content] | message_1.json |
-| 16:51:23 | Dorota Szczerba | Biedna ona, zgubi siÄ | message_1.json |
-| 17:09:11 | Martyna SzyrszeÅ | ma ktoÅ moÅ¼e coÅ na gardÅo? | message_1.json |
-| 17:11:07 | Dorota Szczerba | Ja | message_1.json |
-| 16:51:16 | Dorota Szczerba | Jeju, Å¼e nikt nie byl tak mÄdry i nie wymyÅliÅ funkcji notesu/notatki czy czegoÅ | message_1.json |
-| 16:39:39 | Monika WiÅniewska | O ten 16 | message_1.json |
-| 16:50:37 | Dorota Szczerba | No tak, bo nie da siÄ zapisaÄ w kalendarzu z kim ma w jakiej formie XD | message_1.json |
-| 16:50:49 | Dorota Szczerba | Faktycznie problem | message_1.json |
-| 07:31:15 | Stasiu Przygoda | SÄ szanse | message_1.json |
-| 07:31:17 | Stasiu Przygoda | ChodÅº | message_1.json |
-| 07:31:29 | Madzia Szczypka | No nie chcee | message_1.json |
-| 07:16:24 | Madzia Szczypka | Nie ma szans | message_1.json |
-| 07:15:03 | Madzia Szczypka | Ja odpadka | message_1.json |
-| 07:15:07 | Madzia Szczypka | Nie chce mi sie na mecz | message_1.json |
-| 07:15:18 | Julita Bouffette | Dawaj Madzia | message_1.json |
-| 15:11:42 | MichaÅ Wiencek | ð¤¡ð« | message_1.json |
-| 16:02:34 | MichaÅ Wiencek | [Photo: 1] | message_1.json |
-| 16:02:38 | MichaÅ Wiencek | Pusia was pozdrawia | message_1.json |
-| 12:34:24 | Stasiu Przygoda | Jeszcze ulica idÄ niech ich coÅ kurwa przejedzie | message_1.json |
-| 07:33:35 | Stasiu Przygoda | Oj madziulka | message_1.json |
-| 12:32:42 | Stasiu Przygoda | O pielgrzymka na alejach | message_1.json |
-| 12:33:02 | Stasiu Przygoda | MoÅ¼e dlatego nie da siÄ jechaÄ autobusem bo siÄ kurwa ruszajÄ najwolniej jak siÄ da | message_1.json |
-| 07:14:47 | Stasiu Przygoda | MyÅle ze tak | message_1.json |
-| 11:02:49 | Adam Fober | [Photo: 1] | message_1.json |
-| 11:02:50 | Adam Fober | jasny chuj | message_1.json |
-| 12:11:38 | Konrad Izdebski | PiÄtek wolny | message_1.json |
-| 15:17:08 | Patrycja Su | https://drive.google.com/drive/mobile/folders/1mRS2EpTK_42e9sk1ZFCg-EAwq7TcPe5K/1Fma4VLXyybL4YjusSot... | message_1.json |
-| 15:07:57 | Zuza ZiÄba | Tej drugiej nie ma w pdfie | message_1.json |
-| 15:08:01 | Zuza ZiÄba | Musisz wypoÅ¼yczyÄ | message_1.json |
-| 15:13:40 | Sebastian Kutaj | sarosiek moÅ¼e zdalnie zrobiÄ ten wykÅad we wtorek? | message_1.json |
-| 15:43:31 | Dorota Szczerba | [File: 1] | message_1.json |
-| 16:13:41 | Dorota Szczerba | [File: 1] | message_1.json |
-| 07:08:30 | Julita Bouffette | Dobra to dziÅ widzimy @Radek Salwach @Stasiu Przygoda @Madzia Szczypka ? | message_1.json |
-| 15:43:30 | Dorota Szczerba | [File: 1] | message_1.json |
-| 20:24:37 | Mateusz Wichary | ð | message_1.json |
-| 22:44:04 | PaweÅ ZajÄc | Jezu Chryste | message_1.json |
-| 22:44:07 | PaweÅ ZajÄc | KUBI | message_1.json |
